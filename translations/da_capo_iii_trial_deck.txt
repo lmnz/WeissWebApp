@@ -1,0 +1,299 @@
+Da Capo III Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Charles, Welcome to Christmas Party!
+クリパへようこそ！ シャルル
+Card No.: DC3/W18-101  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Please celebrate Christmas at home too!
+TEXT: [A] When Damage dealt by this is cancelled, you may put this in Stock.
+
+================================================================================
+
+Aoi, Substance Over Style
+花より団子 葵
+Card No.: DC3/W18-102  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: None
+Flavor: Working feels good. I can feel that I'm helping someone
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [Rest 2 of your ::Newspaper:: Characters] Choose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Ricca, Girl in Love
+恋する乙女 立夏
+Card No.: DC3/W18-103  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: -- An angel has come down from the sky
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] When this attacks, reveal the top card of your Library. If it's a
+::Newspaper:: Character, this gains +2000 Power for the turn. (Put the revealed
+card back where it was)
+
+================================================================================
+
+Sara in Ski Wear
+スキーウェアのさら
+Card No.: DC3/W18-104  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I, I didn't fall! I just wanted to rest a little
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Himeno in Yukata
+浴衣の姫乃
+Card No.: DC3/W18-105  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: What, that's why I said nii-san can't read the atmosphere
+TEXT: -- None --
+
+================================================================================
+
+Himeno, Bad-Tempered
+ツンツン 姫乃
+Card No.: DC3/W18-T01  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: None
+Triggers: None
+Flavor: Nothing. Nii-san's an idiot
+TEXT: [C] If you have 5 or more cards in hand, this gains +1000 Power.
+[C] If you have 4 or fewer cards in hand, all your other ::Newspaper::
+Characters gain +500 Power.
+
+================================================================================
+
+Ricca, Surprisingly Childlike
+意外とお子様 立夏
+Card No.: DC3/W18-T02  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Yes! It's a grudge! I want to make a newspaper in order to stall
+Suginami!
+TEXT: [A] When this attacks, if "Normal Newspaper Club" is in the Climax Zone,
+put the top 3 cards of your Library in the Waiting Room. If the cards put in
+the Waiting Room in this way are all ::Newspaper:: Characters, choose a
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Charles, Light Pranks
+ふんわりいたずら シャルル
+Card No.: DC3/W18-T03  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Not, not everyday! Just a little!
+TEXT: [C] If you have 2 or more other ::Newspaper:: Characters, this gains
++1000 Power.
+
+================================================================================
+
+Charles, Morning Accident
+朝のハプニング シャルル
+Card No.: DC3/W18-T04  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Er, eh? Why? Taka-kun, why! Er, key? Where's my key?
+TEXT: -- None --
+
+================================================================================
+
+Ricca in Around-the-House Wear
+部屋着の立夏
+Card No.: DC3/W18-T05  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: You're my destined person... since 100 years ago!
+TEXT: -- None --
+
+================================================================================
+
+Himeno, Her First Uniform
+初めての制服 姫乃
+Card No.: DC3/W18-T06  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: None
+Triggers: Soul 
+Flavor: Hey, nii-san. How's this? Does this fit me?
+TEXT: [A] [(4)] When this attacks, if "Talking by the Seaside" is in the Climax
+Zone, you may pay cost. If so, deal 5 Damage to your Opponent. (Damage Cancel
+may occur)
+
+================================================================================
+
+Charles in Gymnastics Clothes
+体操着のシャルル
+Card No.: DC3/W18-T07  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Well, we can continue this after we get home. See you~
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Nice to Meet You, Lulu-nee.
+はじめまして、るる姉。
+Card No.: DC3/W18-T08  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I'm happy to be able to have a little brother, and that's why I
+thought you should do it, that's why... I like the feeling, or something...
+TEXT: Choose a Level 2 or higher Character in your Waiting Room and return it
+to your hand. Send this to Memory.
+
+================================================================================
+
+Normal Newspaper Club
+いつもの新聞部
+Card No.: DC3/W18-T09  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Ricca: "Well, let's try this again. Editorial meeting for
+Official Newspaper Graduation Party Issue is commencing"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Talking by the Seaside
+海辺で語り合って
+Card No.: DC3/W18-T10  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Of course nii-san already knew
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Character gains +1 Soul for the turn.
+
+================================================================================
+
+Aoi, Sunny Girl
+おひさま少女 葵
+Card No.: DC3/W18-T11  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: None
+Flavor: Onii-chan
+TEXT: [S] BRAINSTORM [(1)] Reveal 1 card from top of your Library and put it in
+the Waiting Room. If it's a ::Newspaper:: Character, all your Characters gain
++1000 Power for the turn.
+
+================================================================================
+
+Suginami, Ubiquitous Trickster
+神出鬼没な問題児 杉並
+Card No.: DC3/W18-T12  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Hahaha. It is, of course, my rival, Ricca Morizono. Let's get to
+the point
+TEXT: [A] When this Side Attacks, choose 1 of your other Characters. That
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Sara, A Little Spoiled
+ちょっぴり甘えん坊 さら
+Card No.: DC3/W18-T13  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: No. If senpai wants me to call him senpai, I want senpai to call me Sara
+TEXT: -- None --
+
+================================================================================
+
+Aoi, Energetic
+元気いっぱい 葵
+Card No.: DC3/W18-T14  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: Soul 
+Flavor: Energetic and brightness are my merits!
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this from hand to the
+Waiting Room]
+
+================================================================================
+
+Sara, Younger Classmate
+年下のクラスメイト さら
+Card No.: DC3/W18-T15  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Y, yes! Thank you! And, pleased to meet you!
+TEXT: [A] When an Opponent's Character is placed from hand to the Stage, this
+gains +500 Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Aoi, Sickly Dog-like Girl
+病弱ワンコ娘 葵
+Card No.: DC3/W18-T16  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: Soul 
+Flavor: Eh! How, how did you know? Are you a physician!?
+TEXT: -- None --
+
+================================================================================
+
+Fir~st Lesson
+ふぁ～すとれっすん
+Card No.: DC3/W18-T17  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Eh, eh, is it like this?
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

@@ -1,0 +1,250 @@
+Sengoku Basara Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Koi Tactics" Keiji Maeda
+“恋のかけひき”前田 慶次
+Card No.: SB/S06-101  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: I won't throw away the past, the future, and people's feelings!
+TEXT: [A] When the Trigger Check of your Characters reveals a Climax card, you
+may put the top card of your Library to your Stock.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+"Sworn Enemies" Masamune & Yukimura
+“宿敵”政宗＆幸村
+Card No.: SB/S06-102  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: Masamune: "Come, Yukimura Sanada! I shall defeat you and claim
+victory!" Yukimura: "Then I, Yukimuar, shall climb the obstacle - you!
+I'll risk my life here!"
+TEXT: [A] During your turn, if the Battle Opponent of this becomes Reversed,
+look at the top card of your Library. Put that card on top of your Library or
+in your Waiting Room.
+
+================================================================================
+
+"Vagabond" Keiji Maeda
+“風来坊”前田 慶次
+Card No.: SB/S06-T01  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Koi, people, as life is short!
+TEXT: -- None --
+
+================================================================================
+
+"Strong Troops, Rich Country" Hideyoshi Toyotomi
+“富国強兵”豊臣 秀吉
+Card No.: SB/S06-T02  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You want to risk your life against my fists!?
+TEXT: [S] BRAINSTORM [(1)] Reveal the top X cards of your Library and put them
+in the Waiting Room. For each Climax revealed, this gains +3000 Power for the
+turn.
+
+================================================================================
+
+"Storm of Koi" Keiji Maeda
+“恋の嵐”前田 慶次
+Card No.: SB/S06-T03  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Flower of koi, blossom!
+TEXT: [A] [(1)] When this attacks, if "Fissure" is in the Climax Zone, you may
+pay cost. If you do, search your Library for up to 1 Character with "Koi" in
+its name, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Flowery Path of Koi" Keiji Maeda
+“恋の花道”前田 慶次
+Card No.: SB/S06-T04  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Koi is the dream of this world!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [(1)] Choose 1 of your Characters with "Koi" in its name. That Character
+gains +2000 Power for the turn.
+
+================================================================================
+
+Fissure
+亀裂
+Card No.: SB/S06-T05  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Hideyoshi: "Keiji... You definitely wouldn't know"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+"Blue and Red" Masamune & Yukimura
+“蒼紅”政宗＆幸村
+Card No.: SB/S06-T06  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: Masamune: "Between you and me, who will be the last man
+standing!"
+TEXT: -- None --
+
+================================================================================
+
+"Hero of Sengoku Period" Motochika Chosokabe
+“戦国の風雲児”長曾我部 元親
+Card No.: SB/S06-T07  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: Haha! That's how I fight!
+TEXT: -- None --
+
+================================================================================
+
+"Passionate" Yukimura Sanada
+“熱血漢”真田 幸村
+Card No.: SB/S06-T08  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: None
+Flavor: Roar, my burning soul!
+TEXT: [A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay
+cost. If you do, choose a ::Weapon:: Character in your Waiting Room and return
+it to your hand.
+
+================================================================================
+
+"Furinkazan" Shingen Takeda
+“風林火山”武田 信玄
+Card No.: SB/S06-T09  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Takeda cavalry shall break through your defenses
+TEXT: [A] CHANGE [(2) Put this in the Waiting Room] At the beginning of your
+Encore Step, if this is Rested, you may pay cost. If you do, choose a '"Chant
+of Battle Spirit" Yukimura Sanada' in your Waiting Room and put it in the Slot
+this was in.
+[S] [(1)] Choose 1 of your Characters. That Character gains +1000 Power and
+::Animal:: for the turn.
+
+================================================================================
+
+"Sanada Ninja Squad Leader" Sasuke Sarutobi
+“真田忍隊の長”猿飛 佐助
+Card No.: SB/S06-T10  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Now, shall we go test our enemies' abilities?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+"Chant of Battle Spirit" Yukimura Sanada
+“闘魂絶唱”真田 幸村
+Card No.: SB/S06-T11  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: Soul 
+Flavor: I, Yukimura, shall fight you with all my power!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Reliable Brother" Motochika Chosokabe
+“頼れるアニキ”長曾我部 元親
+Card No.: SB/S06-T12  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: Haha! Leave it to me!
+TEXT: [A] [(2)] When you use BACKUP of this, you mau pay cost. If you do, deal
+1 damage to your Opponent. (Damage Cancel can occur)
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+"Flawless" Motochika Chosokabe
+“天衣無縫”長曾我部 元親
+Card No.: SB/S06-T13  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: People that serves onis... what has this world come to?
+TEXT: [C] If you have 3 or more other ::Weapon:: Characters, this gains +1000
+Power.
+[A] When another of your ::Eye Patch:: Characters attacks, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Kabukimono
+傾奇者
+Card No.: SB/S06-T14  Rarity: TD
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Keiji: "Do this for both love and fighting!"
+TEXT: All your ::Weapon:: Characters gain +1500 Power for the turn.
+
+================================================================================
+
+Japanese No.1 Troops
+日本一の兵
+Card No.: SB/S06-T15  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Yukimura Sanada, Japanese No.1 troop!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Oni of Onigashima
+鬼ヶ島の鬼
+Card No.: SB/S06-T16  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Motochika: "Welcome to the island habited by onis!"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

@@ -1,0 +1,1616 @@
+Phantom -requiem for the phantom- Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Elen, Determined
+決意の江漣 
+Card No.: PT/W07-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: ...... My life... only exists to protect you...
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters. that Character gains +1500 Power for the turn.
+[A] At the Start of the Encore Step, if "Memories of Wind" is in your Climax
+Zone, you may return this to your hand.
+
+================================================================================
+
+Elen, Determined
+決意の江漣 
+Card No.: PT/W07-001S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters. that Character gains +1500 Power for the turn.
+[A] At the Start of the Encore Step, if "Memories of Wind" is in your Climax
+Zone, you may return this to your hand.
+
+================================================================================
+
+Cal, Phantom's Assistant
+ファントムの助手キャル 
+Card No.: PT/W07-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: Soul 
+Flavor: I want all the clothes in here equally
+TEXT: [C] All your other Characters whose name includes "Phantom" gain +500
+Power and +1 Soul.
+[A] [(1)] When "Reward" is placed in your Climax Zone, you may pay cost. If so,
+choose 1 of your Opponent's Back Row Characters whose Cost is 0 or lower and
+put it in the Stock.
+
+================================================================================
+
+Cal, Phantom's Assistant
+ファントムの助手キャル 
+Card No.: PT/W07-002R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters whose name includes "Phantom" gain +500
+Power and +1 Soul.
+[A] [(1)] When "Reward" is placed in your Climax Zone, you may pay cost. If so,
+choose 1 of your Opponent's Back Row Characters whose Cost is 0 or lower and
+put it in the Stock.
+
+================================================================================
+
+Ein, Dating
+デート中のアイン 
+Card No.: PT/W07-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Sorry to keep you waiting
+TEXT: [S] [(1) Rest this] Choose 1 of your Opponent's Front Row Characters
+whose Cost is 0 or lower and return it to the hand.
+[S] [Put this in Clock] Choose 1 of your Characters. That Character gains +2000
+Power and +1 Soul for the turn.
+
+================================================================================
+
+Ein, Instructor for Zwei
+ツヴァイの教官アイン 
+Card No.: PT/W07-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Hey, hurry up. There's a limit to time.
+TEXT: [C] If there are 2 or fewer cards in your Stock, this gains +1500 Power.
+
+================================================================================
+
+Cal, Getting out of Bath
+湯上りキャル 
+Card No.: PT/W07-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: ...... Hey, Reiji...... do you have family?
+TEXT: [A] When this is placed from hand to the Stage, look at up to 2 cards
+from top of your Opponent's Library and put them back in the original order.
+
+================================================================================
+
+Cal, Getting out of Bath
+湯上りキャル 
+Card No.: PT/W07-005S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, look at up to 2 cards
+from top of your Opponent's Library and put them back in the original order.
+
+================================================================================
+
+Ein, Wolf Amongst Sheep
+羊の中の狼アイン 
+Card No.: PT/W07-006  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Even as you adorn the sheep's skin, you don't lose the
+wolf's sense of smell
+TEXT: [S] [(2)] Choose 1 of your other Characters. That Character gains +1 Soul
+for the turn, and this gains +1 Soul for the turn.
+
+================================================================================
+
+Cal, United Partner
+一心同体のパートナー キャル 
+Card No.: PT/W07-007  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: You and I from now on are partners!
+TEXT: [C] During your turn, all your other Characters whose name includes
+"Phantom" gains +500 Power.
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Elen, Proof of Living
+生きた証 江漣 
+Card No.: PT/W07-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: You shall not fight Cal
+TEXT: [A] CHANGE [Put this in Clock] At the start of your Climax Phase, oyu may
+pay cost. If so, choose an "Ein, Wolf Amongst Sheep" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Cal Devens
+キャル・ディヴェンス 
+Card No.: PT/W07-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: I'll try to fill my role! 
+TEXT: -- None --
+
+================================================================================
+
+Elen, Own Will
+自らの意志エレン 
+Card No.: PT/W07-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: I am Elen... I will it thus, and I shall live it thus...
+TEXT: [A] [(2)] When this attacks, if "Smiles" is in the Climax Zone, you may
+pay cost. If so, choose 1 of your Opponent's Front Row Characters whose Level
+is 3 or lower and put it in Stock.
+
+================================================================================
+
+Elen & Reiji, Watching Rainbow
+虹を見る 江漣＆玲二 
+Card No.: PT/W07-011  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Elen: "... I didn't notice this" Reiji: "Of course,
+it's so common. It happens often too"
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] When this is placed from hand to the Stage, if you have fewer cards in your
+hand than your Opponent, you may put the top card of your Library in your Stock.
+
+================================================================================
+
+Cal, Hungry
+はらぺこキャル 
+Card No.: PT/W07-012  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: I used to dream a lot~
+TEXT: [A] When another Character of yours is placed from the Stage to Clock,
+this gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Elen, Reiji's Kid Sister
+玲二の妹 江漣 
+Card No.: PT/W07-013  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Please be careful out there, nii-san 
+TEXT: -- None --
+
+================================================================================
+
+Cal, Dressing Up
+おめかしキャル 
+Card No.: PT/W07-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: Soul 
+Flavor: I don't want to leave! I want to be with Reiji forever!
+TEXT: [A] CHANGE [(2) Put this in Clock] At the beginning of your Climax Phase,
+you may pay cost. If so, put a "Cal, Practicing" from your Waiting Room to the
+Slot this was in.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the
+Waiting Room] 
+
+================================================================================
+
+Elen, Vague Memories
+曖昧な記憶エレン
+Card No.: PT/W07-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: That's right. That's the proof that you are you...
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[A] When another of your Characters is placed from Stage to Clock, choose 1 of
+your Characters. That Character gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Ein in Swimsuits
+水着のアイン 
+Card No.: PT/W07-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: How's this...?
+TEXT: [A] When a Character battling another of your Character becomes Reversed,
+this gains +1000 for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room] 
+
+================================================================================
+
+Elen in Sailor Uniform
+セーラー服の江漣 
+Card No.: PT/W07-017  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Bang!
+TEXT: -- None --
+
+================================================================================
+
+Cal, Practicing
+練習中のキャル 
+Card No.: PT/W07-018  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Did you need something from me? What? Did you need something from me?
+TEXT: [A] When this is placed from the Waiting Room to the Stage, you may
+choose 1 of your Opponent's Back Row Characters whose Cost is 0 or lower and
+return it to the hand. 
+
+================================================================================
+
+PRomise
+約束 
+Card No.: PT/W07-019  Rarity: R
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: But, Reiji! Reiji!
+TEXT: Choose 1 of your Characters with "Cal" in name and return it to your
+hand. If so, search your Library for up to 1 Character with "Zwei" in name,
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Colt Bison
+コルト＝パイソン 
+Card No.: PT/W07-020  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ein: "This is the sight, and this is the indicator. You shoot once
+you can see the indicator within the sights"
+TEXT: If you have 2 or fewer YELLOW Characters, you cannot play this from
+hand.
+Choose 1 of your Opponent's Level 1 or lower Characters and put it in Stock.
+
+================================================================================
+
+Confession
+告悔 
+Card No.: PT/W07-021  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 3   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ...... Directly, to God..... You shall meet eventually...
+TEXT: Choose up to 2 cards in your Waiting Room and return them to your
+Library. Shuffele your Library. Send this to Memory.
+
+================================================================================
+
+Training
+訓練 
+Card No.: PT/W07-022  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ein: "You hold it like... this. Don't put your finger on the
+trigger" 
+TEXT: Choose 1 of your ::Weapon:: Characters. That Character gains +2000 Power
+and +1 Soul. 
+
+================================================================================
+
+Smiles
+笑顔 
+Card No.: PT/W07-023  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: ...... I think I've seen this sky...... many times in dreams......
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Smiles
+笑顔 
+Card No.: PT/W07-023SP  Rarity: SP
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Memories of Wind
+風の記憶 
+Card No.: PT/W07-024  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: The lights that are blinding.. And then, the wind blows. A very strong
+wind 
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Rewards
+報酬 
+Card No.: PT/W07-025  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...... I shall treasure this. Forever...!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Claudia, Conspiracist
+陰謀家クロウディア 
+Card No.: PT/W07-026  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: The true you... the past... is here
+TEXT: [C] ASSIST All your Characters in front of this gains +500 Power.
+[S] [Put a "Zwei, No. 2 Guy" from your Stage in Clock] Choose a "'Successor of
+Phantom" Zwei" in your Clock and put it in any Slot on the Stage.
+
+================================================================================
+
+Claudia, Conspiracist
+陰謀家クロウディア 
+Card No.: PT/W07-026R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gains +500 Power.
+[S] [Put a "Zwei, No. 2 Guy" from your Stage in Clock] Choose a "'Successor of
+Phantom' Zwei" in your Clock and put it in any Slot on the Stage.
+
+================================================================================
+
+Zwei, No. 2 Guy
+二番目の男ツヴァイ 
+Card No.: PT/W07-027  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Ein: "You're the no. 2 guy, Zwei"
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power.
+
+================================================================================
+
+Claudia, Ambitionist
+野心家クロウディア
+Card No.: PT/W07-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Those betrayers who put themselves ahead of the group... were dealt
+with by me
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [Rest 2 of your Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+Raymond McGuire
+レイモンド・マグワイア 
+Card No.: PT/W07-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: Destruction and creation changed everything of this country. Our times,
+the time of Inferno
+TEXT: [C] All your other Characters whose name includes "Zwei" are considered
+to also have the name "Phantom".
+[C] ASSIST All your Characters in front of this gain +X Power, where X = 500
+times Level of that Character.
+[S] [Choose 1 "'Successor of Phantom' Zwei" on your Stage and put it in Clock]
+Choose a "'Power of Phantom' Zwei" in your Clock and put it in any Slot on
+Stage.
+
+================================================================================
+
+Lizzie Garland
+リズィ・ガーランド 
+Card No.: PT/W07-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Hey, snake guy! Shoot me!
+TEXT: [A] When this attacks, if "Duty" is in your Climax Zone, choose up to 1
+of your Characters and put it in Stock, and choose 1 of your Characters. That
+Character gains +4000 Power for the turn.
+
+================================================================================
+
+Lizzie Garland
+リズィ・ガーランド 
+Card No.: PT/W07-030S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Duty" is in your Climax Zone, choose up to 1
+of your Characters and put it in Stock, and choose 1 of your Characters. That
+Character gains +4000 Power for the turn.
+
+================================================================================
+
+"Phantom of Inferno" Zwei
+“インフェルノのファントム”ツヴァイ 
+Card No.: PT/W07-031  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: McGuire: "From this instant, you are the Phantom of Inferno"
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] [(3)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, put that Character in Clock.
+[A] ENCORE [Discard a Climax card from hand to the Waiting Room]
+
+================================================================================
+
+Lizzie, Support Role
+サポート役リズィ 
+Card No.: PT/W07-032  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: This is not a warning. It's just my hobby
+TEXT: [C] All your other ::South Town:: Characters gain +500 Power.
+[S] [(2)] Choose 1 of your Opponent's Front Row Characters. That Character gets
+-2500 Power for the turn.
+
+================================================================================
+
+Claudia, Betrayer
+裏切り者クロウディア 
+Card No.: PT/W07-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: I hate those who aren't punctuate with time. Reiji
+TEXT: [C] ALARM If this is on top of your Clock, all your ::South Town::
+Characters gain "[A] [(1)] When this attacks, you may pay cost. If so, look at
+the top card of your Opponent's Library and put it either on top or bottom of
+the Library".
+
+================================================================================
+
+Claudia, Tough Customer
+食えない女クロウディア 
+Card No.: PT/W07-034  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: Now then, let's do it all according to my plans
+TEXT: [C] All your other Characters whose name includes "Phantom" gain +1000
+Power.
+[A] CHANGE [(1) Put this in Clock] At the beginning of your Climax Phase, you
+may pay cost. If so, choose a "Master of Phantom, Claudia" and put it in the
+Slot this was in.
+
+================================================================================
+
+Lizzy, Dutiful Second to None
+譲れねぇ仁義リズィ 
+Card No.: PT/W07-035  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 2   Power: 7500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ... I do not forgive those who betray us
+TEXT: -- None --
+
+================================================================================
+
+Master of Phantom, Claudia
+ファントムの主クロウディア 
+Card No.: PT/W07-036  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: ... You are great...
+TEXT: [A] [(4)] When this is Front Attacked, you may pay cost. If so, choose 1
+Character Opposite this. That Character gains +6 Soul for the turn.
+
+================================================================================
+
+Claudia, Female Leader of Inferno
+インフェルノの女幹部クロウディア 
+Card No.: PT/W07-037  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: The power of Phantom is absolute
+TEXT: [S] [(1)] Choose 1 of your ::South Town:: Characters. That Character
+gains +2000 Power for the turn.
+
+================================================================================
+
+Clau & Zwei, Vixen And Her Pet Dog
+女狐と飼い犬 クロウ＆ツヴァイ 
+Card No.: PT/W07-038  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Claudia: "You are needed. Reiji... My Phantom..."
+TEXT: [A] When another Character of yours is placed from the Stage to Clock,
+choose 1 of your Characters. That Character gains +3000 Power for the turn.
+
+================================================================================
+
+Claudia, Vixen
+女狐クロウディア 
+Card No.: PT/W07-039  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: There are sights that can only been seen when you go at this speed
+TEXT: -- None --
+
+================================================================================
+
+Claudia McCunnen
+クロウディア・マッキェネン 
+Card No.: PT/W07-040  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: It's a world where you can achieve any dream so long as you have
+power
+TEXT: [A] [Put 1 of your Characters from Stage to Waiting Room] When "Past" is
+placed in your Climax Zone, you may pay cost. If so, search your Library for a
+::South Town:: Character whose Level is 1 or lower and put it in any Slot on
+the Stage. Shuffle your Library.
+
+================================================================================
+
+Wisemel, Leader of Bloodies
+ブラディーズの頭目ワイズメル 
+Card No.: PT/W07-041  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: Heh, isn't this going well
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+"Successor of Phantom" Zwei
+“ファントムを継ぎし者”ツヴァイ 
+Card No.: PT/W07-042  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: McGuire: "The last Phantom was great, but that boy is even
+better"
+TEXT: [A] When this attacs, if "Phantom Assassinate" is in the Climax Zone,
+choose 1 of your Opponent's Characters. That Character gets -500 Power for the
+turn.
+[A] CHANGE [2) Put this in Clock] At the beginning of your Climax Phase, you
+may pay cost. If so, choose 1 "'Power of Phantom' Zwei" in your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+"Power of Phantom" Zwei
+“ファントムの力”ツヴァイ 
+Card No.: PT/W07-043  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 暗黒街 (South Town)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I'll estimate the reward of killing. Let's talk tomorrow.
+TEXT: -- None --
+
+================================================================================
+
+Assassinate
+暗殺 
+Card No.: PT/W07-044  Rarity: R
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Understood... Phase 2, commence
+TEXT: If you have 2 or fewer GREEN Characters, you cannot play this from your
+hand.
+All your Opponent's Characters get -1500 Power for the turn.
+
+================================================================================
+
+5 Million Dollars
+500万ドル
+Card No.: PT/W07-045  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose 1 of your Characters and put it in Clock. If so, choose up to 2 of
+your Characters. Those Characters gain +3500 Power for the turn.
+
+================================================================================
+
+Beretta M92FS
+ベレッタM92FS 
+Card No.: PT/W07-046  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Reiji: "1 shot in chamber and 15 in the magazine. I can kill
+everyone here and still have spares"
+TEXT: Choose 1 of your Opponent's Characters. That Character gets -3000 Power
+for the turn.
+
+================================================================================
+
+Ferrari F40
+フェラーリF40 
+Card No.: PT/W07-047  Rarity: C
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Don't you feel liek you can go anywhere. Like the conqueror of the
+world?
+TEXT: [Counter] Choose up to 1 of your Characters. That Character gains +3000
+Power for the turn. Put this in Clock.
+
+================================================================================
+
+Past
+過去 
+Card No.: PT/W07-048  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: This is the beginning... that's right... Romero
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Past
+過去 
+Card No.: PT/W07-048SP  Rarity: SP
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Phantom Assassinate
+ファントム＝アソシネート 
+Card No.: PT/W07-049  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I'm Phantom... of Inferno
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Duty
+仁義 
+Card No.: PT/W07-050  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Claudia: "... I'm sorry it ends like this"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Drei, Edge of Madness
+狂気に満ちたドライ 
+Card No.: PT/W07-051  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: Once the song is over, shoot
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 Character whose name includes "Phantom",
+reveal it, and put it in your hand. Shuffle your Library.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may Reverse that Character.
+
+================================================================================
+
+Drei, Edge of Madness
+狂気に満ちたドライ 
+Card No.: PT/W07-051R  Rarity: RRR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 Character whose name includes "Phantom",
+reveal it, and put it in your hand. Shuffle your Library.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may Reverse that Character.
+
+================================================================================
+
+Ein, Greatest Terror
+最大の恐怖アイン 
+Card No.: PT/W07-052  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 5500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Death is the end of all. It's meaningless to add anything afterwards
+TEXT: [A] When this attacks, if "Name" is in the Climax Zone, choose a
+Character in your Waiting Room and return it to your hand.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+2 or lower, you may Reverse that Character.
+
+================================================================================
+
+Elen & Drei
+江漣＆ドライ 
+Card No.: PT/W07-053  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: Ein..... Zwei... Drei... No explanation is needed right?
+TEXT: [C] This cannot Side Attack.
+[S] [(1)] Choose 1 of your Opponent's Level 0 or lower Character in the Front
+Row and put it in the Waiting Room.
+
+================================================================================
+
+Eren & Drei
+江漣＆ドライ 
+Card No.: PT/W07-053S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] This cannot Side Attack.
+[S] [(1)] Choose 1 of your Opponent's Level 0 or lower Character in the Front
+Row and put it in the Waiting Room.
+
+================================================================================
+
+Ein, Greatest Trust
+最大の信頼アイン 
+Card No.: PT/W07-054  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Claudia: "Her existance gives the rebelling groups the greatest
+terror"
+TEXT: [A] CHANGE [(2) Put this in Clock] At the start of your Climax Phase, you
+may pay cost. If so, choose 1 '"Greatest Assassin Phantom" Ein' in your Waiting
+Room and put it in the Slot this was in.
+[S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+"Third Phantom" Drei
+“第三のファントム”ドライ 
+Card No.: PT/W07-055  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Why didn't you shoot...
+TEXT: [A] CHANGE [(2) Put this in Clock] At the start of your Climax Phase, you
+may pay cost. If so, choose 1 '"Invincible Phantom" Drei' in your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+"Invincible Phantom" Drei
+“無敵のファントム”ドライ 
+Card No.: PT/W07-056  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: I'm the Invincible Phantom!
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [(4) Send this to Memory] When the Damage Dealt by this is Cancelled, if
+"Conclusion" is in the Climax Zone, you may pay cost. If so, choose a Character
+in your Waiting Room and put it in the Slot this was in. (There's no battle.)
+
+================================================================================
+
+"Invincible Phantom" Drei
+“無敵のファントム”ドライ 
+Card No.: PT/W07-056S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [(4) Send this to Memory] When the Damage Dealt by this is Cancelled, if
+"Conclusion" is in the Climax Zone, you may pay cost. If so, choose a Character
+in your Waiting Room and put it in the Slot this was in. (There's no battle.)
+
+================================================================================
+
+Ein, Perfect Material
+完璧な素材アイン 
+Card No.: PT/W07-057  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Scythe: "It's so unlike you, Ein. Use your will to conquer the
+pain"
+TEXT: [S] [Rest 1 of your ::Weapon:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+Ein in Maid Uniform
+メイド服のアイン 
+Card No.: PT/W07-058  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: Welcome home, master
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(1) Rest this] When another Character of yours is placed from the Stage to
+the Clock, if this is Standing, you may pay cost. If so, choose a Character in
+your Waiting Room and return it to your hand.
+
+================================================================================
+
+Drei, Aiming for Reiji
+玲二を狙うドライ 
+Card No.: PT/W07-059  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: ...... it's your turn next, Reiji...
+TEXT: [A] When another Battling Character of yours becomes Reversed, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+[A] [(1) Rest this] When another Character of yours is placed from the Stage to
+the Clock, if this is Standing, you may pay cost. If so, Deal 1 Damage to your
+Opponent. (Damage Cancel may occur)
+
+================================================================================
+
+Drei, Flourishing Gunplay
+華麗なるガンプレイ ドライ 
+Card No.: PT/W07-060  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Scythe: "She can do it within 10 seconds"
+TEXT: [A] [(3)] When this attacks, if "Anger" is in the Climax Zone, you may
+pay cost. If so, Deal 2 Damage to your Opponent. (Damage Cancel may occur)
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Strongest Assassin Phantom" Ein
+“最強の暗殺者ファントム”アイン 
+Card No.: PT/W07-061  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: I felt nothing then. It's the only way to withstand this way of life
+TEXT: [C] During battles involving this Character, if the Battle Opponent has
+"[A] ENCORE [Discard a Character card from hand to the Waiting Room]", this
+gains +2000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Best Work" Ein
+“最高傑作”アイン 
+Card No.: PT/W07-062  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: We only need to function. Don't think about anything else
+TEXT: [C] All your other ::Weapon:: Characters gain +500 Power.
+[S] [Put this in Clock] All your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Ein, No. 1 Girl
+一番目の女アイン 
+Card No.: PT/W07-063  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: I'm the No. 1 girl, Ein
+TEXT: [C] If you have 2 or fewer other Characters, all your other Cahracters
+gain +500 Power.
+
+================================================================================
+
+Drei, New Phantom
+新たなファントム ドライ 
+Card No.: PT/W07-064  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: ... I know nothing about Japanese Yakuza
+TEXT: -- None --
+
+================================================================================
+
+Drei, Berserking
+暴走するドライ 
+Card No.: PT/W07-065  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: ... Um? What did you mean?
+TEXT: [A] When this attacks, choose 1 of your other Front Row Characters and
+put it in Waiting Room.
+
+================================================================================
+
+"Phantom" Ein
+“亡霊”アイン 
+Card No.: PT/W07-066  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: ... We are phantoms that exist nowhere... we are nobodies, phantoms...
+TEXT: (Note: This card doesn't benefit from having the Phantom name, nor can it
+be searched by "Drei, Edge of Madness")
+
+================================================================================
+
+Drei, Pure Hatred
+純粋な憎悪ドライ 
+Card No.: PT/W07-067  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Reiji: "... You... lived...?"
+TEXT: [A] When this attacks, choose 1 of your other Front Row Characters and
+put it in Waiting Room.
+
+================================================================================
+
+Elen VS Drei
+江漣VSドライ 
+Card No.: PT/W07-068  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Drei: "... Pleased to meet you, Ein. ... Or shall I call you Former
+Phantom...?"
+TEXT: -- None --
+
+================================================================================
+
+Drei, Prayng
+祈るドライ 
+Card No.: PT/W07-069  Rarity: R
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I shall pillage. I shall destroy. ... I cannot withstand the other way
+again...
+TEXT: Choose 1 of your Characters and put it in Clock. If so, choose up to 2
+::Clock:: Character in your Waiting Room and return them to your hand.
+
+================================================================================
+
+Scouting
+偵察 
+Card No.: PT/W07-070  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Reiji: "I don't see anything out of the ordinary..."
+TEXT: If you have 2 or fewer RED Characters, you cannot play this from your
+hand.
+Choose up to 1 Character in your Waiting Room and return it to your hand.
+Choose 1 of your Characters. That Character gains "[A] When this becomes
+Reversed, if the Level of the Battle Opponent of this is equal to or lower than
+the Level of this, you may Reverse that Character" for the turn.
+
+================================================================================
+
+Sniping
+狙撃 
+Card No.: PT/W07-071  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Scythe: "... A sniping mission, haven't had one of these in a
+while. Well, should be easy for you"
+TEXT: Deal 2 Damage to your Opponent. If this Damage is Cancelled, Deal 1
+Damage to yourself. (Damage Cancel can occur)
+
+================================================================================
+
+S&W M5906
+S&W M5906 
+Card No.: PT/W07-072  Rarity: C
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose up to 2 of your Opponent's Front Row Characters whose Level is 2
+or lower and put them in the Waiting Room.
+
+================================================================================
+
+Anger
+憤怒 
+Card No.: PT/W07-073  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: If you can beat me... everyone in the world will throw themselves at
+your feet 
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn. 
+
+================================================================================
+
+Anger
+憤怒 
+Card No.: PT/W07-073SP  Rarity: SP
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn. 
+
+================================================================================
+
+Conclusion
+決着 
+Card No.: PT/W07-074  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Drei: "It was nice to meet you... That is enough to make me
+happy..." 
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Name
+名前 
+Card No.: PT/W07-075  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Reiji: "... Ein... Only I... am protecting you now..."
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Reiji & Elen
+玲二＆エレン 
+Card No.: PT/W07-076  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Elen: "Murderers have nowhere else to go except here"
+TEXT: [C] All your other Characters with "Ein" in name gain "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Reiji & Elen
+玲二＆エレン 
+Card No.: PT/W07-076S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters with "Ein" in name gain "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+"Nobody Phantom" Ein
+“誰でもないファントム”アイン 
+Card No.: PT/W07-077  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: Claudia: "It's like her, strongest assassin"
+TEXT: [C] If there are 2 or more '"Nobody Phantom" Ein' in your Waiting Room,
+this gets -1 Level in your hand.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+
+================================================================================
+
+"Nobody Phantom" Ein
+“誰でもないファントム”アイン 
+Card No.: PT/W07-077R  Rarity: RRR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 2 or more '"Nobody Phantom" Ein' in your Waiting Room,
+this gets -1 Level in your hand.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+
+================================================================================
+
+Mio, Proposing
+告白する美緒 
+Card No.: PT/W07-078  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 愛 (Love)      Trait 2: None
+Triggers: None
+Flavor: It's Fujieda.... Mio Fujieda
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] CHANGE [(3) Put this in Clock] At the beginning of your Climax Phase, you
+may pay cost. If so, choose a "Mio Fujieda" in your Waiting Room and put it in
+the Slot this was in.
+
+================================================================================
+
+Mio, Proposing
+告白する美緒 
+Card No.: PT/W07-078S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 愛 (Love)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] CHANGE [(3) Put this in Clock] At the beginning of your Climax Phase, you
+may pay cost. If so, choose a "Mio Fujieda" in your Waiting Room and put it in
+the Slot this was in.
+
+================================================================================
+
+Zahlenschwestern
+ツァーレンシュヴェスタン 
+Card No.: PT/W07-079  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: Scythe: "... No fear, no mercy... just a loyal hound... automata
+that brings death..."
+TEXT: [A] At the beginning of your Climax Phase, reveal the top card of your
+Library. If it's a Climax card, Rest this.
+
+================================================================================
+
+Scythe Master
+サイス＝マスター 
+Card No.: PT/W07-080  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Everyone dances at my performance. My Stage! My Canvas!
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] ENCORE [Discard
+a Character card from hand to the Waiting Room]".
+[A] [(1) Rest this] When another Character of yours is placed from the Stage to
+the Clock, if this is Standing, you may pay cost. If so, put the top card of
+your Clock in your Waiting Room.
+
+================================================================================
+
+Zwei, Talent to Survive
+生き残る才能ツヴァイ 
+Card No.: PT/W07-081  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: These hands have killed, these hands have eaten... it's the same. I
+live as such...
+TEXT: [A] [(2)] When this attacks, if "Long Dream" is in the Climax Zone, you
+may pay cost. If so, return the top card of your Clock to your hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Reiji, Young Man Without A Past
+過去を消された少年 玲二 
+Card No.: PT/W07-082  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: I shall... grant you a new name
+TEXT: [C] All your other Characters with "[A] ENCORE [Discard a Character card
+from hand to the Waiting Room]" gain +500 Power.
+[S] [Choose 1 of your Characters whose name includes "Ein" and put it in Clock,
+Rest this] Search your Library for a Character whose name includes "Elen",
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Shiga, Right Hand of Godoh
+梧桐の右腕 志賀 
+Card No.: PT/W07-083  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: I shall follow you whever you go
+TEXT: [C] During your Opponent's turn, if you have 2 or fewer other Characters,
+all your other Characters gain +1000 Power.
+
+================================================================================
+
+Scythe, Trainer
+調教師サイス 
+Card No.: PT/W07-084  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Now, let the show begin!
+TEXT: [C] ALARM If this is on top of your Clock, all your ::Mask:: Characters
+gain +1000 Power.
+[S] [Put this in Clock] Search your Library for up to 1 ::Mask:: Character,
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Mio, Godoh's Princess
+梧桐の姫君 美緒 
+Card No.: PT/W07-085  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 愛 (Love)      Trait 2: None
+Triggers: None
+Flavor: .... I know... there's no reason I shouldn't know... I really
+really care for him
+TEXT: [A] When this attacks, if "Unreachable Place" is in the Climax Zone,
+choose 1 of your other Characters. That Character gains +500 Power for the
+turn. At the end of turn, put that Character in the Waiting Room.
+
+================================================================================
+
+Ein, A Tool
+道具であることアイン 
+Card No.: PT/W07-086  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: ... I'm Ein. Now, and before, just Ein...
+TEXT: [A] When "Finale" is placed in your Climax Zone, this gains +1000 Power
+and "[A] When the Battle Opponent of this becomes Reversed, you may put that
+Character on the bottom of the Library" for the turn.
+
+================================================================================
+
+Helmut von Giuseppe
+ヘルムート・フォン・ギュゼッペ 
+Card No.: PT/W07-087  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: ... Will you met my expectations again, Ein...
+TEXT: [S] [Rest this] Choose 1 of your :: weapon:: Characters. That Character
+gains +1000 Pwoer for the turn.
+[S] [Put a "Reiji & Elen" from your Stage in Clock] Choose up to 1 "Ein, A
+Tool" in your hand and put it in any Slot on the Stage.
+
+================================================================================
+
+Godoh, Rising Dragon
+昇り龍 梧桐 
+Card No.: PT/W07-088  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: 竜 (Dragon)
+Triggers: None
+Flavor: I need to act
+TEXT: [C] If you have 2 or fewer other Characters, all your other Characters
+gain +1 Level.
+
+================================================================================
+
+Reiji & Sanae
+玲二＆早苗 
+Card No.: PT/W07-089  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Sanae: "Eat this!!"
+TEXT: -- None --
+
+================================================================================
+
+Reiji, Own Will
+自分の意思 玲二 
+Card No.: PT/W07-090  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: ... Let's search. The two of us. Because the I shall definitely
+return to you
+TEXT: [C] If you have 1 or fewer other Characters in the Front Row, this gains
++1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Tooru Shiga
+志賀 透 
+Card No.: PT/W07-091  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: Shiga's only job is to protect my sworn brother's back...
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Scythe, Brainwash And Hypnotism
+洗脳と催眠サイス 
+Card No.: PT/W07-092  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: マスター (Master)
+Triggers: Soul 
+Flavor: ... Welcome to my stage...
+TEXT: [C] All your other Characters gain +1000 Power during your Opponent's
+turn.
+[S] [Rest 2 of your Characters] Draw a card, and discard a card from your hand
+to Waiting Room]
+
+================================================================================
+
+Mio Fujieda
+藤枝 美緒 
+Card No.: PT/W07-093  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 愛 (Love)      Trait 2: None
+Triggers: Soul 
+Flavor: This is cute
+TEXT: -- None --
+
+================================================================================
+
+Phantom
+亡霊 
+Card No.: PT/W07-094  Rarity: R
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Don't have the hope of being forgiven...
+TEXT: Look at the top 4 cards of your Library and choose up to 1 of them and
+put it in your hand. Put the rest back on top of the Library in any order.
+
+================================================================================
+
+Reason to Live
+生きる理由 
+Card No.: PT/W07-095  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ... I didn't have fear up until yesterday...
+TEXT: Choose 1 of your Standing Characters and put it in Clock. If so, draw up
+to 2 cards.
+
+================================================================================
+
+44 Auto-Mag
+44オートマグ 
+Card No.: PT/W07-096  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Scythe: "This is a gun with a dangerous mechanism as you know.
+Avoid firing repeatedly if possible"
+TEXT: [Counter] Choose 1 of your Characters. That Character gains "[A] When
+this is placed from the Stage to the Waiting Room, you may put this Rested in
+the Slot it was in" this turn.
+Choose 1 of your Opponent's Battling Characters. That Character does not Stand
+during your Opponent's next turn.
+
+================================================================================
+
+Continuous Mission
+連続ミッション 
+Card No.: PT/W07-097  Rarity: C
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: There's no prayer, no redemption. Death is the end of all
+TEXT: If you have 2 or fewer BLUE Characters, you cannot play this from your
+hand.
+Choose a Level 2 or lower Character in your Opponent's Front Row and put it on
+the bottom of the Library.
+
+================================================================================
+
+Long Dream
+長い夢 
+Card No.: PT/W07-098  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Ein: "... This may become a long dream"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Finale
+終幕 
+Card No.: PT/W07-099  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Reiji: "Scyyyyyyyythe!"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Unreachable Place
+届かない場所 
+Card No.: PT/W07-100  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I shall keep waiting. -- Thus, it's not goodbye. It's
+"see you later"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Unreachable Place
+届かない場所 
+Card No.: PT/W07-100SP  Rarity: SP
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

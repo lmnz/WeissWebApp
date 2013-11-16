@@ -1,0 +1,521 @@
+Dog Days Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Leonmitchelli Galette des Rois
+レオンミシェリ・ガレット・デ・ロワ
+Card No.: DD/WE12-01  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Framboise: "Beat it down fast, or so it is"
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose 1 of your ::Animal:: Characters. That Character gains +2000 Power
+for the turn.
+[A] [(2)] When this is placed from the Stage to the Waiting Room, you may pay
+cost. If so, search your Library for up to 1 ::Animal:: Character, reveal it,
+and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Gaul, Prince of Galette
+ガレット王子 ガウ
+Card No.: DD/WE12-02  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Only royalties are allowed big thoughts
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Leo, Fair And Square
+正々堂々 レオ
+Card No.: DD/WE12-03  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Heh... interesting
+TEXT: [A] When an Opponent's Character is returned to hand from the Waiting
+Room, choose 1 of your Characters. That Character gains +2000 Power for the
+turn.
+[S] [Rest this] Choose 1 of your ::Animal:: Characters. That Character gains
++1500 Power for the turn.
+
+================================================================================
+
+Leo, Unrivaled Battle
+戦無双 レオ
+Card No.: DD/WE12-04  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Lion King Flame Formation!!
+TEXT: [A] [(1)] When this attacks, if "Lion King Explosion" is in the Climax
+Zone, you may pay cost. If so, choose 1 card in your Clock and return it to
+your hand, and put the top card of your Library in your Clock.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Lion King" Leo
+“獅子王”レオ
+Card No.: DD/WE12-05  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Don't think I'm like I was before
+TEXT: [C] BODYGUARD (When your Opponent attacks, if this is not Reversed and is
+in the Front Row Center Slot, your Opponent instead Front Attack this)
+[A] [Discard a card from hand to the Waiting Room] When this is placed from
+hand to the Stage, you may pay cost. If so, choose 1 "Grandvert, Magic
+Battleaxe" in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Leo, Solitary Charge
+単騎突入 レオ
+Card No.: DD/WE12-06  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Gaul: "Big sis!?"
+TEXT: [C] If you have no other Character, this gains +1500 Power and cannot be
+Reversed by Opponent Character's [A] abilities.
+
+================================================================================
+
+"Genoise" Jaune
+“ジェノワーズ”ジョーヌ
+Card No.: DD/WE12-07  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Secret espionage squad directly serving Gaul-sama!
+TEXT: -- None --
+
+================================================================================
+
+"Genoise" Vert
+“ジェノワーズ”ベール
+Card No.: DD/WE12-08  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: We are part of the Galette Lion Squad
+TEXT: [C] Your other Character in the Front Row Center Slot gains +1000 Power.
+
+================================================================================
+
+Gaul Galette des Rois
+ガウル・ガレット・デ・ロワ
+Card No.: DD/WE12-09  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Strong, magnificent, heroic! Those are what's required of knights
+and warriors!
+TEXT: [C] For each other ::Animal:: Character you have, this gains +500 Power.
+
+================================================================================
+
+Leo, Silent Determination
+静かな決意 レオ
+Card No.: DD/WE12-10  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: ......
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this from hand to the
+Waiting Room]
+
+================================================================================
+
+Violet, Personal Attendant
+お側役 ビオレ
+Card No.: DD/WE12-11  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: Framboise: "Violet, the personal attendant of Princess
+Leonmitchelli, has arrived"
+TEXT: [C] Your other Character in the Front Row Center Slot gains +2000 Power.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Leo, Suddent Declaration of War
+突然の宣戦布告 レオ
+Card No.: DD/WE12-12  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: People of Galette and Biscotti, this is for the good of your kingdom
+and for yourself.
+TEXT: [A] When this is placed from hand to the Stage, your Opponent may choose
+a Character in the Waiting Room and return it to the hand.
+[A] [(2) Discard a card from hand to the Waiting Room] When "Magic God Optical
+Flash" is placed in your Climax Zone, if this is in the Front Row, you may pay
+cost. If so, choose 1 ::Animal:: Character in your Clock whose Level is lower
+or equal to your Level and put it in any Slot on the Stage.
+
+================================================================================
+
+Grandvert, Magic Battleaxe
+魔戦斧グランヴェール
+Card No.: DD/WE12-13  Rarity: C
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Leo: "Treasure Swords of Galette: Grandvert the Magic Battleaxe and
+Ex Machina the Divine Sword"
+TEXT: Choose 1 of your Characters. That Character gains +2000 Power until the
+end of your Opponent's next turn.
+
+================================================================================
+
+Lion King Explosion
+獅子王炎陣大爆破
+Card No.: DD/WE12-14  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Gahhhh----!!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Magic God Optical Flash
+魔神旋光破
+Card No.: DD/WE12-15  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Magic God!! Optical Flash!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+"Hero Express" Cinque
+“勇者超特急”シンク
+Card No.: DD/WE12-16  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Even a chick can fly if it tries hard enough...!
+TEXT: [A] [(2) Put the top card of your Library in your Clock] When this is
+Front Attacked, you may pay cost. If so, choose another ::Animal:: Character of
+yours and this and return both to your hand.
+
+================================================================================
+
+Millhi, Summon Lord
+召喚主 ミルヒ
+Card No.: DD/WE12-17  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: If this is my... uh, the hero of this kingdom, it'd be nice, or so
+I think...
+TEXT: [C] All your other Characters with either ::Animal:: and/or ::Hero:: gain
++500 Power.
+[A] [(1)] When another "Cinque Izumi" of yours becomes Reversed, you may pay
+cost. If so, send that Character to Memory.
+[S] [(3) Discard a "Hero's Arrival!" from hand to the Waiting Room, Rest this]
+Choose a "Cinque Izumi" in your Waiting Room and put it in any Slot on the
+Stage.
+
+================================================================================
+
+d'Arquien, Freedom Knight
+自由騎士 ダルキアン
+Card No.: DD/WE12-18  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Our hero takes lots of risk, it seems
+TEXT: [A] When you use the BACKUP of this, if you have 3 or more Characters
+with either ::Animal:: and/or ::Hero::, choose 1 of your Battling Characters.
+That Character gains +X Power for the turn, where X = 500 times your Level.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Millhi, Lord's Determination
+領主の覚悟 ミルヒ
+Card No.: DD/WE12-19  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: We shall win this battle!
+TEXT: [C] If you have 3 or more other ::Animal:: Characters, this gains "[S]
+[(2) Rest this] Choose 1 "Cinque Izumi" in your Memory and put it in any Slot
+on the Stage]".
+[C] ASSIST All your Characters in front of this gain +1000 Power.
+
+================================================================================
+
+Ricotta Elmar
+リコッタ・エルマール
+Card No.: DD/WE12-20  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 科学 (Science)
+Triggers: Soul 
+Flavor: I am Ricotta Elmar, Chief Researcher of the National Research School of
+Biscotti!
+TEXT: [A] [(1)] When "Rico's Support" is placed in your Climax Zone, if this is
+in the Front Row, you may pay cost. If so, choose 1 of your Opponent's Level 1
+or lower Character and put it in the Waiting Room.
+[S] [Rest 2 of your ::Animal:: Characters] Choose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Eclair Martinozzi
+エクレール・マルティノッジ
+Card No.: DD/WE12-21  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Push through the front! Ahhh--!!
+TEXT: [C] If you have 3 or more other ::Animal:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]"
+[A] When this is placed from hand to the Stage, this gains +X Power for the
+turn, where X = 500 times # of your ::Animal:: Characters.
+
+================================================================================
+
+Millhiore Firianno Biscotti
+ミルヒオーレ・フィリアンノ・ビスコッティ
+Card No.: DD/WE12-22  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: The Lord of Biscotti, Millhiore Firianno Biscotti, shall never, NEVER,
+forgive this!
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in your Waiting Room.
+[A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, deal 1 Damage to your Opponent. (Damange Cancel can occur)
+
+================================================================================
+
+Millhi, Lord of Biscotti
+ビスコッティ領主 ミルヒ
+Card No.: DD/WE12-23  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: I'm sorry I'm late! Millhiore is here!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 ::Hero:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Yukikaze, Head of Secret Squad
+オンミツ部隊筆頭 ユキカゼ
+Card No.: DD/WE12-24  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 神 (God)
+Triggers: None
+Flavor: This time something looks off
+TEXT: [A] When this becomes Reversed, if Level of the Battle Opponent of this
+is 0 or lower, you may Reverse that Character.
+[A] [(1)] At the beginning of your Opponent's Attack Phase, you may pay cost.
+If so, choose 1 of your other ::Hero:: Characters. That Character gains +1500
+Power for the turn.
+
+================================================================================
+
+Ecle, Captain of Lop-Eared squad
+タレミミ隊長 エクレ
+Card No.: DD/WE12-25  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Haaaa!!
+TEXT: [A] When this attacks, choose 1 of your other ::Hero:: Cahracters. That
+Character gains +1000 Power for the turn.
+[S] [Put this in the Waiting Room] Choose 1 of your ::Hero:: Characters. That
+Character gains +2000 Power for the turn.
+
+================================================================================
+
+Rico, Loves Machine!
+機械大好き！ リコ
+Card No.: DD/WE12-26  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: Whenever I see a machine that I don't know about, my tail and
+research instinct both become hyper!
+TEXT: [A] [Clock] SHIFT Level 0]
+[S] [(1)] Choose an Opponent's Front Row Character whose Level is 0 or lower
+and put it in the Waiting Room.
+
+================================================================================
+
+Millhi, Proxy Operation
+替え玉作戦 ミルヒ
+Card No.: DD/WE12-27  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Knight: "Understood. Please pass"
+TEXT: [C] If "Ricotta Elmar" is in your Clock, this gains +2000 Power.
+
+================================================================================
+
+Millhi, Looking on
+見つめるミルヒ
+Card No.: DD/WE12-28  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Hero Cinque, isn't it?... I've heard of you
+TEXT: -- None --
+
+================================================================================
+
+Rico, Chief Researcher
+主席研究士 リコ
+Card No.: DD/WE12-29  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: Since our princess asks very truthfully, I shall research a way for our
+hero to return!
+TEXT: [A] At the beginning of your Opponent's Attack Phase, you may choose this
+alongside 1 of your Character with "Millhi" in the name. Stand them and swap
+them.
+
+================================================================================
+
+Cinque, Summon Hero
+召喚勇者 シンク
+Card No.: DD/WE12-30  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I've heard the princess' call... Hero Cinque has arrived NOW!!!
+TEXT: [A] When this is Front Attacked, you may put the top card of your Library
+in your Waiting Room. If it's a Climax card, choose the Character Opposite
+this. That Character gets -1 Soul for the turn.
+
+================================================================================
+
+Ecle, Praetorian Guard Captain
+親衛隊長 エクレ
+Card No.: DD/WE12-31  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Eclair... the captain of the Praetorian Guards of the Knights
+TEXT: -- None --
+
+================================================================================
+
+Millhi, Encounter at the Bath!
+お風呂で遭遇！ ミルヒ
+Card No.: DD/WE12-32  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Er, er! I'm just about done, so hero, please take your time!!
+TEXT: [C] If there are 3 or fewer cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Cinque Izumi
+シンク・イズミ
+Card No.: DD/WE12-33  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Yes! I'm Cinque Izumi - some people also call me a hero!
+TEXT: [A] When this is placed from the Stage to the Waiting Room, put the top
+card of your Library in your Clock.
+
+================================================================================
+
+Monster Ball
+ケモノダマ
+Card No.: DD/WE12-34  Rarity: C
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Nya-!
+TEXT: [Counter] Choose up to 2 of your ::Animal:: Characters. They gain "[A]
+When this is placed from the Stage to the Waiting Room, you may put this Rested
+in the Slot this was in" for the turn.
+
+================================================================================
+
+Hero's Arrival!
+勇者降臨！
+Card No.: DD/WE12-35  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Nice to meet you... you are the hero that has answered my summons,
+right?
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Rico's Support
+リコのサポート
+Card No.: DD/WE12-36  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: On the battlefield, I shall act as an artillery!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

@@ -1,0 +1,254 @@
+Idolm@ster Anime Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Miki, Admiration for Ryuuguu Komachi
+竜宮小町への憧れ 美希
+Card No.: IM/S21-081  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Miki tried a little hard!
+TEXT: [S] [(1)] This gains +1000 Power and "[A] When the Battle Opponent of
+this becomes Reversed, you may put that Character on top of the Library" for
+the turn.
+
+================================================================================
+
+Makoto, ALLSTAR LIVE
+ALLSTAR LIVE 真
+Card No.: IM/S21-082  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 of your other Characters. That Character gains "[C] This may Side
+Attack without the Soul Penalty" for the turn.
+
+================================================================================
+
+Haruka, Hoping for Bond
+絆を求めて 春香
+Card No.: IM/S21-083  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Everyone, I'm back!
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in your Waiting Room.
+[A] When this becomes Reversed, if the Level of the Battle Opponent is 2 or
+lower, you may Reverse that character.
+
+================================================================================
+
+Chihaya, Unleashed
+解き放たれた千早
+Card No.: IM/S21-084  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Audience: "Welcome back-!" "We've been waiting for
+Chihaya-chan!"
+TEXT: [C] Character Opposite this gets -1 Soul.
+[S] [(1)] Choose 1 of your ::Music:: Characters. That Character gains +1000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Hibiki, Hibiki Challenge!
+響チャレンジ！ 響
+Card No.: IM/S21-085  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Hamuzou: "Gyu-gyu! (Hibiki-chan, that way, that way!)"
+Hibiki: "Got it, go straight!"
+TEXT: -- None --
+
+================================================================================
+
+Haruka, Rookie Idol
+新人アイドル 春香
+Card No.: IM/S21-T01  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: S, sorry. I panicked and...
+TEXT: [C] All your other ::Music:: Characters gain +500 Power.
+
+================================================================================
+
+Ai, Brillance of Next Generation
+次世代の輝き 愛
+Card No.: IM/S21-T02  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: (I need to appeal lots and lots for us!)
+TEXT: -- None --
+
+================================================================================
+
+Miki, Return to Stage
+再び舞台へ 美希
+Card No.: IM/S21-T03  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Let Miki's heart thump more! As a real idol!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Miki, Sexy Santa
+セクシーサンタ 美希
+Card No.: IM/S21-T04  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: How's this outfit? Cute?
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+READY!!
+READY!!
+Card No.: IM/S21-T05  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: If you try, you can definitely do it / I'm NO.1
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Chihaya, Frog Kitchen
+ゲロゲロキッチン 千早
+Card No.: IM/S21-T06  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I, I, I got it-ribbit!
+TEXT: [S] [Rest 2 of your Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+Eri, Brilliance of Next Generation
+次世代の輝き 絵理
+Card No.: IM/S21-T07  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: (Must consider this reporter's likes and answer
+appropriately...)
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library, and put it either on top or bottom of the Library.
+
+================================================================================
+
+Takane, Ramen Hunter
+らあめんハンター 貴音
+Card No.: IM/S21-T08  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Ramen is culture, Ramen is evolution, Ramen is possibilities
+TEXT: [C] This gains ::Ramen:: while it's on the Stage.
+
+================================================================================
+
+Makoto, Action Star!
+アクションスター！ 真
+Card No.: IM/S21-T09  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Take thisssssss!
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Chihaya, Is This Really Live!? Sunday
+生っすか！？サンデー 千早
+Card No.: IM/S21-T10  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: L, live?
+TEXT: -- None --
+
+================================================================================
+
+Makoto, Makko-Makorin!
+まっこまこりーん！ 真
+Card No.: IM/S21-T11  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Kya-bi-bi-bi-bi-bin! Makko-Makorin!
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+A Certain Day's Scenery
+ある日の風景
+Card No.: IM/S21-T12  Rarity: TD
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: It's a song that I want to take a shot at!
+TEXT: Rest 1 of your Standing ::Music:: Characters. If so, draw up to 2 cards,
+and discard a card from hand to the Waiting Room. Send this to Memory.
+
+================================================================================
+
+Promise
+約束
+Card No.: IM/S21-T13  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Let's walk, the endless path / let's sing, across the sky
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+CHANGE!!!!
+CHANGE!!!!
+Card No.: IM/S21-T14  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SHOW MUST GO ON(star) 3.2.1
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

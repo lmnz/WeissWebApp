@@ -1,0 +1,501 @@
+Black Rock Shooter Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Yuu, Classmate
+クラスメイト ユウ
+Card No.: BR/SE06-01  Rarity: Ｒ
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: マネージャー (Manager)
+Triggers: Soul 
+Flavor: A promising first-year student..? If we don't do something about
+the volleyball club...
+TEXT: [C] If you have "Yomi, Mature Bishoujo" in play, this gains "[S] [Put
+this in the Waiting Room] Put a "Strength" from your Waiting Room in the Slot
+this was in."
+[C] All your other Characters gain +1000 Power during your turn.
+
+================================================================================
+
+Strength
+ストレングス
+Card No.: BR/SE06-02  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 9500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [A] When this is placed from hand to the Stage, put 1 of your Characters
+with "Yuu" in its name from Stage to the Waiting Room. If you can't, put the
+top card in your Library in your Clock.
+
+================================================================================
+
+Yuu, Elite Manager
+優秀なマネージャー ユウ
+Card No.: BR/SE06-03  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: マネージャー (Manager)
+Triggers: None
+Flavor: Did you hurt yourself during the landing? Can you stand up?
+TEXT: [C] All your other Characters gain +1000 Power during your turn.
+[S] [(2) Rest this] Search your Library for up to 1 ::Sports:: Character,
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Black Gold Saw, Blade of Darkness
+無明の刃 ブラックゴールドソー
+Card No.: BR/SE06-04  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Yuu
+ユウ
+Card No.: BR/SE06-05  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: マネージャー (Manager)
+Triggers: None
+Flavor: My name is Yuu, pleased to meet you
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Black Gold Saw
+ブラックゴールドソー
+Card No.: BR/SE06-06  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [A] ALARM If this is on top of your Clock, at the beginning of your
+Climax Phase, choose 1 of your Characters. That Character gains +1 Soul for the
+turn.
+
+================================================================================
+
+Yomi, Returned from Overseas
+帰国子女 ヨミ
+Card No.: BR/SE06-07  Rarity: Ｒ
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: That's fine
+TEXT: [C] If you have "Yuu, Classmate" in play, this gains "[S] [Put this in
+the Waiting Room] Put a '"Dead Scythe" Dead Master' from your Waiting Room in
+the Slot this was in."
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+"Cold Smile" Dead Master
+“冷笑”デッドマスター
+Card No.: BR/SE06-08  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [S] BRAINSTORM [(1)] Reveal top 4 cards of your Library and put them in
+the Waiting Room. X = # of Climax Cards revealed. Search your Library for up to
+X ::Weapon:: Characters, reveal them, put them in your hand, then discard X
+cards from your hand to the Waiting Room.
+
+================================================================================
+
+Dead Master, Emerald Eyes
+翠緑の瞳 デッドマスター
+Card No.: BR/SE06-09  Rarity: Ｒ
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [S] [Rest 2 of your Characters] Choose 1 of your ::Weapon:: Characters.
+That Character gains "[A] When the Battle Opponent of this becomes Reversed,
+you may put the top card of your Library in your Stock Zone." for the turn.
+
+================================================================================
+
+"Dead Scythe" Dead Master
+“Dead Scythe”デッドマスター
+Card No.: BR/SE06-10  Rarity: Ｒ
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [A] When this is placed from hand to the Stage, put 1 of your Characters
+with "Yomi" in its name from the Stage to the Waiting Room. If you can't, put
+the top card of your Library to your Clock.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Dead Master, Lord of Eternal Darkness
+常闇の主 デッドマスター
+Card No.: BR/SE06-11  Rarity: Ｒ
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+in your Clock in your Waiting Room.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If you
+do, look at up to 3 cards from the top of your Opponent's Library. You may put
+them back in any order.
+
+================================================================================
+
+Dead Master, Girl from an Alien World
+異世界の少女 デッドマスター
+Card No.: BR/SE06-12  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If you do, search your Library for up to 1 Character with either ::Sports:: or
+::Weapon::, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Dead Master, Hollow
+空虚なる者 デッドマスター
+Card No.: BR/SE06-13  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxx
+TEXT: [S] [Rest 2 of your Characters] Choose 1 Character in your Opponent's
+Front Row. That Character gets -1000 Power for the turn.
+
+================================================================================
+
+Yomi, Hope of the Volleyball Club
+バレー部のホープ ヨミ
+Card No.: BR/SE06-14  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: I've decided on which club to join
+TEXT: [C] If you have 1 or fewer other Characters in your Front Row, this gains
++1000 Power.
+
+================================================================================
+
+Yomi Takanashi
+小鳥遊 ヨミ
+Card No.: BR/SE06-15  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: It's pronounced "Takanashi". The kanjis are written as
+"Bird" and "Play"
+TEXT: [A] When this Attacks, if "Star-Shaped Strap" is in the Climax Zone,
+choose 1 of your other Characters. That Character gains +1500 Power for the
+turn, and this Character gains +1500 Power for the turn.
+
+================================================================================
+
+Yomi, Mature Bishoujo
+大人びた美少女 ヨミ
+Card No.: BR/SE06-16  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: Soul 
+Flavor: I'm not great at it, but I like math a little
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times the Level of that Character.
+[A] [(2)] When this is placed from either hand or the Waiting Room to the
+Stage, you may pay cost. If you do, search your Library for up to 1 ::Sports::
+Character, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Dead Master, Dancing in Darkness
+闇を舞うデッドマスター
+Card No.: BR/SE06-17  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Dead Master, Black Throne
+黒の玉座 デッドマスター
+Card No.: BR/SE06-18  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxx
+TEXT: [A] When this attacks, if "Shadow Floating in Darkness" is in the Climax
+Zone, this gains +1000 Power for the turn, and your Opponent may not play
+BACKUP from their hand for the turn.
+
+================================================================================
+
+Star-Shaped Strap
+星型のストラップ
+Card No.: BR/SE06-19  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Mato: "This is for you!"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Shadow Floating in Darkness
+闇に浮かぶ影
+Card No.: BR/SE06-20  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: xxxxx
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Mato, Naive and Romantic
+天真爛漫 マト
+Card No.: BR/SE06-21  Rarity: Ｒ
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: Where should we go today?
+TEXT: [A] [Put a card from hand to the Clock] When this is placed from hand to
+the Stage, you may pay cost. If you do, search your Library for up to 1
+::Sports:: Character, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Black Rock Shooter, Girl from an Alien World
+異世界の少女 ブラック★ロックシューター
+Card No.: BR/SE06-22  Rarity: Ｒ
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [C] If you don't have another ::Sports:: Character, this does not Stand
+during your Stand Phase.
+
+================================================================================
+
+Mato & Yomi, Contrasting Girls
+対照的な二人 マト＆ヨミ
+Card No.: BR/SE06-23  Rarity: Ｒ
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: Mato: "This is cute~" Yomi: "It really is~"
+TEXT: [C] All your other "Mato & Yomi, Contrasting Girls" gain +500 Power and
+"[A] ENCORE [Discard a Character card from hand to the Waiting Room]"
+
+================================================================================
+
+Black Rock Shooter, Blue Shock
+青い衝撃 ブラック★ロックシューター
+Card No.: BR/SE06-24  Rarity: Ｒ
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [A] CHANGE [(1) Put this in the Clock] At the beginning of your Encore
+Step, if this is Rested, you may pay cost. If you do, put a "Black Rock
+Shooter, Darkness Rider" from your Waiting Room in the Slot this was in.
+
+================================================================================
+
+Black Rock Shooter, Darkness Rider
+闇を駆けるブラック★ロックシューター
+Card No.: BR/SE06-25  Rarity: Ｒ
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [C] During your Opponent's turn, if you have 4 or more cards in your
+Stock Zone, this gains +1500 Power.
+
+================================================================================
+
+Black Rock Shooter, Standing Still
+佇むブラック★ロックシューター
+Card No.: BR/SE06-26  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If you do, put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+"Black Blade" Black Rock Shooter
+“Black blade”ブラック★ロックシューター
+Card No.: BR/SE06-27  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [C] For each "Mato, First-Year Ace Hopeful" you have, this gains +1000
+Power.
+
+================================================================================
+
+Mato, First-Year Ace Hopeful
+期待の一年生エース マト
+Card No.: BR/SE06-28  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: I know, I'll work hard!
+TEXT: -- None --
+
+================================================================================
+
+Mato Kuroi
+黒衣 マト
+Card No.: BR/SE06-29  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: I'm Mato Kuroi, Mato is fine
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] BOND/"Yomi Takanashi" [(1)]
+
+================================================================================
+
+"Rock Cannon" Black Rock Shooter
+“★Rock Cannon”ブラック★ロックシューター
+Card No.: BR/SE06-30  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: xxxxx
+TEXT: [A] [Put a "Dead Master, Emerald Eyes" from your Stage to the Stock Zone]
+When this attacks, if "Rock Cannon" is in the Climax Zone, you may pay cost. If
+you do, put a "Yomi, Mature Bishoujo" from your Waiting Room to a Slot in the
+Back Row.
+
+================================================================================
+
+Black Rock Shooter, Blue Fiery Eyes
+青き炎の瞳 ブラック★ロックシューター
+Card No.: BR/SE06-31  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Mato, Thinking of Friends
+友達を想うマト
+Card No.: BR/SE06-32  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: Soul 
+Flavor: I want to smile together with you...!
+TEXT: [A] [Send a "Black Rock Shooter, Girl from an Alien World" from hand to
+Memory, put this in the Waiting Room] When "Who Are You?" is placed to your
+Climax Zone, you may pay cost. If you do, put a '"Comet"' Black Rock Shooter'
+from your Waiting Room to the Slot this was in.
+
+================================================================================
+
+"Encounter" Black Rock Shooter & Dead Master
+“邂逅”ブラック★ロックシューター＆デッドマスター
+Card No.: BR/SE06-33  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: -- None --
+
+================================================================================
+
+"Comet" Black Rock Shooter
+“流星”ブラック★ロックシューター
+Card No.: BR/SE06-34  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: xxxxx
+TEXT: [A] When this is placed from either hand or the Waiting Room to the
+Stage, this gains "[A] When the Battle Opponent of this becomes Reversed, you
+may put that Character on the bottom of the Library. If you do, search your
+Library for up to 1 Character whose Level is lower than the Battle Opponent,
+reveal it, and put it in your hand. Shuffle your Library." for the turn.
+
+================================================================================
+
+Rock Cannon
+★Rock Cannon
+Card No.: BR/SE06-35  Rarity: C
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: xxxxx
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Who Are You?
+アナタは誰？
+Card No.: BR/SE06-36  Rarity: C
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Black Rock Shooter: "Do you want to help her?"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

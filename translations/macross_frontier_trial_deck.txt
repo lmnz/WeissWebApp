@@ -1,0 +1,258 @@
+Macross Frontier Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Ranka on That Day
+あの日のランカ
+Card No.: MF/S13-101  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Ranshe "Vajra might be coming for you!"
+TEXT: [C] ASSIST Your ::Music:: Characters in front of this gain +1 Level and
++500 Power.
+[S] [Rest this] Choose 1 of your ::Music:: Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Sheryl, Nagging Bunny
+おねだりバニー シェリル
+Card No.: MF/S13-102  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, if you have 3 or more
+Characters with either ::Music:: and/or ::Pilot::, this gains +1 Soul for the
+turn.
+
+================================================================================
+
+Sheryl, Date in Disguise
+お忍びデート シェリル
+Card No.: MF/S13-103  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Have you been here, to the Galaxy?
+TEXT: [C] This gain +1000 Power during your turn.
+
+================================================================================
+
+Sheryl, False Songstress
+イツワリノウタヒメ シェリル
+Card No.: MF/S13-104  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: You can't save the galaxy just by songs, no?
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock to your Waiting Room.
+
+================================================================================
+
+Ranka, Mascot
+看板娘 ランカ
+Card No.: MF/S13-105  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: I'm going~
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Sheryl, Mission Code "Galactic Fairy"
+ミッションコード“銀河の妖精”シェリル
+Card No.: MF/S13-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: This is VEGA's Black Card. if it's not sufficient, I'll
+just pay with my royalties from my next album!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When 1 of your Characters Direct Attacks, choose 1 of your Characters. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Sheryl by the Lake
+湖畔のシェリル
+Card No.: MF/S13-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: It's the first time for me too... The girl who sang "Aimo"
+in this gigantic galaxy
+TEXT: -- None --
+
+================================================================================
+
+"Rival's Instinct" Sheryl
+“ライバルの予感”シェリル
+Card No.: MF/S13-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: This girl's song...
+TEXT: -- None --
+
+================================================================================
+
+Loveslinger Sheryl
+ラブスリンガー シェリル
+Card No.: MF/S13-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Let's keep going!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Sheryl Nome, Galactic Fairy
+銀河の妖精 シェリル・ノーム
+Card No.: MF/S13-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Let's go, Ranka!
+TEXT: [A] [(1)] When this attacks, if "Obelisk" is in the Climax Zone, you may
+pay cost. If so, all your Characters gain +1000 Power and +1 Soul for the
+turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Diamond Crevasse" Sheryl
+“ダイアモンド クレバス”シェリル
+Card No.: MF/S13-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: I wang to sing... for the people risking their lives far away from
+here...
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Obelisk
+オベリスク
+Card No.: MF/S13-T07  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I... My song should do something for the Vajras!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+all your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Universal Bunny
+ユニバーサル・バニー
+Card No.: MF/S13-T08  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Ranka, Starlight Natto
+スターライト納豆 ランカ
+Card No.: MF/S13-T09  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I convinced Vector Production's Elmo to allow me to debut as a
+singer!
+TEXT: [C] If there are 4 or fewer cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+Ranka, First CM Song
+はじめてのＣＭソング ランカ
+Card No.: MF/S13-T10  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: As Alto-kun pushes my back, I also started to fly!
+TEXT: -- None --
+
+================================================================================
+
+Ranka Lee, Super Dimension Cinderella
+超時空シンデレラ ランカ・リー
+Card No.: MF/S13-T11  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Miss Sheryl!
+TEXT: [A] [(1)] When this attacks, if "Aimo" is in the Climax Zone, you may pay
+cost. If so, search your Library for up to 1 Level 1 or higher Character with
+either ::Vajra:: and/or ::Music::, reveal it, and put it in your hand. Shuffle
+your Library. 
+
+================================================================================
+
+Ranka, Lonely
+独りのランカ
+Card No.: MF/S13-T12  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Brera: "Target has moved from Island 1 to Island 3. It appears to
+be heading towards Central Mall"
+TEXT: -- None --
+
+================================================================================
+
+Ranka, Rescued
+救出されるランカ
+Card No.: MF/S13-T13  Rarity: TD
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Alto-kun!
+TEXT: Choose 1 of your Opponent's Characters. That Character gets -2000 Power
+for the turn.
+
+================================================================================
+
+Aimo
+アイモ
+Card No.: MF/S13-T14  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Please listen to my song!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

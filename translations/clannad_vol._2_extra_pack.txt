@@ -1,0 +1,254 @@
+CLANNAD Vol. 2 Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Nagisa & Ushio
+渚＆汐
+Card No.: CL/WE04-01  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: だんご (Dumpling)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Mom, let's play~
+TEXT: [C] During your turn, if you have other RED and BLUE Characters, this
+gains +3000 Power.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 Character whose Power is 500 or lower, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Nagisa Okazaki
+岡崎 渚
+Card No.: CL/WE04-02  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: だんご (Dumpling)      Trait 2: None
+Triggers: None
+Flavor: Tomoya-kun, welcome home
+TEXT: [A] BOND/"Tomoya, Optimistic" [(1)]
+
+================================================================================
+
+Mei, Love Cupid
+恋の仕掛け人 芽衣
+Card No.: CL/WE04-03  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 愛 (Love)      Trait 2: None
+Triggers: None
+Flavor: Count on me!
+TEXT: [S] [(2) Rest this] All your Characters with "Nagisa" in the name gain +1
+Soul for the turn.
+
+================================================================================
+
+Tomoya, Optimistic
+前向きな朋也
+Card No.: CL/WE04-04  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 不良 (Delinquent)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Hey, try to wave while smiling
+TEXT: [A] When this is placed from hand to the Stage, Rest this.
+
+================================================================================
+
+Tomoyo Sakagami
+坂上 智代
+Card No.: CL/WE04-05  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: You're a good kid. I'm glad
+TEXT: -- None --
+
+================================================================================
+
+Tomoyo, Student Council President
+生徒会長 智代
+Card No.: CL/WE04-06  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Because of you, I was able to become Student Council President... Thank
+you
+TEXT: [C] During battle involving this card, if the Battle Opponent of this has
+::Sports::, this gains +2000 Power.
+[A] When this attacks, if "Tomoyo's Vow" is in the Climax Zone, all your
+::Play:: Characters gain +2000 Power and "[A] When this attacks, you may put
+the top card of your Library in your Stock" for the turn.
+
+================================================================================
+
+Fuuko Ibuki
+伊吹 風子
+Card No.: CL/WE04-07  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ヒトデ (Starfish)      Trait 2: None
+Triggers: None
+Flavor: Here, have this!
+TEXT: [C] If you have other RED and BLUE Characters, all your other Characters
+gain +500 Power.
+
+================================================================================
+
+Fuuko in Pajamas
+パジャマの風子
+Card No.: CL/WE04-08  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: ヒトデ (Starfish)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: Thank you, Nagisa-san
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Starfish:: Character, reveal it, and
+put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Tomoyo's Vow
+智代の誓い
+Card No.: CL/WE04-09  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: From now on, every year... I vow to have my family to see the cherry
+blossom...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kyou & Tomoyo
+杏＆智代
+Card No.: CL/WE04-10  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 委員長 (Chairman)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Sunohara: "The worst combination, Kyou and Tomoyo, finally showed
+their fangs!"
+TEXT: [A] [(5)] When this is placed from hand to the Stage, if you have other
+Characters with ::Dumplings::, ::Delinquent::, ::Starfish::, AND ::Book::, you
+may pay cost. If so, put all Level 2 or lower Characters in your Opponent's
+Front Row in the Waiting Room.
+
+================================================================================
+
+Kyou Fujibaya
+藤林 杏
+Card No.: CL/WE04-11  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: Hey, Tomoya. You didn't forget the promise, right?
+TEXT: [C] If your Opponent has a Character whose Power is 500 or lower, this
+gains +1500 Power.
+[S] [(2) Rest this] Choose a Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Nagisa & Kyou
+渚＆杏
+Card No.: CL/WE04-12  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 演劇 (Play)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: Nagisa: "I don't know how well I can do, but I'll
+try..."
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+Kyou, Chairman
+委員長 杏
+Card No.: CL/WE04-13  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 双子 (Twins)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: I'll do it! This looks fun!
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, deal 1 damage to your Opponent. (Damage Cancel may occur)
+[A] When this attacks, if "Love Triangle" is in the Climax Zone, choose a
+Character whose name includes "Tomoya" in your Waiting Room and return it to
+your hand, and this gains +5000 Power for the turn.
+
+================================================================================
+
+Love Triangle
+恋のトライアングル
+Card No.: CL/WE04-14  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Ryou: "Uh, if it's a bother, don't force..."
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kotomi, Genius Girl
+天才少女ことみ
+Card No.: CL/WE04-15  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1000   Soul: 1
+Trait 1: 本 (Book)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: I'm very, very happy
+TEXT: [C] ASSIST All your Characters in front of this gain +1 Level.
+[A] At the beginning of your Draw Phase, if you don't have another Character
+whsoe name includes "Tomoya", Rest this.
+[S] [(1) Rest this] Draw a card.
+
+================================================================================
+
+Kotomi, At Her Own Pace
+マイペースことみ
+Card No.: CL/WE04-16  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 本 (Book)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: I wanted you to wait~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Ryou, Fortune Telling Lover
+占い好きな椋
+Card No.: CL/WE04-17  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 占い (Fortune Reading)
+Triggers: None
+Flavor: I know. My fortune telling is always wrong
+TEXT: [C] All your other Characters with "Kyou" in the name gain +500 Power.
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Yuusuke Yoshino
+芳野 祐介
+Card No.: CL/WE04-18  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Even if it has no shape, memory will last forever...
+TEXT: [A] This ability may be played up to once per turn. When you use [S],
+this gains +1000 Power for the turn.
+
+================================================================================
+

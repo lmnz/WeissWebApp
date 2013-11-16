@@ -1,0 +1,513 @@
+Persona 4 Ultimate Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Yousuke, Self-Proclaimed Special Investigation Squad
+自称特別捜査隊 陽介
+Card No.: P4/SE15-01  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: It's fun with everyone around the table. If they were all
+"friends", that is
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest this] Choose 1 of your ::Junes:: Characters. That Character gains
++500 Power for the turn.
+
+================================================================================
+
+"Steel Sister Complex Leader" Yu Narukami
+「鋼のシスコン番長」鳴上 悠
+Card No.: P4/SE15-02  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall not give the cute Nanako to anyone!
+TEXT: [C] If this is on the Stage, this is also considered to have the name
+'"Steel Sister Complex Leader" Protagonist'.
+[A] When this is placed from hand to te Stage, you may put the top card of your
+Clock in the Waiting Room.
+[A] [(1)] When a Level 2 or higher Battle Opponent of this becomes Reversed,
+you may pay cost. If so, search your Library for up to 1 Character with either
+::Magic:: and/or "Nanako" in name, reveal it, and put it in your hand. Shuffle
+your Library.
+
+================================================================================
+
+Nanako, Helping Out
+お手伝い 菜々子
+Card No.: P4/SE15-03  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: テレビ (Television)
+Triggers: None
+Flavor: Nanako shall help too!
+TEXT: [C] If you have 1 of fewer other Characters, this gains +1000 Power and
+"[A] ENCORE [Discard a Character card from your hand to the Waiting Room]".
+
+================================================================================
+
+"Captain Resentment" Yousuke Hanamura
+「キャプテン・ルサンチマン」花村 陽介
+Card No.: P4/SE15-04  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: Using the lonely countryside as the stepping stone, I shall become a
+hero!
+TEXT: -- None --
+
+================================================================================
+
+Yu, Self-Proclaimed Special Investigation Squad
+自称特別捜査隊 悠
+Card No.: P4/SE15-05  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Now, shall we
+TEXT: [C] If this is on the Stage, this is also considered to have the name
+"Protagonist, Self-Proclaimed Special Investigation Squad".
+[A] [(1)] When this attacks, if "P-1 Grand Prix Commencing!" is in the Climax
+Zone, you may pay cost. If so, this gains +3000 Power and "[A] This ability may
+activate up to once per turn. When the Damage dealt by this is Cancelled, you
+may deal 1 Damage to your Opponent." until the end of turn. (Damage Cancel can
+occur)
+
+================================================================================
+
+P-1 Grand Prix Commencing!
+Ｐ－１グランプリ開戦！
+Card No.: P4/SE15-06  Rarity: C
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Rival is - written as "Strong Opponent", but pronounced
+"Friend"!
+TEXT: [A] When this is placed from your hand to the Climax Zone, draw a card,
+and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul.
+
+================================================================================
+
+"Heartless Angel Full of Armaments" Aigis
+「全身凶器の心なき天使」アイギス
+Card No.: P4/SE15-07  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Her fingers, machineguns. Her eyes, sights
+TEXT: [C] If you have no other Characters, this gains +2000 Power.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, perform the
+following action once. "Choose a card in your Clock and return it to your hand,
+and put the top card of your Library in Clock."
+
+================================================================================
+
+"Steel Student Council President of Eighth High School" Labrys
+「八高・鋼鉄の生徒会長！」ラビリス
+Card No.: P4/SE15-08  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Chain Knuckles for those who disturbs the morals!
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+[A] [(1)] When "Anger of Labrys" is placed in your Climax Zone, if this is in
+the Front Row, you may pay cost. If so, choose 1 Character in your Opponent's
+Front Row. That Character gets -4000 Power for the turn.
+
+================================================================================
+
+"Male-Rivalling Dragon of Footwork" Chie Satonaka
+「男勝りの足技系ドラゴン」里中 千枝
+Card No.: P4/SE15-09  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: Carnivore who has discared her status as female
+TEXT: [C] If you have 3 or more other ::Sports:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+"Bullish President of Massacre" Shadow Labrys
+「皆殺しの猛牛総統」シャドウラビリス
+Card No.: P4/SE15-10  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 影 (Shadow)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Now, are you prepared to die?
+TEXT: [A] When this is placed from your hand to the Stage, you may put the top
+card of your Clock in the Waiting Room.
+[A] [(1)] When a Level 2 or higher Battle Opponent of this becomes Reversed, if
+"Asterius Appears" is in your Climax Zone, you may pay cost. If so, choose 1
+Level 2 or lower Character in your Opponent's Front Row and put it in Clock.
+
+================================================================================
+
+President Teddie, Organizer of P-1 Grand Prix!
+Ｐ－１グランプリの主催者！ クマ総統
+Card No.: P4/SE15-11  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Man amongst men, come out kuma--!!
+TEXT: [A] [(2)] When this is placed from your hand to the Stage, you may pay
+cost. If so, search your Library for 1 Level 2 or higher Character, reveal it,
+and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Body Number 024
+機体番号０２４
+Card No.: P4/SE15-12  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: None
+Triggers: None
+Flavor: It would be nice if I could come with you to meet "her"
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Rise, P-1 Grand Prix Exclusive Live
+Ｐ－１グランプリ専属実況 りせ
+Card No.: P4/SE15-13  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: テレビ (Television)
+Triggers: None
+Flavor: Are you okay with determination to fight!?
+TEXT: [S] [Rest 2 Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+Chie, Future Woman Police
+未来の婦人警官 千枝
+Card No.: P4/SE15-14  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Meat rice bowl with extra servings!?
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Aigis, Reunited Sisters
+姉妹の再会 アイギス
+Card No.: P4/SE15-15  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: First, let's go back, Rise-san, Onee-san. Back to where everyone is
+waiting
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Labrys, Fateful Encounter
+運命の対峙 ラビリス
+Card No.: P4/SE15-16  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Doing it by yourself... not just you, me too
+TEXT: [A] [(3) Send this to Memory] When this is placed from hand to the Stage,
+you may pay cost. If so, choose up to 1 '"Bullish President of Massacre" Shadow
+Labrys' in your hand and put it in any Slot on the Stage, and at the beginning
+of your next Draw Phase, choose 1 "Labrys, Fateful Encounter" in your Memory
+and put it in any Slot on the Stage.
+
+================================================================================
+
+Anger of Labrys
+ラビリスの怒り
+Card No.: P4/SE15-17  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: My... important... promises--!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Asterius Appears
+アステリオス出現
+Card No.: P4/SE15-18  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Shadow Labrys: "This allows me to be me!"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Yukiko, Promise with Friends
+仲間との約束 雪子
+Card No.: P4/SE15-19  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Don't worry, we are here
+TEXT: [S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and
+put them in the Waiting Room. For each Climax card revealed this way, choose a
+Character card in your Waiting Room and return it to your hand.
+
+================================================================================
+
+"Thrilling Hard-Muscled Emperor" Kanji Tatsumi
+「戦慄のガチムチ皇帝」巽 完二
+Card No.: P4/SE15-20  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 不良 (Delinquent)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: The combination of rose and body!
+TEXT: [A] [(1) Put the top card of your Library in Clock] When "Genko And Bond"
+is placed in your Climax Zone, if this is in the Front Row, you may pay cost.
+If so, choose 1 of your Opponent's Characters whose Cost is 0 or lower and put
+it in the Waiting Room, and this gains +3000 Power for the turn.
+
+================================================================================
+
+"Hard to Conquer Snow 'Black'" Yukiko Amagi
+「難攻不落の“黒”雪姫」天城 雪子
+Card No.: P4/SE15-21  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Prince, take me to the ring!
+TEXT: [C] If you have 3 or more other Characters with either ::Fan:: and/or
+::Yukata::, this gains +500 Power and "[A] ENCORE [Discard a Character card
+from your hand to the Waiting Room]".
+
+================================================================================
+
+Akihiko, Fist to Protect
+守るための拳 明彦
+Card No.: P4/SE15-22  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: If there's something you want, fight
+TEXT: -- None --
+
+================================================================================
+
+"Career-Risking Battle" Kanji
+“生涯かけての勝負”完二 
+Card No.: P4/SE15-23  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 不良 (Delinquent)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: Now... come at me!!
+TEXT: [A] When this is placed from your hand to the Stage, choose 1 of your
+other ::Magic:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+"Protein Junkie of Steel Fist!" Akihiko Sanada
+「剛拳のプロテインジャンキー！」真田 明彦
+Card No.: P4/SE15-24  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: The fanatic returned!
+TEXT: [C] Character Opposite this gain "[A] ENCORE [Discard a Character card
+from your hand to the Waiting Room]".
+
+================================================================================
+
+Warrior Training
+武者修行
+Card No.: P4/SE15-25  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Actually, my withdrawl symptom is about to appear - my body is seeking
+"that"
+TEXT: Choose up to 2 Characters in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Horror of Object X
+物体Xの恐怖
+Card No.: P4/SE15-26  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yukiko: "Good timing! To celebrate solving the case, let's have
+some bento?"
+TEXT: Choose a Character in your Opponent's Front Row and put it in the Waiting
+Room.
+
+================================================================================
+
+Genko And Bond
+ゲンコと絆
+Card No.: P4/SE15-27  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: If you know me, you'd understand. ... Genko does not tell lies!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Teddie, Self-Proclaimed Special Investigation Squad
+自称特別捜査隊 クマ
+Card No.: P4/SE15-28  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: But, there are people who understand me kuma
+TEXT: [C] ASSIST During your Opponent's turn, all your Characters in front of
+this gain +1000 Power.
+[A] When this is placed from your hand to the Stage, look at the top card of
+your Library and put it either on top or bottom of the Library.
+
+================================================================================
+
+"Solitude Execution Queen!" Mitsuru Kirijou
+「孤高の処刑女王！」桐条 美鶴
+Card No.: P4/SE15-29  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The throne of loneliness judges the evil!
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+[S] [(1) Discard a card from your hand to the Waiting Room] This gains +3000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Killjoy Detective With IQ 2000" Naoto Shirogane
+「IQ2000のKY探偵」　白鐘 直斗
+Card No.: P4/SE15-30  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 男装 (Male Dressing)      Trait 2: 探偵 (Detective)
+Triggers: Soul 
+Flavor: Looks like a child, but brainy like a monster!
+TEXT: [C] If you have 3 or more other Characters with either ::Male Dressing::
+and/or ::Female Dressing::, this gains +1000 Power and "[A] When a Level 2 or
+higher Battle Opponent of this becomes Reversed, you may draw a card."
+[A] When this is placed from your hand to the Stage, draw up to 2 cards, and
+discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+"Beast of Libido" Teddie
+「色欲の猛獣」クマ
+Card No.: P4/SE15-31  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: That void shall devour all!
+TEXT: [A] [Put this in the Waiting Room] When another Character of yours is
+placed from the Stage to the Waiting Room, if this is in the Back Row, you may
+pay cost. If so, put that Character Rested in the Slot it was in.
+
+================================================================================
+
+"Worst Elevator Girl in the History" Elizabeth
+「史上最凶のエレベーターガール」エリザベス
+Card No.: P4/SE15-32  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 神 (God)
+Triggers: None
+Flavor: Anyone shall be treated to a Megidolaon
+TEXT: [A] When this is placed from your hand to the Stage, reveal the top card
+of your Library. If it's a Climax card, put this in the Waiting Room. (Put the
+revealed card back where it was)
+[S] [(1)] Draw a card, and discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+Elizabeth, In the Midst of Eternal Journey
+永い旅路の途中 エリザベス
+Card No.: P4/SE15-33  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 神 (God)
+Triggers: None
+Flavor: I... there are things that I also wish to accomplish
+TEXT: [C] If there are 5 or more cards in your hand, this gains +2000 Power.
+[A] ENCORE [Put the top card of your Library in Clock]
+
+================================================================================
+
+Mitsuru, Captain of Shadow Walker
+シャドウワーカー隊長 美鶴
+Card No.: P4/SE15-34  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Now, conviction time!!
+TEXT: [A] When the Battle Opponent of this becomes Reversed, you may draw a
+card. If so, discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+Naoto, Undercover Investigation
+潜入捜査 直斗
+Card No.: P4/SE15-35  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 男装 (Male Dressing)      Trait 2: 探偵 (Detective)
+Triggers: Soul 
+Flavor: I shall stop you... definitely!
+TEXT: [C] For each other ::Male Dressing:: and/or ::Female Dressing::
+Character, this gains +500 Power.
+[A] [(1)] When this attacks, if "Breaking Into the Broadcasting Room!" is in
+the Climax Zone, you may pay cost. If so, draw up to 2 cards, and discard a
+card from your hand ot the Waiting Room, and this gains +1000 Power for the
+turn.
+
+================================================================================
+
+Breaking Into the Broadcasting Room!
+放送室突入！
+Card No.: P4/SE15-36  Rarity: C
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kujikawa-san!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

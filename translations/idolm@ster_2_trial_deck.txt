@@ -1,0 +1,274 @@
+Idolm@ster 2 Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Yukiho, Unit Member
+ユニットメンバー 雪歩
+Card No.: IM/S14-101  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Hey, please sing with meeee!
+TEXT: [A] When this attacks, choose 1 of your ::Music:: Characters. That
+Character gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Miki, Unit Member
+ユニットメンバー 美希
+Card No.: IM/S14-102  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I will be singing here! Sorry for making you wait!
+TEXT: [A] When this is placed from hand to the Stage, rest 2 of your Standing
+Characters.
+
+================================================================================
+
+Yayoi, Unit Member
+ユニットメンバー やよい
+Card No.: IM/S14-103  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: I'll sing too!
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Haruka, Orthodox Idol!
+正統派アイドル！ 春香
+Card No.: IM/S14-104  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: I'll sing any kind of song today!
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, deal 1 damage to your Opponent. (Damage Cancel can occur)
+[A] When you place a Climax card to the Climax Zone, this gains +1500 Power for
+the turn.
+
+================================================================================
+
+A Certain Day's 765 Production
+ある日の７６５プロ
+Card No.: IM/S14-105  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: President: "You are all marvelous girls!"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Yukiho in Casual Clothing
+私服の雪歩
+Card No.: IM/S14-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Ehehe, everyone's having fun!
+TEXT: [A] When the Battle Opponent of your other Characters becomes Reversed,
+choose 1 of your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Mami, Charming Venus
+チャーミングヴィーナス 真美
+Card No.: IM/S14-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: Here comes the Super Idol Mami!
+TEXT: [C] If there is no other Character in your Front Row, this gains +1 Level
+and +1000 Power.
+
+================================================================================
+
+Yayoi in Casual Clothing
+私服のやよい
+Card No.: IM/S14-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Producer! High-five! Yay!
+TEXT: [A] When this is placed from hand to the Stage, if your Opponent has
+"Yayoi in Casual Clothing", and everyone agrees, high-five. If you do, all
+players put the top card of their Library in their Stock. (Please pay attention
+to the noise level)
+
+================================================================================
+
+Kotori-san, Ubiquitous
+神出鬼没？ 小鳥さん
+Card No.: IM/S14-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: You call, Producer?
+TEXT: [A] [(1) When this is placed from hand to the Stage, you may pay cost. If
+so, choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Yayoi as Berochoro
+べろちょろ やよい
+Card No.: IM/S14-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Ehehe, I'm now Berochoro!
+TEXT: [C] This cannot be chosen as target of Opponent's effects.
+[C] ASSIST Characters in front of this gain +X Power, where X = 500 times Level
+of that Character.
+
+================================================================================
+
+Yukiho, Charming Venus
+チャーミングヴィーナス 雪歩
+Card No.: IM/S14-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: If it's on stage, I can shine too...!
+TEXT: -- None --
+
+================================================================================
+
+Do-Dai
+Do-Dai
+Card No.: IM/S14-T07  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Mami: "Next up is Mami and friends' Do-Dai, here we go yo-!"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Haruka, Charming Venus
+チャーミングヴィーナス 春香
+Card No.: IM/S14-T08  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Producer, does this look nice on me?
+TEXT: [C] RECOLLECTION If "BK MANIAC" is in your Memory, this gains "[S] [Rest
+this] Choose 1 of your ::Music:: Characters. That Character gains +2000 Power
+for the turn."
+[A] When this attacks, Rest all Standing Characters of yours.
+
+================================================================================
+
+Hibiki, Charming Venus
+チャーミングヴィーナス 響
+Card No.: IM/S14-T09  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: I feel nice today!
+TEXT: -- None --
+
+================================================================================
+
+Miki, Charming Venus
+チャーミングヴィーナス 美希
+Card No.: IM/S14-T10  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Everyone, please enjoy Miki and friends' live today!
+TEXT: -- None --
+
+================================================================================
+
+Haruka in Casual Clothing
+私服の春香
+Card No.: IM/S14-T11  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Let's move on to the next job!
+TEXT: [A] When this is placed from hand to Stage, reveal the top card of your
+Library. If it is not a ::Music:: Character, Rest this. 
+[A] CHANGE [(2) Discard a card from hand to Waiting Room, put this in Waiting
+Room] At beginning of your Climax Phase, you may pay cost. If so, put a
+"Haruka, Pink Diamond 765" from your Waiting Room in the Slot this was in.
+
+================================================================================
+
+Miki, Love Attack!
+ラブアタック！ 美希
+Card No.: IM/S14-T12  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Producer! Stop running!
+TEXT: [A] ENCORE [Put the top card of your Library to your Clock]
+
+================================================================================
+
+Haruka, Pink Diamond 765
+ピンクダイヤモンド７６５ 春香
+Card No.: IM/S14-T13  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Hibiki-chan, Miki, are you all ready?
+TEXT: -- None --
+
+================================================================================
+
+BK MANIAC
+BK MANIAC
+Card No.: IM/S14-T14  Rarity: TD
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ahahaha, that clothing? I'll sell it for for 765,000 Money! 
+TEXT: Choose 1 of your Characters. That Character gains +3000 Power for the
+turn.
+You may put the top card of your Library into your Clock. If you do, choose 1
+of your ::Music:: Characters in your Waiting Room and return it to your hand.
+Send this to Memory.
+
+================================================================================
+
+GO MY WAY!!
+GO MY WAY!!
+Card No.: IM/S14-T15  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: This is my GO MY WAY!!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

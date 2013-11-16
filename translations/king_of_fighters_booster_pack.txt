@@ -1,0 +1,1662 @@
+King of Fighters Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+King
+キング
+Card No.: KF/S05-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 男装 (Male Dressing)      Trait 2: 薔薇 (Rose)
+Triggers: None
+Flavor: Come on, Baby
+TEXT: [C] For each card in your Level Zone, this gains +1500 Power.
+
+================================================================================
+
+Kyo & Iori
+京＆庵
+Card No.: KF/S05-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 神器 (Relics)      Trait 2: オロチ (Orochi)
+Triggers: Soul 
+Flavor: Kyo: "Yagami..." Iori: "Kyo... I'll be the one to kill
+you!"
+TEXT: [C] If "The Sun and the Moon" is in the Waiting Room, this gains +1
+Soul.
+[A] When "Fate of 660 Years Ago" is placed in your Climax Zone, you may choose
+a "The Sun and the Moon" in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Chang & Choi
+チャン＆チョイ
+Card No.: KF/S05-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 暗黒街 (South Town)
+Triggers: None
+Flavor: Chang: "hehehehehe" Choi: "We are killers"
+TEXT: [C] ALARM If this is on top of your Clock, all your Characters with
+either ::Teachers::, ::South Town::, or ::Delinquent:: gain +1000 Power.
+[A] CHANGE [Put this in Clock] At the beginning of your Draw Phase, you may pay
+cost. If so, choose a "Kim, Educator of Justice" in your Waiting Room and put
+it in the Slot this was in.
+
+================================================================================
+
+Iori, Sealed One
+封ずる者 庵
+Card No.: KF/S05-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: None
+Flavor: Okay, I shall heed your encore. Burn until there's nothing left!
+TEXT: [A] [(1)] When this attacks, if "Trinity Two" is in your Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Characters and return it to
+the hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Iori, Sealed One
+封ずる者 庵
+Card No.: KF/S05-004R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Trinity Two" is in your Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Characters and return it to
+the hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Kim, Educator of Justice
+正義の教育者キム
+Card No.: KF/S05-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: None
+Triggers: Soul 
+Flavor: I hate crimes, not the person! Let us fight for justice together from
+now on!
+TEXT: [C] If "Chang & Choi" is in your Clock, this gains +2000 Power.
+
+================================================================================
+
+Kyo, Prince of Flames
+炎の貴公子 京
+Card No.: KF/S05-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: Soul 
+Flavor: I give you credit for your spirit... but you have already lost.
+TEXT: [A] [(1)] When this attacks, if "Perfect Victory" is your Climax Zone,
+you may pay cost. If so, choose 1 of your Opponent's Characters and return it
+to the hand, and this gains +3000 Power for the turn.
+[A] CHANGE [Put this in your Waiting Room] At the beginning of your Draw Phase,
+you may pay cost. If so, choose an "Iori, Berserking" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Kyo, Prince of Flames
+炎の貴公子 京
+Card No.: KF/S05-006S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Perfect Victory" is your Climax Zone,
+you may pay cost. If so, choose 1 of your Opponent's Characters and return it
+to the hand, and this gains +3000 Power for the turn.
+[A] CHANGE [Put this in your Waiting Room] At the beginning of your Draw Phase,
+you may pay cost. If so, choose an "Iori, Berserking" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Iori, Berserking
+暴走庵
+Card No.: KF/S05-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: Soul 
+Flavor: Shaaaaaa!!
+TEXT: [A] When this attacks, put all your other Front Row Characters in your
+Waiting Room. If you put 2 Characters in the Waiting Room this way, you may put
+the top card of your Clock in your Waiting Room.
+
+================================================================================
+
+Iori, Berserking
+暴走庵
+Card No.: KF/S05-007S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, put all your other Front Row Characters in your
+Waiting Room. If you put 2 Characters in the Waiting Room this way, you may put
+the top card of your Clock in your Waiting Room.
+
+================================================================================
+
+Kyo, Sweeper
+払う者 京
+Card No.: KF/S05-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: None
+Flavor: You need a handicap?
+TEXT: [C] This gains +1000 Power during your turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Mary, Free Agent
+フリーエージェント マリー
+Card No.: KF/S05-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Heh, I did it! Aha
+TEXT: [A] [Counter] BACKUP 1500, Level 1 [Discard this from your hand to the
+Waiting Room]
+
+================================================================================
+
+Mature & Vice
+マチュア＆バイス
+Card No.: KF/S05-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 暗黒街 (South Town)
+Triggers: Soul 
+Flavor: Mature: "That was fun. Thank you" Vice: "We shall meet
+again on a full moon's night"
+TEXT: [C] All your other Characters with "Iori" or "Rugal" in the name gains
++1000 Power.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, search your
+Library for up to 1 ::Orochi:: Character, reveal it, and put it in your hand.
+Shuffle your Library.
+
+================================================================================
+
+Benimaru Nikaidou
+二階堂 紅丸
+Card No.: KF/S05-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: ナルシスト (Narcisscist)      Trait 2: None
+Triggers: Soul 
+Flavor: Paralyze!
+TEXT: [C] If you have a Character with either ::Relics:: or ::God:: or
+::Hachimaki::, this gains +1000 Power and "[A] ENCORE [Discard a Character card
+from hand to the Waiting Room]".
+
+================================================================================
+
+Goenitz of the Wild Winds
+吹き荒ぶ風のゲーニッツ
+Card No.: KF/S05-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 10000   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: I shall pray for you all, pray for you of protections...
+TEXT: [C] Your Opponent's Front Row Characters gain +1000 Power and
+::Orochi::.
+[A] [(6)] At the beginning of your Opponent's Attack Phase, if this is in your
+Front Row, you may pay cost. If so, all your Opponent's Front Row Characters
+gain "[A] When this attacks, choose another of your Front Row Characters and
+put it in the Waiting Room".
+
+================================================================================
+
+Shingo Yabuki
+矢吹 真吾
+Card No.: KF/S05-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: パン (Bread)      Trait 2: None
+Triggers: None
+Flavor: Huh? You're not energetic! Hustle, hustle!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 Character with either
+::Relics:: or ::Bread::, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+Kasumi Toudou
+藤堂 香澄
+Card No.: KF/S05-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 鉢巻 (Hachimaki)      Trait 2: None
+Triggers: None
+Flavor: Double hit!
+TEXT: [S] [Rest this] Choose 1 of your other Characters. That Character gains
++1000 Power and ::Hachimaki:: for the turn.
+
+================================================================================
+
+Blue Mary
+ブルー・マリー
+Card No.: KF/S05-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: And~ are you ready?
+TEXT: [C] If you have 3 or more other Level 0 or lower Characters, this gains
++1000 Power.
+
+================================================================================
+
+Iori Yagami
+八神 庵
+Card No.: KF/S05-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: None
+Flavor: Remember whenever you see the moon!
+TEXT: -- None --
+
+================================================================================
+
+Adelheid
+アーデルハイド
+Card No.: KF/S05-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 薔薇 (Rose)      Trait 2: 暗黒街 (South Town)
+Triggers: None
+Flavor: Rose: "Perfect, my dear bother! An ultimate victory fitting for our
+bloodline!"
+TEXT: -- None --
+
+================================================================================
+
+Kim, Treasure of the Tae Kwon Do World
+テコンドー界の至宝キム
+Card No.: KF/S05-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: None
+Triggers: Soul 
+Flavor: Phoenix Kick!
+TEXT: [A] When this attacks, you may put the top card of your Library in your
+Waiting Room. If so, for each Soul Trigger Icon on that card, this gains +1
+Soul for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+King, Beauty of Kicks
+蹴撃の麗人キング
+Card No.: KF/S05-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 男装 (Male Dressing)      Trait 2: 薔薇 (Rose)
+Triggers: Soul 
+Flavor: You didn't know, kiddo? Roses have thorns.
+TEXT: -- None --
+
+================================================================================
+
+Purple Flame and Green Flame
+紫炎と緑炎
+Card No.: KF/S05-020  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Iori: "I have no quarrel with you..."
+TEXT: [Counter] Choose 1 of your Characters and return it to your hand. If so,
+your Opponent chooses 1 of his or her Characters and return it to the hand.
+
+================================================================================
+
+The Sun and the Moon
+日輪と月輪
+Card No.: KF/S05-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kyo: "Yagami..." Iori: "Kyo..."
+TEXT: [Counter] If you don't have any Characters with either "Kyo" or "Iori" in
+the name, you cannot play this from hand. Choose 1 of your Characters. That
+Character gains +2500 Power and +1 Soul for the turn.
+
+================================================================================
+
+Kin 1211 Style: Ya Otome
+禁千弐百拾壱式・八稚女
+Card No.: KF/S05-022  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Playing time is done! Cry! Scream and die!
+TEXT: Choose 1 of your Characters. That Character gains +1 Soul for the turn.
+Choose a Level 2 or lower Character opposite the chosen Character and return it
+to te hand. Your Opponent puts the top card of his or her Stock in the Waiting
+Room.
+
+================================================================================
+
+Trinity Two
+三神技之弐
+Card No.: KF/S05-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Disappear!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Trinity Two
+三神技之弐
+Card No.: KF/S05-023SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Fate of 660 Years Ago
+660年前の因縁
+Card No.: KF/S05-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kyo: "Here I go!!" Iori: "Here I go!!"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+Perfect Victory
+完全勝利
+Card No.: KF/S05-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Perfect!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Hiedern, Cold Assassin
+冷徹なる暗殺者ハイデルン
+Card No.: KF/S05-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: You understand now? This is the difference between a battle veteran and
+one who's not
+TEXT: [C] All your other ::Army:: Characters gain +500 Power.
+[A] When your Opponent uses "[A] ENCORE", you may put the top card of your
+Library in your Stock. (This includes "[A] ENCORE [(3)]" provided by rules.)
+
+================================================================================
+
+Geese, Bad Charisma
+悪のカリスマ ギース
+Card No.: KF/S05-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: Reppuken!! Double Reppuken!!
+TEXT: [A] When this attacks, if "Rashoumon" is in the Climax Zone, put the top
+card of your Library in your Stock, and this gains +X Power for the turn, where
+X = 1000 times number of your other Characters with either ::South Town::,
+::Delinquent::, and/or ::Demon::.
+[S] [Discard a ::South Town::, ::Delinquent::, and/or ::Demon:: Character from
+hand] Choose 1 of your Opponent's Characters. That Character gets -1000 Power
+for the turn.
+
+================================================================================
+
+Geese, Bad Charisma
+悪のカリスマ ギース
+Card No.: KF/S05-027S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Rashoumon" is in the Climax Zone, put the top
+card of your Library in your Stock, and this gains +X Power for the turn, where
+X = 1000 times number of your other Characters with either ::South Town::,
+::Delinquent::, and/or ::Demon::.
+[S] [Discard a ::South Town::, ::Delinquent::, and/or ::Demon:: Character from
+hand] Choose 1 of your Opponent's Characters. That Character gets -1000 Power
+for the turn.
+
+================================================================================
+
+Leona, Silent Soldier
+サイレントソルジャー レオナ
+Card No.: KF/S05-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: オロチ (Orochi)
+Triggers: None
+Flavor: The mission will continue..... Please provide backup
+TEXT: [C] All your other ::Army:: Characters gain +500 Power.
+[S] [Rest this] Choose 1 of your ::Army:: Characters. That Character gains +500
+Power for the turn.
+
+================================================================================
+
+Leona, Silent Soldier
+サイレントソルジャー レオナ
+Card No.: KF/S05-028S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: オロチ (Orochi)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Army:: Characters gain +500 Power.
+[S] [Rest this] Choose 1 of your ::Army:: Characters. That Character gains +500
+Power for the turn.
+
+================================================================================
+
+Clark Steel
+クラーク・スティル
+Card No.: KF/S05-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Mission, accomplished
+TEXT: [A] CHANGE [Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Ralf Jones" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Billy, Faithful Shadow of Geese
+忠実なるギースの影ビリー
+Card No.: KF/S05-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 暗黒街 (South Town)
+Triggers: None
+Flavor: Hey hey hey!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] CHANGE [(1) Put this in your Clock] At the beginning of your Draw Phase,
+you may pay cost. If so, choose a "Geese, Bad Charisma" in your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+Shen Woo
+シェン・ウー
+Card No.: KF/S05-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Let's have fun!
+TEXT: [A] [Put the top card of your Library in your Clock] When you use the
+BACKUP of this, you may pay cost. If so, choose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Ash, Plunderer
+略奪者アッシュ
+Card No.: KF/S05-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 3000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Everyone here disappoints me. I'm bored. Au revoir~
+TEXT: [C] This gains all traits of all other Characters on the Stage. For each
+trait this has, this gains +1000 Power.
+[A] When "Germinal" is placed in your Climax Zone, put the top card of your
+Clock in your Stock, and your Opponent may not use Events or BACKUP from hand
+this turn.
+[A] When the Battle Opponent of this becomes Reversed, send that Character to
+Memory.
+
+================================================================================
+
+Ash, Plunderer
+略奪者アッシュ
+Card No.: KF/S05-032R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 3000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] This gains all traits of all other Characters on the Stage. For each
+trait this has, this gains +1000 Power.
+[A] When "Germinal" is placed in your Climax Zone, put the top card of your
+Clock in your Stock, and your Opponent may not use Events or BACKUP from hand
+this turn.
+[A] When the Battle Opponent of this becomes Reversed, send that Character to
+Memory.
+
+================================================================================
+
+Daimon, Judo Practictioner
+柔道家 大門
+Card No.: KF/S05-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 鉢巻 (Hachimaki)      Trait 2: None
+Triggers: None
+Flavor: A Sun circle on the head! That's how a Japanese male should be
+TEXT: [S] [(1)] Choose 1 of your other Characters. That Character gains +1500
+Power and ::Hachimaki:: for the turn.
+
+================================================================================
+
+Geese Howard
+ギース・ハワード
+Card No.: KF/S05-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 暗黒街 (South Town)      Trait 2: None
+Triggers: None
+Flavor: I don't need a bodyguard that is only loyal...... don't ever
+forget that, Billy
+TEXT: [S] [(1) Rest this] Choose a card in your Clock and return it to your
+hand. Choose a card in your hand and put it in your Clock.
+[S] [(1)] Choose 1 of your other Characters. That Character gains +1500 Power
+and ::South Town:: for the turn.
+
+================================================================================
+
+Ralf Jones
+ラルフ・ジョーンズ
+Card No.: KF/S05-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: None
+Triggers: None
+Flavor: Mission, accomplished
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[A] CHANGE [(1) Put this in Clock] At the beginning of your Draw Phase, you may
+pay cost. If so, choose a "Leona Hiedern" in your Waiting Room and put it in
+the Slot this was in. (You cannot use this if this isn't on the Stage at the
+beginning of the Draw Phase)
+
+================================================================================
+
+Leona Hiedern
+レオナ・ハイデルン
+Card No.: KF/S05-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 軍隊 (Army)      Trait 2: オロチ (Orochi)
+Triggers: Soul 
+Flavor: I didn't want to use this power... I'm sorry
+TEXT: [C] If you have other Characters with ::Orochi::, this gains +2000 Power
+and "[A] When this attacks, put all your other Characters in the Front Row in
+the Waiting Room".
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Goro Daimon
+大門 五郎
+Card No.: KF/S05-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 鉢巻 (Hachimaki)      Trait 2: None
+Triggers: Soul 
+Flavor: I shall take this head on
+TEXT: [C] Character Opposite this gains "[A] ENCORE [Discard a Character card
+from hand to the Waiting Room]".
+
+================================================================================
+
+Elizabeth Blanctorche
+エリザベート・ブラントルシュ
+Card No.: KF/S05-038  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Let me see how you live
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+BIlly Kane
+ビリー・カーン
+Card No.: KF/S05-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 暗黒街 (South Town)
+Triggers: None
+Flavor: Get out of the way
+TEXT: [C] If you have 3 or more other Characters, this gains +1500 Power.
+
+================================================================================
+
+Raiden
+ライデン
+Card No.: KF/S05-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 仮面 (Mask)      Trait 2: 暗黒街 (South Town)
+Triggers: None
+Flavor: I am Raiden!
+TEXT: [C] For each other Standing Character you have, this gains +500 Power.
+
+================================================================================
+
+Ash, Sneering Crimson Shadow
+嘲笑う火影アッシュ
+Card No.: KF/S05-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 神器 (Relics)
+Triggers: None
+Flavor: Being burned by green flames will result in the same colored ash.
+Humiliating color of the mouse. Ahahaha
+TEXT: -- None --
+
+================================================================================
+
+Nameless
+ネームレス
+Card No.: KF/S05-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 改造 (Modification)
+Triggers: Soul 
+Flavor: I shall go meet you... I promise!
+TEXT: [A] When this attacks, if "Truth Seeker" is in your Climax Zone, all your
+Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Clark, Quiet Mercenary
+静かなる傭兵クラーク
+Card No.: KF/S05-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 2   Power: 7500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: There's something you can't gain from training. You must gain
+experience in actual combat
+TEXT: -- None --
+
+================================================================================
+
+Zheprime Nameless
+Ж'ネームレス
+Card No.: KF/S05-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 改造 (Modification)
+Triggers: Soul 
+Flavor: You're near me... I keep having this feeling...
+TEXT: -- None --
+
+================================================================================
+
+Provoke
+挑発
+Card No.: KF/S05-045  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ash: "You can stop me....."
+TEXT: [Counter] Choose 1 Character. That Character gains +2000 Power and a
+trait of your choice for the turn.
+
+================================================================================
+
+Member Select
+メンバーセレクト
+Card No.: KF/S05-046  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Select your team member
+TEXT: Choose a Character in your Clock and return it to your hand. Send this to
+Memory.
+
+================================================================================
+
+Mission And Pride
+使命と誇り
+Card No.: KF/S05-047  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: We shall never falter
+TEXT: All your Characters gain "[A] ENCORE [(1)]" for the turn.
+Put this in your Stock.
+
+================================================================================
+
+Rashoumon
+羅生門
+Card No.: KF/S05-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Haaaa-- Hey!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Rashoumon
+羅生門
+Card No.: KF/S05-048SP  Rarity: SP
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Germinal
+ジェルミナール
+Card No.: KF/S05-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Bon Voyage
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Truth Seeker
+真実の探求者
+Card No.: KF/S05-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I cannot be defeated yet...... I must reach the truth
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kyo Kusanagi
+草薙 京
+Card No.: KF/S05-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: None
+Flavor: Hehe... Does it make you hot?
+TEXT: [C] If "Japan Team" is in your Waiting Room, this gains +1500 Power.
+[A] When "Ura 108 Shiki: Orochi Nagi" is placed in your Climax Zone, this gains
++1000 Power and "[A] When the Battle Opponent of this becomes Reversed, you may
+put it on top of the Library" for the turn.
+
+================================================================================
+
+Kyo Kusanagi
+草薙 京
+Card No.: KF/S05-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If "Japan Team" is in your Waiting Room, this gains +1500 Power.
+[A] When "Ura 108 Shiki: Orochi Nagi" is placed in your Climax Zone, this gains
++1000 Power and "[A] When the Battle Opponent of this becomes Reversed, you may
+put it on top of the Library" for the turn.
+
+================================================================================
+
+Chris
+クリス
+Card No.: KF/S05-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: It has been fun. Yes!!
+TEXT: [A] When this becomes Reversed, if the Level of the Battle Opponent of
+this is 0 or lower, you may Reverse that Character.
+[A] CHANGE [Put this in the Waiting Room] At the start of your Draw Phase, you
+may pay cost. If so, choose a "Shermie, Provoking" in your Waiting Room and put
+it in the Slot this was in.
+
+================================================================================
+
+Chris
+クリス
+Card No.: KF/S05-052S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: SECRE
+TEXT: [A] When this becomes Reversed, if the Level of the Battle Opponent of
+this is 0 or lower, you may Reverse that Character.
+[A] CHANGE [Put this in the Waiting Room] At the start of your Draw Phase, you
+may pay cost. If so, choose a "Shermie, Provoking" in your Waiting Room and put
+it in the Slot this was in.
+
+================================================================================
+
+Andy Bogard
+アンディ・ボガード
+Card No.: KF/S05-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: None
+Triggers: None
+Flavor: Zan'ei-ken!!
+TEXT: [C] IF you have 2 or more other Characters with either ::Animal::,
+::Hachimaki::, and/or ::Ninja::, this gains +1500 Power.
+
+================================================================================
+
+Mai, Gorgeous Female Ninja
+華麗なる女忍者 舞
+Card No.: KF/S05-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 忍 (Ninja)
+Triggers: None
+Flavor: Hey, Japan No.1!!
+TEXT: [A] [(1)] When this attacks, if "Hana Arashi" is in the Climax Zone, you
+may pay cost. If so, choose a Character in your Waiting Room and return it to
+your hand.
+[A] [(2)] When this attacks, you may pay cost. If so, choose a Character in
+your Waiting Room and return it to your hand.
+
+================================================================================
+
+Mai, Gorgeous Female Ninja
+華麗なる女忍者 舞
+Card No.: KF/S05-054S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 忍 (Ninja)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Hana Arashi" is in the Climax Zone, you
+may pay cost. If so, choose a Character in your Waiting Room and return it to
+your hand.
+[A] [(2)] When this attacks, you may pay cost. If so, choose a Character in
+your Waiting Room and return it to your hand.
+
+================================================================================
+
+Terry & Andy
+テリー＆アンディ
+Card No.: KF/S05-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 忍 (Ninja)
+Triggers: Soul 
+Flavor: Terry: "OK!" Andy: "Got it!"
+TEXT: [C] If "Fatal Fury Team" is in your Waiting Room, this gains +1500
+Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Terry Bogard
+テリー・ボガード
+Card No.: KF/S05-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: Stand up!
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, if you have 5 or fewer cards in your Library, return all cards in your
+Waiting Room to the Library. If so, search your Library for a "Fatal Fury
+Team", reveal it, and put it in your hand. Shuffle your Library.
+[A] [(1)] When this attacks, if "Buster Wolf" is in your Climax Zone, you may
+pay cost. If so, choose an Event card in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Omega Rugal
+オメガ・ルガール
+Card No.: KF/S05-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: オロチ (Orochi)      Trait 2: 暗黒街 (South Town)
+Triggers: Soul 
+Flavor: Disappear without a trace!
+TEXT: [A] [(4)] When this becomes Reversed in battle, you may pay cost. If so,
+deal 3 Damage to your Opponent, and return this to the Library. Shuffle your
+Library. (Damage Cancel can occur)
+
+================================================================================
+
+Shermie
+シェルミー
+Card No.: KF/S05-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Everyone seems to like big breasts?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1) Rest this] Choose 1 of your ::Orochi:: or ::Dragon:: Characters. That
+Character gains "[A] When this becomes Reversed, if the Level of the Battle
+Opponent of this is less or equal to the Level of this, you may Reverse that
+Character" for the turn. 
+
+================================================================================
+
+Joe Higashi
+ジョー・ヒガシ
+Card No.: KF/S05-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 鉢巻 (Hachimaki)      Trait 2: None
+Triggers: None
+Flavor: Yess!
+TEXT: [A] CHANGE [Put this in your Clock] At the beginning of your Draw Phase,
+you may pay cost. If so, choose a "Terry Bogard" in your Waiting Room and put
+it in the Slot this was in.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, perform the following
+action: "Choose a Character card with either ::Animal:: or ::Ninja:: in your
+Waiting Room and return it to your hand, and discard a card from hand to the
+Waiting Room".
+
+================================================================================
+
+Shermie, Provoking
+挑発するシェルミー
+Card No.: KF/S05-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: La-ta-ta, la-ta-ta, la-ta-ta, la-ta-la-ta-la-ta-ta-, aha! 
+TEXT: -- None --
+
+================================================================================
+
+Ryuji Yamazaki
+山崎 竜二
+Card No.: KF/S05-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: オロチ (Orochi)      Trait 2: 暗黒街 (South Town)
+Triggers: Soul 
+Flavor: 100 years too early!
+TEXT: [A] [(3)] When you use the BACKUP of this, you may pay cost. If you do,
+choose 1 of your Opponent's Character with ASSIST. Put that Character in the
+Waiting Room.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from hand to the
+Waiting Room] 
+
+================================================================================
+
+Kyo, Successor of Powerful Flames
+猛き炎の伝承者 京
+Card No.: KF/S05-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 神器 (Relics)      Trait 2: 日輪 (Sun)
+Triggers: Soul 
+Flavor: It's my.... victory!
+TEXT: [A] [(2)] When this is placed from hand to the Stage, oyu may pay cost.
+If so, choose an Event card in your Waiting Room and return it to your hand.
+[A] [(4)] When you play an Event, you may pay cost. If so, deal 3 Damage to
+your Opponent. (Damage Cancel can occur)
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Eiji Kisaragi
+如月 影二
+Card No.: KF/S05-063  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: No one can fight my ninjutsu 
+TEXT: [S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and
+put them in the Waiting Room. For each Climax card revealed this way, choose up
+to 1 Character in your Waiting Room and return it to your hand. 
+
+================================================================================
+
+Duolon
+デュオロン
+Card No.: KF/S05-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 霊 (Spirit)      Trait 2: None
+Triggers: None
+Flavor: Living in darkness and unable to conquer the darkness, attaching to
+shadows but cannot live the way of the shadows...
+TEXT: [S] [(3) Rest this] Choose a Level 1 or lower Character in your Waiting
+Room and put it in any Slot on the Stage.
+
+================================================================================
+
+KUSANAGI
+KUSANAGI
+Card No.: KF/S05-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: None
+Triggers: None
+Flavor: Heh... This is MY "Fist of Kusanagi"!
+TEXT: [A] [Discard a card from hand to the Waiting Room, put this in the
+Waiting Room] When this is placed from hand to the Stage, you may pay cost. If
+so, choose a Character card with "Kyo" in the name in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Terry, Wild Wolf
+ワイルドウルフ テリー
+Card No.: KF/S05-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Get Ready!
+TEXT: -- None --
+
+================================================================================
+
+Magaki
+禍忌
+Card No.: KF/S05-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: If human has potentials, show them to me.
+TEXT: [A] [(2)] When this is placed from Stage to the Waiting Room, you may pay
+cost. If so, choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Mai Shiranui
+不知火 舞
+Card No.: KF/S05-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 忍 (Ninja)
+Triggers: Soul 
+Flavor: Dance like a butterfly, sting like a bee... how's that? That's
+the Shiranui way! 
+TEXT: -- None --
+
+================================================================================
+
+Yashiro Nanakase
+七枷 社
+Card No.: KF/S05-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: オロチ (Orochi)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: Hard, strong, and berserking!
+TEXT: [C] If you have 2 or more other Characters with either ::Orochi:: or
+::Dragon::, this gains +1000 Power.
+[A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If you do, choose a Character card with either ::Orochi:: or ::Dragon:: in your
+Waiting Room and return it to your hand. 
+
+================================================================================
+
+Japan Team
+日本チーム
+Card No.: KF/S05-070  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kyo: "You really want to keep chasing all your life? Show me what
+you got!"
+TEXT: If you have no Characters with either "Kyo", "Benimaru", or "Goro" in
+play, you cannot play this from hand.
+Choose up to 2 Characters in your Waiting Room and return them to your hand.
+
+================================================================================
+
+Fatal Fury Team
+餓狼伝説チーム
+Card No.: KF/S05-071  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Terry: "Well, we are staples in the tournament. Of course we can
+get this kind of good result!"
+TEXT: If you have no Characters with either "Terry", "Andy", or "Joe" in play,
+you cannot play this from hand.
+All your Characters gain +2000 Power for the turn.
+
+================================================================================
+
+104 Shiki: Aragami
+百拾四式・荒咬み
+Card No.: KF/S05-072  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Your body is wide open!
+TEXT: Choose an Event in your Waiting Room and return it to your hand. Send
+this to Memory.
+
+================================================================================
+
+Ura 108 Shiki: Orochi nagi
+裏百八式・大蛇薙
+Card No.: KF/S05-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Ahhhhhh! Eat this!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Hana Arashi
+花嵐
+Card No.: KF/S05-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hahhhhhhh!
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Hana Arashi
+花嵐
+Card No.: KF/S05-074SP  Rarity: SP
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Buster Wolf
+バスターウルフ
+Card No.: KF/S05-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Are you OK?
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kula, Ice Beauty
+氷の美少女クーラ
+Card No.: KF/S05-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: Aha! 4 on 1 is an act of cowardice, no?
+TEXT: [C] All your other Characters with ::Modification:: and/or ::Clone:: gain
++500 Power.
+[C] ASSIST All your Characters in Front of this gain +500 Power.
+[A] [(1)] When "Diamond Edge" is placed in your Climax Zone, you may pay cost.
+If so, choose an Opponent's Character whose Level is 0 or lower, stand it, and
+move it to another empty Slot on Opponent's Stage.
+
+================================================================================
+
+Kula, Ice Beauty
+氷の美少女クーラ
+Card No.: KF/S05-076R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters with ::Modification:: and/or ::Clone:: gain
++500 Power.
+[C] ASSIST All your Characters in Front of this gain +500 Power.
+[A] [(1)] When "Diamond Edge" is placed in your Climax Zone, you may pay cost.
+If so, choose an Opponent's Character whose Level is 0 or lower, stand it, and
+move it to another empty Slot on Opponent's Stage.
+
+================================================================================
+
+Athena in Sailor Uniform
+セーラー服のアテナ
+Card No.: KF/S05-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: Perfect! right?
+TEXT: [A] When this attacks, if "Super Phoenix Infinity" is in your Climax
+Zone, search your Library for up to 1 "Psycho Soldier Team", reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Athena in Sailor Uniform
+セーラー服のアテナ
+Card No.: KF/S05-077S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Super Phoenix Infinity" is in your Climax
+Zone, search your Library for up to 1 "Psycho Soldier Team", reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Whip, Rookie of Ikari Team
+アックス小隊の新人ウィップ
+Card No.: KF/S05-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: Widow and I have no blind spots
+TEXT: [A] When the Battle Opponent of this becomes Reversed, draw a card, and
+discard 1 card from your hand.
+
+================================================================================
+
+Yuri, Tomboy Girl
+お転婆娘ユリ
+Card No.: KF/S05-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: This is nothing!!
+TEXT: [A] CHANGE [Put this in Clock] At the beginning of your Draw Phase, you
+may pay cost. If so, choose a "Ryo Sakazaki" in your Waiting Room and put it in
+the Slot this was in.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. Search your Library for up to X Characters with either ::Dragon::
+and/or ::Animal::, reveal them, and put them in your hand. Shuffle that
+Library. Discard X cards from your hand to the Waiting Room. X = number of
+Climax cards revealed this way.
+
+================================================================================
+
+Yuri, Tomboy Girl
+お転婆娘ユリ
+Card No.: KF/S05-079S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] CHANGE [Put this in Clock] At the beginning of your Draw Phase, you
+may pay cost. If so, choose a "Ryo Sakazaki" in your Waiting Room and put it in
+the Slot this was in.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. Search your Library for up to X Characters with either ::Dragon::
+and/or ::Animal::, reveal them, and put them in your hand. Shuffle that
+Library. Discard X cards from your hand to the Waiting Room. X = number of
+Climax cards revealed this way.
+
+================================================================================
+
+Ryo Sakazaki
+リョウ・サカザキ
+Card No.: KF/S05-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 竜 (Dragon)      Trait 2: None
+Triggers: Soul 
+Flavor: If I have to fight an enemy with weapons, I have no choice but to use
+Haoh Shou Kouken!
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, if you have 5 or fewer cards in your Library, return all cards in your
+Waiting Room to your Library. If so, shuffle that Library, and choose 1 of your
+Opponent's Characters. Stand that Character, and either move it to another
+empty Slot or choose another of your Opponent's Character, Stand it, and swap
+their Slots.
+
+================================================================================
+
+Kula Diamond
+クーラ・ダイアモンド
+Card No.: KF/S05-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 改造 (Modification)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: Here I go, a powerful attack!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[A] CHANGE [Put this in the Waiting Room] At the beginning of your Draw Phase,
+you may pay cost. If so, choose a "One Who Exceeds K" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+One Who Exceeds K
+Kを超えるもの
+Card No.: KF/S05-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: Soul 
+Flavor: Blackout
+TEXT: [A] At the beginning of your Opponent's Attack Phase, you may move this
+to another empty Slot in your Front Row.
+[A] When this is Front Attacked, look at the top card of your Library. Put it
+either back on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Athena Asamiya
+麻宮 アテナ
+Card No.: KF/S05-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Athena, going
+TEXT: [S] [(3) Put this in the Waiting Room] Choose a Character in your Waiting
+Room with "Athena" in name whose Level is less or equal to your Level and put
+it in the Slot this was in.
+
+================================================================================
+
+Yuri Sakazaki
+ユリ・サカザキ
+Card No.: KF/S05-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: Let's do this quick!
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+K'
+K'
+Card No.: KF/S05-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: None
+Flavor: Heh, crushed again... an imperfect combustion is a good thing I guess...
+TEXT: [C] If you have 2 or more other Characters with ::Modification:: and/or
+::Clone::, this gains +1500 Power.
+[A] [(1)] When this attacks, if "Illegitimate Child of Baddies" is in your
+Climax Zone, you may pay cost. If so, search your Library for up to 1 Character
+with ::Modification:: and/or ::Clone::, reveal it, and put it in your hand.
+Shuffle your Library.
+
+================================================================================
+
+Kensou Sei
+椎 拳崇
+Card No.: KF/S05-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 竜 (Dragon)
+Triggers: Soul 
+Flavor: I can do this cleanly! Athena, would you watch closely?
+TEXT: [C] ALARM If this is on top of your Clock, all your Characters with
+either ::ESP::, ::Wine::, and/or ::Dragon:: gain +1000 Power.
+[A] CHANGE [Put this in Clock] At the beginning of your Draw Phase, you may pay
+cost. If so, choose an "Athena in Sailor Uniform" in your Waiting Room and put
+it in the Slot this was in.
+
+================================================================================
+
+Whip
+ウィップ
+Card No.: KF/S05-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 軍隊 (Army)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: This is your deadline
+TEXT: -- None --
+
+================================================================================
+
+Gentsai Chin
+鎮 元斎
+Card No.: KF/S05-088  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 酒 (Wine)      Trait 2: None
+Triggers: None
+Flavor: What? I haven't drunk enough yet
+TEXT: [C] If there's at least 1 ::Wine:: Character in your Waiting Room, this
+gains +2000 Power.
+[S] [Rest this] Search your Library for up to 1 Character with either ::ESP::
+or ::Wine:: or an Event and put it in the Waiting Room. Shuffle your Library.
+
+================================================================================
+
+Ramon
+ラモン
+Card No.: KF/S05-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 眼帯 (Eye Patch)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: The wind of Mexico calls for my victory
+TEXT: [C] All your other Characters with either ::Modification:: and/or
+::Clone:: gain +500 Power.
+
+================================================================================
+
+Robert Garcia
+ロバート・ガルシア
+Card No.: KF/S05-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: We are "Strongest Tiger" and "Invincible Dragon"
+TEXT: [A] [(2)] When this attacks, you may pay cost. If so, draw a card.
+
+================================================================================
+
+Kula, Icicle Doll
+アイシクル・ドール クーラ
+Card No.: KF/S05-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: Kula is a good girl
+TEXT: -- None --
+
+================================================================================
+
+Takuma Sakazaki
+タクマ・サカザキ
+Card No.: KF/S05-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 竜 (Dragon)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: Don't take fights kindly, come back again!
+TEXT: [A] When you use the BACKUP of this, if "Art of Fighting Team" is in your
+Waiting Room, choose 1 of your Characters. That Character gains +1000 Power for
+the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Maxima
+マキシマ
+Card No.: KF/S05-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 改造 (Modification)
+Triggers: Soul 
+Flavor: I am proud of my "body", normal people can't dent it
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Dragon Ki" Kensou
+“龍の気”拳崇
+Card No.: KF/S05-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 竜 (Dragon)
+Triggers: Soul 
+Flavor: The power that flows from deep within the body... is this the power of
+"Dragon Ki"!?
+TEXT: -- None --
+
+================================================================================
+
+Psycho Soldier Team
+サイコソルジャーチーム
+Card No.: KF/S05-095  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Athena: "If my power can make someone happy...... Okay! Athena,
+going"
+TEXT: If you have no Character with either "Athena", "Kensou", or "Gentsai" in
+your Waiting Room, you cannot play this from hand.
+Put up to 2 cards from top of your Clock in your Waiting Room. Send this to
+Memory.
+
+================================================================================
+
+Art of Fighting Team
+龍虎の拳チーム
+Card No.: KF/S05-096  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ryo: "Kyokugen Dojo is now seeking disciples! *cough* Hugely
+seeking disciples!"
+TEXT: If you have no Character with either "Takuma", "Ryo", or "Robert" in your
+Waiting Room, you cannot play this from hand.
+Draw up to 2 cards, and discard 1 card from your hand to the Waiting Room.
+
+================================================================================
+
+Continue
+コンティニュー
+Card No.: KF/S05-097  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Continue?
+TEXT: [Counter] Choose 1 of your Battling Characters. That Character gains a
+trait of your choice and "[A] When this is placed from the Stage to the Waiting
+Room, you may put this Rested in the Slot this was in" for the turn.
+
+================================================================================
+
+Super Phoenix Infinity
+スーパーフェニックスインフィニティー
+Card No.: KF/S05-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+Illegitimate Child of Baddies
+ネスツの落し子
+Card No.: KF/S05-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: We have no intentons to lose to you all
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Diamond Edge
+ダイアモンドエッジ
+Card No.: KF/S05-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Here I go, a really big one
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Diamond Edge
+ダイアモンドエッジ
+Card No.: KF/S05-100SP  Rarity: SP
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

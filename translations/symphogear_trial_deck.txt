@@ -1,0 +1,258 @@
+Symphogear Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Hibiki, Miku's Best Friend
+未来の親友 響
+Card No.: SG/W19-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Hey, Miku
+TEXT: [A] [(1) Put the top card of your Library in your Clock] When this is
+placed from the Stage to the Waiting Room, you may pay cost. If so, search your
+Library for up to 1 ::Music:: Character, reveal it, and put it in your hand.
+Shuffle your Library.
+
+================================================================================
+
+Tsubasa, Putting Self into Fights
+戦いに身を置く翼
+Card No.: SG/W19-102  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ... The sword does not have those emotions...
+TEXT: [A] When this is placed from hand t othe Stage, this gains +1500 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Hibiki, Bearer of Symphogear
+シンフォギアの装者 響
+Card No.: SG/W19-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I shall fight
+TEXT: [C] ASSIST All your Level 2 or higher Characters in from of this gain
++1000 Power.
+[S] [Rest 2 of your ::Music:: Characters] Choose 1 of your Characters. That
+Character gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Tsubasa, Bearer of Symphogear
+シンフォギアの装者 翼
+Card No.: SG/W19-104  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Tsubasa Kazanari is a warrior trained in swords
+TEXT: [A] When this is placed from hand to the Stage, choose up to 2 of your
+Characters. Those Characters gain +1000 Power and +1 Soul for the turn.
+[A] When your other ::Music:: Character attcks, this gains +1000 Power for the
+turn.
+
+================================================================================
+
+Tsubasa, Top Artist
+トップアーティスト 翼
+Card No.: SG/W19-105  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, you may pay cost. If so, choose 1 of your
+::Music:: Characters. That Character gains +1000 Power until the end of your
+Opponent's next turn.
+
+================================================================================
+
+Hibiki, Normal World
+いつものおせっかい 響
+Card No.: SG/W19-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Uh, I saw this little thing stuck on top of the tress on my way to
+school and couldn't get down...
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Hibiki, Important Person of Interest
+重要参考人 響
+Card No.: SG/W19-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Ah! My bookbag!
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Hibiki, First Live Concert
+初めてのライブ 響
+Card No.: SG/W19-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: My heart's beating, and I couldn't look away...... This is
+amazing... This is a live concert......
+TEXT: -- None --
+
+================================================================================
+
+Hibiki, Beats of Awakening
+覚醒の鼓動 響
+Card No.: SG/W19-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this attacks, choose 1 of your other ::Music:: Characters. That
+Character gains +1000 Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Hibiki, Doing Her Best
+一生懸命な響
+Card No.: SG/W19-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Tsubasa-san!
+TEXT: -- None --
+
+================================================================================
+
+Hibiki, Easily Ignored
+流されやすいタイプ 響
+Card No.: SG/W19-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Uh, here's some hot drinks, please have some
+TEXT: [C] If you have another Level 3 or higher Character, this gains +1000
+Power.
+
+================================================================================
+
+I Have Something to Protect!
+守りたいものがあるんです！
+Card No.: SG/W19-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: I wanted to see shooting stars with Miku!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Tsubasa, Cold Personality
+冷徹な態度 翼
+Card No.: SG/W19-T08  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: As an important person of interest, please come with me to the HQ
+TEXT: -- None --
+
+================================================================================
+
+Tsubasa, Thinking of Kanade
+奏を想う翼
+Card No.: SG/W19-T09  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Tsubasa, Facing Noise
+ノイズに立ち向かう翼
+Card No.: SG/W19-T10  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Hah!
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Tsubasa, Way of the Sentinel
+防人の生き様 翼
+Card No.: SG/W19-T11  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Why are you doing stupid things on the battlefield!
+TEXT: [A] When this attacks, if "The Blue Flash" is in the Climax Zone, this
+gains +1500 Power until the end of your Opponent's next turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"ZweiWing" Kanade & Tsubasa
+“ツヴァイウィング”奏＆翼
+Card No.: SG/W19-T12  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Kanade: "You and I, ZweiWing with two wings, shall fly afar
+regardless of distance!"
+TEXT: -- None --
+
+================================================================================
+
+We Were Two Back Then
+あの頃は二人だった
+Card No.: SG/W19-T13  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I thought that with Kanade we could accomplish much
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+The Blue Flash
+蒼ノ一閃
+Card No.: SG/W19-T14  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

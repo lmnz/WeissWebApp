@@ -1,0 +1,251 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Index, Living in the Academy City
+学園都市に暮らすインデックス
+Card No.: ID/W13-101  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: There he is! Touma~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Draw a card, and then discard a card to your Waiting Room.
+
+================================================================================
+
+Index, Winter Present
+冬の贈り物 インデックス
+Card No.: ID/W13-102  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: It's quiet
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this is being
+Front Attacked, you may pay cost. If you do, this gains +2000 Power.
+
+================================================================================
+
+Accelerator, No.1 of the Academy City 
+学園都市の第一位 一方通行
+Card No.: ID/W13-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: Soul 
+Flavor: Hey, how many is that now?
+TEXT: [C] During the battle involving this, you may not play events or BACKUP
+abilities from your hand.
+
+================================================================================
+
+"Science and Magic" Touma & Index
+“科学と魔術”当麻＆インデックス
+Card No.: ID/W13-104  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Index: "Touma~!"
+TEXT: [C] If there are 3 or fewer cards in your Clock, this gains +1000 Power.
+[A] When this is placed from hand to the Stage, you may put the top card in
+your Clock in your Waiting Room.
+
+================================================================================
+
+Mikoto, Untrue to Heart
+素直になれない美琴
+Card No.: ID/W13-105  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Since I have no other choices, here you go!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Accelerator, Strongest Esper
+最強の能力者 一方通行
+Card No.: ID/W13-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: I'm sleepy.. so I'll stay in the back
+TEXT: [C] When this card becomes Reversed, if its battle opponent's Level is 0
+or lower, you may put that Character in the Stock. If you do, put the bottom
+card of the Opponent's Stock to the Waiting Room.
+
+================================================================================
+
+Unlucky Touma
+不幸体質 当麻
+Card No.: ID/W13-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Hey, you! You know where Index is!?
+TEXT: -- None --
+
+================================================================================
+
+Last Order, Sisters' Controller
+妹達の上位個体 打ち止め
+Card No.: ID/W13-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 超能力 (ESP)
+Triggers: None
+Flavor: ...that's why Misaka Misaka rebels in a cute way!
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Awaki Musujime
+結標 淡希
+Card No.: ID/W13-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: My Move Point ability can move a record 4520kg
+TEXT: -- None --
+
+================================================================================
+
+"Multi-Spy" Tsuchimikado
+“多角スパイ”土御門
+Card No.: ID/W13-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 超能力 (ESP)
+Triggers: Soul 
+Flavor: ...Have you changed your mind?
+TEXT: [A] When this is placed from hand to the Stage, choose another of your
+Characters. That Character gains +1500 Power for the turn.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If you
+do, search your Library for up to 1 ::Magic:: or ::ESP:: Character, reveal it,
+and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Kuroko, Dutiful 7th Grader
+役者な中学一年生 黒子
+Card No.: ID/W13-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Dear sister... beautiful dear sister!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Imagine Breaker
+幻想殺し
+Card No.: ID/W13-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: I will always help those who are important to me
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Strongest Man in the Academy City
+学園都市最強の男
+Card No.: ID/W13-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Trespassing is NOT ALLOWED!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+"Fortis931" Stiyl
+“Fortis931”ステイル
+Card No.: ID/W13-T09  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: タバコ (Tobacco)
+Triggers: None
+Flavor: I have no reason to become familiar with you.
+TEXT: [C] This gains +X Power, where X = 2000 times Level of the Character
+opposite this.
+
+================================================================================
+
+Index, Parasite of the Touma Household
+上条家の居候 インデックス
+Card No.: ID/W13-T10  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: I'm angry because you don't even look at me!
+TEXT: -- None --
+
+================================================================================
+
+Laura Stuart
+ローラ＝スチュアート
+Card No.: ID/W13-T11  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 日傘 (Parasol)
+Triggers: None
+Flavor: Stiyl is a little man...
+TEXT: -- None --
+
+================================================================================
+
+Kanzaki, Former Amakusa Catholics
+元天草式十字凄教 神裂
+Card No.: ID/W13-T12  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Was unnecessary trouble caused?
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Ouma Yamisaka
+闇咲 逢魔
+Card No.: ID/W13-T13  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The signal for battle has been given
+TEXT: -- None --
+
+================================================================================
+
+The Girl Who Eats a Lot
+食いしん坊少女
+Card No.: ID/W13-T14  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: It might become 500 times more tasty!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

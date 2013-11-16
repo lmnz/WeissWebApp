@@ -1,0 +1,269 @@
+Fate&#47;Zero Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Irisviel, Acting Master
+代理マスター アイリスフィール
+Card No.: FZ/S17-101  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: Saber, retrieve the Grail. For you and your master
+TEXT: [C] Character opposite this gain +1 Soul.
+
+================================================================================
+
+Saber in Dark Suits
+ダークスーツのセイバー
+Card No.: FZ/S17-102  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: She shall survive. I shall protect her until the end
+TEXT: [S] [Rest 2 of your Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+Saber, Top Class
+最優のクラス セイバー
+Card No.: FZ/S17-103  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] During your turn, this gains +1000 Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+
+================================================================================
+
+Hill of Camlann
+カムランの丘
+Card No.: FZ/S17-104  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...... I'm ... sorry......
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Waver, "Shallow-blooded" Magician
+“血の浅い”魔術師 ウェイバー
+Card No.: FZ/S17-105  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: A true battle of power... a fitting stage for me
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Saber, Girl of Heroic Spirit
+英霊の少女 セイバー
+Card No.: FZ/S17-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] This ability may be played up to 2 times per turn. When another of
+your Characters with either ::Master:: or ::Homunculus:: is placed from hand to
+the Stage, this gains +1000 Power.
+
+================================================================================
+
+Irisviel von Einzbern
+アイリスフィール・フォン・アインツベルン
+Card No.: FZ/S17-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: ...... I got it. Saber, grant me victory
+TEXT: [A] [(2)] When your Yellow Climax card is placed in the Climax Zone, you
+may pay cost. If so, put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+Maiya Hisau
+久宇 舞弥
+Card No.: FZ/S17-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: ...... Focus on what's necessary. Don't think about anything
+else
+TEXT: [C] If you have 4 or fewer cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+Saber, Skill of "Riding"
+“騎乗”のスキル セイバー
+Card No.: FZ/S17-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: My skill of "Riding" works on anything that can be considered a
+"means of transportation"
+TEXT: -- None --
+
+================================================================================
+
+"Invisible Air" Saber
+“風王結界”セイバー
+Card No.: FZ/S17-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [Reveal any number of Climax cards in your hand] At the beginning of
+your Battle Step during battles involving this card, you may pay cost. If so,
+this gains +X Power, where X = 1000 times number of cards revealed this way.
+(Put the revealed cards back where they were)
+
+================================================================================
+
+"Magus Killer" Kiritsugu
+“魔術師殺し”切嗣
+Card No.: FZ/S17-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: "-- Magus reveal their weakness to attacks that do not rely
+on magic"
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Maiya, Assistance Machinary
+補助機械 舞弥
+Card No.: FZ/S17-T07  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Understood
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 of your Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+"First Time Outside" Irisviel
+“初めての外”アイリスフィール
+Card No.: FZ/S17-T08  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: I-- it's the first time I was able to be outdoors
+TEXT: -- None --
+
+================================================================================
+
+Einzbern Castle
+アインツベルン城
+Card No.: FZ/S17-T09  Rarity: TD
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I hereby swear that I shall be all the good in the world
+TEXT: If there is 1 or fewer Climax cards in your Waiting Room, you cannot play
+this from your hand.
+Search your Library for up to 1 Character with either ::Weapon:: and/or
+::Alchemy::, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Waver, Proof of Participation in War
+参戦の証 ウェイバー
+Card No.: FZ/S17-T10  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: The power to command also resides in me. I am chosen by the Grail!
+TEXT: [C] If there are 2 or fewer cards in your Stock, this gains +1500 Power.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Lancer, Bravery And Justice
+忠勇義烈 ランサー
+Card No.: FZ/S17-T11  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- Aye. I shall be by your side
+TEXT: -- None --
+
+================================================================================
+
+Rider, Majestic
+威風堂々 ライダー
+Card No.: FZ/S17-T12  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Kayneth, Elite of the Clock Tower
+時計塔のエリート ケイネス
+Card No.: FZ/S17-T13  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: Come forth. Lancer
+TEXT: -- None --
+
+================================================================================
+
+Gordius Wheel
+神威の車輪
+Card No.: FZ/S17-T14  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Come forth, Gordius Wheel!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Gae Dearg
+破魔の紅薔薇
+Card No.: FZ/S17-T15  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Gouge, Gae Dearg!
+TEXT: [[A] When this is placed from hand to the Climax Zone, put the top card
+of your Library in your Stock, and all your Characters gain +1 Soul for the
+turn.
+
+================================================================================
+

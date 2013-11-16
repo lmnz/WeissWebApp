@@ -1,0 +1,1619 @@
+Disgaea Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Raspberyl & Flonne
+ラズベリル＆フロン
+Card No.: DG/S02-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Raspberyl "Delinquents must be cool!"
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in the opponent's Waiting Room and return it to the Library. If you do so,
+shuffle that Library, and this gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Raspberyl & Flonne
+ラズベリル＆フロン
+Card No.: DG/S02-001R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in the opponent's Waiting Room and return it to the Library. If you do so,
+shuffle that Library, and this gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Fallen Angel Flonne
+堕天使フロン
+Card No.: DG/S02-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 悪魔 (Demon)
+Triggers: Soul 
+Flavor: Let's go, Mr. Laharl!
+TEXT: [C] ASSIST Your ::Demon:: Characters in front of this gain +1 Level and
++500 Power.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them into your Waiting Room. For each Climax card revealed, choose 1 of your
+::Demon:: Characters. That Character gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Crane-Folding Asuka
+折り鶴の明日禍
+Card No.: DG/S02-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: That's our sis! Delinquent amongst delinquents!
+TEXT: [C] If there are no Climax cards in your opponent's Waiting Room, this
+gains +1 Soul.
+
+================================================================================
+
+Childhood Friend Raspberyl
+幼馴染ラズベリル
+Card No.: DG/S02-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: I will not let go of this hand! This hand is what keeps you and I
+together!
+TEXT: [A] BOND "Overlord Maoh" [(1)]
+
+================================================================================
+
+Childhood Friend Raspberyl
+幼馴染ラズベリル
+Card No.: DG/S02-004S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] BOND "Overlord Maoh" [(1)]
+
+================================================================================
+
+Devil Buster Adele
+“デビルバスター”アデル
+Card No.: DG/S02-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: None
+Triggers: Soul 
+Flavor: What's important isn't the blood connection. It's the
+echoing of heart.
+TEXT: [A] When this attacks, if "Believe in Me!" is in the Climax Zone, this
+gains +1 Soul.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Devil Buster Adele
+“デビルバスター”アデル
+Card No.: DG/S02-005S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Believe in Me!" is in the Climax Zone, this
+gains +1 Soul.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Overlord Maoh
+魔王マオ
+Card No.: DG/S02-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 5500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Done with your prayers, super-hero? Here's your grave
+TEXT: [C] For each card in your Level Zone, this card gains +1 Soul.
+[A] [(2)] When this attacks, if "Let's Modify!!" is in your Climax Zone, you
+may pay cost. If you do so, choose an opponent's Character whose Level is 2 or
+lower. Put that Character in the Stock.
+
+================================================================================
+
+Netherworld's Top Student Maoh
+魔界の優等生マオ
+Card No.: DG/S02-007  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: .. Whatever. Now what to do with this guy...
+TEXT: [A] [(2)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. If so, search your Library for up to 1 Character with either ::Hero::
+or "Protagonist" in the name, reveal it, and put it in your hand. Shuffle.
+
+================================================================================
+
+Lilian's Crazy Kid
+リリアンの狂子
+Card No.: DG/S02-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: That's our big sis! Ideal of the delinquents!
+TEXT: [C] If there are no Climax cards in your opponent's Waiting Room, this
+gains +2000 Power.
+
+================================================================================
+
+Excellent Salvatore
+極上のサルバトーレ
+Card No.: DG/S02-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: This is an order! Show me your truth strength!
+TEXT: [C] Character opposite this may not move to another Slot.
+
+================================================================================
+
+Legendary Graduating Raspberyl
+伝説の主席卒業生ラズベリル
+Card No.: DG/S02-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: 不良 (Delinquent)
+Triggers: Soul 
+Flavor: Asuka "Big sis' record of no tardy and no absence will remain
+in the records of the school!"
+TEXT: [A] When this is placed from hand to Stage, if there are 5 or less cards
+in your Library, return all cards in your Waiting Room to your Library. If so,
+shuffle, and all your Characters gain +1 Soul for the turn.
+[A] [(2)] When this attacks, if "And Then, Legend..." is in the Climax Zone,
+may pay. If so, choose 1 of Opponent's Level 2 or lower Characters. Put that
+Character in Stock.
+
+================================================================================
+
+Overlord Laharl
+魔王ラハール
+Card No.: DG/S02-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Haahahahaha! This will give me more appearances!
+TEXT: [C] Character opposite this gets -1 Soul.
+[A] ENCORE [(2)]
+
+================================================================================
+
+Maoh & Raspberyl
+マオ＆ラズベリル
+Card No.: DG/S02-012  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: Raspberyl "Maoh and I are rivals but are also friends! Not anyone
+else!"
+TEXT: -- None --
+
+================================================================================
+
+Delinquent Student Raspberyl
+不良生屠ラズベリル
+Card No.: DG/S02-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Delinquent)
+Triggers: None
+Flavor: Rather than doing that, wanna do something fun with me?
+TEXT: [C] If there are fewer cards in your hand than your opponent's hand, this
+gains +1000 Power.
+
+================================================================================
+
+Sexy Demon Wannabe Hanako
+セクシー悪魔志望ハナコ
+Card No.: DG/S02-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Brother, you're not alone! Hanako's here!
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in your Waiting Room. For each Climax card revealed, choose 1 of your
+Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Majin Etna
+魔神エトナ
+Card No.: DG/S02-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Just kidding. This isn't my real strength at all.
+TEXT: [C] If there are 4 or more Climax cards in your Waiting Room, this gains
++1 Soul.
+
+================================================================================
+
+Jiiya
+じいや
+Card No.: DG/S02-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 執事 (Butler)      Trait 2: 勇者 (Hero)
+Triggers: None
+Flavor: Hohoho... This could happen....
+TEXT: [C] ALARM If this is the top card in the Clock, all your Characters gain
+"[A] When the Battle Opponent of this becomes Reversed, you may put it in the
+Stock."
+
+================================================================================
+
+Battle Otaku Adele
+戦闘オタク アデル
+Card No.: DG/S02-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: None
+Triggers: Soul 
+Flavor: Don't say stupid things! Leaving my allies behind goes against my
+principles!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Adele & Roselind
+アデル＆ロザリー
+Card No.: DG/S02-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 勇者 (Hero)      Trait 2: 悪魔 (Demon)
+Triggers: Soul 
+Flavor: Roselind "You really are battlelusty"
+TEXT: -- None --
+
+================================================================================
+
+Defeat! Overlord God!
+打倒！魔王神！
+Card No.: DG/S02-019  Rarity: R
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Adele "My goal is to defeat Zenon!"
+TEXT: Choose up to 5 non-Climax Cards in your Waiting Room and return them to
+your Library. Shuffle. If you returned 5 cards, choose 1 of your Characters.
+That Character gains +5000 Power and +2 Soul for the turn.
+
+================================================================================
+
+The Strongest Overlord
+最強の魔王
+Card No.: DG/S02-020  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: All of you, are you ready? We're departing to defeat Super Overlord
+Baal!
+TEXT: Choose a Climax card in your opponent's Waiting Room and return it to his
+Library. If you do so, shuffle that Library, and choose 1 of your opponent's
+Characters whose Level 2 or lower. Put that Character in the Stock.
+
+================================================================================
+
+Important... Allies?
+大切な…仲間？
+Card No.: DG/S02-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Raspberyl "Hehe, remember this. That feeling is friendship"
+TEXT: Choose a card in your Waiting Room and return it to your Library.
+Shuffle. Send this to Memory.
+
+================================================================================
+
+Battle Tournament Commences!
+武闘会開催！
+Card No.: DG/S02-022  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Rabbit "If you trust your own skills, why not join?"
+TEXT: [Counter] All your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Believe in Me!
+オレを信用しろ！
+Card No.: DG/S02-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Adele "I'll say it again. You're not alone"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Let's Modify!!
+さぁ、改造してやるーーー！！
+Card No.: DG/S02-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Maoh "You're one of the ideal experiment subjects I've seen
+often in recent years"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+And Then, Legend...
+そして、伝説へ……
+Card No.: DG/S02-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: --Raspberyl's accomplishments will pass down through her
+descendents forever--
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+And Then, Legend...
+そして、伝説へ……
+Card No.: DG/S02-025SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this card is placed from hand to the Climax Zone, draw a card,
+and choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+Unemployed Etna
+無職エトナ
+Card No.: DG/S02-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Heh, your majesty. Satisfied?
+TEXT: [A] When this attacks, if "Super Overlord Bishoujo" is in your Climax
+Zone, all your Characters gain +1000 power for the turn.
+[A] Encore [Discard a Character from your hand to the Waiting Room]
+
+================================================================================
+
+Unemployed Etna
+無職エトナ
+Card No.: DG/S02-026S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Super Overlord Bishoujo" is in your Climax
+Zone, all your Characters gain +1000 power for the turn.
+[A] Encore [Discard a Character from your hand to the Waiting Room]
+
+================================================================================
+
+Tyrant Etna
+暴君エトナ
+Card No.: DG/S02-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: プリニー (Prinny)
+Triggers: Soul 
+Flavor: *sigh* So bored...
+TEXT: [A] When this is placed from hand to the Stage, if there are 5 or fewer
+cards in your Library, then return all cards in your Waiting Room to your
+Library. If you do so, shuffle that Library, and all your Characters gain +2000
+Power for the turn.
+[A] Encore [Discard a Character from your hand to the Waiting Room]
+
+================================================================================
+
+Tyrant Etna
+暴君エトナ
+Card No.: DG/S02-027R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: プリニー (Prinny)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, if there are 5 or fewer
+cards in your Library, then return all cards in your Waiting Room to your
+Library. If you do so, shuffle that Library, and all your Characters gain +2000
+Power for the turn.
+[A] Encore [Discard a Character from your hand to the Waiting Room]
+
+================================================================================
+
+Young Etna
+幼少エトナ
+Card No.: DG/S02-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: If you want food, you must fight for it. That's the rule in the
+Netherworld.
+TEXT: [C] Assist All your Characters in front of this gain +1 Level.
+[S] [Rest this] Choose 1 of your Characters with "Overlord" in the name. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Matron Prinny
+姉御肌のプリニー
+Card No.: DG/S02-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: The same sadness should only be lived once... This is also a kind of
+love
+TEXT: [C] All your other Characters with "Laharl" in the name gains +500
+Power.
+[C] Assist All your Characters in front of this card gains +500 Power and
+::Love::.
+
+================================================================================
+
+Laharl & Etna
+ラハール＆エトナ
+Card No.: DG/S02-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Etna "Good Job! That's our majesty! No blood and no tear
+shed"
+TEXT: [C] If there are 4 or more Climax cards in your Waiting Room, this gains
++2000 Power.
+
+================================================================================
+
+Laharl & Etna
+ラハール＆エトナ
+Card No.: DG/S02-030S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 4 or more Climax cards in your Waiting Room, this gains
++2000 Power.
+
+================================================================================
+
+Super Overlord Baal
+超魔王バール
+Card No.: DG/S02-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: None
+Triggers: Soul 
+Flavor: Super Overlord Baal... The legend spoketh the truth...
+TEXT: [C] If you have no other Characters, this gains +10000 Power, +2 Soul,
+and "[A] When the Battle Opponent of this becomes Reversed, you may put it in
+the Clock."
+
+================================================================================
+
+Angel Trainee Flonne
+天使見習いフロン
+Card No.: DG/S02-032  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: That's what's called love
+TEXT: [C] Give all other Characters ::Love::.
+[A] BOND "Supreme Overlord Laharl" [(1)]
+
+================================================================================
+
+Average Cleric
+平凡な僧侶
+Card No.: DG/S02-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 神 (God)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Call on me whenever you get hurt
+TEXT: [S] Brainstorm [(1)] Reveal the top 4 cards of your Library and put them
+in your Waiting Room. For each Climax card revealed this way, choose 1 of your
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Petty Thief
+おちこぼれの盗賊
+Card No.: DG/S02-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Hello! I'm a robber~
+TEXT: [S] [(2)] Choose a Character in your opponent's Front Row. That Character
+gets -1500 Power for the turn, and this card gains +1500 Power for the turn.
+
+================================================================================
+
+Etna & Flonne
+エトナ＆フロン
+Card No.: DG/S02-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 天使 (Angel)
+Triggers: None
+Flavor: Etna "Do you have a garden in your head?" Flonne "Yes, I
+love flowers"
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Love Maniac Flonne
+“愛マニア”フロン
+Card No.: DG/S02-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Don't worry! The power of friendship is the source of victory!
+TEXT: [C] All your other ::Love:: Characters and Characters with "Love" in the
+name gain +1000 Power.
+[A] When "Even A Demon Needs Love" is placed in your Climax Zone, choose 1 of
+your Characters. That Character gains +3000 Power for the turn. 
+
+================================================================================
+
+Laharl & Flonne
+ラハール＆フロン
+Card No.: DG/S02-037  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 天使 (Angel)
+Triggers: None
+Flavor: Laharl "I'm the Overlord!"
+TEXT: -- None --
+
+================================================================================
+
+Prinny Squad
+プリニー隊
+Card No.: DG/S02-038  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: None
+Triggers: None
+Flavor: Etna "Prinny Squad, c'mon!" Etna "I said, COME OUT!"
+TEXT: [C] You may have as many copies of the card with the same name as this in
+your deck as you wish.
+[S] [Put a ::Prinny:: Character in the Waiting Room] Choose 1 of your
+opponent's Front Row Characters. That Character gets -1000 Power for the turn.
+
+================================================================================
+
+Genius Rune Knight
+天才魔法剣士
+Card No.: DG/S02-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: I shall become your blade and fight
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in your opponent's Waiting Room and return it to the Library. If you do
+so, shuffle that Library, and choose 1 of your Characters. That Character gains
++3000 Power for the turn.
+
+================================================================================
+
+Universe Police Justice Flonne
+宇宙刑事ジャスティス・フロン
+Card No.: DG/S02-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 警察 (Police)
+Triggers: None
+Flavor: The sound of everyone becomes my courage! Transfoooorm! Justice Flonne!!
+TEXT: [A] When this attacks, if "Assassin from Celestia" is in your Climax
+Zone, then all your Characters gain +1000 Power for the turn.
+[S] [Rest 1 of your Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Distinguished Samurai
+極めて優秀な侍
+Card No.: DG/S02-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: I have mastered the blade and walk the path
+TEXT: -- None --
+
+================================================================================
+
+Good-for-Nothing Archer
+どうしようもないクズのアーチャー
+Card No.: DG/S02-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: My hobby is to pierce the weakness. Pleased to meet you.
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+opponent's Characters. That Character gets -500 Power for the turn.
+
+================================================================================
+
+Seraph Lamington
+大天使ラミントン
+Card No.: DG/S02-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Even Demon has love. They just haven't found it.
+TEXT: -- None --
+
+================================================================================
+
+Everything is Mine
+すべてはあたしのモノ
+Card No.: DG/S02-044  Rarity: R
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Whomever stole my sweets will get killed!!
+TEXT: Choose a Climax card in your opponent's Waiting Room and return it to the
+Library. If you do so, shuffle that Library, and put the top 2 cards of your
+Library in your Stock.
+
+================================================================================
+
+Winged Slayer
+飛天無双斬
+Card No.: DG/S02-045  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: A unique special move that cuts from the air
+TEXT: Repeat the following action until you Level-Up. "Put the top card of your
+Library in your Clock."
+All your opponent's Characters get -3000 Power for the turn.
+
+================================================================================
+
+Plot of the Education Council
+凶育委員会の陰謀
+Card No.: DG/S02-046  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Who is it!? Just as we're about to start the modification surgery
+TEXT: Choose 2 of your Characters and Rest them. If you Rest 2 cards, all your
+Characters gain +2000 Power for the turn.
+
+================================================================================
+
+Revival of the Bow
+弓、復活！
+Card No.: DG/S02-047  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Finally... Finally returned!
+TEXT: [Counter] Choose up to 5 non-Climax Cards in your Waiting Room and return
+them to your Library. Shuffle your Library. If you returned 5 cards, choose 1
+Character in your opponent's Front Row. That Character gets -1500 Power for the
+turn.
+
+================================================================================
+
+Super Overlord Bishoujo
+美少女超魔王
+Card No.: DG/S02-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: This world is mine!!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Super Overlord Bishoujo
+美少女超魔王
+Card No.: DG/S02-048SP  Rarity: SP
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Even A Demon Needs Love
+悪魔にも愛を
+Card No.: DG/S02-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: If you have love, you will naturally smile.
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Assassin from Celestia
+天界からの刺客
+Card No.: DG/S02-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Nice to meet you, I'm an assassin~
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Laharl & Maoh
+ラハール＆マオ
+Card No.: DG/S02-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Laharl "The loser is the Overlord of the legends! Sounds
+good!?" Maoh "Exactly what I want!!"
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in your opponent's Waiting Room and return it to the Library. If so,
+shuffle that Library, and this gains "[A] When the Battle Opponent of this
+becomes Reversed, you may choose a Character in your Waiting Room and return it
+to your hand" for the turn.
+
+================================================================================
+
+Laharl & Maoh
+ラハール＆マオ
+Card No.: DG/S02-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in your opponent's Waiting Room and return it to the Library. If so,
+shuffle that Library, and this gains "[A] When the Battle Opponent of this
+becomes Reversed, you may choose a Character in your Waiting Room and return it
+to your hand" for the turn.
+
+================================================================================
+
+Worst Overlord Laharl
+最凶の魔王ラハール
+Card No.: DG/S02-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I'll be your ally if you provide 3 meals a day!
+TEXT: [A] When this attacks, if "A Passing-by Overlord" is in your Climax Zone,
+this gains +3000 Power and "[A] When the Battle Opponent of this becomes
+Reversed, you may deal 1 damage to your opponent" for the turn. (Damage Cancel
+can occur.)
+[A] Encore [Discard a Character card to your Waiting Room]
+
+================================================================================
+
+Mr. Big Star 
+ビッグスター様
+Card No.: DG/S02-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 薔薇 (Rose)
+Triggers: None
+Flavor: *sigh* Ignorant children...
+TEXT: [A] When another Character of yours becomes Reversed while Battling,
+choose 1 of your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Former Angel Flonne
+元・天使フロン
+Card No.: DG/S02-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 悪魔 (Demon)
+Triggers: None
+Flavor: Crab miso! Crab miso! Crab Miso!
+TEXT: [C] All your other ::Demon:: Characters gain "[A] ENCORE [Discard a
+Character card to the Waiting Room]".
+[A] [(1)] When this is put to the Waiting Room from the Stage, if there are 4
+or more Climax cards in your Waiting Room, you may pay cost. If so, choose a
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Former Angel Flonne
+元・天使フロン
+Card No.: DG/S02-054S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 悪魔 (Demon)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Demon:: Characters gain "[A] ENCORE [Discard a
+Character card to the Waiting Room]".
+[A] [(1)] When this is put to the Waiting Room from the Stage, if there are 4
+or more Climax cards in your Waiting Room, you may pay cost. If so, choose a
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Overlord's Vassal Etna
+魔王の家来エトナ
+Card No.: DG/S02-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Yes, your majesty. This Etna shall also serve you.
+TEXT: [A] [(1)] When this attacks, if "Overlord Zenon Defeated!!" is in your
+Climax Zone, you may pay cost. If so, search your Library for up to 1
+::Prinny:: Character, reveal and move it to hand. Shuffle.
+[S] [(1)] Choose 1 of your ::Prinny:: Characters and give it "[A] When this
+Reverses, if its Battle Opponent is same Level or lower than this, may Reverse
+it."
+
+================================================================================
+
+Overlord's Vassal Etna
+魔王の家来エトナ
+Card No.: DG/S02-055S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Overlord Zenon Defeated!!" is in your
+Climax Zone, you may pay cost. If so, search your Library for up to 1
+::Prinny:: Character, reveal and move it to hand. Shuffle.
+[S] [(1)] Choose 1 of your ::Prinny:: Characters and give it "[A] When this
+Reverses, if its Battle Opponent is same Level or lower than this, may Reverse
+it."
+
+================================================================================
+
+Kurtis, Defender of Earth
+地球勇者カーチス
+Card No.: DG/S02-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 勇者 (Hero)
+Triggers: Soul 
+Flavor: Don't laugh!! I didn't do this because I wanted to!
+TEXT: [S] [(1) Put this in the Waiting Room] Choose up to 2 Characters with
+Level 1 or lower in your opponent's Front Row. Put them in the Waiting Room.
+
+================================================================================
+
+Fake Laharl
+ニセラハール
+Card No.: DG/S02-057  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: None
+Triggers: None
+Flavor: Etna "Perfect! From this day on you shall be Laharl!!"
+TEXT: [C] If "Prince Laharl of the Netherworld" is in your Waiting Room, this
+gains +2000 Power.
+
+================================================================================
+
+<s>Vyers, the Dark Adonis</s> Mid-Boss
+<s>&#12461;&#12470;&#12394;&#24746;&#39764; &#12496;&#12452;&#12450;&#12473;</s> &#20013;&#12508;&#12473;
+Card No.: DG/S02-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 遺言 (Will)
+Triggers: None
+Flavor: Laharl "I don't care about your name. Mid-Boss should
+suffice."
+TEXT: [C] ASSIST All your Characters in front of this card gain +500 Power.
+[A] When this is Reversed while battling, you may return this to your Library.
+If so, shuffle your Library.
+
+================================================================================
+
+Prince Laharl of the Netherworld
+魔界のプリンス ラハール
+Card No.: DG/S02-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Laharl, Heir to the Underworld, is me
+TEXT: [A] When this attacks, if "King of the Earth" is in your Climax Zone, you
+may choose a card in your opponent's Waiting Room and put it on top of the
+Library.
+[A] BOND/"Etna & Flonne" [(1)]
+
+================================================================================
+
+"Beauty Baron" Mid-Boss
+“ビューティー男爵”中ボス
+Card No.: DG/S02-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 遺言 (Will)
+Triggers: Soul 
+Flavor: Mid-Boss "I am only a Mid-Boss---" Etna "Ah. He
+just admitted he's a Mid-Boss"
+TEXT: [A] When this is placed from hand to Stage, if there are 5 or fewer cards
+in your Library, return all cards in your Waiting Room to Library. If so,
+shuffle that Library, and you may deal 1 damage to opponent. (Damage Cancel can
+occur.)
+[A] When this becomes Reversed while battling, you may return this to your
+Library. If so, shuffle your Library.
+
+================================================================================
+
+Supreme Overlord Laharl
+超魔王ラハール
+Card No.: DG/S02-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ...Who dares to disturb this Laharl's sleep?
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+in your Clock in your Waiting Room.
+[S] [Send this to Memory] Choose a combination of up to 2 ::Angel:: and/or
+::Demon:: Characters in your Waiting Room and return them to your hand.
+
+================================================================================
+
+Etna, the Overlord Assassin
+魔王殺しエトナ
+Card No.: DG/S02-062  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ...Oops. Did I kill him?
+TEXT: -- None --
+
+================================================================================
+
+"Strongest in the World" Etna
+“世界で一番強いやつ”エトナ
+Card No.: DG/S02-063  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I owe you one! I will definitely return the favor someday!
+TEXT: [A] When this is placed from hand to the Stage, if there are no Climax
+cards in your opponent's Waiting Room, you may choose a card in your opponent's
+Waiting Room and put it on top of the Library.
+
+================================================================================
+
+Elite Red Mage
+優秀な赤魔法使い
+Card No.: DG/S02-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Po-kon! Magical combat is my expertise!
+TEXT: [S] [(1)] Choose a Level 0 or lower Character in opponent's Front Row.
+Put that Character in the Waiting Room.
+
+================================================================================
+
+Invincible Robot Thursday
+無敵ロボット サーズデイ
+Card No.: DG/S02-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 勇者 (Hero)
+Triggers: None
+Flavor: Thursday wishes to fight with you all until the end...
+TEXT: [C] All your other ::Hero:: Characters and Characters with "Protagonist"
+in the name gain +500 Power.
+[S] [(2) Rest this] Choose 1 Character card in your Waiting Room and return it
+to your hand.
+
+================================================================================
+
+Captain Gordon, Defender of Earth
+地球勇者キャプテン・ゴードン
+Card No.: DG/S02-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Your ambition will be crushed by Captain Gordon!
+TEXT: -- None --
+
+================================================================================
+
+Jennifer, Assistant to the Defender of Earth
+地球勇者助手ジェニファー
+Card No.: DG/S02-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 科学 (Science)
+Triggers: Soul 
+Flavor: Laharl "Don't get that muscley body close to me!!"
+TEXT: [C]ALARM If this is on top of the Clock, all your ::Hero:: Characters and
+Characters with "Protagonist" in the name gain +1000 Power.
+
+================================================================================
+
+Demon Girl Etna, the Ultimate Beauty
+超時空美少女悪魔エトナ
+Card No.: DG/S02-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Chapter 2 "Birth of Queen Etna" A beautiful girl dances amongst
+the darkness of the Netherworld!
+TEXT: -- None --
+
+================================================================================
+
+Dissection Experiment
+解剖実験
+Card No.: DG/S02-069  Rarity: R
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: "...Sweat" "Yes"
+TEXT: Choose up to 5 non-Climax Cards in your Waiting Room and return them to
+your Library. Shuffle your Library. If you returned 5 cards, choose 1 of
+opponent's Characters whose Level is 1 or lower. Put that Character in the
+Waiting Room.
+
+================================================================================
+
+Mecha-Jennifer
+メカジェニファー
+Card No.: DG/S02-070  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: "Shall we do that?" "Modification?" "Let's
+modify"
+TEXT: Deal X damage to your opponent, where X = # of Climax Cards in your
+Waiting Room. (Damage Cancel can occur)
+
+================================================================================
+
+Dark Assembly
+暗黒議会
+Card No.: DG/S02-071  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Give up / Pass it by Force
+TEXT: BRAINSTORM Reveal the top 3 cards of your Library and put them into your
+Waiting Room. If any Climax Card was revealed, choose a Level 2 of lower
+Character in your Waiting Room and place it in any Slot on the Stage.
+
+================================================================================
+
+Make up
+仲直り
+Card No.: DG/S02-072  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Flonne "Uh... I guess the making-up was a success... right?"
+TEXT: Choose a Climax card in your opponent's Waiting Room and return it to the
+Library. If so, shuffle that Library, and choose a Character in your Waiting
+Room and return it to your hand.
+
+================================================================================
+
+Overlord Zenon Defeated!!
+魔王ゼノン倒される！！
+Card No.: DG/S02-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Rabbit "Today, before daybreak, Overlord Zenon was defeated"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+King of the Earth
+地球の王
+Card No.: DG/S02-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Don't worry. I'll become the King of the Earth from now on.
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+A Passing-by Overlord
+通りすがりの魔王
+Card No.: DG/S02-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Etna "Kill all these kids and you can take over the game, your
+majesty"
+TEXT: [A] When this is placed from hand to the Climax Zone, put a card from top
+of your Library to the Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+A Passing-by Overlord
+通りすがりの魔王
+Card No.: DG/S02-075SP  Rarity: SP
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put a card from top
+of your Library to the Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Raspberyl & Sapphire
+ラズベリル＆サファイア
+Card No.: DG/S02-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Ohhhh-! That's a very cutie demon!
+TEXT: [C] If your opponent has a Character whose Power is 500 or lower, this
+gains +1500 Power.
+
+================================================================================
+
+Raspberyl & Sapphire
+ラズベリル＆サファイア
+Card No.: DG/S02-076S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If your opponent has a Character whose Power is 500 or lower, this
+gains +1500 Power.
+
+================================================================================
+
+Sapphire Rhodonite
+サファイア・ロードナイト
+Card No.: DG/S02-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Ah! Tardy, tardy! First day of transfering to a new school and I'm
+really tardy!
+TEXT: [C] Assist All your Characters in front of this card gains "[A] Encore
+[Discard a Character card from hand to the Waiting Room]". 
+[S] [Put 1 of your ::Demon:: Characters in the Waiting Room] Choose 1 of your
+Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Sapphire Rhodonite
+サファイア・ロードナイト
+Card No.: DG/S02-077S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] Assist All your Characters in front of this card gains "[A] Encore
+[Discard a Character card from hand to the Waiting Room]". 
+[S] [Put 1 of your ::Demon:: Characters in the Waiting Room] Choose 1 of your
+Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Almaz von Almadin Adamant
+アルマース・フォン・アルマディン・アダマント
+Card No.: DG/S02-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I will protect the princess with my life!
+TEXT: [A] [(2)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. If so, search your Library for a card named "Hero Almaz", reveal it,
+and put it into your hand. Shuffle your Library.
+[A] BOND "Killing Machine Sapphire" [(1)]
+
+================================================================================
+
+Push-and-Dash Octalley
+“ピンポンダッシュ”アクターレ
+Card No.: DG/S02-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: ダークヒーロー (Dark Hero)
+Triggers: None
+Flavor: Push-and-dash like a storm and prank calls
+TEXT: [S] [(1) Put this in the Waiting Room] The opponent shuffles all cards in
+his or her Waiting Room back into the Library.
+
+================================================================================
+
+Strange Frog Tink
+珍妙なカエル ティンク
+Card No.: DG/S02-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Ehhh? I.... What happened...?
+TEXT: [C] This gains +2000 Power if there are 4 or more Climax cards in your
+Waiting Room.
+[S] [(3) Put this in the Waiting Room] Choose a Character in your opponent's
+Front Row whose Level is 2 or lower. Put it on the bottom of the Library.
+
+================================================================================
+
+Killing Machine Sapphire
+殺りくマッスィーン サファイア
+Card No.: DG/S02-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 王族 (Royalty)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Kill before killed, you mean
+TEXT: [C] If you have another Character with "Almaz" in the name, this gains
++1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, if "Newlywed Queen" is
+in your Climax Zone, draw up to 2 cards, and discard a card to your Waiting
+room.
+
+================================================================================
+
+Stealthy Teacher Mr. Champloo
+隠密凶師チャンプル先生
+Card No.: DG/S02-082  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: コック (Cook)
+Triggers: None
+Flavor: A strong heart is the flavoring to beat the ingredient's heart!!
+TEXT: [A] When this is placed from hand to the Stage, you may choose a Climax
+card in your opponent's Waiting Room and return it to the Library. If so,
+shuffle that Library, and this gains "[A] When the Battle Opponent of this
+becomes Reversed, you may draw a card" for the turn.
+
+================================================================================
+
+Stubborn Rosalind
+意地っ張りロザリー
+Card No.: DG/S02-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Fighting is for the worthless caste!
+TEXT: [C] During your opponent's turn, all your other ::Demon:: Characters gain
++1000 Power.
+[A] When this card is placed from hand to the Stage, if there are no Climax
+cards in the opponent's Waiting Room, draw a card and discard a card to your
+Waiting Room.
+
+================================================================================
+
+Kunoichi Yukimaru
+くの一 雪丸
+Card No.: DG/S02-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I shall become your katana and fight with all my body and soul!
+TEXT: [S] [Counter] Backup 1500 Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Roselind & Sapphire
+ロザリー＆サファイア
+Card No.: DG/S02-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Knowledge is the taste of Royalty
+TEXT: [C] This gains +1000 Power during Opponent's turn.
+
+================================================================================
+
+Roselind & Sapphire
+ロザリー＆サファイア
+Card No.: DG/S02-085R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] This gains +1000 Power during Opponent's turn.
+
+================================================================================
+
+Daughter of the Overlord Roselind
+魔王の娘ロザリー
+Card No.: DG/S02-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Sh-shut up! I'm the daughter of the legendary Overlord Zenon!
+TEXT: [C] Character opposite this gets -1 Soul.
+[A] [(1)] When this attacks, if "Overlord Summoning" is in your Climax Zone,
+you may pay cost. If so, draw up to 3 cards, and discard a card to your Waiting
+Room.
+
+================================================================================
+
+Un-ladylike Princess Sapphire
+ごんぶとな姫様サファイア
+Card No.: DG/S02-087  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Hehe, a princess doesn't have to be graceful, you know?
+TEXT: -- None --
+
+================================================================================
+
+Sheltered Miss Roselind
+箱入りお嬢様ロザリンド
+Card No.: DG/S02-088  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ... Um, what happens when you "End Turn"?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Draw a card] End your Main Phase. It becomes your End Phase.
+
+================================================================================
+
+Roselind's Vassal Taro
+ロザリーの家来タロー
+Card No.: DG/S02-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 牛乳 (Milk)
+Triggers: None
+Flavor: I will serve my lady all my life
+TEXT: [C] This gains +1 Level and +1500 Power for each Marker under it.
+[A] When the Battle Opponent of this becomes Reversed, you may put the top card
+of your Library under this as a Marker.
+
+================================================================================
+
+Hero Almaz
+勇者アルマース
+Card No.: DG/S02-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I will die for the princess!!
+TEXT: [C] This gains +1000 Power during Opponent's turn.
+[A] When this attacks, if "Overlord Almaz" is in your Climax Zone, draw a card
+and discard a card to your Waiting Room.
+
+================================================================================
+
+Dark Hero Octalley
+ダークヒーロー アクターレ
+Card No.: DG/S02-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: ダークヒーロー (Dark Hero)
+Triggers: Soul 
+Flavor: Watch! The beautiful revival of the dark hero!
+TEXT: [A] Encore [Discard a Character card from hand to the Waiting Room] 
+
+
+================================================================================
+
+Super Hero Ouram
+超勇者オーラム
+Card No.: DG/S02-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: I shall defeat the strongest overlord and exist eternally as a hero!
+TEXT: [A] When this is placed from hand to the Stage, if there are 5 or fewer
+cards in your Library, return all cards in your Waiting Room to your Library.
+After that, search your Library for up to 1 Character with "Overlord" in the
+name, reveal it, and put it into your hand. Shuffle your Library afterwards.
+
+================================================================================
+
+Family Studies Teacher Mr. Champloo
+家諦科凶師チャンプル先生
+Card No.: DG/S02-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 先生 (Teacher)      Trait 2: コック (Cook)
+Triggers: Soul 
+Flavor: The taste lies in the heart! Youngins', you can do anything with
+high heat!
+TEXT: [A] During the opponent's turn, if the Battle Opponent of this becomes
+Reversed, you may draw a card.
+
+================================================================================
+
+Pile of Pudding
+プリンの山
+Card No.: DG/S02-094  Rarity: R
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Let's have a feast!
+TEXT: Choose up to 5 non-Climax cards in your Waiting Room and return them to
+your Library. Shuffle your Library. If you returned 5 cards, choose up to 2
+cards in your Clock and put them in your Waiting Room. Send this to Memory.
+
+================================================================================
+
+Cellphone
+携帯電話
+Card No.: DG/S02-095  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Please.. Help me...
+TEXT: Search your Library for up to 2 ::Teacher:: Characters, reveal them, and
+put them into your hand. Shuffle your Library. Discard 2 cards from your hand
+to your Waiting Room.
+
+================================================================================
+
+Technical Difficulties
+放送事故
+Card No.: DG/S02-096  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Please wait
+TEXT: Choose a Climax card in the opponent's Waiting Room and return it to the
+Library. If so, shuffle that Library, draw up to 3 cards, and discard 2 cards
+from your hand to the Waiting Room.
+
+================================================================================
+
+Dark Hero
+ダークヒーロー
+Card No.: DG/S02-097  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Here I go!
+TEXT: [Counter] You may put the top card of your Clock in your Waiting Room.
+Choose 1 of your Characters. That Character gains "[A] When this is placed from
+the Stage to the Waiting Room, you may put this in the Rested state in the Slot
+this was in" for the turn.
+
+================================================================================
+
+Newlywed Queen
+新婚女王
+Card No.: DG/S02-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: And then the thing that was waiting for me when I returned to the Human
+World was...
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Newlywed Queen
+新婚女王
+Card No.: DG/S02-098SP  Rarity: SP
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Overlord Summoning
+魔王召喚
+Card No.: DG/S02-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Mom "By Adele's Name, I summon 'Overlord Zenon!'"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Overlord Almaz
+魔王アルマース
+Card No.: DG/S02-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Oooo... Overlord!? Mmmmmm-me!?
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+

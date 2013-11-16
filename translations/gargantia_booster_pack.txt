@@ -1,0 +1,1639 @@
+Gargantia Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Ridget in Mourning
+追悼するリジット
+Card No.: GG/S23-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: ... ...
+TEXT: [A] [Put the top card of your Library in Clock] When "New Alliance
+Leader" is placed in your Climax Zone, if this is in the Front Row, you may pay
+cost. If so, choose 1 of your Opponent's Cost 1 or lower Characters and put it
+in Stock.
+
+================================================================================
+
+Bellows, Salvager
+サルベージ屋 べローズ
+Card No.: GG/S23-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: Soul 
+Flavor: Hey, Amy
+TEXT: [C] If your Opponent has a Level 3 or higher character, this gets -1
+Level in your hand.
+[A] When this is placed from hand to the Stage, choose up to 2 cards in your
+opponent's Waiting Room and return them to the Library. Your Opponent shuffles
+that Library.
+[A] This ability activates up to once per turn. When you play an Event, this
+gains +2000 Power for the turn. 
+
+================================================================================
+
+Ridget, Vice Representative of the Fleet
+船団代表補佐 リジット
+Card No.: GG/S23-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: None
+Triggers: None
+Flavor: I'm fine with it
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [Discard a card from hand to the Waiting Room] When this is placed from
+hand to the Stage, you may pay cost. If so, choose a "Sky Ladder" in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+Ridget, Vice Representative of the Fleet
+船団代表補佐 リジット
+Card No.: GG/S23-003S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [Discard a card from hand to the Waiting Room] When this is placed from
+hand to the Stage, you may pay cost. If so, choose a "Sky Ladder" in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+Bellows, Surprised Look
+驚きの目 べローズ
+Card No.: GG/S23-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: None
+Flavor: ......!
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Pilot:: Character, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+Ridget in Swimsuit
+水着のリジット
+Card No.: GG/S23-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: Bellows: "... Daring, that swimsuit" Ridget: "Eh, you think
+so?"
+TEXT: [A] This ability activates up to once per turn. When you play an Event,
+this gains +2000 Power for the turn.
+
+================================================================================
+
+Bellows, Offering Advice
+助言するべローズ
+Card No.: GG/S23-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: None
+Flavor: Maybe you should start by stop thinking like a military member?
+TEXT: [A] When this attacks, if "Whomever Catches Fish Gets Fresh Water" is in
+the Climax Zone, all your other Characters gain "[A] This ability activates up
+to once per turn. When Damage dealt by this is cancelled, you may put the top
+card of your Library in Stock" for the turn.
+
+================================================================================
+
+Bellows, Carnival
+謝肉祭 べローズ
+Card No.: GG/S23-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: Soul 
+Flavor: Don't be surprised if we find whalesquids, okay?
+TEXT: [C] During your turn. this gains +1000 Power.
+[A] ENCORE [Put the top card of your Library in Clock]
+
+================================================================================
+
+Fairlock, Fleet Commander
+船団長 フェアロック
+Card No.: GG/S23-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 遺言 (Will)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: Hmm......
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room, Send this to
+Memory] When this becomes Reversed in battle, you may pay cost. If so, search
+your Library for up to 1 "Ridget, Questioning", reveal it, and put it in your
+hand. Shuffle your Library.
+[A] BOND/"Ridget in Swimsuit" [(1)]
+
+================================================================================
+
+Bellows, Puzzled Eyes
+困惑の瞳 べローズ
+Card No.: GG/S23-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: None
+Flavor: Well...?
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this attacks, you
+may pay cost. If so, choose 1 of your other YELLOW Characters and return it to
+your hand.
+
+================================================================================
+
+Pinion, Barbeque Party
+焼き肉パーティー ピニオン
+Card No.: GG/S23-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: The electricity hasn't been restored?
+TEXT: [S] [(1) Rest 1 of your other ::Mecha:: Characters] All your Characters
+gain +1000 Power and ::Meat:: for the turn.
+
+================================================================================
+
+Bellows, One Request
+一つの頼み べローズ
+Card No.: GG/S23-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: None
+Flavor: I have a request for you
+TEXT: [C] ASSIST All your Characters in front of this gains +X Power. X = 500
+times the cost of that character.
+[A] CHANGE [(2) Put this in the Waiting Room] At the start of your Draw Phase,
+you may pay cost. If so, choose a "Bellows, Carnival" in your Waiting Room and
+put it in the slot this was in.
+
+================================================================================
+
+Pinion, Escaped
+振り切れたピニオン
+Card No.: GG/S23-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: These are too tough!
+TEXT: [A] When this attacks, if "Treasure Island Seen in the Dream" is in the
+Climax Zone, look at up to 2 cards from top of your Library and search for up
+to 2 Level 2 or higher Characters, reveal them, and put them in your hand. Put
+the rest in the Waiting Room.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Pinion, Frivolous One
+お調子者 ピニオン
+Card No.: GG/S23-013  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: オペレーター (Operator)
+Triggers: Soul 
+Flavor: He only grunts and moans wherever is touched...
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Joe, Working
+仕事中 ジョー
+Card No.: GG/S23-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: オペレーター (Operator)      Trait 2: None
+Triggers: None
+Flavor: No no, left, turn left there!
+TEXT: [A] At the start of your Draw Phase, reveal the top card of your Library.
+If it's Level 1 or higher, you may return this to your hand. (Climax cards are
+considered Level 0. Put the revealed card back)
+
+================================================================================
+
+Myta, Looking at the Sea of Fog
+霧の海を見つめるマイタ
+Card No.: GG/S23-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: None
+Triggers: None
+Flavor: All they say is that it's a curse
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Bellows, Disappointed
+失意のべローズ
+Card No.: GG/S23-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: None
+Triggers: None
+Flavor: I thought they said it's only a dream...
+TEXT: -- None --
+
+================================================================================
+
+Pinion, Memory of Older Brother
+兄の記憶 ピニオン
+Card No.: GG/S23-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Big bro, isn't that enough?
+TEXT: -- None --
+
+================================================================================
+
+Ridget, New Alliance Leader
+盟主 リジット
+Card No.: GG/S23-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: None
+Triggers: None
+Flavor: I have an obligation to protect everyone gathered on this ship
+TEXT: [S] [Rest 1 of your YELLOW Characters] This gains +1000 Pwoer for the
+turn.
+
+================================================================================
+
+Oldham, Doctor
+医師 オルダム
+Card No.: GG/S23-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 医者 (Doctor)      Trait 2: None
+Triggers: Soul 
+Flavor: Are you the Ledo-kun?
+TEXT: [A] This ability activates up to once per turn. When you play an Event,
+this gains +2000 Power for the turn.
+
+================================================================================
+
+Ridget, Questioning
+問いかけるリジット
+Card No.: GG/S23-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: メガネ (Glasses)      Trait 2: None
+Triggers: Soul 
+Flavor: I want to ask you about your impression regarding that young man
+TEXT: -- None --
+
+================================================================================
+
+Salvage
+サルベージ
+Card No.: GG/S23-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Look at up to 3 cards from top of your Lbirary and search for up to 1
+YELLOW card, reveal it, and put it in your hand. Put the rest in the Waiting
+Room.
+
+================================================================================
+
+Sky Ladder
+天の梯子
+Card No.: GG/S23-022  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [Counter] Choose 1 of your YELLOW Characters. That Character gains +3500
+Power for the turn.
+
+================================================================================
+
+Whomever Catches Fish Gets Fresh Water
+魚を釣ってきた者には真水を与えよ
+Card No.: GG/S23-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: If people don't contribute, we won't survive
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+New Alliance Leader
+新たなる盟主
+Card No.: GG/S23-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Cliamx Zone, choose up to 1
+YELLOW card in your Waiting Room and put it in Stock, and all your Characters
+gain +1 Soul for the turn.
+
+================================================================================
+
+Treasure Island Seen in the Dream
+夢に見た宝島
+Card No.: GG/S23-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Those who run cannot escape the fact that they fled. ... isn't that
+so, big bro
+TEXT: [C] All your Characters gan +2 Soul.
+
+================================================================================
+
+Chamber, Own Conclusion
+独自の判断 チェインバー
+Card No.: GG/S23-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Thus, you must, along side me, wager the pride as human and fight
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1) Rest this] Choose a GREEN card in your Clock and return it to your
+hand. Choose a card in your hand and put it in Clock.
+
+================================================================================
+
+Chamber, Machine Caliber
+マシンキャリバー チェインバー
+Card No.: GG/S23-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: I await the maximum result from you
+TEXT: [C] If you have 2 or more other ::Army:: Characters, this gains +1000
+Power.
+[A] [(1)] During the turn this is placed from hand or via CHANGE and put to the
+Stage, when the Battle Opponent of this becomes Reversed, you may pay cost. If
+so, put that Character in Clock.
+[S] [(1)] This gains +2500 Power for the turn. At the end of the turn, Send
+this to Memory.
+
+================================================================================
+
+Chamber, Machine Caliber
+マシンキャリバー チェインバー
+Card No.: GG/S23-027SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 2 or more other ::Army:: Characters, this gains +1000
+Power.
+[A] [(1)] During the turn this is placed from hand or via CHANGE and put to the
+Stage, when the Battle Opponent of this becomes Reversed, you may pay cost. If
+so, put that Character in Clock.
+[S] [(1)] This gains +2500 Power for the turn. At the end of the turn, Send
+this to Memory.
+
+================================================================================
+
+Striker, Battle Stance
+交戦態勢 ストライカー
+Card No.: GG/S23-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Ensign Ledo, your resistance is futile
+TEXT: [A] When this attacks, choose 1 of your other ::Army:: Characters. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Chamber, Fishing
+漁に出るチェインバー
+Card No.: GG/S23-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Commensing the capture mission of oceanic creatures
+TEXT: [A] [(2)] When "Deflector Beam" is placed in your Climax Zone, if this is
+in the Front Row, you may pay cost. If so, all your Opponent's Characters get
+-1000 Power for the turn.
+
+================================================================================
+
+Chamber, Carrying Luggage
+荷運び中 チェインバー
+Card No.: GG/S23-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: Understood
+TEXT: [A] When you use the BACKUP of this, if your Opponent's Character in
+Battle is Level 3 or higher, choose 1 of your Characters in Battle. That
+Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Chamber, Tinplate General
+ブリキの大将 チェインバー
+Card No.: GG/S23-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: I am an artificial intelligence whose goal is to support the pilot
+TEXT: [C] ASSIST All your Characters in front of this gains +X Power. X = 500
+times the Level of that character.
+[A] CHANGE [(1) Put this in the Waiting Room] At the start of your Draw Phase,
+you may pay cost. If so, choose a "Chamber, Machine Caliber" in your Waiting
+Room and put it in the slot this was in.
+
+================================================================================
+
+Chamber, Tinplate General
+ブリキの大将 チェインバー
+Card No.: GG/S23-031R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gains +X Power. X = 500
+times the Level of that character.
+[A] CHANGE [(1) Put this in the Waiting Room] At the start of your Draw Phase,
+you may pay cost. If so, choose a "Chamber, Machine Caliber" in your Waiting
+Room and put it in the slot this was in.
+
+================================================================================
+
+Lukkage, Wave Riding
+波乗り ラケージ
+Card No.: GG/S23-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 海賊 (Pirate)
+Triggers: Soul 
+Flavor: Amore!!
+TEXT: [AUTO] When "Wave-Riding Lobster" is placed in your Climax Zone, if this
+card is in the Front Row, search your Library for up to 1 of either a GREEN
+character or a "Pinion, Frivolous One", reveal it, and put it in your hand.
+Shuffle your Library. 
+
+================================================================================
+
+Ledo & Chamber, Falling from the sky
+舞い降りるレド＆チェインバー
+Card No.: GG/S23-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Chamber: "I demand a conversation"
+TEXT: [A] BOND/"Chamber, Machine Caliber" [(1)]
+
+================================================================================
+
+Chamber, Gathering Fresh Water
+真水集め チェインバー
+Card No.: GG/S23-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Bellows: "Okay, just like that~"
+TEXT: [C] If you have 2 or more other ::Army:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Lukkage Yunboro
+ラケージユンボロ
+Card No.: GG/S23-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters. That Character gains +1500 Power for the turn.
+[A] When this Side Attacks, your Opponent may not play Events from hand until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Chamber, Responding
+応答するチェインバー
+Card No.: GG/S23-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Amy: "Then, you're stronger than that?" Chamber: "Very,
+strong"
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Army:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Chamber, Responding
+応答するチェインバー
+Card No.: GG/S23-036S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Army:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Chamber, Calm Day
+凪の日 チェインバー
+Card No.: GG/S23-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Pinion: "... You are all black"
+TEXT: [C] Character Opposite this gains "[A] ENCORE [Discard a Character card
+from hand to the Waiting Room]".
+
+================================================================================
+
+Chamber, Hunting Whalesquid
+クジライカ討伐 チェインバー
+Card No.: GG/S23-038  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: I suggest you carry out the mission solo
+TEXT: [C] For each of your other GREEN Characters, this gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Chamber, Hunting Whalesquid
+クジライカ討伐 チェインバー
+Card No.: GG/S23-038S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] For each of your other GREEN Characters, this gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Chamber in Battle
+戦闘中 チェインバー
+Card No.: GG/S23-039  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: Ledo: "Don't let go!"
+TEXT: [A] [Return a ::Pilot:: Character in your Clock to your hand] When this
+attacks, if "Shove It, Tinplate Bastard!" is in the Climax Zone, you may pay
+cost. If so, this gains +4500 power for the turn, and at the beginning of the
+Encore Step, put this in Clock. 
+
+================================================================================
+
+Lukkage, Great Pirate
+大海賊 ラケージ
+Card No.: GG/S23-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 海賊 (Pirate)
+Triggers: None
+Flavor: I didn't expect them to infuriate me like this
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+
+================================================================================
+
+Parinuri, Lukkage's Attendent
+ラケージの側近 パリヌリ
+Card No.: GG/S23-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: オペレーター (Operator)      Trait 2: 海賊 (Pirate)
+Triggers: None
+Flavor: Sorry for the wait-!
+TEXT: [C] If this is in the Front Row Right Slot, this gains +1000 Power.
+
+================================================================================
+
+Paraem, Lukkage's Attendent
+ラケージの側近 パラエム
+Card No.: GG/S23-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: オペレーター (Operator)      Trait 2: 海賊 (Pirate)
+Triggers: None
+Flavor: Gungho-!
+TEXT: [C] If this is in the Front Row Left Slot, this gains +1000 Power.
+
+================================================================================
+
+Chamber, Gravity Waver
+グラビティ・ウェイバー チェインバー
+Card No.: GG/S23-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Starting captures
+TEXT: -- None --
+
+================================================================================
+
+Lukkage, Rebellion
+反逆 ラケージ
+Card No.: GG/S23-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 海賊 (Pirate)
+Triggers: None
+Flavor: Sorry to make you look bad!
+TEXT: -- None --
+
+================================================================================
+
+Striker, Calling Itself God
+神を名乗るストライカー
+Card No.: GG/S23-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 10000   Soul: 2
+Trait 1: メカ (Mecha)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: I'm the regulation system to help mankind understand. Thus, I'm
+a being called God
+TEXT: [A] [Put 1 of your Level 0 or lower Character from Stage to the Waiting
+Room] When this is placed from hand to the Stage, you may pay cost. If not, put
+this in the Waiting Room.
+
+================================================================================
+
+Steelplate Chamber
+鉄板チェインバー
+Card No.: GG/S23-046  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I ask you about the necessity of this situation. The necessity......
+TEXT: Look at up to 3 cards from top of your Lbirary and search for up to 1
+YELLOW card, reveal it, and put it in your hand. Put the rest in the Waiting
+Room.
+Choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Maximize Neuro-plus-powered
+マキシマイズ ニューロプラスパワード
+Card No.: GG/S23-047  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: It doesn't matter, eat me!
+TEXT: Choose 1 of your ::Army:: Characters. That Character gains +4000 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Deflector Beam
+デフレクタービーム
+Card No.: GG/S23-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Deflector Beam stand by
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Shove It, Tinplate Bastard!
+くたばれ、ブリキ野郎！
+Card No.: GG/S23-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I now respond to your ultimatum. ... Shove it, tinplate bastard!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn. 
+
+================================================================================
+
+Wave-Riding Lobster
+波乗りロブスター
+Card No.: GG/S23-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1
+GREEN card in your Waiting Room and put it in Stock, and all your Characters
+gain +1 Soul for the turn.
+
+================================================================================
+
+Amy, Messenger
+メッセンジャー エイミー
+Card No.: GG/S23-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Hey, wanna walk and talk with me?
+TEXT: [C] For each of your other Level 0 or lower Character, this gains +500
+Power.
+
+================================================================================
+
+Amy, Messenger
+メッセンジャー エイミー
+Card No.: GG/S23-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] For each of your other Level 0 or lower Character, this gains +500
+Power.
+
+================================================================================
+
+Amy, Realized Feelings
+気付いた想い エイミー
+Card No.: GG/S23-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: I want to be by your side!!
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from hand to the Waiting Room.
+[A] [(1)] When this attacks, you may pay cost. If so, for the turn, this gains
++1000 and "[A] When the Battle Opponent of this becomes Reversed, you may put
+that Character on top of the Library".
+
+================================================================================
+
+Amy, Realized Feelings
+気付いた想い エイミー
+Card No.: GG/S23-052SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from hand to the Waiting Room.
+[A] [(1)] When this attacks, you may pay cost. If so, for the turn, this gains
++1000 and "[A] When the Battle Opponent of this becomes Reversed, you may put
+that Character on top of the Library".
+
+================================================================================
+
+Amy, Bright Smiles
+明るい笑顔 エイミー
+Card No.: GG/S23-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Well then, I'll come back in the morning!
+TEXT: [A] This ability activates up to once per turn. When you use [S], choose
+1 of your Characters. That Character gains +1000 Power for the turn.
+[S] [(2) Rest this] Choose 1 ::Letter:: Character in your Waiting Room and
+return it to your hand. 
+
+================================================================================
+
+Amy, Bright Smiles
+明るい笑顔 エイミー
+Card No.: GG/S23-053R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability activates up to once per turn. When you use [S], choose
+1 of your Characters. That Character gains +1000 Power for the turn.
+[S] [(2) Rest this] Choose 1 ::Letter:: Character in your Waiting Room and
+return it to your hand. 
+
+================================================================================
+
+Amy, Surprising Meeting
+驚きの出会い エイミー
+Card No.: GG/S23-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Ledo......
+TEXT: [A] When this attacks, if "Ceremony of Friendship" is in your Climax
+Zone, choose up to 1 Character with either ::Pilot:: and/or ::Letter:: in your
+Waiting Room and return it to your hand, and your Opponent chooses up to 1
+Character in his or her Waiting Room and return it to his or her hand.
+
+================================================================================
+
+Amy, Surprising Meeting
+驚きの出会い エイミー
+Card No.: GG/S23-054S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Ceremony of Friendship" is in your Climax
+Zone, choose up to 1 Character with either ::Pilot:: and/or ::Letter:: in your
+Waiting Room and return it to your hand, and your Opponent chooses up to 1
+Character in his or her Waiting Room and return it to his or her hand.
+
+================================================================================
+
+Amy, Full of Interest
+興味津々 エイミー
+Card No.: GG/S23-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: What is that? What are you making?
+TEXT: [S] [Discard a ::Letter:: Character from hand to the Waiting Room] Reveal
+the top card of your Library. If it's a ::Letter:: Character, for the turn,
+this gains "[C] When this attacks, you may instead choose a Character in your
+Opponent's Back Row and Front Attack that Character as the Defending
+Character." (Put the revealed card back where it was) 
+
+================================================================================
+
+Amy, Life on the Ship
+船上での生活 エイミー
+Card No.: GG/S23-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: I see, is that so that there's no money in the universe
+TEXT: [A] This ability activates up to once per turn. When you use [S], choose
+1 of your Characters. That Character gains +2000 Power for the turn.
+[A] [Put this in the Waiting Room] When "Thus, Come Back!" is placed in your
+Climax Zone, you may pay cost. If so, choose up to 1 "Amy, Realized Feelings"
+in your hand and put it in the Slot this was in. 
+
+================================================================================
+
+Amy, Dancer
+踊り子 エイミー
+Card No.: GG/S23-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] For each of your other ::Letter:: Characters, this gains +500 Power.
+[A] This ability activates up to once per turn. When you use [S], choose 1 of
+your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Amy, Dancer
+踊り子 エイミー
+Card No.: GG/S23-057S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each of your other ::Letter:: Characters, this gains +500 Power.
+[A] This ability activates up to once per turn. When you use [S], choose 1 of
+your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Bebel, Admiration for the Universe
+宇宙への憧れ べベル
+Card No.: GG/S23-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 本 (Book)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: But, maybe he's from the sky
+TEXT: [A] BOND/"Amy, Realized Feelings" [Put the top card of your Library in
+Clock]
+
+================================================================================
+
+Amy, Running Up
+駆け寄るエイミー
+Card No.: GG/S23-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: That was great!
+TEXT: [S] [Rest 2 of your ::Letter:: Characters] Choose 1 of your Characters.
+That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Amy, Impressed
+感心するエイミー
+Card No.: GG/S23-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: You are getting better with words
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this 1card from hand to the
+Waiting Room]
+
+================================================================================
+
+Amy, Smiling
+微笑む エイミー
+Card No.: GG/S23-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Ledo! Good morning!
+TEXT: [A] [Put the top card of your Library in Clock] When this attacks, if
+"Gargantia on the Verdurous Planet" is in the Climax Zone, you may pay cost. If
+so, choose a Character in your Waiting Room and return it to your hand, and
+this gains +1000 Power for the turn.
+
+================================================================================
+
+Amy, Smiling
+微笑む エイミー
+Card No.: GG/S23-061S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Put the top card of your Library in Clock] When this attacks, if
+"Gargantia on the Verdurous Planet" is in the Climax Zone, you may pay cost. If
+so, choose a Character in your Waiting Room and return it to your hand, and
+this gains +1000 Power for the turn.
+
+================================================================================
+
+Melty, Making a Joke
+茶化すメルティ
+Card No.: GG/S23-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: None
+Triggers: Soul 
+Flavor: Found a good-looking guy!
+TEXT: [A] [Rest 2 of your Standing Characters] When this becomes Reversed, you
+may pay cost. If so, Rest this, and this does not Stand during your next Stand
+Phase. 
+
+================================================================================
+
+Saaya, Relaxing
+のんびり サーヤ
+Card No.: GG/S23-063  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: None
+Triggers: Soul 
+Flavor: A boy got taken as hostage? How old? What's he look like?
+TEXT: [S] [Rest 1 of your ::Letter:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+Happy Amy
+喜ぶエイミー
+Card No.: GG/S23-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Amy: "This is really pretty!"
+TEXT: [A] When this becomes Reversed, if its Battle Opponent is Level 0 or
+lower, you may Reverse that Character.
+
+================================================================================
+
+Grace, Following Amy
+エイミーのお供 グレイス
+Card No.: GG/S23-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Ki?
+TEXT: [A] [Put this in the Waiting Room] When your other ::Letter:: Character
+is Front Attacked, you may pay cost. If so, choose 1 of your Characters in
+Battle. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Melty, Mischievous Kid
+いたずらっ子 メルティ
+Card No.: GG/S23-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: None
+Triggers: None
+Flavor: Hurry!
+TEXT: [C] If there are 2 or more cards in your Opponent's Stock, this gains
++1000 Power.
+
+================================================================================
+
+Saaya in Swimsuit
+水着のサーヤ
+Card No.: GG/S23-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: I don't care. There are many people who like girls with a bit of
+curves
+TEXT: -- None --
+
+================================================================================
+
+Saaya, Composed Girl
+おっとり娘 サーヤ
+Card No.: GG/S23-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: None
+Triggers: None
+Flavor: Ah. there! I got a good feeling!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [(1)] This gains "[A] When this becomes Reversed, if its Battle Opponent is
+Level 1 or lower, you may reverse that character." for the turn. 
+
+================================================================================
+
+Melty in Swimsuit
+水着のメルティ
+Card No.: GG/S23-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: You are too naive. If you think wrong, you'll get hurt, got that?
+TEXT: -- None --
+
+================================================================================
+
+Amy in Swimsuit
+水着のエイミー
+Card No.: GG/S23-070  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 手紙 (Letter)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: Yay! I'm first!
+TEXT: -- None --
+
+================================================================================
+
+Dried Foods
+干物
+Card No.: GG/S23-071  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ledo: "What to do with it!?"
+TEXT: [Counter] Choose 1 of your ::Letter:: Characters and 1 of your ::Pilot::
+Characters (must target different Characters). They gain +2000 Power for the
+turn.
+
+================================================================================
+
+Escape!
+逃走！
+Card No.: GG/S23-072  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ledo: "If I take you as hostage, they will not attack"
+TEXT: Choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Gargantia on the Verdurous Planet
+翠星のガルガンティア
+Card No.: GG/S23-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Ceremony of Friendship
+友愛の儀式
+Card No.: GG/S23-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Chamber: "Corpses of aquatic creature" Ledo:
+"Corpses!?" 
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Thus, Come Back!
+だから帰ってきて！
+Card No.: GG/S23-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Once I was no longer by your side, I realized! No matter how hard it
+may be, I want to be by your side!
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1 RED
+card in your Waiting Room and put it in Stock, and all your Characters gain +1
+Soul for the turn.
+
+================================================================================
+
+Ledo, Young Man from the Sky
+宇宙から来た少年 レド
+Card No.: GG/S23-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: When was the last time I experienced fear?
+TEXT: [C] During your Opponent's turn, your other Character in the Front Row
+Center Slot gains +1000 Power.
+[A] Brainstorm [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, draw up to 1
+card.
+
+================================================================================
+
+Ledo, Young Man from the Sky
+宇宙から来た少年 レド
+Card No.: GG/S23-076R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] During your Opponent's turn, your other Character in the Front Row
+Center Slot gains +1000 Power.
+[A] Brainstorm [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, draw up to 1
+card.
+
+================================================================================
+
+Ledo, Farewell to Galactic Alliance of Humankind
+人類銀河同盟との訣別 レド
+Card No.: GG/S23-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: I am to fight the Commander?
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] When this attacks, if "The Last Supporting Enlightenment" is in the Climax
+Zone, this gains +2000 Power and "[AUTO] When the Battle Opponent of this
+becomes Reversed, you may put that Character on bottom of the Library" until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Ledo, Farewell to Galactic Alliance of Humankind
+人類銀河同盟との訣別 レド
+Card No.: GG/S23-077SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] When this attacks, if "The Last Supporting Enlightenment" is in the Climax
+Zone, this gains +2000 Power and "[AUTO] When the Battle Opponent of this
+becomes Reversed, you may put that Character on bottom of the Library" until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Ledo & Chamber, Under the Sky
+大空の下 レド＆チェインバー
+Card No.: GG/S23-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Yes... Th.. thank you
+TEXT: [C] Your other ::Pilot:: Character in the Front Row Center Slot gains +1
+Level, +500 Power, and "[A] ENCORE [Discard a Character card from hand to the
+Waiting Room]".
+
+================================================================================
+
+Ledo & Chamber, Under the Sky
+大空の下 レド&チェインバー
+Card No.: GG/S23-078SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] Your other ::Pilot:: Character in the Front Row Center Slot gains +1
+Level, +500 Power, and "[A] ENCORE [Discard a Character card from hand to the
+Waiting Room]".
+
+================================================================================
+
+Ledo, Meditating
+精神統一 レド
+Card No.: GG/S23-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: If you want it, do it
+TEXT: [A] When you use the BACKUP of this, choose 1 of your ::Pilot::
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+Ledo, Meditating
+精神統一 レド
+Card No.: GG/S23-079S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When you use the BACKUP of this, choose 1 of your ::Pilot::
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+Ledo, Unfamiliar Land
+見知らぬ土地 レド
+Card No.: GG/S23-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: I think it's best if we seek a cooperative relationship
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your Standing
+::Army:: Characters and Rest it.
+
+================================================================================
+
+Ledo, Unfamiliar Land
+見知らぬ土地 レド
+Card No.: GG/S23-080S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your Standing
+::Army:: Characters and Rest it.
+
+================================================================================
+
+Ledo, Farewell to the Favorite Ride
+愛機との別れ レド
+Card No.: GG/S23-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: Chamber......
+TEXT: [C] All your other ::Army:: Characters gain +1000 Power.
+[A] [Discard a card from hand to the Waiting Room] When this is placed from
+hand to the Stage, you may pay cost. If so, look at up to 4 cards from top of
+your Library and search for up to 1 ::Army:: Character, reveal it, and put it
+in your hand. Put the rest in the Waiting Room.
+
+================================================================================
+
+Ledo, Collapse of Will
+信念の崩壊 レド
+Card No.: GG/S23-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: Stoppppp!!
+TEXT: [C] This cannot Side Attack.
+[C] If the Level of the Character Opposite this is 3 or higher, this gains
++1500 Power.
+
+================================================================================
+
+Ledo, Life on the Ship
+船上での生活 レド
+Card No.: GG/S23-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: I don't know how to use this
+TEXT: [C] If you have 2 or more other ::Army:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]".
+[A] When this attacks, if "Young Man from the Sky" is in the Climax Zone,
+search your Library for up to 1 ::Army:: Character, reveal it, and put it in
+your hand. Shuffle your Library.
+
+================================================================================
+
+Chamber, Mission to Fulfill
+果たすべき務め チェインバー
+Card No.: GG/S23-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Ledo: "Let's defeat him, Chamber. That's our mission"
+Chamber: "I fully agree with you"
+TEXT: [A] When this attacks, all your other Characters with "Ledo" in name gain
++1 Level for the turn.
+[A] BOND/"Ledo, Collapse of Will" [Put the top card of your Library in Clock]
+
+================================================================================
+
+Young Hideauze Lifeform
+ヒディアーズ幼生体
+Card No.: GG/S23-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] You may have as many copies of cards with the same name as this in
+your Deck.
+[A] When this attacks, choose 1 of your other ::Modification:: Characters. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Kugel, Superior
+上官 クーゲル
+Card No.: GG/S23-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Glory to the Galactic Alliance of Humankind. ... For those in good
+health
+TEXT: [C] All your other ::Army:: Characters gain +500 Power.
+
+================================================================================
+
+Whalesquid
+クジライカ
+Card No.: GG/S23-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] For each of your other ::Modification:: Characters, this gains +500
+Power.
+[C] You may have as many copies of cards with the same name as this in your
+Deck.
+
+================================================================================
+
+Ledo, Strong Glare
+強い眼差し レド
+Card No.: GG/S23-088  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: You get strong if you fight? You as a machine, and me as a human
+TEXT: [A] [(1)] At the start of your Opponent's Attack Phase, you may pay cost.
+If so, choose 1 of your ::Pilot:: Characters. That Character gains +1500 Power
+for the turn.
+
+================================================================================
+
+Ledo, Adventurer
+冒険家 レド
+Card No.: GG/S23-089  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: Soul 
+Flavor: When the research advances, it's possible that communication will
+become possible too
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Ledo, Trial-And-Error Smile
+試行錯誤の笑顔 レド
+Card No.: GG/S23-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Expressing delicious... how?
+TEXT: -- None --
+
+================================================================================
+
+Ledo in the Cockpit
+操縦席のレド
+Card No.: GG/S23-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Who are these guys?
+TEXT: [A] At the start of your Climax Phase, reveal the top card of your
+Library. If it's a Climax card, Send this to Memory. (Put the revealed card
+back.)
+
+================================================================================
+
+Ledo, Pondering
+思案するレド
+Card No.: GG/S23-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: This is best for now
+TEXT: [A] [(2)] When "Confronting Pirates" is placed in your Climax Zone, if
+this is in the Front Row, you may pay cost. If so, choose 1 of your Opponent's
+Cost 0 or lower Character and put it on bottom of the Library.
+
+================================================================================
+
+Kugel, Fake Reunion
+偽りの再会 クーゲル
+Card No.: GG/S23-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: パイロット (Pilot)      Trait 2: 軍隊 (Army)
+Triggers: None
+Flavor: Ledo, it's our job to bring new order to this planet
+TEXT: -- None --
+
+================================================================================
+
+Hideauze, Process of Evolution
+進化の過程 ヒディアーズ
+Card No.: GG/S23-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] ASSIST All your ::Modification:: Characters in front of this gain
++1000 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Modification:: Character,
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Hideauze
+ヒディアーズ
+Card No.: GG/S23-095  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 改造 (Modification)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] For each Marker under this, this gains +1000 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may choose a
+::Modification:: Character in your Waiting Room and put it under this as Marker.
+
+================================================================================
+
+Hidden Truth
+隠された真実
+Card No.: GG/S23-096  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: It became clear that some unethical human experiments that violated
+world laws were carried out
+TEXT: Search your Library for up to 2 ::Pilot:: Characters, reveal them, and
+put them in your hand. Shuffle your Library.
+
+================================================================================
+
+Ledo's Flute
+レドの笛
+Card No.: GG/S23-097  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose 1 of your Level 0 or lower Characters and put it in Clock. If so,
+draw up to 2 cards.
+
+================================================================================
+
+The Last Supporting Enlightenment
+最後の支援啓発
+Card No.: GG/S23-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: I'm a system to support and enlighten the piilot. My meaning of
+existence is fulfilled the more results you get
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Confronting Pirates
+海賊迎撃
+Card No.: GG/S23-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Advance
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Young Man from the Sky
+宇宙から来た少年
+Card No.: GG/S23-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Ledo: "Chamber!"
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1 BLUE
+card in your Waiting Room and put in Stock, and all your Characters gain +1
+Soul for the turn.
+
+================================================================================
+

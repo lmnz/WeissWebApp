@@ -1,0 +1,648 @@
+Katanagatari Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Princess Hitei, Supervisor of the Inspection Station of Yanari General Household
+家鳴将軍家直轄内部監察所総監督 否定姫
+Card No.: KG/SE07-01  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: .........
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(1) Put the top card of your Library in your Clock] When this is placed
+from the Stage to the Waiting Room, you may pay cost. If so, search your
+Library for up to 1 "Princess Hitei, Togame's Rival", reveal it, and put it in
+your hand. Shuffle your Library.
+
+================================================================================
+
+Ginkaku Uneri, Lord of the Geku Castle
+下酷城城主 宇練 銀閣
+Card No.: KG/SE07-02  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Ever since I gained this Zantou, you're the first one to have
+dodged my Zerosan...
+TEXT: [A] [Put the top card of your Library in your Clock] When you use the
+BACKUP of this, you may pay cost. If so, chose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+"Japan's Strongest Swordsman" Hakuhei Sabi
+“日本最強の剣士”錆 白兵
+Card No.: KG/SE07-03  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: I have come to retrieve it
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, this gains +1000
+Power and +1 Soul for the turn.
+
+================================================================================
+
+Emonzaemon, Masked Man
+仮面の男 右衛門左衛門
+Card No.: KG/SE07-04  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this attacks, you
+may pay cost. If so, this gains +3500 Power for the turn.
+
+================================================================================
+
+Kanara Azekura, Captain of the Armored Pirates
+鎧海賊団船長 校倉 必
+Card No.: KG/SE07-05  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: If you surrender right after we start... Kyotouryuu, you might be able
+to get out of this arena without a scratch
+TEXT: [C] If you have no other Characters, this gains +2000 Power.
+
+================================================================================
+
+"Capable Subordinate of Princess Hitei" Emonzaemon Souda
+“否定姫の懐刀”左右田 右衛門左衛門
+Card No.: KG/SE07-06  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: "Decline" I don't want you to say that 
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+"Shinou Isshouryuu" Zanki Kiguchi
+“心王一鞘流”汽口 慚愧
+Card No.: KG/SE07-07  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 将棋 (Shogi)
+Triggers: None
+Flavor: The 12th master of Shinou Isshouryuu based out of Dewa, a village
+famous for famous Shogi players 
+TEXT: [C] This cannot Side Attack.
+[S] [Rest this] Choose 1 of your ::Weapon:: Characters. That Character gains
++1000 Power for the turn. 
+
+================================================================================
+
+"Immortal" Rinne Higaki
+“仙人”彼我木 輪廻
+Card No.: KG/SE07-08  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 仙人 (Immortal)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When your Opponent Levels Up, put this in the Waiting Room.
+
+================================================================================
+
+Princess Hitei, Togame's Rival
+とがめの宿敵 否定姫
+Card No.: KG/SE07-09  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Thank you for the praise~
+TEXT: [A] [Discard a "Princess Hitei's Tricks" from your hand] When this is
+placed from the Stage to the Waiting Room, you may pay cost. If so, choose a
+'"Strength of Decline" Princess Hitei' in your Waiting Room and put it Rested
+in the Slot this was in.
+
+================================================================================
+
+Meisai Tsuruga, Sentouryuu
+千刀流 敦賀 迷彩
+Card No.: KG/SE07-10  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 巫女 (Miko)
+Triggers: None
+Flavor: Now, Kyotouryuu -- show me your stregnth
+TEXT: [C] During your turn, for each other "Meisai Tsuruga, Sentouryuu" you
+have, this gains +2000 Power.
+
+================================================================================
+
+Hyorigou, Mechanic Doll
+からくり人形 日和号
+Card No.: KG/SE07-11  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 人形 (Doll)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Human Identified, Kill Immediately
+TEXT: [C] If there are any Markers under this, this gains +1000 Power.
+[C] If there are 2 or more Markers under this, this doesn't Stand during your
+Stand Phase.
+[A] At the end of your turn, if there are 1 or fewer Markers under this, put
+the top card of your Library under this as Marker.
+
+================================================================================
+
+"Strength of Decline" Princess Hitei
+“否定する強さ”否定姫
+Card No.: KG/SE07-12  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 扇子 (Fan)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: It fits very well, bubbed, short hair on the doll with chrysanthemum
+TEXT: [C] For each Marker under this, this gains +1000 Power.
+[A] [(3)] When this becomes Reversed, you may pay cost. If so, put the top card
+of your Library under this as Marker, and Rest this.
+
+================================================================================
+
+"Family That Becomes Sheath" Konayuki Itezora
+“鞘となる一族”凍空 こなゆき
+Card No.: KG/SE07-13  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 雪 (Snow)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Shichika onii-san, now it's my turn!
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's not a ::Weapon:: Character, this gains "[C] This cannot
+Front Attack" for the turn. (Put the revealed card back where it was)
+
+================================================================================
+
+Princess Hitei's Tricks
+否定姫の悪巧み
+Card No.: KG/SE07-14  Rarity: C
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Hades Koumori
+冥土の蝙蝠
+Card No.: KG/SE07-15  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm Hades Koumori, head of the Beast Group of the Maniwa Ninja
+Troops. I can store anything in my body.
+TEXT: [S] [(2) Put this in Clock] Choose a Cost 0 or lower Character in your
+Clock and put it in the Slot this was in.
+
+================================================================================
+
+Chainbound Kuizame 
+鎖縛の喰鮫
+Card No.: KG/SE07-16  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm curious, I'm curious, I'm curious... don't you
+think so?
+TEXT: [C] If you have 2 or more other ::Ninja:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Reverse-Talk Shirasagi 
+逆さ喋りの白鷺
+Card No.: KG/SE07-17  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: None
+Triggers: None
+Flavor: "igasarihS klaT-esreveR" sa nwonk oslA
+TEXT: [A] [(2)] At the beginning of your Opponent's Attack Phase, if your
+Opponent doesn't have a Climax card in his or her Climax Zone, you may pay
+cost. If so, look at your Opponent's hand and choose up to 1 Climax card and
+put it in Opponent's Climax Zone.
+
+================================================================================
+
+Houou, Maniwa
+真庭 鳳凰
+Card No.: KG/SE07-18  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 占い (Fortune Reading)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] For each other ::Weapon:: Character your have, this gains +500
+Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Read Kawauso
+読み調べの川獺
+Card No.: KG/SE07-19  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: None
+Triggers: None
+Flavor: Same, one of the 12 leaders of the Maniwa Ninja Troops, Kawauso Maniwa
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a ::Ninja:: Character, choose 1 of your Characters. That
+Character gains +1000 Power for the turn. (Put the revealed card back where it
+was)
+
+================================================================================
+
+Longevity Umigame
+長寿の海亀
+Card No.: KG/SE07-20  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When you Level Up, put this in the Waiting Room.
+[S] [(1) This gains +2000 Power for the turn.
+
+================================================================================
+
+Maniwa Bug Group, Maniwa Ninja Troops
+真庭忍軍 真庭虫組
+Card No.: KG/SE07-21  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 虫 (Bug)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] ALARM If this is on top of your Clock, and you have 4 or more
+::Ninja:: Characters, at the beginning of your Climax phase, you may put the
+top card of your Library in your Stock.
+
+================================================================================
+
+Propagate Penguin
+増殖の人鳥
+Card No.: KG/SE07-22  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: None
+Triggers: Soul 
+Flavor: I, I-i-i- I'm sorry!
+TEXT: [A] [(4)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a card in your Waiting Room and return it to your Library.
+Shuffle your Library.
+[S] [Rest this] Choose 1 of your ::Ninja:: Characters. That Character gains
++2000 Power for the turn.
+
+
+================================================================================
+
+Infect Kyouken
+伝染の狂犬
+Card No.: KG/SE07-23  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: I cannot allow this. I shall avenge my friends
+TEXT: [A] [(4) Put the top card of your Library in your Clock, Send this to
+Memory] When this becomes Reversed while Battling, you may pay cost. If so,
+choose a Level 2 or lower ::Weapon:: Character in your Waiting Room and put it
+Rested in the Slot this was in.
+
+================================================================================
+
+God houou
+神の鳳凰
+Card No.: KG/SE07-24  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: My lord's information is always right
+TEXT: [A] When this attacks, if "Ninjutsu: Danzaien" is in the Climax Zone,
+choose up to 1 ::Ninja:: Character in your Waiting Room and put it in your
+Stock, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Rewind Oshidori
+巻き戻しの鴛鴦
+Card No.: KG/SE07-25  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] EXPERIENCE If "Maniwa Bug Group, Maniwa Ninja Troops" is in your
+Level Zone, this gains +1000 Power and "[S] [(1)] This gains +1000 Power for
+the turn".
+
+================================================================================
+
+Ninjutsu: Danzaien
+忍法断罪円
+Card No.: KG/SE07-26  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Emonzaemon: "Houou - you call that move Danzaien?"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Togame, Encounter with Shichika
+七花との出会い とがめ
+Card No.: KG/SE07-27  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] All your other ::Weapon:: Characters gain +500 Power.
+[A] When this is placed from hand to the Stage, choose another Character of
+yours with "Shichika" in the name. That Character gains +1000 Power for the
+turn.
+
+================================================================================
+
+Princess Yousha
+容赦姫
+Card No.: KG/SE07-28  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Togame, Last Directive
+最後の命令 とがめ
+Card No.: KG/SE07-29  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[A] [Send this to Memory] When "End of Travels" is placed in your Climax Zone,
+you may pay cost. If so, choose a "Kyouto 'Yasuri'" in your hand and put it in
+the Slot this as in.
+
+================================================================================
+
+"First Move 'Suzuran'" Shichika Yasuri
+“一の構え『鈴蘭』”鑢 七花
+Card No.: KG/SE07-30  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, if "Shichika Hachiretsu (Kai)" is in the
+Climax Zone, you may pay cost. If so, choose a ::Weapon:: Character in your
+Waiting Room and return it to your hand, and this gains +4000 Power for the
+turn.
+
+================================================================================
+
+Togame & Shichika, Travel of Trials
+試練の旅 とがめ＆七花
+Card No.: KG/SE07-31  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 和服 (Yukata)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your Standing
+::Yukata:: Characters and Rest it.
+[A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, choose 1 ::Weapon:: Character in your Waiting Room and return it to your
+hand.
+
+================================================================================
+
+Kyouto "Yasuri"
+虚刀『鑢』
+Card No.: KG/SE07-32  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in your Waiting Room.
+[A] [(5)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, deal 5 damage to your Opponent.
+
+================================================================================
+
+Nanami Yasuri
+鑢 七実
+Card No.: KG/SE07-33  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, you may choose a
+::Weapon:: Character in your Waiting Room and return it to your hand.
+[A] [(4)] When this attacks, if "Clash: Nanami versus Shichika" is in the
+Climax Zone, you may pay cost. If so, put all Level 2 or lower Characters in
+your Opponent's Front Row in the Waiting Room.
+[A] At the start of your Draw Phase, put the top card of your Stock in the
+Waiting Room. If so, this gains +2500 Power for the turn.
+
+================================================================================
+
+Togame, Brain Work Specialist
+頭脳労働専門 とがめ
+Card No.: KG/SE07-34  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: None
+Flavor: She's the one who brought up the plans for Shichika to "gather
+th blades", who also carry the title of Supervisor of the Inspection
+Station of Yanari General Household of Owari Shogunate
+TEXT: [A] When this is place from hand to the Stage, choose 1 of your
+::Weapon:: Characters. That Character gains +500 Power for the turn.
+[A] BOND/'"First Move 'Suzuran'" Shichika Yasuri' [(1)]
+
+================================================================================
+
+"Lord of the Yasuri Household" Nanami
+“鑢家家長”鑢 七実
+Card No.: KG/SE07-35  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Shichika's sister. Pretty and beautiful lady, and personality polar
+opposite of her brother Shichika. Since she's physically weak, she tries
+hard to do whatever she does
+TEXT: [C] If you have no other Characters, this gains +2000 Power.
+[S] [(2) Rest this] Choose a ::Weapon:: Character in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Togame, Ingenious Strategist
+奇策士 とがめ
+Card No.: KG/SE07-36  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+"7th Master of Kyoutouryuu" Shichika Yasuri
+“虚刀流七代目当主”鑢 七花
+Card No.: KG/SE07-37  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: 7th Master of Kyoutouryuu. The protagonist of this work who inherited
+the bladeless sword skill "Kyoutouryuu" from his father
+TEXT: [A] When this is placed from hand to the Stage, if you don't have
+"Togame, Encounter with Shichika", Rest this.
+
+================================================================================
+
+Nanami Yasuri, Weak yet Genius
+病弱にして天才 鑢 七実
+Card No.: KG/SE07-38  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] For each Marker under this, this gains +1 Level and +2000 Power.
+[A] [(1)] When this is Front Attacked, if the Level of the Battle Opponent of
+this is higher or equal to the Level of this, you may pay cost. If so, put the
+top card of your Library under this as Marker.
+
+================================================================================
+
+"Togame's Blade" Shichika Yasuri
+“とがめの刀”鑢 七花
+Card No.: KG/SE07-39  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Kyoutouryuu - "Bara"!
+TEXT: [S] [(1) Rest 1 of your Characters with "Togame" in the name] This gains
++2000 Power and "[C] During battle involving this Character, your Opponent may
+not play BACKUP from hand" for the turn.
+
+================================================================================
+
+Togame, Focused
+気合を入れるとがめ
+Card No.: KG/SE07-40  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [Put the top card of your Library in your Clock] When this attacks,
+if "Cheerio-!" is in the Climax zone, you may pay cost. If so, choose 1
+::Weapon:: Character in your Waiting Room and return it to your hand, and this
+gains +2000 Power for the turn.
+
+================================================================================
+
+Togame, Smart Strategies and Knacks
+智謀知略と手練手管 とがめ
+Card No.: KG/SE07-41  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room] 
+
+================================================================================
+
+Cheerio-!
+ちぇりおー！
+Card No.: KG/SE07-42  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Shichika Hachiretsu (Kai)
+七花八裂（改）
+Card No.: KG/SE07-43  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kyoutouryuu's last secret move - "Shichika Hachiretsu
+(Kai)"!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Clash: Nanami versus Shichika
+対決 七実対七花
+Card No.: KG/SE07-44  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: You're going to kill me too, right
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+End of Travels
+旅の終わり
+Card No.: KG/SE07-45  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Is it okay for me to fall for you? 
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+

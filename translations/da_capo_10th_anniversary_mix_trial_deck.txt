@@ -1,0 +1,281 @@
+Da Capo 10th Anniversary Mix Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Otome, Home Tutor Onee-chan
+家庭教師のお姉ちゃん 音姫
+Card No.: DC/W23-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 先生 (Teacher)
+Triggers: Soul 
+Flavor: Now, let's do this together
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from hand to the Waiting Room.
+[A] [(1) Discard a card from hand to the Waiting Room.] When this attacks, you
+may pay cost. If so, all your Characters gain +500 Power and +1 Soul for the
+turn.
+
+================================================================================
+
+Yume, Second Button Charm
+第二ボタンのお守り 由夢
+Card No.: DC/W23-103  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: There's only one thing, you know
+TEXT: [A] When this attacks, if "Memory with Onii-san" is in the Climax Zone,
+choose up to 1 card in your Opponent's Waiting Room and place it on top of the
+Library, and all your Characters gain +2000 Power for the turn.
+[A] When this is Front Attacked, look at the top card of your Library, and
+either put it on top of your Library or put it in the Waiting Room.
+[S] (1) Choose 1 of your ::Magic:: Characters. That character gains +1500 Power
+for the turn.
+
+================================================================================
+
+Everyday is Embarassing
+こそばゆい日常
+Card No.: DC/W23-104  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Onii-san, please take care of us even from now on
+TEXT: Look at up to 4 cards from top of your Library, and choose up to 1
+::Magic:: Character among them, reveal it, and put it to your hand. Put the
+other cards in the Waiting Room.
+
+================================================================================
+
+Memory with Onii-san
+兄さんとの思い出
+Card No.: DC/W23-105  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: It was this one, onii-san's seat
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Sakura, Princess of the Royal Capital
+王都のプリンセス さくら
+Card No.: DC/W23-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: ドレス (Dress)
+Triggers: None
+Flavor: On the carriage passing by in front of my eyes, the person waving with
+a single hand and smiling... No others, it was Sakura Yoshino
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Izumiko, With Marvelous Boyfriend
+素敵な彼氏と 和泉子
+Card No.: DC/W23-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: シャケ (Salmon)
+Triggers: None
+Flavor: -- It's finally just the two of us
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it is a Climax card, choose 1 of your characters. That
+Character gains +2 Soul for the turn. (Put the revealed card back where it was)
+
+================================================================================
+
+Mahiru, Big Ruckus!
+大はしゃぎ！ まひる
+Card No.: DC/W23-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: たとえ話 (Simple Example)      Trait 2: None
+Triggers: None
+Flavor: Let's come again-!
+TEXT: -- None --
+
+================================================================================
+
+Otome, Always Together
+ずっと一緒に 音姫
+Card No.: DC/W23-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Yeah. Your words just now made me the happiest
+TEXT: [S] [COUNTER] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Aisia, Hopeful Puppy Eyes
+期待の眼差し アイシア
+Card No.: DC/W23-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: Soul 
+Flavor: Yes~
+TEXT: [A] [(1)] When the damage done by this is cancelled, you may pay cost. If
+so, draw 1 card.
+
+================================================================================
+
+Uncontrollable Feelings
+抑えられない想い
+Card No.: DC/W23-T10  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Yoshiyuki-kun!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Erica, Personal Lesson
+個人レッスン エリカ
+Card No.: DC/W23-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: I, it's my first time so I'm bound to mess up!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Miharu, Senpai and Banana
+先輩とバナナ 美春
+Card No.: DC/W23-T12  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: Uh, to choose between this and b, banana... uh... eh.... t, that...
+TEXT: [C] If your Level is 1 or higher, this does not Stand during your Stand
+phase.
+
+================================================================================
+
+Nemu, Happy Time
+楽しい時間 音夢
+Card No.: DC/W23-T13  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: ナース (Nurse)
+Triggers: None
+Flavor: ... Onii-san needs to work too! Here, go find some wood that can be
+used for campfire
+TEXT: -- None --
+
+================================================================================
+
+Myu-san, Enjoyable Shopping
+楽しいお買い物 μさん
+Card No.: DC/W23-T14  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: Un------!
+TEXT: [A] When this becomes Reversed, if the Battle Opponent is Level 2 or
+lower, you may Reverse that Character.
+[A] When this becomes Reversed in Battle, choose 1 of your Characters. That
+character gains +1000 Power for the turn.
+
+================================================================================
+
+Miharu's Feelings
+美春の気持ち
+Card No.: DC/W23-T15  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Miharu: "Miharu has liked senpai since I was a kid" Miharu:
+"That's why 'please let us be together always'"?
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Ricca, the Bond Called Fate
+運命という絆 立夏
+Card No.: DC3/W23-102  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: It's not a miracle. It's fate
+TEXT: [C] Your other Front Row Center ::Student Councic:: Character gains +1500
+Power.
+
+================================================================================
+
+Ricca, Familiar Feeling
+懐かしい感じ リッカ
+Card No.: DC3/W23-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Noo.... It feels nice...
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times the cost of that Character.
+[A] [(1) Discard a card from your hand to the Waiting Room] When this is played
+from hand to the Stage, you may pay cost. If so, search your Library for up to
+1 ::Student Council:: Character, reveal it, and put it in your hand. Shuffle
+your Library.
+
+================================================================================
+
+Elizabeth, Playful Urchin
+お茶目なエリザベス
+Card No.: DC3/W23-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Wow, this looks delicious. I'm excited
+TEXT: [A] ENCORE [Put the top card of your library in Clock]
+
+================================================================================
+
+Charles, Someday's Memory
+いつかの記憶 シャルル
+Card No.: DC3/W23-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Now now, you're kidding~
+TEXT: -- None --
+
+================================================================================
+
+Tomoe, Hotly Debating
+熱弁をふるう巴
+Card No.: DC3/W23-T09  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Well, you're a Japanese male and you don't get it. Kiyotaka
+TEXT: [C] During your turn, this gains +1000 Power.
+
+================================================================================
+

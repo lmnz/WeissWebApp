@@ -1,0 +1,1605 @@
+Fate&#47;stay night Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Shirou Emiya
+衛宮 士郎
+Card No.: FS/S03-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: That's fine, just come. I want to introduce Saber to everyone
+TEXT: [A] BOND/"Saber, King of Knights" [(1)]
+[S] [(1)] Choose 1 of your ::Weapon:: Characters. That Character gains +500
+Power for the turn.
+
+================================================================================
+
+Saber, King of Knights
+騎士王セイバー
+Card No.: FS/S03-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You said that as soon as you close your eyes, you dreamt the same
+dream...?
+TEXT: [C] For each other ::Master:: Character you have, this gains +500 Power.
+[C] If you have "Shirou Emiya" In play, this gains "[A] ENCORE [Discard a
+Character card from hand to the Waiting Room]"
+
+================================================================================
+
+Saber, King of Knights
+騎士王セイバー
+Card No.: FS/S03-002R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each other ::Master:: Character you have, this gains +500 Power.
+[C] If you have "Shirou Emiya", this gains "[A] ENCORE [Discard a Character
+card from hand to the Waiting Room]"
+
+================================================================================
+
+Saber, Monster Instructor
+鬼教官セイバー
+Card No.: FS/S03-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Now. Parry lightly like normal
+TEXT: [C] If you have 2 or more other ::Weapon:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Gilgamesh, Oldest King
+最古の王ギルガメッシュ
+Card No.: FS/S03-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Our turn to shine. Wake up, Air
+TEXT: [S] [(2)] Search your Library for a Climax card and put it in the Waiting
+Room. Shuffle your Library. If so, choose a Level 2 or lower Character in your
+Opponent's Front Row and put it in Stock.
+
+================================================================================
+
+Gilgamesh, Oldest King
+最古の王ギルガメッシュ
+Card No.: FS/S03-004S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [S] [(2)] Search your Library for a Climax card and put it in the Waiting
+Room. Shuffle your Library. If so, choose a Level 2 or lower Character in your
+Opponent's Front Row and put it in Stock.
+
+================================================================================
+
+"Ally of Justice" Shirou
+“正義の味方”士郎
+Card No.: FS/S03-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The young man fought his own demise with his own power and won
+TEXT: [A] [(2)] When this attacks, if "Infinite Sword Creation/Unlimited Blade
+Works" is in the Climax Zone, you may pay cost. If so, choose an Opponent's
+Character whose Level is 2 or lower and put it in Stock.
+[A] ENCORE [(2)]
+
+================================================================================
+
+"Ally of Justice" Shirou
+“正義の味方”士郎
+Card No.: FS/S03-005S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(2)] When this attacks, if "Infinite Sword Creation/Unlimited Blade
+Works" is in the Climax Zone, you may pay cost. If so, choose an Opponent's
+Character whose Level is 2 or lower and put it in Stock.
+[A] ENCORE [(2)]
+
+================================================================================
+
+Shirou & Saber
+士郎＆セイバー
+Card No.: FS/S03-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: Shirou, hand ---!
+TEXT: [C] If there are 5 or fewer cards in your Library, this gets -1 Level
+while it's in your hand.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in your Waiting Room.
+[A] [(1)] When this attacks, if "Golden Farewell" is in the Climax Zone, you
+may pay cost. If so, choose an Opponent's Level 2 or lower Character. Put it in
+Stock.
+
+================================================================================
+
+Ayako Mitsuzuri
+美綴 綾子
+Card No.: FS/S03-007  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: Hmm? Did you just say something bad just now?
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Character whose name includes "Rin", draw a card, and
+discard a card from hand to the Stage. (Otherwise put the revealed card back
+where it was.)
+[A] When this attacks, all your Characters gain +500 Power for the turn.
+
+================================================================================
+
+Hungry Ones
+はらぺこーず
+Card No.: FS/S03-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 先生 (Teacher)
+Triggers: None
+Flavor: Shirou, seconds!
+TEXT: [S] [Rest a Character whose name includes "Shirou"] This gains +2000
+Power for the turn.
+
+================================================================================
+
+Saber, Invisible Sword
+不可視の剣セイバー
+Card No.: FS/S03-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Run away, Shirou----!
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Gilgamesh, Golden Hero King
+黄金の英雄王ギルガメッシュ
+Card No.: FS/S03-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Is it bad for me to come here to claim what's mine
+TEXT: [S] [Rest 1 of your ::Weapon:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+Kiritsugu Emiya
+衛宮 切嗣
+Card No.: FS/S03-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: When I was a kid, I vowed to be an ally of justice
+TEXT: [C] If the Battle Opponent of this is level 2 or higher, this gains +2000
+Power for the battle.
+
+================================================================================
+
+Saber, Fresh out of the Bath
+湯上りセイバー
+Card No.: FS/S03-012  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: It's cold tonight, so a hot bath will warm the body
+TEXT: -- None --
+
+================================================================================
+
+Taiga Fujimura
+藤村 大河
+Card No.: FS/S03-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I'm a bit lonely
+TEXT: [C] All your other Characters with "Sakura" in the name gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with "Shirou" in the name. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Issei Ryuudou
+柳洞 一成
+Card No.: FS/S03-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Of course. As student council president, I have control over every
+student's information
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Saber, Best Heroic Spirit
+最優の英霊セイバー
+Card No.: FS/S03-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall take on the name of Saber......! You shall be my master,
+Rin---!
+TEXT: [C] If the Battle Opponent of this has ::Magic::, this gains +2000 Power
+for the battle.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Illya & Shirou
+イリヤ＆士郎
+Card No.: FS/S03-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm the big sister. Therefore, I have to protect my little brother
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain +1
+Soul.
+[S] BRAINSTORM [(2)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, choose a Level 1 or lower
+Character in Opponent's Front Row and return it to the hand.
+
+================================================================================
+
+Instructor Fuji
+藤師しょー
+Card No.: FS/S03-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Marvelous! Bravo! Big Bravo!
+TEXT: -- None --
+
+================================================================================
+
+Saber, Bearer of Holy Sword
+聖剣の担い手セイバー
+Card No.: FS/S03-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ----Wind
+TEXT: [A] [(5)] When this attacks, if "Excalibur" is in the Climax Zone, you
+may pay cost. If so, put all Level 2 or lower Characters in your Opponent's
+Front Row in the Stock. 
+
+================================================================================
+
+Gate of Babylon
+王の財宝
+Card No.: FS/S03-019  Rarity: R
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: If you're lucky, you'll get away with just having your hand and
+feet punctured---!
+TEXT: Search your Library for up to 2 ::Weapon:: Characters, reveal them, and
+put them in your hands. Shuffle your Library.
+
+================================================================================
+
+Summon Saber
+セイバー召喚
+Card No.: FS/S03-020  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ---I ask you. Are you my Master
+TEXT: Choose up to 1 Character in your hand whose name includes "Saber" and
+whose Level is no more than 1 higher than your own Level and put it in any Slot
+on the Stage.
+
+================================================================================
+
+Funny Lion
+ファニーライオン
+Card No.: FS/S03-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Once upon a time I was given a lion cub, --
+TEXT: [Counter] Choose 1 of your Characters. That Character gains +5000 Power
+and +1 Soul for the turn.
+
+================================================================================
+
+Shirou VS Gilgamesh
+士郎ＶＳギルガメッシュ
+Card No.: FS/S03-022  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Don't ---- you run away, you
+bastard----!
+TEXT: Choose 1 of your Characters and put it on top of the Library. If so,
+choose a Level 2 or lower Character in your Opponent's Front Row and return it
+to the hand.
+
+================================================================================
+
+Golden Farewell
+黄金の別離
+Card No.: FS/S03-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Shirou---- I love you
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Golden Farewell
+黄金の別離
+Card No.: FS/S03-023SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Excalibur
+約束された勝利の剣
+Card No.: FS/S03-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: --A blade of light that cuts through anything it touches
+without exceptions--
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Infinite Sword Creation/Unlimited Blade Works
+無限の剣製
+Card No.: FS/S03-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Let's go, Hero King---- You sure you have enough
+stocked weapons
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Master Sakura
+マスター桜
+Card No.: FS/S03-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: As Master of Rider, I shall fight with all my might
+TEXT: [C] All your other ::Animal:: Characters gain +500 Power.
+[S] BRAINSTORM [(1)] Reveal the top 3 cards of your Library and put them in the
+Waiting Room. If you revealed at least one "Rider, Youngest Daughter of
+Gorgon", choose a "Rider, Youngest Daughter of Gorgon" in your Waiting Room and
+put it in any Slot on Stage.
+
+================================================================================
+
+"Legendary Hero" Berserker
+“神話の英雄”バーサーカー
+Card No.: FS/S03-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 3   Power: 9500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ----Chains of Heavens----!
+TEXT: [A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Sakura Matou
+間桐 桜
+Card No.: FS/S03-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Which one do you like, Rider or I?
+TEXT: [S] [(2)] Choose a "Rider, Battle Ready" in your Clock and put it in any
+Slot on Stage. Choose a card in your hand and put it in your Clock.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Sakura Matou
+間桐 桜
+Card No.: FS/S03-028R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] [(2)] Choose a "Rider, Battle Ready" in your Clock and put it in any
+Slot on Stage. Choose a card in your hand and put it in your Clock.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Rider, Battle Ready
+臨戦態勢ライダー
+Card No.: FS/S03-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: ---There is a giant snake
+TEXT: [A] [(2)] When "Bellerophon" is placed in your Climax Zone, you may pay
+cost. If so, this gains "[C] When this attacks, you may instead choose a
+Character in Opponent's Back Row and have this perform a Front Attack against
+the chosen Character" for the turn.
+[A] When a Level 1 or higher Battle Opponent of this becomes Reversed, you may
+put the top card of your Library in your Stock.
+
+================================================================================
+
+Rider, Battle Ready
+臨戦態勢ライダー
+Card No.: FS/S03-029S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(2)] When "Bellerophon" is placed in your Climax Zone, you may pay
+cost. If so, this gains "[C] When this attacks, you may instead choose a
+Character in Opponent's Back Row and have this perform a Front Attack against
+the chosen Character" for the turn.
+[A] When a Level 1 or higher Battle Opponent of this becomes Reversed, you may
+put the top card of your Library in your Stock.
+
+================================================================================
+
+"Worst Enemy" Berserker
+“最凶の敵”バーサーカー
+Card No.: FS/S03-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 2   Power: 7000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Illya: "----I swear. Today, no one will escape"
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Sakura, Opened Heart
+開放された桜
+Card No.: FS/S03-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: I'll try to do what I can little by little
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[A] When "Sakura, Happy?" is placed in your Climax Zone, choose 1 of your
+Characters. That Character gains +3000 Power for the turn.
+
+================================================================================
+
+Sakura, Opened Heart
+開放された桜
+Card No.: FS/S03-031S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[A] When "Sakura, Happy?" is placed in your Climax Zone, choose 1 of your
+Characters. That Character gains +3000 Power for the turn.
+
+================================================================================
+
+Sakura, Successor of Matou
+間桐の後継者 桜
+Card No.: FS/S03-032  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Senpai doesn't care if Rider is here, right?
+TEXT: [C] ASSIST All your Characters in front of this gain +1 Level.
+[S] [Rest this] Choose 1 of your Characters with "Shirou" in the name. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Rider, Swift Cavalry
+神速の騎兵ライダー
+Card No.: FS/S03-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: ------Be Prepared
+TEXT: -- None --
+
+================================================================================
+
+Luviagelita Edelfelt
+ルヴィアゼリッタ・エーデルフェルト
+Card No.: FS/S03-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 宝石 (Gem)      Trait 2: None
+Triggers: None
+Flavor: Mind showing me the skills of Japanese magicians?
+TEXT: [S] [Rest 1 of your Characters with "Rin" in the name] This gains +1000
+Power for the turn.
+[S] [Rest this] Choose 1 of your Characters with "Rin" in the name. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Sella & Leys
+セラ＆リズ
+Card No.: FS/S03-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メイド (Maid)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: Sella: "Leysritt, clean properly" Leysritt: "No, I want to
+play with Illya"
+TEXT: [C] If you have another Character whose Level is 2 or higher, this gains
++1000 Power.
+
+================================================================================
+
+Lancer, Lethal Crimson Lance
+必殺の朱槍ランサー
+Card No.: FS/S03-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall take that heart now---!
+TEXT: [S] [(2)] This gains +5000 Power for the turn.
+
+================================================================================
+
+Sakura & Rider
+桜＆ライダー
+Card No.: FS/S03-037  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: Sakura: "Rider, where shall we go next?"
+TEXT: [C] Character opposite this gets -1 Soul.
+[A] [(2)] When "Heaven's Feel" is placed in your Climax Zone, you may pay cost.
+If so, choose a Level 2 or lower Character in your Clock and put it in any Slot
+on Stage.
+[S] [(1)] Choose 1 of your Opponent's Characters. That Character gets -500
+Power for the turn.
+
+================================================================================
+
+"Peaceful Days" Rider
+“平穏な日々”ライダー
+Card No.: FS/S03-038  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: I'll go ask for Sakura
+TEXT: [S] [(1)] Choose 1 Character in your Opponent's Front Row. That Character
+gets -1000 Power for the turn.
+
+================================================================================
+
+Sella
+セラ
+Card No.: FS/S03-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: メイド (Maid)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: I can't find Illyasviel-sama, do you know where she could be?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Leysritt
+リーゼリット
+Card No.: FS/S03-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メイド (Maid)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: ......Thank you. That cake helped
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Sakura, Laudable Girl
+健気な娘 桜
+Card No.: FS/S03-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: I prefer if people don't cheer me up
+TEXT: [C] ALARM If this is on top of the Clock, all your Level 2 or higher
+Characters gain +1000 Power.
+
+================================================================================
+
+"Azure Wind" Lancer
+“蒼い風”ランサー
+Card No.: FS/S03-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You've always asked me to help you a little, so I came
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Rider, Youngest Daughter of Gorgon
+ゴルゴンの末女ライダー
+Card No.: FS/S03-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: A frog with its feet cut off. There's nowhere to run.
+TEXT: -- None --
+
+================================================================================
+
+Hug of Sisters
+姉妹の抱擁
+Card No.: FS/S03-044  Rarity: R
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 5   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Thank you. I'm glad that you kept wearing that ribbon
+TEXT: Choose a Level 3 or lower Character in your Clock and put it in any Slot
+on Stage. At the end of your Opponent's next turn, put that Character in Clock.
+
+================================================================================
+
+Mystic Eye: Cybele
+魔眼・キュベレイ
+Card No.: FS/S03-045  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ----That instant, everything became solid
+TEXT: Look at the top 3 cards of your Opponent's Library. Choose up to 1 of
+them and put it on the bottom of the Library. Put the rest on top on the
+Library in any order.
+
+================================================================================
+
+Sakura's Care
+桜の看病
+Card No.: FS/S03-046  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I want to go flower viewing
+TEXT: BRAINSTORM Put the top card of your Library in your Stock. Reveal the top
+3 cards of your Library and put them in your Waiting Room. If a Climax card was
+revealed this way, put this in Stock.
+
+================================================================================
+
+Gae Bolg
+突き穿つ死翔の槍
+Card No.: FS/S03-047  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ---Here I go. You should probably take this with your
+hand......!
+TEXT: [Counter] Choose 1 of your Characters. That Character gains +4000 Power
+for the turn.
+
+================================================================================
+
+Sakura, Happy?
+桜、幸せ？
+Card No.: FS/S03-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ----Yes
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Sakura, Happy?
+桜、幸せ？
+Card No.: FS/S03-048SP  Rarity: SP
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Bellerophon
+騎英の手綱
+Card No.: FS/S03-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: In front of her, a huge eye made of blood appeared
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Heaven's Feel
+Heaven's Feel
+Card No.: FS/S03-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Now. Shall we go view the promised flowers this year----
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Sakura in Black
+黒衣の桜
+Card No.: FS/S03-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 虫 (Bug)
+Triggers: Soul 
+Flavor: You will die here
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters with "Sakura" in the name and put it in the Waiting Room.
+[S] [(4) Rest this] Choose a Level 2 or lower ::Weapon:: Character in your
+Waiting Room and put it in any Slot on the Stage.
+
+================================================================================
+
+Sakura in Black
+黒衣の桜
+Card No.: FS/S03-051S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 虫 (Bug)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters with "Sakura" in the name and put it in the Waiting Room.
+[S] [(4) Rest this] Choose a Level 2 or lower ::Weapon:: Character in your
+Waiting Room and put it in any Slot on the Stage.
+
+================================================================================
+
+"Darkened Holy Sword" Saber
+“漆黒の聖剣”セイバー
+Card No.: FS/S03-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ----Black light reeks. Coupled with the wind,
+Saber's sword is now scorching
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters with "Saber" in the name and put it in the Clock.
+
+================================================================================
+
+Rin in Pajama
+パジャマの凛
+Card No.: FS/S03-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: *yawn*.... it's... bright...
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Choose 1 of your Characters with "Archer" in the name. That Character
+gains "[A] When this becomes Reversed, if the Level of its Battle Opponent is
+no higher than the Level of this, you may Reverse that Character" for the turn.
+
+================================================================================
+
+Rin in Pajama
+パジャマの凛
+Card No.: FS/S03-053S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Choose 1 of your Characters with "Archer" in the name. That Character
+gains "[A] When this becomes Reversed, if the Level of its Battle Opponent is
+no higher than the Level of this, you may Reverse that Character" for the turn.
+
+================================================================================
+
+Archer, Clumsy Yet Loyal
+不器用な忠義者アーチャー
+Card No.: FS/S03-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I will make you understand that you've been fortunate.
+TEXT: [A] When you Level Up, put this in the Waiting Room.
+
+================================================================================
+
+Rin, Gandr Shooter
+魔弾の射手 凛
+Card No.: FS/S03-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: Soul 
+Flavor: Because I'll be the one victorious
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[S] [Rest 2 of your ::Master:: Characters] Choose a card in your Opponent's
+Waiting Room and put it on top of the Library.
+
+================================================================================
+
+Rin, Gandr Shooter
+魔弾の射手 凛
+Card No.: FS/S03-055R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[S] [Rest 2 of your ::Master:: Characters] Choose a card in your Opponent's
+Waiting Room and put it on top of the Library.
+
+================================================================================
+
+Faker Archer
+複製者アーチャー
+Card No.: FS/S03-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall answer your expectations---
+TEXT: [A] [(4)] When "Unlimited Blade Works" is placed in your Climax Zone, if
+this is in the Front Row, you may pay cost. If so, choose up to 2 ::Weapon::
+Characters whose Level is 2 or lower in your Waiting Room and put them in
+different Front Row Slots on Stage. At the beginning of the Encore Step, if
+those Characters are on Stage, return them to the Library. Shuffle your Library.
+
+================================================================================
+
+Rider & Shinji
+ライダー＆慎二
+Card No.: FS/S03-057  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: You're not my Master, Shinji
+TEXT: [A] [(1)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. If so, choose a "Sakura, Black Holy Grail" in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Rin & Shirou
+凛＆士郎
+Card No.: FS/S03-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Let's go, Shirou. Just like we practiced
+TEXT: [S] [(2) Rest this] Choose a ::Weapon:: Character in your Waiting Room
+and return it to your hand.
+
+================================================================================
+
+Archer, Iron-Wrought Spirit
+錬鉄の英霊アーチャー
+Card No.: FS/S03-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: "---- So it finally comes"
+TEXT: [A] [(1)] When a Level 1 or higher Battle Opponent of this becomes
+Reversed, you may pay cost. If so, choose a ::Weapon:: Character in your
+Waiting Room and return it to your hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Rin, Average One
+五大元素使い 凛
+Card No.: FS/S03-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: You took all of it right? This will cost you!
+TEXT: [A] [(1)] When this attacks, if "Mischievous Smile" is in the Climax
+Zone, you may pay cost. If so, deal 1 damage to your Opponent. (Damage Cancel
+can occur)
+[S] [(1)] This gains +1000 Power and "[A] When the Battle Opponent of this
+becomes Reversed, you may put it on top of the Library" for the turn.
+
+================================================================================
+
+Rin & Archer
+凛＆アーチャー
+Card No.: FS/S03-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: --- If you get further involved, you'll die
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in your Waiting Room.
+[A] When this attacks, if "Words of Farewell" is in the Climax Zone, you may
+deal 1 damage to your Opponent. (Damage Cancel can occur)
+[S] [Discard a ::Weapon:: Character from hand to the Waiting Room] This gains
++2000 Power for the turn.
+
+================================================================================
+
+Rin, Red Devil
+あかいあくま凛
+Card No.: FS/S03-062  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: I only wear glasses when I am by myself, so I don't know... is it
+weird?
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a ::Master:: Character in your Waiting Room and return it to your
+hand.
+
+================================================================================
+
+Rin Tohsaka
+遠坂 凛
+Card No.: FS/S03-063  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: None
+Flavor: That's the top of the high tower. A magician feeling like the moon
+looking down on the ocean
+TEXT: [A] BOND/"Archer, Iron-Wrought Spirit" [(1)]
+
+================================================================================
+
+Archer, Red Knight
+赤い騎士アーチャー
+Card No.: FS/S03-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: --- Is that so. Then, you shall disappear here with your false
+lord
+TEXT: -- None --
+
+================================================================================
+
+Rin, Bloodline of Gem Magic
+宝石魔術の血脈 凛
+Card No.: FS/S03-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: Soul 
+Flavor: There......!
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Saber Alter
+セイバーオルタ
+Card No.: FS/S03-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ...... You couldn't even feel any of the noble feeling that she
+used to give out--
+TEXT: [A] When this becomes Reversed, if Level of its Battle Opponent is 1 or
+lower, you may Reverse that Character.
+
+================================================================================
+
+Rin & Saber
+凛＆セイバー
+Card No.: FS/S03-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: Saber: "I shall protect Rin"
+TEXT: -- None --
+
+================================================================================
+
+Sakura, Black Holy Grail
+黒き聖杯 桜
+Card No.: FS/S03-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: I was only given regret and despair by my older sisters.
+That---- is what I shall teach you slowly
+TEXT: -- None --
+
+================================================================================
+
+Rho Aias
+熾天覆う七つの円環
+Card No.: FS/S03-069  Rarity: R
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Seven petals shall protect Archer and counter the magical shot that
+tries to pierce my lord----!
+TEXT: [Counter] Choose 1 of your Characters in your Waiting Room and return it
+to your hand. Choose 1 of your Characters. That Character gains +2000 Power for
+the turn.
+
+================================================================================
+
+Violent Summon
+乱暴な召喚
+Card No.: FS/S03-070  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ...... I want to believe that you really are my Master
+TEXT: Choose a "Rin & Archer" in your Waiting Room and put it in any Slot on
+the Stage. Discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+Gem Sword Zelretch
+宝石剣ゼルレッチ
+Card No.: FS/S03-071  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Es laβt frei. EileSalve-----!
+TEXT: Deal 6 damage to your Opponent. (Damage Cancel can occur)
+
+================================================================================
+
+Gem MAgic
+宝石魔術
+Card No.: FS/S03-072  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Draw it, Saber.....!
+TEXT: Choose 1 of your Characters an put it in your Waiting Room. If you do,
+choose a Level 2 or lower Character in your Opponent's Front Row and put it in
+the Waiting Room.
+
+================================================================================
+
+Unlimited Blade Works
+Unlimited Blade WoRks
+Card No.: FS/S03-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: ---My body can make swords
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Words of Warewell
+別れの言葉
+Card No.: FS/S03-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: --- That's bad. No attachments left in this world?
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Mischievous Smile
+いたずらな微笑み
+Card No.: FS/S03-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Heh, Shirou. What's your answer?
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Mischievous Smile
+いたずらな微笑み
+Card No.: FS/S03-075SP  Rarity: SP
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kirei, Game Master
+ゲームマスター綺礼
+Card No.: FS/S03-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 神 (God)
+Triggers: None
+Flavor: --- Risk your life. If you do, you might be able to reach
+me---!
+TEXT: [C] All your other ::Weapon:: Characters gain +500 Power.
+[S] [(5) Rest this] Choose a Level 2 or lower Character in your hand and put it
+in any Slot on the Stage.
+
+================================================================================
+
+Illya, Tiny Holy Grail
+小聖杯イリヤ
+Card No.: FS/S03-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 1500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: Berserker...... where are you?
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 Character with "Berserker" in the name,
+reveal it, and put it in your hand. Shuffle your Library.
+[A] When another of your ::Servant:: Characters is placed from the Stage to the
+Waiting Room, you may draw a card. If so, discard a card from your hand to the
+Waiting Room.
+
+================================================================================
+
+Illyasviel von Einzbern
+イリヤスフィール・フォン・アインツベルン
+Card No.: FS/S03-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: Okay, please take care of yourself Shirou! Do your best-!
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Illyasviel von Einzbern
+イリヤスフィール・フォン・アインツベルン
+Card No.: FS/S03-078R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Yukika Saegusa
+三枝 由紀香
+Card No.: FS/S03-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: マネージャー (Manager)
+Triggers: None
+Flavor: If, if it's okay with you, do you want to have lunch together......!
+TEXT: [C] All your other Characters gain +1 Level during your Opponent's turn.
+
+================================================================================
+
+"Cruel Tiny One" Illya
+“残虐ちびっ子”イリヤ
+Card No.: FS/S03-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: Onii-chan, you don't like me?
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] ENCORE [Discard
+a Character card from hand to the Waiting Room]".
+[A] When "Justeaze, Saint of Winter" is placed in your Climax Zone, choose 1 of
+your Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+"Cruel Tiny One" Illya
+“残虐ちびっ子”イリヤ
+Card No.: FS/S03-080S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: ホムンクルス (Homunculus)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] ENCORE [Discard
+a Character card from hand to the Waiting Room]".
+[A] When "Justeaze, Saint of Winter" is placed in your Climax Zone, choose 1 of
+your Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+Souichirou & Caster
+宗一郎＆キャスター
+Card No.: FS/S03-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: Souichirou-sama..... marvelous---
+TEXT: [C] If you have another ::Teacher:: Character, this gains +2000 Power.
+[A] [(2)] When this attacks, if "Caster's Wish" is in the Climax Zone, you may
+pay cost. If so, draw up to 2 cards.
+
+================================================================================
+
+Souichirou & Caster
+宗一郎＆キャスター
+Card No.: FS/S03-081S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have another ::Teacher:: Character, this gains +2000 Power.
+[A] [(2)] When this attacks, if "Caster's Wish" is in the Climax Zone, you may
+pay cost. If so, draw up to 2 cards.
+
+================================================================================
+
+Kirei Kotomine, Executer
+代行者 言峰綺礼 
+Card No.: FS/S03-082  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 神 (God)
+Triggers: None
+Flavor: If you're helped by a woman, don't kill her
+TEXT: [S] [(2) Rest this] Choose 1 of your Opponent's Characters. That
+Character doesn't Stand during your Opponent's next Stand Phase.
+
+================================================================================
+
+Caster, Sorceress of the Ages
+神代の魔女キャスター
+Card No.: FS/S03-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Let's end this now
+TEXT: [C] All your other ::Teacher:: Characters gain +1000 Power during your
+Opponent's turn.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 Character with "Koujirou" in the name, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Hassan-i-Sabah
+ハサン・サッバーハ
+Card No.: FS/S03-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: I'll take your heart now
+TEXT: [A] When this is placed on Stage, choose either this or one of your
+"Koujirou Sasaki" and put it in your Waiting Room.
+
+================================================================================
+
+Kirei & Gilgamesh
+綺礼＆ギルガメッシュ
+Card No.: FS/S03-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: I'll tell you all about it later, so please have mercy
+TEXT: -- None --
+
+================================================================================
+
+Illya & Berserker
+イリヤ＆バーサーカー
+Card No.: FS/S03-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: サーヴァント (Servant)
+Triggers: Soul 
+Flavor: ---- Hey, are you done yet?
+TEXT: [C] Character opposite this gets -1 Soul.
+[A] When this attacks, if "Forest of Winter" is in the Climax Zone, draw up to
+2 cards and discard a card from your hand to the Waiting Room.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+No. 1 Pupil
+弟子一号
+Card No.: FS/S03-087  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Yay! I'm a regular now---!
+TEXT: -- None --
+
+================================================================================
+
+Kaede Makidera
+蒔寺 楓
+Card No.: FS/S03-088  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: Taiyaki and crepes have no big differences-
+TEXT: [C] ALARM If this is on top of your Clock, all your Level 2 or higher
+Characters gain "[A] ENCORE [Discard a Character card from hand to the Waiting
+Room]".
+
+================================================================================
+
+Kane Himuro
+氷室 鐘
+Card No.: FS/S03-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: ......Of course. I'd think that Lady Tohsaka would've heard of
+your bad mothing
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 2 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, draw a card.
+
+================================================================================
+
+Caster, Sorceress of Betrayal
+裏切りの魔女キャスター
+Card No.: FS/S03-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: ......I don't want to be touched, so don't get close to me
+TEXT: [A] BOND/"Souichirou Kuzuki" [(1)]
+[S] [(5) Rest this] Choose a Level 2 or lower Character in your Opponent's
+Front Row and put it on the bottom of the Library. Search your Library for up
+to 1 Character with the same name as that Character and put it in any Slot on
+the Stage. Shuffle your Library.
+
+================================================================================
+
+Koujirou Sasaki
+佐々木 小次郎
+Card No.: FS/S03-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: While you live you can't pass, while you live you can't return
+TEXT: -- None --
+
+================================================================================
+
+Souichirou Kuzuki
+葛木 宗一郎
+Card No.: FS/S03-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 先生 (Teacher)
+Triggers: None
+Flavor: Shh----!
+TEXT: [A] [(1)] When you Refresh your Library, you may pay cost. If so, choose
+up to 1 "Souichirou & Caster" in your hand and put it in a Back Row Slot.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Ganryuu, Nameless" Koujirou
+“巌流、無名”小次郎
+Card No.: FS/S03-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Prepare. If you don't, you'll die, Saber
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Good Friends Trio
+仲良し三人組
+Card No.: FS/S03-094  Rarity: R
+Color: Blue   Side: Schwarz  Event
+Level: 3   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Saegusa: "It tastes good" Makidera: "I prefer taiyaki,
+though"
+TEXT: Choose up to 3 cards in your Clock and put them in the Waiting Room. Send
+this to Memory.
+
+================================================================================
+
+Illya, Dancing in the Snow
+雪に舞うイリヤ
+Card No.: FS/S03-095  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: --- Wow! Shirou, it's snow, snow!
+TEXT: [Counter] Draw a card, and discard a card from your hand to the Waiting
+Room. Choose 1 of your Characters. That Character gains "[A] When this is
+placed from the Stage to the Waiting Room, you may put this in the Slot this
+was in Rested" for the turn.
+
+================================================================================
+
+Rain of Light Shots
+光弾の雨
+Card No.: FS/S03-096  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You think you can run......!
+TEXT: Choose 1 of your Opponent's Level 3 or lower Characters. That Character
+doesn't Stand during your Opponent's next Stand Phase.
+
+================================================================================
+
+Mapo Tofu
+麻婆豆腐
+Card No.: FS/S03-097  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ---- You going to eat?
+TEXT: Draw up to 3 cards, and discard 2 cards from your hand to the Waiting
+Room.
+
+================================================================================
+
+Caster's Wish
+キャスターの望み
+Card No.: FS/S03-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Because my wish --- came true until just now
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Caster's Wish
+キャスターの望み
+Card No.: FS/S03-098SP  Rarity: SP
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Forest of Winter
+冬の森
+Card No.: FS/S03-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: --- Berserker is really strong
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Justeaze, Saint of Winter
+冬の聖女ユスティーツァ
+Card No.: FS/S03-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: --- That's right, there's only one that has seen the
+dream. For the banishment of all evil on this world
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

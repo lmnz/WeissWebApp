@@ -1,0 +1,297 @@
+Love Live! Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Wonderful Rush" Niko Yazawa
+“Wonderful Rush”矢澤 にこ
+Card No.: LL/W24-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Your happiness, smiles~
+TEXT: -- None --
+
+================================================================================
+
+"Wonderful Rush" Umi Sonoda
+“Wonderful Rush”園田 海未
+Card No.: LL/W24-102  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Go straight for the thing that looks the most fun... Maybe that's
+what Honoka has that no one else do
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [(1) Rest 2 of your ::Music:: Characters] This gains +4000 Power for the
+turn.
+
+================================================================================
+
+"Wonderful Rush" Eri Ayase
+“Wonderful Rush”絢瀬 絵里
+Card No.: LL/W24-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Of course I believe in everyone, that's why I'm working hard
+TEXT: [A] When this attacks, choose up to 2 of your ::Music:: Characters. They
+gain +500 Power for the turn.
+
+================================================================================
+
+"Wonderful Rush" Maki Nishikino
+“Wonderful Rush”西木野 真姫
+Card No.: LL/W24-104  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I'll do my best -- so cheer me on, okay?
+TEXT: -- None --
+
+================================================================================
+
+"Wonderful Rush" Nozomi Toujou
+“Wonderful Rush”東條 希
+Card No.: LL/W24-105  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: My power shall reach everyone today--
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+"Wonderful Rush" Hanayo Koizumi
+“Wonderful Rush”小泉 花陽
+Card No.: LL/W24-106  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Hanayo has a wonderful August
+TEXT: [C] During your turn, your other Character in your Front Row Center Slot
+gain +500 Power.
+[C] ASSIST All your Characters in front of this gain +1000 Power.
+
+================================================================================
+
+"Wonderful Rush" Rin Hoshizora
+“Wonderful Rush”星空 凛
+Card No.: LL/W24-107  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: For you, I shall sing and dance, and you won't feel cold anymore
+TEXT: [S] [(1) This gains +1 Soul for the turn.
+
+================================================================================
+
+"Wonderful Rush" Kotori Minami
+“Wonderful Rush”南 ことり
+Card No.: LL/W24-108  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: If I could bring even a tiny smile to them
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+
+================================================================================
+
+"Wonderful Rush" Honoka Kousaka
+“Wonderful Rush”高坂 穂乃果
+Card No.: LL/W24-109  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Now, let's start!!
+TEXT: [A] When this is placed from hand to the Stage, search your Library for
+up to 1 ::Music:: Character, reveal it, and put it in your hand. Shuffle your
+Library.
+[A] When your other ::Music:: Character attacks, this gains +1000 Power for the
+turn.
+
+================================================================================
+
+"Oh,Love&Peace!" Myu's
+“Oh,Love&Peace!”μ's
+Card No.: LL/W24-110  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Let's go! To our new future!
+TEXT: [A] [(1)] When this attacks, if "Wonderful Rush" is in the Climax Zone,
+you may pay cost. If so, choose 1 of your ::Music:: Characters. That Character
+gains +5000 Power for the turn.
+
+================================================================================
+
+Wonderful Rush
+Wonderful Rush
+Card No.: LL/W24-111  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Now, let's go!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Us in the Moment
+僕らは今のなかで
+Card No.: LL/W24-112a  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Once we gather, we'll become stronger / definitely / keep
+changing
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Us in the Moment
+僕らは今のなかで
+Card No.: LL/W24-112b  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: It's not just happiness / You have tried / But the hardship
+is also the future
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Us in the Moment
+僕らは今のなかで
+Card No.: LL/W24-112c  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Even then, I want to see that big dream / It's here / Just
+starting
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Umi, Explosion of Fantasizing
+妄想爆発中 海未
+Card No.: LL/W24-T01  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 煩悩 (Worries)
+Triggers: None
+Flavor: I shall catch everyone's heart!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Honoka, Daughter of a Japanese Candy Store
+和菓子屋の娘 穂乃果
+Card No.: LL/W24-T02  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Mother?
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a ::Music:: Character in your Waiting Room and return it to your
+hand.
+
+================================================================================
+
+Kotori, Daughter of the Trustee Chairperson
+理事長の娘 ことり
+Card No.: LL/W24-T03  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I think my mother is feeling pretty down too...
+TEXT: -- None --
+
+================================================================================
+
+Umi, Archery Club
+弓道部 海未
+Card No.: LL/W24-T04  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Honoka, Second-Year Student at Otonokizaka Academy
+音ノ木坂学院２年生 穂乃果
+Card No.: LL/W24-T05  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: ~
+TEXT: -- None --
+
+================================================================================
+
+"Meanie" Kotori
+“ずるい”ことり
+Card No.: LL/W24-T06  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Umi-chan... please...!
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Everyone Tree Climbing
+みんなで木登り
+Card No.: LL/W24-T07  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ...Wow...
+TEXT: Choose 1 ::Music:: Character in your Waiting Room and return it to your
+hand. Choose 1 of your Characters. That Character gains +1000 Power for the
+turn.
+
+================================================================================
+
+First Feelings
+はじまりの想い
+Card No.: LL/W24-T08  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: I will do it! Do it thoroughly!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

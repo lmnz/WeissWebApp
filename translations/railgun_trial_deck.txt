@@ -1,0 +1,258 @@
+Railgun Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Uiharu, Student of Sakugawa Middle School
+柵川中学の生徒 初春
+Card No.: RG/W10-101  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: That's right, Saten-san should come with!
+TEXT: [C] Character opposite this gains +1 Soul.
+
+================================================================================
+
+Mikoto, Student of Tokiwadai Middle School
+常盤台中学の生徒 美琴
+Card No.: RG/W10-102  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Let's go, Kuroko!
+TEXT: [A] When this becomes Reversed, if its Battle Opponent is Level 2 or
+lower, you may Reverse that Character.
+[A] When this becomes Reversed while battling, choose 1 of your Characters.
+That Charcater gains +1000 Power for the turn.
+
+================================================================================
+
+Saten, Student of Sakugawa Middle School
+柵川中学の生徒 佐天
+Card No.: RG/W10-103  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Misaka-san too
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Promise of Two
+二人の約束
+Card No.: RG/W10-104  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kuroko: "Shall we try and stand on our own together from now
+on?"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Kuroko, Student of Tokiwadai Middle School
+常盤台中学の生徒 黒子
+Card No.: RG/W10-105  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Let's go, Uiharu!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Uiharu with Flower Accessories
+花飾り 初春
+Card No.: RG/W10-T01  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Ahh~ Student life must be graceful too~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this becomes Reversed while battling, reveal the top card of your
+Library. If it's a ::Judgment:: Character, you may send this to Memory. (Put
+the revealed card back where it was.)
+
+================================================================================
+
+Awatsuki, Swimming Club
+水泳部 泡浮
+Card No.: RG/W10-T02  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Well, isn't it nice?
+TEXT: -- None --
+
+================================================================================
+
+Kiyama, Developer of Level Upper
+幻想御手開発者 木山
+Card No.: RG/W10-T03  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: I have no interest in other people's ability. My goal is much
+bigger than that
+TEXT: [S] [(2)] Choose 1 of your other Characters. That Character gains +1 Soul
+and +4000 Power for the turn. At the end of turn, send that Character to Memory.
+
+================================================================================
+
+Uiharu, Kuroko's Partner
+黒子のパートナー 初春
+Card No.: RG/W10-T04  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Aw, aw, aw, aw, aw aw
+TEXT: -- None --
+
+================================================================================
+
+Mii Konori
+固法 美偉
+Card No.: RG/W10-T05  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Uphelding peace and doing it with force are completely separate!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Best Friends
+最高の友達
+Card No.: RG/W10-T06  Rarity: TD
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Yes, I know. Thank you, Uiharu
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kuroko Shirai
+白井 黒子
+Card No.: RG/W10-T07  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: If it's okay with you, please have this
+TEXT: [S] [Rest 1 of your ::Judgment:: Characters] This gains +1000 Power for
+the turn.
+
+================================================================================
+
+Mikoto, Electro Master
+“電撃使い”美琴
+Card No.: RG/W10-T08  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: To fight me with electricity... You think you have a chance?
+TEXT: -- None --
+
+================================================================================
+
+Aggressive Kuroko
+アグレッシブな黒子
+Card No.: RG/W10-T09  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Today's Kuroko is particularly dangerous
+TEXT: [A] [(1)] When another of your battling Character becomes Reversed, you
+may pay cost. If you do, choose 1 of your Characters. That Character gains
++2500 Power for the turn.
+[S] [(2) Rest this] Search your Library for up to 1 ::Frog:: Character, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Skinship Mikoto & Kuroko
+スキンシップ 美琴＆黒子
+Card No.: RG/W10-T10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Kuroko: "Then let me have a bite of onee-sama's!"
+TEXT: -- None --
+
+================================================================================
+
+Kuroko, Mikoto's Partner
+美琴のパートナー 黒子
+Card No.: RG/W10-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: O.. Onee-sama.. did you just say always together...
+TEXT: -- None --
+
+================================================================================
+
+Mikoto, Strongest and Invincible Electric Princess
+“最強無敵の電撃姫”美琴
+Card No.: RG/W10-T12  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: I will not go easy
+TEXT: [C] If you have 2 or more other ::ESP:: Characters, this gain +1000
+Power.
+[C] Character opposite this gets -1 Soul.
+[A] [(2)] When this attacks, if "Railgun" is in the Climax Zone, you may pay
+cost. If you do, choose 1 of your Opponent's Characters whose Level is 2 or
+lower. Put that Charcater on top of the Library.
+
+================================================================================
+
+Pool Cleaning
+プール掃除
+Card No.: RG/W10-T13  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I have no skill that helps cleaning
+TEXT: Rest 2 of your Standing Characters. If you do, choose a Character in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+Railgun
+超電磁砲
+Card No.: RG/W10-T14  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ----!!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
