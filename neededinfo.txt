@@ -1,0 +1,14 @@
+info
+name:
+card no.:
+rarity:
+color:
+side & type:
+level:
+cost:
+power:
+soul:
+trait:
+triggers:
+flavor:
+text:
