@@ -1,0 +1,251 @@
+Milky Holmes 2 Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Elly, Resume Investigating!
+捜査再開！ エリー
+Card No.: MK2/S19-101  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Oh, is this so...
+TEXT: [A] When this is placed from hand to the Stage, this gains +X Power. X =
+500 times number of ::Detective:: Characters you have.
+
+================================================================================
+
+Nero, Resume Investigating!
+捜査再開！ ネロ
+Card No.: MK2/S19-102  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Ya-y!
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] At the start of your Climax Phase, choose 1 of your Characters. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Himeyuri, New Commander
+新たな指揮官 姫百合
+Card No.: MK2/S19-103  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 探偵 (Detective)      Trait 2: 警察 (Police)
+Triggers: Soul 
+Flavor: I'm... commander?
+TEXT: [C] If you have 3 or more other Characters with either ::Detective::
+and/or ::Police::, this gains +1000 Power.
+[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard
+a card from your hand to the Waiting Room.
+
+================================================================================
+
+Sheryl, Resume Investigation!
+捜査再開！ シャロ
+Card No.: MK2/S19-104  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: カメラ (Camera)
+Triggers: None
+Flavor: Everyone, do the v-sign, v-sign!
+TEXT: [A] When another Character of yours becomes Reversed, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Cordelia, Resume Investigation!
+捜査再開！ コーデリア
+Card No.: MK2/S19-105  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 探偵 (Detective)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Hehe~
+TEXT: -- None --
+
+================================================================================
+
+"Indecisive" Himeyuri
+“優柔不断”姫百合
+Card No.: MK2/S19-T01  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 警察 (Police)
+Triggers: None
+Flavor: Wait a second, Sherlock-san!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +500 Power for the turn.
+
+================================================================================
+
+Saku, Glasses Girl
+メガネっ娘 咲
+Card No.: MK2/S19-T02  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Executing penalty game~
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Elly, Agriculture Girl
+農業娘 エリー
+Card No.: MK2/S19-T03  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 農業 (Agriculture)
+Triggers: None
+Flavor: Grow large, eggplants-san, cucumber-san...
+TEXT: -- None --
+
+================================================================================
+
+Himeyuri, Caring about Kobayashi
+小林への関心 姫百合
+Card No.: MK2/S19-T04  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 警察 (Police)
+Triggers: None
+Flavor: Directing the detectives without Toys...?
+TEXT: [C] If you have 5 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Cordelia, Agriculture Girl
+農業娘 コーデリア
+Card No.: MK2/S19-T05  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 農業 (Agriculture)
+Triggers: None
+Flavor: Paradise! Shambhala! Heaven! Bright Milky Holmes farm~
+TEXT: -- None --
+
+================================================================================
+
+Hirano, Ancient Martial Artist
+古武術家 平乃
+Card No.: MK2/S19-T06  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Ha! Ha!
+TEXT: -- None --
+
+================================================================================
+
+Demonstration
+実演
+Card No.: MK2/S19-T07  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: U, under the coat there's nothing...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Rest Day of G3
+G3の休日
+Card No.: MK2/S19-T08  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kokoro: "All of you! Why are all three of you late together! Go to
+wor~k!"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Tsugiko, Pro-like Skills
+プロの腕前 次子
+Card No.: MK2/S19-T09  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: It's a technique that a detective doesn't need, no?
+TEXT: [S] [(2) Rest this] Choose a Character in your Waiting Room and return it
+to your hand.
+
+================================================================================
+
+Nero, Agriculture Girl
+農業娘 ネロ
+Card No.: MK2/S19-T10  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 農業 (Agriculture)
+Triggers: None
+Flavor: Oh, Quonset Hut.boiled fish paste. Good fertilizer!
+TEXT: -- None --
+
+================================================================================
+
+Kokoro, Tulip Class
+チューリップ組 小衣
+Card No.: MK2/S19-T11  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: Hey, Saku! Idiot who's in charge of clothing!
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Sheryl, Agriculture Girl
+農業娘 シャロ
+Card No.: MK2/S19-T12  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 農業 (Agriculture)
+Triggers: None
+Flavor: We shall work on the farm energetically today!
+TEXT: -- None --
+
+================================================================================
+
+Real Baritsu
+本家バリツ
+Card No.: MK2/S19-T13  Rarity: TD
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Baritsu!!
+TEXT: If you don't have a ::Detective:: Character, you cannot play this from
+hand. You may choose a card in your Level Zone and a card in your Waiting Room
+and Swap them.
+Choose a Character in your Waiting Room and return it to your hand.
+Choose 1 of your Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+First Dance
+初めてのダンス
+Card No.: MK2/S19-T14  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I'll do my best and win!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

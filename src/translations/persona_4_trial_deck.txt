@@ -1,0 +1,254 @@
+Persona 4 Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Key of the Contract" Protagonist
+“契約の鍵”主人公
+Card No.: P4/S08-101  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Eagle: "This is what you can pay..."
+TEXT: [C] When the Character chosen by this is on the Stage, this gains +2000
+Power.
+[A] When this is placed to the Stage, choose another Character of yours.
+[A] When this is placed from the Stage to the Waiting Room, put the Character
+chosen by this to the Waiting Room.
+
+================================================================================
+
+Teddie, Thin
+ペラペラ クマ
+Card No.: P4/S08-102  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: What... What is this? This is the same as Teddie's hair...
+TEXT: [A] [(4)] At the beginning of your Opponent's Encore Step, if this is in
+the Back Row, you may pay cost. If you do, all your Characters gain "[A] When
+this is placed from the Stage to the Waiting Room, put this in the Slot this
+was in" for the turn.
+
+================================================================================
+
+Ayane Matsunaga, Wind Instrument Club
+吹奏楽部 松永綾音
+Card No.: P4/S08-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I thought I should be more self-conscious
+TEXT: [C] ASSIST All your Characters in front of this gains +500 Power.
+[S] [Rest this] Choose 1 of your Opponent's Standing Character. Rest it.
+
+================================================================================
+
+Miss Complex? Protagonist-chan
+ミスコン？主人公ちゃん
+Card No.: P4/S08-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: "The transfer student crasing into 2-2, protagonist-chan!"
+TEXT: -- None --
+
+================================================================================
+
+Yousuke, Protagonist's Sidekick
+主人公の相棒 陽介
+Card No.: P4/S08-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: The new power to protect things important to you... I see. That's
+great
+TEXT: [A] CHANGE [(3) Return this to hand] At the beginning of your Draw Phase,
+you may pay cost. If you do, choose a "Yousuke & Susanoo" in your Waiting Room
+and put it in the Slot this was in.
+[S] [Counter] BACKUP 1500, Level 1 [Discard this from hand to the Waiting Room]
+
+================================================================================
+
+Nanako in Yukata
+浴衣の菜々子
+Card No.: P4/S08-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: I bought cotton candy!
+TEXT: -- None --
+
+================================================================================
+
+Yousuke, Bandage to Friendship
+友情の絆創膏 陽介
+Card No.: P4/S08-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: ジュネス (Junes)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: I want to be equa to you. I want to be able to stand beside you.
+TEXT: [C] This cannot Direct Attack.
+[A] ENCORE [Discard a Character from hand to the Waiting Room]
+
+================================================================================
+
+Doujima, Promise of Father
+父親の誓い 堂島
+Card No.: P4/S08-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: None
+Triggers: Soul 
+Flavor: I don't want to lose things dear to me again. Absolutely...
+absolutely
+TEXT: -- None --
+
+================================================================================
+
+Protagonist, Leader
+リーダー主人公
+Card No.: P4/S08-T07  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: Margaret: "You should already know this... Bond is something given
+to you..."
+TEXT: [A] [(4) Send 1 Climax from your Waiting Room to Memory] This ability may
+be played up to once per turn. When this attacks, if "Never More" is in the
+Climax Zone, you may pay cost. If you do, Stand this.
+
+================================================================================
+
+Yousuke & Susanoo
+陽介＆スサノオ
+Card No.: P4/S08-T08  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: ジュネス (Junes)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: Well, this is your truth strength, no?
+TEXT: [A] When "Brave Server" is placed to your Climax Zone, if all your
+Opponent's Characters are Rested, this gains +4000 Power and +1 Soul for the
+turn.
+[A] [(1)] When this attacks, if "Brave Server" is in the Climax Zone, you may
+pay cost. If you do, choose 1 of your Opponent's Characters. Return that
+Character to the hand.
+
+================================================================================
+
+Never More
+Never More
+Card No.: P4/S08-T09  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Yousuke: "Distand doesn't matter! Even if we separate, we are
+still friends-!"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in the Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Brave Server
+ブレイブザッパー
+Card No.: P4/S08-T10  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Roar, Susanoo!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Manager Ai Ebihara
+マネージャー海老原あい
+Card No.: P4/S08-T11  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: マネージャー (Manager)
+Triggers: None
+Flavor: Don't mind the rumos and what others say about me. I'm exactly
+how I look
+TEXT: [S] [(1) Rest this] Return up to 2 cards from your Opponent's Waiting
+Room to the Library. Shuffle that Library.
+
+================================================================================
+
+"Declaration of Youth" Kuma
+“青春の主張”クマ
+Card No.: P4/S08-T12  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 薔薇 (Rose)
+Triggers: None
+Flavor: Spilled juice, happy smiles, one-night koi... the bittersweet of that
+day is what youth is all about!
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If you do, return all cards in your Waiting Room to the Library. shuffle that
+Library.
+
+================================================================================
+
+Naoto, Famoust Detective
+名探偵 直斗
+Card No.: P4/S08-T13  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Cases are still going on!!
+TEXT: -- None --
+
+================================================================================
+
+"Kumada"-chan
+“熊田”ちゃん
+Card No.: P4/S08-T14  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 影 (Shadow)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: I'll take your heart!
+TEXT: [A] When this attacks, put the top card of your Library to your Waiting
+Room. If that's a Climax card, this gains +4 Soul for the turn.
+
+================================================================================
+
+The Poem of Souls of All Humans
+すべての人の魂の詩
+Card No.: P4/S08-T15  Rarity: TD
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Welcom to the Velvet Room
+TEXT: Choose 1 of your Characters. That Character gains +3000 Power and "[A]
+When the Battle Opponent of this becomes Reversed, you may draw a card" for the
+turn.
+
+================================================================================
+
+Mahabuhu Dain
+マハブフダイン
+Card No.: P4/S08-T16  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Roll, kamui!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

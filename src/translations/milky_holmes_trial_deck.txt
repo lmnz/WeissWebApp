@@ -1,0 +1,270 @@
+Milky Holmes Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Milky Holmes" Sheryl
+“ミルキィホームズ”シャロ
+Card No.: MK/S11-101  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: カメラ (Camera)
+Triggers: Soul 
+Flavor: I'll try my best!
+TEXT: [C] If all your Characters are ::Detective::, this gains +1000 Power.
+
+
+================================================================================
+
+"Milky Holmes" Cordelia
+“ミルキィホームズ”コーデリア
+Card No.: MK/S11-102  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: This is our agency isn't it? Of course we have to clean it up, no?
+TEXT: [C] During your opponent's turn, this gains +1000 Power.
+
+================================================================================
+
+"Milky Holmes" Elly
+“ミルキィホームズ”エリー
+Card No.: MK/S11-103  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: I... I... I'm not good... at speaking...
+TEXT: -- None --
+
+================================================================================
+
+"Milky Holmes" Assemble!
+ミルキィホームズ結成！
+Card No.: MK/S11-104  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All of your Characters gain +2 Soul.
+
+================================================================================
+
+"Milky Holmes" Nero
+“ミルキィホームズ”ネロ
+Card No.: MK/S11-105  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: You don't have to worry. It's not scary because I'm here
+TEXT: [C] Assist Character in front of this gain +500 Power.
+
+================================================================================
+
+Energetic Nero
+活発なネロ
+Card No.: MK/S11-T01  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: It's all good because I've had snacks!
+TEXT: [A] [(2)] When this is placed from your hand to the Stage, you may pay
+cost. If you do, choose 1 ::Detective:: Character from your Waiting Room and
+move it to your hand.
+[A] Bond/"Brave yet Single Minded Sheryl" [(1)]
+
+================================================================================
+
+Joint Investigation Kokoro & Sheryl
+合同捜査 小衣＆シャロ
+Card No.: MK/S11-T02  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 警察 (Police)
+Triggers: None
+Flavor: Sharo "Kokoro-chan! Let's find clues together!" Kokoro
+"Don't call me Kokoro-chan!"
+TEXT: [A] [Rest 1 of your Standing Characters] When this is placed from your
+hand to the Stage, if your Opponent has a "Joint Investigation Kokoro & Sheryl"
+on the Stage, you may pay cost. If so, play RPS until someone wins. Winner
+draws 1 card.
+
+================================================================================
+
+Sheryl Amongst Cherry Blossoms
+桜並木のシャロ
+Card No.: MK/S11-T03  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: カメラ (Camera)
+Triggers: None
+Flavor: Today I shall also try my best!
+TEXT: [A] When this is placed from your hand to the Stage, reveal the top card
+of your Library. If that card is not a ::Detective:: Character card, send it to
+the Clock. (Otherwise put the card back where it was)
+
+================================================================================
+
+Problem Child Nero
+困った子 ネロ
+Card No.: MK/S11-T04  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: My.. My snacks!
+TEXT: [A] [(1)] When this attacks, if "Direct Hack" is in your Climax Zone, you
+may pay cost. If you do so, choose 1 Character from the Waiting Room and return
+it to your hand.
+
+================================================================================
+
+G4's Leader Kokoro
+Ｇ４のリーダー 小衣
+Card No.: MK/S11-T05  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: 傘 (Umbrella)
+Triggers: None
+Flavor: Heh, the rain eased off!
+TEXT: -- None --
+
+================================================================================
+
+Gluttonous Nero
+とても食いしん坊 ネロ
+Card No.: MK/S11-T06  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 探偵 (Detective)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Omnomnom...
+TEXT: -- None --
+
+================================================================================
+
+Brave yet Single Minded Sheryl
+けなげでひたむき シャロ
+Card No.: MK/S11-T07  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 探偵 (Detective)      Trait 2: カメラ (Camera)
+Triggers: Soul 
+Flavor: Let's go!
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+in your Clock in your Waiting Room.
+[A] [(1)] When this attacks, if "Psychokinesis" is in the Climax Zone, you may
+pay cost. If you do, choose up to 1 Character card from your Waiting Room and
+return it to hand. All your ::Detective:: Characters gain +2000 Power for the
+turn.
+
+================================================================================
+
+Direct Hack
+ダイレクトハック
+Card No.: MK/S11-T08  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: My Toy is Direct Hack. I can hack any electronic device.
+TEXT: [A] When this is placed from hand to the Climax Zone, Move 1 top card
+from your Library to your Stock. All your characters get +1 Soul for the turn.
+
+================================================================================
+
+Psychokinesis
+サイコキネシス
+Card No.: MK/S11-T09  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: I can move things with my thought... albeit only light things...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Cordelica Glauca
+コーデリア・グラウカ
+Card No.: MK/S11-T10  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Oh, that's where it is. Let's hurry!
+TEXT: -- None --
+
+================================================================================
+
+Lost in Thought Elly
+引っこみ思案 エリー
+Card No.: MK/S11-T11  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: If a lot of people look at me... I get embarassed
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from your hand to
+the Waiting Room]
+
+================================================================================
+
+Phantom Thief Arsene
+怪盗 アルセーヌ
+Card No.: MK/S11-T12  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 怪盗 (Phantom Thief)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: Next up is me... Arsene shall test you!
+TEXT: -- None --
+
+================================================================================
+
+Former Great Detective Kobayashi
+元名探偵 小林
+Card No.: MK/S11-T13  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 探偵 (Detective)      Trait 2: None
+Triggers: Soul 
+Flavor: That Toy is the miracle that only you can make happen.
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[S] [Rest this card] Choose 1 of your ::Detective:: Characters. That card gains
++1 Level for the turn.
+
+
+================================================================================
+
+Shy Girl Elly
+内気な少女 エリー
+Card No.: MK/S11-T14  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 探偵 (Detective)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Eh!? Ehhhhhhh!?
+TEXT: -- None --
+
+================================================================================
+
+Cat-eared Magnifying Glass
+ネコミミ虫メガネ
+Card No.: MK/S11-T15  Rarity: TD
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Where do kaitous come from?
+TEXT: Search your Library for up to 2 ::Detective:: Characters, reveal them to
+your opponent, then add them to your hand. Shuffle your Library.
+
+================================================================================
+

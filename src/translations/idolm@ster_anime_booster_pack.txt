@@ -1,0 +1,2120 @@
+Idolm@ster Anime Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Ami & Mami, Trickery Boss!
+イタズラ魔王！ 亜美＆真美
+Card No.: IM/S21-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: Ami: "Gray brain cells and 7 different faces..." Mami: "We
+are the sexy beautiful girl detectives Ami & Mami!"
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a Level 1 or lower Character with either "Ami" or "Mami"
+(Idolmaster only) in your Waiting Room and put it in any Slot in the Back Row.
+That Character gains +2000 Power for the turn. At the end of the the turn, put
+that Character in the Waiting Room.
+
+================================================================================
+
+Ami & Mami, Trickery Boss!
+イタズラ魔王！ 亜美＆真美
+Card No.: IM/S21-001R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a Level 1 or lower Character with either "Ami" or "Mami"
+(Idolmaster only) in your Waiting Room and put it in any Slot in the Back Row.
+That Character gains +2000 Power for the turn. At the end of the the turn, put
+that Character in the Waiting Room.
+
+================================================================================
+
+Yukiho, Passionate Snow White
+情熱のスノーホワイト 雪歩
+Card No.: IM/S21-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: Melt away / My sleep with a kiss
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [(1)] When this attacks, if "Little Match Girl" is in the Climax Zone, you
+may pay cost. If so, all your Characters gain +2000 Power and +1 Soul for the
+turn.
+
+================================================================================
+
+Yukiho, Passionate Snow White
+情熱のスノーホワイト 雪歩
+Card No.: IM/S21-002SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [(1)] When this attacks, if "Little Match Girl" is in the Climax Zone, you
+may pay cost. If so, all your Characters gain +2000 Power and +1 Soul for the
+turn.
+
+================================================================================
+
+Kotori-san, Support Anywhere!
+どこでもサポート！ 小鳥さん
+Card No.: IM/S21-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Whenever Ritsuko-san is overwhelemed, I could support like this
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+Kotori-san, Support Anywhere!
+どこでもサポート！ 小鳥さん
+Card No.: IM/S21-003SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+Yukiho, Courage for a Step
+一歩の勇気 雪歩
+Card No.: IM/S21-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Y, ya~~y!
+TEXT: [A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Music:: Characters, this gains +1 Soul for the turn.
+
+================================================================================
+
+Yukiho, Courage for a Step
+一歩の勇気 雪歩
+Card No.: IM/S21-004R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Music:: Characters, this gains +1 Soul for the turn.
+
+================================================================================
+
+Yayoi, REST@RT
+REST@RT やよい
+Card No.: IM/S21-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this attacks, if "REST@RT Myself" is in the Climax Zone, this
+gains +4000 Power for the turn.
+[A] When this attacks, if "REST@RT Myself" is in the Climax Zone, this gains
+"[A] ENCORE [(1)]" until the end of your Opponent's next turn.
+
+================================================================================
+
+Yayoi, REST@RT
+REST@RT やよい
+Card No.: IM/S21-005R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "REST@RT Myself" is in the Climax Zone, this
+gains +4000 Power for the turn.
+[A] When this attacks, if "REST@RT Myself" is in the Climax Zone, this gains
+"[A] ENCORE [(1)]" until the end of your Opponent's next turn.
+
+================================================================================
+
+Yayoi, Cooking Sa-Shi-Su-Se-So!
+お料理さしすせそ！ やよい
+Card No.: IM/S21-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Yayoi Takatsuki's u-u-! Cooking, Sa-Shi-Su-Se-So!
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1 Soul.
+
+================================================================================
+
+Yayoi, Cooking Sa-Shi-Su-Se-So!
+お料理さしすせそ！ やよい
+Card No.: IM/S21-006SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1 Soul.
+
+================================================================================
+
+Mami, ALLSTAR Live
+ALLSTAR LIVE 真美
+Card No.: IM/S21-007  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Choose 1 of your Opponent's Cost 0 or lower Character in the Front
+Row and return it to their hand.
+
+================================================================================
+
+Yayoi, Someday I Want to Eat Steak!
+ステーキいつか食べたいな！ やよい
+Card No.: IM/S21-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: S, steak!
+TEXT: [C] If your Opponent has 3 or fewer Characters, this gains +1000 Power.
+
+================================================================================
+
+Mami, Full Power Idol!
+全力アイドル！ 真美
+Card No.: IM/S21-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: I shall show you the full power of Mami!
+TEXT: [C] RECOLLECTION During your turn, if "Clothing Change" is in your
+Memory, this gains +2000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Mami, Full Power Idol!
+全力アイドル！ 真美
+Card No.: IM/S21-009SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] RECOLLECTION During your turn, if "Clothing Change" is in your
+Memory, this gains +2000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Yukiho Backstage
+楽屋の雪歩
+Card No.: IM/S21-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: Makoto: "Yukiho's trying her best not to cave under the
+pressure of being the center person"
+TEXT: [A] CHANGE [(2) Discard a card from your hand to the Waiting Room, put
+this in the Waiting Room] At the beginning of your Climax PHase, you may pay
+cost. If so, choose a "Yukiho, Passionate Snow White" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Kotori, Secret Songstress
+秘密の歌姫 小鳥
+Card No.: IM/S21-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 9500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: President Takagi: "Otonashi-kun occasionally will sing here like
+this"
+TEXT: [A] When this is placed form hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, return this to the Library. Shuffle that
+Library. (Reveal the card back where it was) 
+
+================================================================================
+
+Kotori, Person of Interest
+参考人 小鳥
+Card No.: IM/S21-012  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Yayoi-chan was cleaning the break room like usual...
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+::Music:: Characters. That Character gains +1000 Power for the turn.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Yayoi, Bean Sprouts Festival!
+もやし祭り！ やよい
+Card No.: IM/S21-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Bean sprouts are tasty even on their own!
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Hikari, Shinkan Shoujo
+新幹少女 ひかり
+Card No.: IM/S21-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: That makes me angry...
+TEXT: -- None --
+
+================================================================================
+
+Kotori, Padded Kimono
+どてら 小鳥
+Card No.: IM/S21-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Hum, I was able to see a precious interaction between Yukiho-chan and
+Makoto-chan. What a sight!
+TEXT: [A] CHANGE [(2) Discard a card from your hand to the Waiting Room, put
+this in the Waiting Room] At the beginning of your Climax Phase, you may pay
+cost. If so, choose a "Kotori, Secret Songstress" in your Waiting Room and put
+it in the Slot this was in.
+[S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+Yukiho, Modification Plan!
+改造計画！ 雪歩
+Card No.: IM/S21-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: There's more, there's more! The multiplier now! Has doubled!
+TEXT: [A] BOND/"Makoto, Action Star!" [(1)]
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +2000 Power for the turn.
+
+================================================================================
+
+"Ami-Mami-chan" Mami
+“あみまみちゃん”真美
+Card No.: IM/S21-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: Ami & Mami: "We are Amami!"
+TEXT: -- None --
+
+================================================================================
+
+Clothing Change
+衣装変更
+Card No.: IM/S21-018a  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: P: "Let's think together"
+TEXT: You may choose 1 of your ::Music:: Characters and put it in your Clock.
+If so, choose up to 1 ::Music:: Character in your Waiting Room whose Level is
+equal to or lower than your Level and put it in any Slot on the Stage. That
+Character gains +3000 Power for the turn. Send this to Memory.
+
+================================================================================
+
+Clothing Change
+衣装変更
+Card No.: IM/S21-018b  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yayoi: "Wow, there are a lot of shiny accessories!"
+TEXT: You may choose 1 of your ::Music:: Characters and put it in your Clock.
+If so, choose up to 1 ::Music:: Character in your Waiting Room whose Level is
+equal to or lower than your Level and put it in any Slot on the Stage. That
+Character gains +3000 Power for the turn. Send this to Memory.
+
+================================================================================
+
+Little Match Girl
+Little Match Girl
+Card No.: IM/S21-019  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Support / The Wind-Blown Clothing
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Rest@rt Myself
+自分REST@RT
+Card No.: IM/S21-020  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: To stand on the shiny stage / And enjoy the best feeling
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Azusa, Seaside
+シーサイド あずさ
+Card No.: IM/S21-021  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Everyone looks like they can get along well and smile~
+TEXT: [S] [(1) Rest this] Choose a card in your Clock and return it to your
+hand. Choose a card in your hand and put it in your Clock.
+[S] [Rest 2 of your ::Music:: Characters] This gains +2500 Power for the turn.
+
+================================================================================
+
+Ritsuko, Return to Idoldom!
+アイドル復帰！ 律子
+Card No.: IM/S21-022  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: My shakiness... stopped!
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] When another ::Music:: Character of yours attacks, this gains +1000 Power
+for the turn.
+
+================================================================================
+
+Ritsuko, Return to Idoldom!
+アイドル復帰！ 律子
+Card No.: IM/S21-022SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] When another ::Music:: Character of yours attacks, this gains +1000 Power
+for the turn.
+
+================================================================================
+
+Ritsuko, OFF Time
+OFFタイム 律子
+Card No.: IM/S21-023  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Just let me be-
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Ritsuko, OFF Time
+OFFタイム 律子
+Card No.: IM/S21-023R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Iori, Super! Beautiful Girl Idol
+超！美少女アイドル 伊織
+Card No.: IM/S21-024  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: Everyone's enchanted by Iori-chan right! Ehehe~
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times the Level of that Characters.
+[A] [Rest 2 of your Characters] When "SMOKY THRILL" is placed in your Climax
+Zone, you may pay cost. If so, all your Characters gain +1500 Power for the
+turn.
+
+================================================================================
+
+Iori, Super! Beautiful Girl Idol
+超！美少女アイドル 伊織
+Card No.: IM/S21-024SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times the Level of that Characters.
+[A] [Rest 2 of your Characters] When "SMOKY THRILL" is placed in your Climax
+Zone, you may pay cost. If so, all your Characters gain +1500 Power for the
+turn.
+
+================================================================================
+
+Azusa, OFF Time
+OFFタイム あずさ
+Card No.: IM/S21-025  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: President Takagi: "How's this? Are you surprised?"
+TEXT: [A] [Discard a Character card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If you don't, put this in the
+Waiting Room.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Azusa, OFF Time
+OFFタイム あずさ
+Card No.: IM/S21-025R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [Discard a Character card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If you don't, put this in the
+Waiting Room.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Azusa, Run! Bride
+走る！花嫁 あずさ
+Card No.: IM/S21-026  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: If you wear a wedding dress while not planning for a wedding, it'll
+delay your wedding date? What~
+TEXT: [A] When this is Front Attacked, look at the top card of your Library and
+put it either on top of the Library or in the Waiting Room.
+[S] [(1) Choose a "Sidetracked" in your Memory and put it in the Waiting Room]
+Choose a Level 2 or lower ::Music:: Character in your Clock and put it in any
+Slot on the Stage. Put the top card of your Library in your Clock.
+
+================================================================================
+
+Azusa, Run! Bride
+走る！花嫁 あずさ
+Card No.: IM/S21-026SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is Front Attacked, look at the top card of your Library and
+put it either on top of the Library or in the Waiting Room.
+[S] [(1) Choose a "Sidetracked" in your Memory and put it in the Waiting Room]
+Choose a Level 2 or lower ::Music:: Character in your Clock and put it in any
+Slot on the Stage. Put the top card of your Library in your Clock.
+
+================================================================================
+
+Azusa, Short Hair
+ショートカット あずさ
+Card No.: IM/S21-027  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I like this haircut. It makes me look younger
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+::Music:: Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+Iori, OFF Time
+OFFタイム 伊織
+Card No.: IM/S21-028  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: Huh~~ You did well, didn't you!
+TEXT: [A] [Discard a Character card from hand to the Waiting Room] During your
+turn, when this becomes Reversed, you may pay cost. If so, return this to your
+hand.
+
+================================================================================
+
+Iori, OFF Time
+OFFタイム 伊織
+Card No.: IM/S21-028R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Discard a Character card from hand to the Waiting Room] During your
+turn, when this becomes Reversed, you may pay cost. If so, return this to your
+hand.
+
+================================================================================
+
+Ritsuko & Ryuuguu Komachi
+律子＆竜宮小町
+Card No.: IM/S21-029  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Iori: "Everyone!"
+TEXT: [A] At the beginning of your Encore Step, if this is in the Front Row,
+and "Seven-Colored Button" is in your Climax Zone, choose 1 of your Characters
+and send it to memory. At the beginning of your next Draw Phase, put that
+Character from your Memory in any Slot on the Stage, and that Character gains
++1500 Power for that turn.
+
+================================================================================
+
+Ami, Twin Drive
+ツインドライブ 亜美
+Card No.: IM/S21-030  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: Yay yay!
+TEXT: [A] When you use the BACKUP of this, choose 1 of your ::Twins::
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Ami, Idol Full Power!
+アイドル全開！ 亜美
+Card No.: IM/S21-031  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: Ehehe~ I have to do this with my full power~!
+TEXT: [C] All your other Characters gain "[C] This cannot Side Attack".
+[S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Ami, Idol Full Power!
+アイドル全開！ 亜美
+Card No.: IM/S21-031SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters gain "[C] This cannot Side Attack".
+[S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Ami, Exclusive Interview
+独占インタビュー 亜美
+Card No.: IM/S21-032  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: Yes ye~s! Favorite food is fried chicken! With sauce!
+TEXT: [C] If you have no other Characters in your Front Row, this gains +1500
+Power.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Iori During Sports Festival
+運動会の伊織
+Card No.: IM/S21-033  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: Makoto! I overtook one person! So, overtake all of them!
+TEXT: [A] When the Battle Opponent of this becomes Reversed, choose 1 of your
+::Music:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Ryou, Brilliance of Next Generation
+次世代の輝き 涼
+Card No.: IM/S21-034  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: (I hope they don't find out about me...)
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Iori, Kira Kira Cute!
+きらきらキュート！　伊織
+Card No.: IM/S21-035  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [(2)] Choose 1 of your ::Music:: Characters. That Character gains
++4000 Power for the turn.
+
+================================================================================
+
+Ami, Beautiful Sisters Detectives
+美人姉妹探偵団 亜美
+Card No.: IM/S21-036  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: What's wrong? Onee-sama
+TEXT: -- None --
+
+================================================================================
+
+Ritsuko, Wavering Devil Sergeant
+ためらう鬼軍曹 律子
+Card No.: IM/S21-037  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: P: "To ensure the success of the live of Ryuuguu Komachi, who'd
+be the best person for this job..."
+TEXT: [A] CHANGE [(2) Discard a card from your hand to the Waiting Room, put
+this in the Waiting Room] At the beginning of your Climax Phase, you may pay
+cost. If so, choose a "Ritsuko, Return to Idoldom!" in your Waiting Room and
+put it in the Slot this was in.
+
+================================================================================
+
+Sidetracked
+寄り道
+Card No.: IM/S21-038a  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You got lost too?
+TEXT: [Counter] If you don't have a ::Music:: Character, you cannot play this
+from your hand. You may choose a card in your Clock and return it to your hand.
+If so, choose a card in your hand and put it in your Clock.
+Choose 1 of your Characters. That Character gains +1500 Power for the turn.
+Send this to Memory.
+
+================================================================================
+
+Sidetracked
+寄り道
+Card No.: IM/S21-038b  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You're awfully confident today, no? Despite the fact that you
+always mess up
+TEXT: [Counter] If you don't have a ::Music:: Character, you cannot play this
+from your hand. You may choose a card in your Clock and return it to your hand.
+If so, choose a card in your hand and put it in your Clock.
+Choose 1 of your Characters. That Character gains +1500 Power for the turn.
+Send this to Memory.
+
+================================================================================
+
+Sidetracked
+寄り道
+Card No.: IM/S21-038c  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ... Is this as Producer said...
+TEXT: [Counter] If you don't have a ::Music:: Character, you cannot play this
+from your hand. You may choose a card in your Clock and return it to your hand.
+If so, choose a card in your hand and put it in your Clock.
+Choose 1 of your Characters. That Character gains +1500 Power for the turn.
+Send this to Memory.
+
+================================================================================
+
+Seven-Colored Button
+七彩ボタン
+Card No.: IM/S21-039  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: You have given me / The strength to cross any barrier
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+SMOKY THRILL
+SMOKY THRILL
+Card No.: IM/S21-040  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Funky girl, waiting until the limit
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Hibiki, Got It!
+ゲットだぜ！ 響
+Card No.: IM/S21-041  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Got it gero-!
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] When this
+becomes Reversed in battle, if you have fewer Stock than your Opponent, you may
+put this in Stock".
+[S] [(4) Rest this] Choose a Character in your Waiting Room whose Level is
+equal to or lower than your Level and put it in any Slot on the Stage.
+
+================================================================================
+
+Hibiki, Got It!
+ゲットだぜ！ 響
+Card No.: IM/S21-041SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] When this
+becomes Reversed in battle, if you have fewer Stock than your Opponent, you may
+put this in Stock".
+[S] [(4) Rest this] Choose a Character in your Waiting Room whose Level is
+equal to or lower than your Level and put it in any Slot on the Stage.
+
+================================================================================
+
+Miki, Awakened Genius
+覚醒する天才 美希
+Card No.: IM/S21-042  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Miki wants to try. I want to try!
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from your hand to the Waiting Room.
+[A] [(4) Put a "Marionette's Heart" from your Climax Zone in your Waiting Room]
+When this attacks, you may pay cost. If so, Stand this.
+
+================================================================================
+
+Miki, Awakened Genius
+覚醒する天才 美希
+Card No.: IM/S21-042SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from your hand to the Waiting Room.
+[A] [(4) Put a "Marionette's Heart" from your Climax Zone in your Waiting Room]
+When this attacks, you may pay cost. If so, Stand this.
+
+================================================================================
+
+Producer, Reliable!?
+頼りになる！？ プロデューサー
+Card No.: IM/S21-043  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Takane: "Like we planned, we are all trying to exceed that
+person"
+TEXT: [S] [Rest this] Choose 1 of your ::Music:: Characters. That Character
+gains +500 Power.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in
+your Waiting Room. For each Climax revealed this way, performed the following
+action: "Choose a ::Music:: Character in your Waiting Room and return it to
+your hand, and discard a card from your hand to the Waiting Room".
+
+================================================================================
+
+Miki, Hidden Talent?
+秘めた才能？ 美希
+Card No.: IM/S21-044  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: And also, huge breasts~
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a ::Music::
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Miki, Hidden Talent?
+秘めた才能？ 美希
+Card No.: IM/S21-044R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a ::Music::
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Haruka, To the Next Stage!
+次のステージへ！ 春香
+Card No.: IM/S21-045  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: ... Eh? Nobody's here?
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library and put it either on top of the Library or in the Waiting Room.
+[A] When this is placed from hand to the Stage, this gains +X power for the
+turn. X = 500 times # of your ::Music:: Characters.
+
+================================================================================
+
+Haruka, To the Next Stage!
+次のステージへ！ 春香
+Card No.: IM/S21-045R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library and put it either on top of the Library or in the Waiting Room.
+[A] When this is placed from hand to the Stage, this gains +X power for the
+turn. X = 500 times # of your ::Music:: Characters.
+
+================================================================================
+
+Haruka, Center of 765 Production
+７６５プロのセンター 春香
+Card No.: IM/S21-046  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: This is the Live of us - 765 Productions!
+TEXT: [A] [(1)] When a Level 2 or higher Battle Opponent of this becomes
+Reversed, you may pay cost. If so, choose a Character in your Waiting Room and
+return it to your hand.
+[S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Haruka, Center of 765 Production
+７６５プロのセンター 春香
+Card No.: IM/S21-046SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When a Level 2 or higher Battle Opponent of this becomes
+Reversed, you may pay cost. If so, choose a Character in your Waiting Room and
+return it to your hand.
+[S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Hamzo, Hibiki's Partner
+響の相棒 ハム蔵
+Card No.: IM/S21-047  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Gyu~
+TEXT: [A] When this attacks, choose 1 of your ::Music:: Characters. That
+Character gains +500 Power for the turn.
+[A] BOND/"Hibiki, Together With Everyone!" [(1)]
+
+================================================================================
+
+Hibiki, Business Trip Event
+出張イベント 響
+Card No.: IM/S21-048  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Argh!
+TEXT: [A] When this becomes Reversed, if Level of the Battle Opponent of this
+is 0 or lower, you may Reverse that Character.
+
+================================================================================
+
+Haruka, Can't Let It Be
+放っておかない春香
+Card No.: IM/S21-049  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Chigusa: "Haruka... Amami-san, right?"
+TEXT: [C] RECOLLECTION During your turn, if "Present" is in your Memory, this
+gains +2000 Power.
+[A] BOND/"Chihaya, New Promise" [(1)]
+
+================================================================================
+
+Haruka, Live!? On Sundays
+生っすか！？サンデー 春香
+Card No.: IM/S21-050  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Respect the completion!
+TEXT: [S] [(3) Choose another Level 2 or higher Character on your Stage and
+this and put them in Waiting Room] Search your Library for up to 3 "765
+Production, Everyone Gather!" and put them in separate Slots in the Front Row,
+and choose up to 3 3 "765 Production, Everyone Gather!" in your Waiting Room
+and put them in separate Slots in the Front Row. Shuffle your Library.
+
+================================================================================
+
+Hibiki, Together With Everyone!
+みんなといっしょに！ 響
+Card No.: IM/S21-051  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Hehe, as long as I'm with everyone, this is nothing!
+TEXT: [A] Whenever your other Character with either ::Music:: and/or "Hamzo" in
+the name attacks, this gains +1000 Power for the turn.
+
+================================================================================
+
+Hibiki, Together With Everyone!
+みんなといっしょに！ 響
+Card No.: IM/S21-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] Whenever your other Character with either ::Music:: and/or "Hamzo" in
+the name attacks, this gains +1000 Power for the turn.
+
+================================================================================
+
+Haruka, Rookie Idol
+新人アイドル 春香
+Card No.: IM/S21-052  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: S, sorry. I panicked and...
+TEXT: [C] All your other ::Music:: Characters gain +500 Power.
+
+================================================================================
+
+Hibiki, Tricycle Dash
+三輪車ダッシュ 響
+Card No.: IM/S21-053  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Let's go!
+TEXT: [A] [(1)] When this attacks, you may pay cost. If so, choose up to 2 of
+your ::Music:: Characters. Those Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Ai, Brilliance of Next Generation
+次世代の輝き 愛
+Card No.: IM/S21-054  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: (I need to appeal lots and lots for us!)
+TEXT: -- None --
+
+================================================================================
+
+Miki, Return to Stage
+再び舞台へ 美希
+Card No.: IM/S21-055  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Let Miki's heart thump more! As a real idol!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Miki, Sexy Santa
+セクシーサンタ 美希
+Card No.: IM/S21-056  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: How's this outfit? Cute?
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+President Takagi, Mysterious Person?
+謎の人物？ 高木社長
+Card No.: IM/S21-057  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I think it's better to believe in the young ones and allow them to
+do as they wish
+TEXT: [C] All your other ::Music:: Characters gain "[A] [(1)] When a Level 2 or
+higher Battle Opponent of this becomes Reversed, you may pay cost. If so,
+choose a Character in your Waiting Room and return it to your hand."
+
+================================================================================
+
+Present
+プレゼント
+Card No.: IM/S21-058a  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose 1 of your Characters. That Character gains +2000 Power and "[A]
+When the Battle Opponent of this becomes Reversed, you may choose 1 ::Music::
+Character in your Waiting Room and return it to your hand" for the turn. Send
+this to Memory.
+
+================================================================================
+
+Present
+プレゼント
+Card No.: IM/S21-058b  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Hey, hey, Iori-chan!
+TEXT: Choose 1 of your Characters. That Character gains +2000 Power and "[A]
+When the Battle Opponent of this becomes Reversed, you may choose 1 ::Music::
+Character in your Waiting Room and return it to your hand" for the turn. Send
+this to Memory.
+
+================================================================================
+
+Marionette's Heart
+マリオネットの心
+Card No.: IM/S21-059  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hey / Would you look for me even if I vanish?
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+READY!!
+READY!!
+Card No.: IM/S21-060  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: If you try, you can definitely do it / I'm NO.1
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Chihaya, New Promise
+新たなる約束 千早
+Card No.: IM/S21-061  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I promise / Dream will come true / Thank you for love
+TEXT: [A] [Discard a Climax card from hand to the Waiting Room] When this is
+placed from hand to the Stage, if all your Characters are ::Music::, you may
+pay cost. If so, search your Library for up to 1 "Promise", reveal it, and put
+it in your hand. Shuffle your Library.
+[A] [(1)] When this attacks, if "Promise" is in the Climax Zone, you may pay
+cost. If so, draw a card, and this gains +1000 Power this turn for each other
+::Music:: Character your have.
+
+================================================================================
+
+Chihaya, New Promise
+新たなる約束 千早
+Card No.: IM/S21-061SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [Discard a Climax card from hand to the Waiting Room] When this is
+placed from hand to the Stage, if all your Characters are ::Music::, you may
+pay cost. If so, search your Library for up to 1 "Promise", reveal it, and put
+it in your hand. Shuffle your Library.
+[A] [(1)] When this attacks, if "Promise" is in the Climax Zone, you may pay
+cost. If so, draw a card, and this gains +1000 Power this turn for each other
+::Music:: Character your have.
+
+================================================================================
+
+Takane of Ancient Capital
+古き都の貴音
+Card No.: IM/S21-062  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Very well...
+TEXT: [C] EXPERIENCE If "Takane of Ancient Capital" is in your Level Zone, this
+gets -1 Level in your hand.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in your Waiting Room.
+[A] [Discard a card from your hand to the Waiting Room] This ability does not
+trigger if you are Level 3 or higher. When this is placed from hand to the
+Stage, you may pay cost. If you don't, put this in the Waiting Room.
+
+================================================================================
+
+Takane of Ancient Capital
+古き都の貴音
+Card No.: IM/S21-062SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] EXPERIENCE If "Takane of Ancient Capital" is in your Level Zone, this
+gets -1 Level in your hand.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in your Waiting Room.
+[A] [Discard a card from your hand to the Waiting Room] This ability does not
+trigger if you are Level 3 or higher. When this is placed from hand to the
+Stage, you may pay cost. If you don't, put this in the Waiting Room.
+
+================================================================================
+
+Makoto, OFF Time
+OFFタイム 真
+Card No.: IM/S21-063  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: I won't let you do that!
+TEXT: [C] ASSIST During your Opponent's turn, all your Characters in front of
+this gain +1 Level and +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Music:: Character, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Makoto, OFF Time
+OFFタイム 真
+Card No.: IM/S21-063R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST During your Opponent's turn, all your Characters in front of
+this gain +1 Level and +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Music:: Character, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Chihaya, OFF Time
+OFFタイム 千早
+Card No.: IM/S21-064  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Hmm, really
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] [(1) Choose an "A Certain Day's Scenery" in your Memory and put it in
+Waiting Room, Rest this] Draw a card
+
+================================================================================
+
+Chihaya, OFF Time
+OFFタイム 千早
+Card No.: IM/S21-064R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] [(1) Choose an "A Certain Day's Scenery" in your Memory and put it in
+Waiting Room, Rest this] Draw a card
+
+================================================================================
+
+Takane, OFF Time
+OFFタイム 貴音
+Card No.: IM/S21-065  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: The dazzle of the summer sun allows your heart to open more than usual
+TEXT: [C] ASSIST All your Characters in front of this gain +1 Level and +500
+Power.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose a card in your Level Zone and a card in your Waiting Room and swap them.
+
+================================================================================
+
+Takane, OFF Time
+OFFタイム 貴音
+Card No.: IM/S21-065R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +1 Level and +500
+Power.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose a card in your Level Zone and a card in your Waiting Room and swap them.
+
+================================================================================
+
+Makoto, Makoto's Prince
+まことの王子様 真
+Card No.: IM/S21-066  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: You should become the prince and ride the white horse!
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+[A] [(1)] At the beginning of your Opponent's Attack Phase, you may pay cost.
+If so, choose 1 of your other Characters and this. Stand those Characters and
+swap them.
+
+================================================================================
+
+Makoto, Makoto's Prince
+まことの王子様 真
+Card No.: IM/S21-066SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+[A] [(1)] At the beginning of your Opponent's Attack Phase, you may pay cost.
+If so, choose 1 of your other Characters and this. Stand those Characters and
+swap them.
+
+================================================================================
+
+Producer, First Job
+初仕事 プロデューサー
+Card No.: IM/S21-067  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Promise, okay?
+TEXT: [A] [(2)] When this is place from hand to the Stage, you may pay cost. If
+so, put the top card of your Clock in your Waiting Room.
+[S] [Rest this] Choose up to 2 of your ::Music:: Characters. Those Characters
+gain +500 Power for the turn.
+
+================================================================================
+
+President Kuroi, Jupiter's Wire Puller
+ジュピターの黒幕 黒井社長
+Card No.: IM/S21-068  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: You just need to shut up and follow my order
+TEXT: [C] All your other "Touma, Jupiter's Farewell" gain +1500 Power and "[C]
+This cannot Front Attack".
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 "Touma, Jupiter's Farewell", reveal it, and put
+it in your hand. Shuffle your Library.
+[S] [Rest this] Choose 1 of your "Touma, Jupiter's Farewell". That Character
+gains +1 Soul for the turn.
+
+================================================================================
+
+Makoto, Action Star
+アクションスター！ 真
+Card No.: IM/S21-069  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Take thisssssss!
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Touma, Jupiter's Farewell
+決別のジュピター 冬馬
+Card No.: IM/S21-070  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Well, how should I say this... I have learned something from you all
+TEXT: [A] ENCORE [(1) Put a "President Kuroi, Jupiter's Wire Puller" from your
+Stage to the bottom of your Library]
+
+================================================================================
+
+765 Production, Everyone Gather!
+全員集合！765プロ
+Card No.: IM/S21-071  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When "READY!!" is placed in your Climax Zone, this gains +3000 Power
+until the end of your Opponent's next turn.
+[A] [Discard a "CHANGE!!!!" from your hand] At the beginning of any player's
+Encore Step, you may pay cost. If so, draw a card, and all your ::Music::
+Characters gain "[A] ENCORE [(1)]" for the turn.
+
+================================================================================
+
+Chihaya, Frog Kitchen
+ゲロゲロキッチン 千早
+Card No.: IM/S21-072  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I, I, I got it-ribbit!
+TEXT: [S] [Rest 2 of your Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+Eri, Brilliance of Next Generation
+次世代の輝き 絵理
+Card No.: IM/S21-073  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: (Must consider this reporter's likes and answer
+appropriately...)
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library, and put it either on top or bottom of the Library.
+
+================================================================================
+
+Takane, Ramen Hunter
+らあめんハンター 貴音
+Card No.: IM/S21-074  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: If the line of customers stalls, then it troubles the restaurant like a
+lot
+TEXT: [C] This gains ::Ramen:: while it's on the Stage.
+
+================================================================================
+
+Takane, One-Day Police Chief
+一日署長 貴音
+Card No.: IM/S21-075  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Sorry to say this, but I'm not good with jokes
+TEXT: [C] This gains ::Police:: while it's on the Stage.
+[A] [(1)] When this is Front Attacked, you may pay cost. If so, this gains
++1500 Power for the turn.
+
+================================================================================
+
+Chihaya, Live!? On Sundays
+生っすか！？サンデー 千早
+Card No.: IM/S21-076  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: L, live?
+TEXT: -- None --
+
+================================================================================
+
+Makoto, Makko-Makorin!
+まっこまこりーん！ 真
+Card No.: IM/S21-077  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: It's Kikuchi Makoto-chan~!
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+A Certain Day's Scenery
+ある日の風景
+Card No.: IM/S21-078a  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: It's a song that I want to take a shot at!
+TEXT: Rest 1 of your Standing ::Music:: Characters. If so, draw up to 2 cards,
+and discard a card from hand to the Waiting Room. Send this to Memory.
+
+================================================================================
+
+A Certain Day's Scenery
+ある日の風景
+Card No.: IM/S21-078b  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Goodbye, goodbye, goodbye to the days of dieting...
+TEXT: Rest 1 of your Standing ::Music:: Characters. If so, draw up to 2 cards,
+and discard a card from hand to the Waiting Room. Send this to Memory.
+
+================================================================================
+
+Promise
+約束
+Card No.: IM/S21-079  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Promise / Press forward / Thank you for your smile
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+CHANGE!!!!
+CHANGE!!!!
+Card No.: IM/S21-080  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SHOW MUST GO ON (star) 3 2 1
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+*Twin High Five!* Ami & Mami
+Ｏ(≧◇≦)人(≧◇≦)Ｏ 亜美＆真美
+Card No.: IM/S21-091  Rarity: RE
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 双子 (Twins)
+Triggers: None
+Flavor: Eri onee-chan, this way, hurry! This is the clothing shop that Ami and
+Mami go to!
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, this gains +1000
+Power and +1 Soul for the turn.
+
+================================================================================
+
+Yukiho, Kind Senpai
+やさしい先輩 雪歩
+Card No.: IM/S21-092  Rarity: RE
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: "Crying isn't embarrassing" I was told this, so I decide to
+become an idol
+TEXT: [A] [(1)] When you use the BACKUP of this, you may pay cost. If so,
+choose an "Ai & Mai, Bright Parent And Kid" in your Waiting Room and Send it to
+Memory.
+[S] COUNTER BACKUP 1500, Level 1 [Discard this from hand to the Waiting Room]
+
+================================================================================
+
+Iori, Idol Favorite
+売れっ子アイドル伊織
+Card No.: IM/S21-093  Rarity: RE
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 人形 (Doll)
+Triggers: Soul 
+Flavor: Hehe, well said~ It'll take you more than 100 years before you can
+beat me!
+TEXT: [A] ENCORE [(2)]
+[S] [Rest 1 of your Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+President Ishikawa
+石川社長
+Card No.: IM/S21-094  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 影 (Shadow)
+Triggers: None
+Flavor: The road to top idol takes more than 1 day. You have to accumulate
+experience and best efforts
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Music:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Ryou, Idol's Cousin
+アイドルのいとこ涼
+Card No.: IM/S21-095  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: Ahh, I am nervous, but I want to become a hunk one day. Let's go,
+me-! Okay!
+TEXT: -- None --
+
+================================================================================
+
+Ryou, A Step Towards Dreams
+夢への一歩 涼
+Card No.: IM/S21-096  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: Ahh, this is embarrassing... My feet are cold, and it scrapes a lot...
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, put this in the Waiting Room. (Put the
+revealed card back where it was)
+
+================================================================================
+
+Hibiki, Tropical Girl
+トロピカルガール響
+Card No.: IM/S21-097  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Hey!!!! Ah, am I too loud? My name is Hibiki Gahana! Please to meet
+you!!
+TEXT: [A] When a Level 1 or higher Battle Opponent of this becomes Reversed,
+you may put the top card of your Library in your Stock.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Ryou & Yumeko, Uneven Pair
+凸凹コンビ 涼＆夢子
+Card No.: IM/S21-098  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: None
+Flavor: This is the biggest event since I've become an idol, so you, help
+me out as much as you can. Got that?
+TEXT: [C] For each Marker under this, this gains +1 Level and +1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may put the top card
+of your Library under this as Marker.
+
+================================================================================
+
+Takane, Beautiful Girl
+ビューティフルガール貴音
+Card No.: IM/S21-099  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: The piercing light of the blue moon... The moon will some day stir my
+heart...
+TEXT: [A] This ability may be played up to once per turn. when you play an
+Event card, this gains +2000 Power for the turn.
+
+================================================================================
+
+Ryou, Big Secret
+大きな秘密 涼
+Card No.: IM/S21-100  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: Soul 
+Flavor: Nooo, if Ai-chan or Eri-chan found out, how would they treat me? This
+has to be kept a secret!
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, put this in the Waiting Room. (Put the
+revealed card back where it was)
+
+================================================================================
+
+Miki, Self-Confidence Towards Songs
+歌への自信 美希
+Card No.: IM/S21-101  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Miki's songs have lots of memories associated with them. That's
+why you shouldn't think you'd beat me easily!
+TEXT: [S] [Rest 2 of your Characters] This gains "[A] When the Battle Opponent
+of this becomes Reversed, you may put the top card of your Library in your
+Stock" for the turn.
+
+================================================================================
+
+Yumeko Sakurai
+桜井 夢子
+Card No.: IM/S21-102  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I'm not kidding. Eat this candy and see for yourself how scary I am!
+TEXT: [A] This ability may be played up to once per turn. When you use an [S]
+ability, you may put the top card of your Opponent's Stock in the Waiting Room.
+If so, choose a card in your Opponent's Waiting Room and put it in Stock.
+
+================================================================================
+
+Ryou, Not Giving Up Dreams
+夢をあきらめない涼
+Card No.: IM/S21-103  Rarity: RE
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 女装 (Female Dressing)
+Triggers: Soul 
+Flavor: I'm standing on the best stages as a male idol like this ... so can
+you!
+TEXT: [A] [(2)] When this attacks, if "Dazzling World" is in your Climax Zone,
+you may pay cost. If so, choose a card in your Opponent's Waiting Room and Send
+it to Memory.
+
+================================================================================
+
+Dazzling World
+Dazzling World
+Card No.: IM/S21-104  Rarity: RE
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Time flows / Shines / Making / Lots of Memories
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Makoto, Special Coach
+スペシャルコーチ真
+Card No.: IM/S21-105  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Eh? That cute Ryou is a boy? Ahaha! Nice joke!
+TEXT: [C] All your other Characters with "Ryou" in the name gains +1 Level.
+[S] [(1) Discard a Climax card from hand to the Waiting Room] Choose a
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Manami, Supporting Role
+サポート役まなみ
+Card No.: IM/S21-106  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マネージャー (Manager)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Just this once, I shall support you not as a manager. Do your best
+until the end, please?
+TEXT: [C] This cannot Front Attack.
+[C All your other Characters with "Ai" or "Mai" in the name gains +500 Power
+and "[A] ENCORE [(2)]".
+
+================================================================================
+
+Ai & Mai, Lively Parent And Child
+明るい親子 愛＆舞
+Card No.: IM/S21-107  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Mai: "Just do what you want to do the most, no?" Ai: "Mom,
+I want to sing. To become an idol!"
+TEXT: [A] [(1)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. If so, Send this to Memory.
+[A] CHANGE [Discard a card from hand to the Waiting Room, Put this in the
+Waiting Room] At the beginning of your Climax Phase, you may pay cost. If so,
+choose a "'Dashing Mini-Tank' Ai" in your Waiting Room and put it in the Slot
+this was in.
+
+================================================================================
+
+Ai, Straightforward Wherever
+どこまでもまっすぐな愛
+Card No.: IM/S21-108  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I can only move forward. If I can't push it, I'll just break it.
+TEXT: [A] [(1) Put the top card of your Library in your Clock] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a Character with
+"Ai" in the name in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Yayoi, Everyone's Idol
+みんなのアイドルやよい
+Card No.: IM/S21-109  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Woo, woo! Lets do our best with explosion of energy that would blow off
+the roof!
+TEXT: [C] For each other Level 0 or lower Characters you have, this gains +500
+Power.
+
+================================================================================
+
+"Dashing Mini-Tank" Ai
+“とつげき豆タンク”愛
+Card No.: IM/S21-110  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Ye-s! I shall go full power with my idol activities today-!
+TEXT: -- None --
+
+================================================================================
+
+Haruka, Special Judge
+特別審査員 春香
+Card No.: IM/S21-111  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Cheer up, okay? True love will eventually reach the other party...!
+TEXT: [C] If there are 2 or more cards in your Memory, all your other
+Characters with "Ai" in the name gain "[A] ENCORE [Discard a Character card
+from hand to the Waiting Room]", and this gains "[A] ENCORE [Discard a
+Character card from hand to the Waiting Room]".
+
+================================================================================
+
+"Challenging the Limits" Ai
+“限界にチャレンジ”愛
+Card No.: IM/S21-112  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: That's right. If I don't sing it my way, I wouldn't be able
+to exceed mommy's legend!
+TEXT: [A] [(2)] When "ALIVE" is placed in your Climax Zone, you may pay cost.
+If so, put this in the Waiting Room, then choose an "Ai, Talent As Idol" in
+your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Mai, Legendary Idol
+伝説のアイドル舞
+Card No.: IM/S21-113  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Tonight is our festival! Let's start the best time of our life!
+TEXT: [C] Character opposite this gets -1 Soul.
+[C] This gains +X Power, where X = 500 times the highest Level amongst your
+Characters with "Ai" in the name.
+[A] When "ALIVE" is placed in your Climax Zone, if this is in the Front Row,
+you may choose an "Ai, Talent As Idol" in your Waiting Room and put it in a
+Slot on the Stage.
+
+================================================================================
+
+Ai, Talent As Idol
+アイドルとしての才能 愛
+Card No.: IM/S21-114  Rarity: RE
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Mom, I will not give up any of my dreams! I shall keep looking up and
+move forward!
+TEXT: [A] When this is placed from hand or Waiting Room to the Stage, this
+gains "[A] When the Battle Opponent of this becomes Reversed, you may put the
+top card of your Clock in your Waiting Room" for the turn.
+[S] [Rest this, Put an "Ai & Mai, Lively Parent And Child" from your Memory to
+your Waiting Room] Choose a card in your Opponent's Waiting Room and put it on
+top of the Library.
+
+================================================================================
+
+ALIVE
+ALIVE
+Card No.: IM/S21-115  Rarity: RE
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Keep your dreams / No matter what kind of dream / Wish for it
+and it will come true
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Ritsuko, Premonition of Incident
+事件の予感 律子
+Card No.: IM/S21-116  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Hmm, something is off. I can feel it. The will of decepting the truth
+TEXT: [C] All your other Characters with "Ryou" in the name gains +500 Power.
+[S] [Rest this] Reveal the top card of your Library. If it's a Climax card, put
+it in your hand, and discard a card from your hand to the Waiting Room.
+(Otherwise put it back where it was)
+
+================================================================================
+
+Producer Ozaki
+プロデューサー尾崎
+Card No.: IM/S21-117  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Why don't you just try? With me. I shall let you see the dreams
+that can't be seen by just one person
+TEXT: [A] When the Battle Opponent of your other "Eri, Quite Incredulous"
+becomes Reversed, you may draw a card. If so, discard a card from hand to the
+Waiting Room.
+
+================================================================================
+
+Eri, Group Lesson
+合同レッスン絵理
+Card No.: IM/S21-118  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Ai-chan, can you produce gentle yet loud sound? That is, higher volume,
+but gentler nuance
+TEXT: [S] [Rest 2 of your other Characters] Choose 1 of your Characters with
+"Ai" in the name. That Character gains +1 Soul and +1000 Power for the turn.
+
+================================================================================
+
+Eri, Quite Incredulous
+ちょっぴり不思議 絵理
+Card No.: IM/S21-119  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Ohayo... gozaimasu? You say ohayogozaimasu no matter whether it's
+morning or nigt?
+TEXT: [A] At the beginning of your Climax Phase, reveal the top card of your
+Library. If it's a Climax card, choose another Character of yours and put it in
+the Waiting Room.
+
+================================================================================
+
+Eri, Multi-Artist
+マルチアーティスト絵理
+Card No.: IM/S21-120  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Look at the stage from the top and check your own position? If you
+consider how the audience views and jump...
+TEXT: [S] [(2) Rest this] Draw a card.
+[S] [Rest this] Choose 1 of your ::Music:: Characters. That Character gains
++1000 Power for the turn.
+[S] [(2) Rest this] Put the top card of your Clock in your Waiting Room.
+
+================================================================================
+
+Azusa, Thinking of Dreams
+夢を想う あずさ
+Card No.: IM/S21-121  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Dreams, huh... Hehe, my dreams - although small - are something
+important that won't be changed
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+
+================================================================================
+
+CINERIA, Net Idol
+ネットアイドルCINERIA
+Card No.: IM/S21-122  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: オタク (Otaku)
+Triggers: Soul 
+Flavor: Ehehehehe, I'll always be ELLIE-senpai's friend
+TEXT: [A] BOND/"Eri, Multi-Artist" [Put the top card of your Library in your
+Clock]
+
+================================================================================
+
+Eri Mizutani
+水谷 絵理
+Card No.: IM/S21-123  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: Fufu, fufufun~ I will make this song all by myself!
+TEXT: [A] [Put this in Clock] When "Precog" is placed in your Climax Zone, you
+may pay cost. If so, search your Library for up to 1 "Eri, Inherited Dream" and
+put it in the Slot this was in. Shuffle your Library.
+
+================================================================================
+
+Eri, Inherited Dream
+受け継いだ夢 絵理
+Card No.: IM/S21-124  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: Because they are there, I'll do my best! Because they are there...
+it's fun! That's all!
+TEXT: [C] During your Opponent's turn, for every other ::Music:: Character you
+have, this gains +500 Power.
+
+================================================================================
+
+Chihaya, Advice of Songs
+歌の助言 千早
+Card No.: IM/S21-125  Rarity: RE
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: When your thoughts sync with the thoughts of the fans.. the song will
+become something greater and deeper
+TEXT: [C] If all your Characters are ::Music::, this gains +1000 Power.
+
+================================================================================
+
+Precog
+プリコグ
+Card No.: IM/S21-126  Rarity: RE
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Bathed in sun / Towarrds precognition / And that side
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

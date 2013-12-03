@@ -1,0 +1,1638 @@
+Accel World Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Silver Crow in A Predicament
+窮地のシルバー・クロウ
+Card No.: AW/S18-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: Even if I lose... I shall lose soundly. I must not be a pawn for that
+person!
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, choose 1 of your
+Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Silver Crow in A Predicament
+窮地のシルバー・クロウ
+Card No.: AW/S18-001S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, choose 1 of your
+Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Kuroyukihime
+黒雪姫
+Card No.: AW/S18-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: I must give you a reward
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in the Waiting Room.
+[A] [Put all cards, excluding the bottom-most card, from your Stock in Waiting
+Room] This ability may be activated up to once per turn. When this attacks, if
+"Emotion First Felt Since Birth" is in the Climax Zone and there are 5 or more
+cards in your Stock, you may pay cost. If so, Stand this.
+
+================================================================================
+
+Kuroyukihime
+黒雪姫
+Card No.: AW/S18-002SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in the Waiting Room.
+[A] [Put all cards, excluding the bottom-most card, from your Stock in Waiting
+Room] This ability may be activated up to once per turn. When this attacks, if
+"Emotion First Felt Since Birth" is in the Climax Zone and there are 5 or more
+cards in your Stock, you may pay cost. If so, Stand this.
+
+================================================================================
+
+"Beautiful Girl" Kuroyukihime
+“チュラカーギー”黒雪姫
+Card No.: AW/S18-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: I bought this yesterday. The color is a little different compared to
+the sample, though
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1500 Power.
+[A] When this attacks, choose 1 of your other Level 2 or higher Characters.
+That Character gains +1000 Power for the turn.
+
+================================================================================
+
+"Beautiful Girl" Kuroyukihime
+“チュラカーギー”黒雪姫
+Card No.: AW/S18-003S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1500 Power.
+[A] When this attacks, choose 1 of your other Level 2 or higher Characters.
+That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Kuroyukihime, Intimate Relations
+親密な関係 黒雪姫
+Card No.: AW/S18-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Let's have a Direct Wired Conversation about that
+TEXT: [A] BOND/"Haruyuki, Bullied Kid" [(1)]
+[S] [Put the top card of your Library in Clock, put a "Haruyuki, Bullied Kid"
+from your Stage in Waiting Room] Choose up to 1 "Silver Crow, Challenging
+Strong Enemies" in your hand and put it in any Slot on the Stage.
+
+================================================================================
+
+Kuroyukihime, Intimate Relations
+親密な関係 黒雪姫
+Card No.: AW/S18-004S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] BOND/"Haruyuki, Bullied Kid" [(1)]
+[S] [Put the top card of your Library in Clock, put a "Haruyuki, Bullied Kid"
+from your Stage in Waiting Room] Choose up to 1 "Silver Crow, Challenging
+Strong Enemies" in your hand and put it in any Slot on the Stage.
+
+================================================================================
+
+Kuroyukihime, The Goal Chased After
+追い求める果て 黒雪姫
+Card No.: AW/S18-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: None
+Flavor: The time has come... for me to leave my cocoon and aim for the sky
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +2000 Power and "[A] When the Battle Opponent of this becomes Reversed,
+put that Character in Stock" for the turn.
+
+================================================================================
+
+Kuroyukihime, The Goal Chased After
+追い求める果て 黒雪姫
+Card No.: AW/S18-005S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +2000 Power and "[A] When the Battle Opponent of this becomes Reversed,
+put that Character in Stock" for the turn.
+
+================================================================================
+
+Kuroyukihime, Maiden in Love
+恋する乙女 黒雪姫
+Card No.: AW/S18-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: It's the first time that a week felt this long
+TEXT: [C] All your other Characters with ::Avatar:: and/or ::Student Council::
+gain +500 Power.
+[A] When your Character's Trigger Check reveals a Climax card, choose 1 of your
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Kuroyukihime, Maiden in Love
+恋する乙女 黒雪姫
+Card No.: AW/S18-006R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters with ::Avatar:: and/or ::Student Council::
+gain +500 Power.
+[A] When your Character's Trigger Check reveals a Climax card, choose 1 of your
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Silver Crow, Challenging Strong Enemies
+強敵へ挑むシルバー・クロウ
+Card No.: AW/S18-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: Soul 
+Flavor: Oh... oooo!
+TEXT: [A] ACCELERATE [Put the top card of your Library in Clock] At the start
+of your Climax Phase, you may pay cost. If so, this gains +2500 Power and +1
+Soul for the turn.
+
+================================================================================
+
+Kuroyukihime, Pure Possessiveness
+純粋な独占欲 黒雪姫
+Card No.: AW/S18-008  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: You are mine...
+TEXT: [A] [Return 2 Characters from your Waiting Room to your Library. Shuffle
+that Library] When this attacks, you may pay cost. If so, this gains +1 Soul
+for the turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Kuroyukihime, Pure Possessiveness
+純粋な独占欲 黒雪姫
+Card No.: AW/S18-008S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [Return 2 Characters from your Waiting Room to your Library. Shuffle
+that Library] When this attacks, you may pay cost. If so, this gains +1 Soul
+for the turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Black Lotus
+ブラック・ロータス
+Card No.: AW/S18-009  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: By aiming just for strength and speed, I have defeated countless
+enemies, and stained my hands with even blood of my friends
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, draw up to 2 cards, and discard a card from your hand to the Waiting
+Room.
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, choose an Opponent's Character whose
+Level is 3 or lower and return it to the hand.
+
+================================================================================
+
+Black Lotus
+ブラック・ロータス
+Card No.: AW/S18-009R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, draw up to 2 cards, and discard a card from your hand to the Waiting
+Room.
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, choose an Opponent's Character whose
+Level is 3 or lower and return it to the hand.
+
+================================================================================
+
+Black Lotus, Encountering Nearby Duels
+辻デュエルに臨むブラック・ロータス
+Card No.: AW/S18-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ... This is interesting
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 Character with either ::Avatar:: and/or ::Net::, reveal it, and put it
+in your hand. Shuffle your Library.
+
+================================================================================
+
+Silver Crow, Rookie Burst Linker
+新米バーストリンカー シルバー・クロウ
+Card No.: AW/S18-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: I am a big idiot!
+TEXT: [A] When this attacks, all your Characters gain +500 Power for the turn.
+
+================================================================================
+
+'Black King' Black Lotus
+《黒の王》ブラック・ロータス
+Card No.: AW/S18-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: My name is 'Black Lotus'!! I resist the rule of tyrant!!
+TEXT: [A] When "Death by Piercing" is placed in the Climax Zone, if this is in
+the Front Row, search your Library for up to 1 "Kuroyukihime, Real Strength",
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Kuroyukihime, Promise at Dusk
+黄昏時の約束 黒雪姫
+Card No.: AW/S18-013  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: アバター (Avatar)
+Triggers: None
+Flavor: I shall inherit your will
+TEXT: [C] During your turn, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Kuroyukihime, Real Strength
+本当の強さ 黒雪姫
+Card No.: AW/S18-014  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: ... Strength isn't just a word to describe the end result of victory
+TEXT: [A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose either 1
+"Kuroyukihime" or "Black Lotus" in your Waiting Room and put it in the Slot
+this was in.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1500 Power
+for the turn.
+
+================================================================================
+
+Haruyuki, To the Height Where Mankind Hasn't Reached
+人跡未踏の高みへ ハルユキ
+Card No.: AW/S18-015  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: If 'Brain Burst' has an ending, I want to aim for it
+TEXT: [A] [(1)] When this attacks, if "Heart Wishing for the Sky" is in the
+Climax Zone, you may pay cost. If so, all your Characters gain +2000 Power for
+the turn, and your Opponent cannot use "[A] ENCORE" for the turn. (This
+includes the "[A] ENCORE [(3)] provided by the rules.)
+
+================================================================================
+
+Haruyuki, Young Man Hoping for Wings
+翼を求めた少年 ハルユキ
+Card No.: AW/S18-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Take me with you! I want to go there! Higher! Farther!
+TEXT: [A] When this attacks, all your other Characters whose name include
+"Kuroyukihime" gain +500 Power for the turn.
+[A] BOND/"Kuroyukihime, Promise at Dusk" [Put the top card of your Library in
+Clock]
+
+================================================================================
+
+Haruyuki, Pink Piggy
+ピンクのブタ ハルユキ
+Card No.: AW/S18-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: What should we do with that?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Black Lotus, Return of the King
+王の帰還 ブラック・ロータス
+Card No.: AW/S18-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: 'Black Lotus'!! Black King!! It's alive--!!
+TEXT: [C] During your turn, this gains +1000 Power.
+
+================================================================================
+
+Kuroyukihime, Madonna of the Academy
+学園のマドンナ 黒雪姫
+Card No.: AW/S18-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Sorry for asking you to come all the way out here, Haruyuki Arita-kun
+TEXT: -- None --
+
+================================================================================
+
+Haruyuki, Bullied Kid
+いじめられっ子 ハルユキ
+Card No.: AW/S18-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Don't cry! Don't laught! I now... have something to protect
+TEXT: -- None --
+
+================================================================================
+
+Haruyuki, Scatterbrain
+おっちょこちょいなハルユキ
+Card No.: AW/S18-021  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Ahh!
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Silver Crow, Silvery Wings
+銀色の翼 シルバー・クロウ
+Card No.: AW/S18-022  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: I want to fly-- over there...!
+TEXT: [A] When this attacks, if "Knight of 'Black King'" is in the Climax Zone,
+this gains +3000 Power for the turn.
+
+================================================================================
+
+Kuroyukihime in Ponytail
+ポニーテールの黒雪姫
+Card No.: AW/S18-023  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: I thought I heard about your favorite hairstyle yesterday...
+TEXT: [A] When the Battle Opponent of this becomes Reversed, choose 1 of your
+Characters with either ::Avatar:: and/or ::Net::. That Character gains +2000
+Power for the turn.
+
+================================================================================
+
+Haruyuki, the Wall in the Way
+立ちはだかる壁 ハルユキ
+Card No.: AW/S18-024  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Who, other than me, got this kind of score!? 
+TEXT: -- None --
+
+================================================================================
+
+Betrayal
+裏切り
+Card No.: AW/S18-025  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I... cut of the Red King's head as he talked about peace and
+friendship
+TEXT: If you have 2 or fewer YELLOW Characters, this cannot be played from your
+hand.
+Choose 1 of your Opponent's Level 1 or lower Characters and put it in Stock.
+
+================================================================================
+
+Gale Thruster
+ゲイルスラスター
+Card No.: AW/S18-026  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: --Equip! 'Gale Thruster'!!
+TEXT: [Counter] Choose 1 of your ::Avatar:: and/or ::Net:: Characters. That
+Character gains +3000 Power for the turn.
+
+================================================================================
+
+Heart Wishing for the Sky
+空を願う心
+Card No.: AW/S18-027  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ... It's not greed. It's a 'Wish'!!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Emotion First Felt Since Birth
+生まれて初めての感情
+Card No.: AW/S18-028  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: We shall meet again... eventually 
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Death by Piercing
+宣告・貫通による死
+Card No.: AW/S18-029  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Death by Piercing!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Knight of 'Black King'
+《黒の王》の騎士
+Card No.: AW/S18-030  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Tuck. Just like me, you shall be fighting for that person
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Chiyuri, Sea of Cushions
+クッションの海 チユリ
+Card No.: AW/S18-031  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: You are still using that avatar, yeah? You could change it, you know
+TEXT: [C] All your other Characters gain +500 Power.
+[A] [(1) Rest 2 of your Standing Characters] When you use ACCELERATE, you may
+pay cost. If so, put the top card of your Clock in Waiting Room.
+
+================================================================================
+
+Chiyuri, Sea of Cushions
+クッションの海 チユリ
+Card No.: AW/S18-031R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other Characters gain +500 Power.
+[A] [(1) Rest 2 of your Standing Characters] When you use ACCELERATE, you may
+pay cost. If so, put the top card of your Clock in Waiting Room.
+
+================================================================================
+
+'Healer' Lime Bell
+《治癒師》ライム・ベル
+Card No.: AW/S18-032  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: Th---ere!
+TEXT: [A] [(1)] When this attacks, if "Citron Call" is in te Climax Zone, you
+may pay cost. If so, Rest all of your Reversed Characters with either
+::Avatar:: and/or ::Net::.
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, choose a "Choir Chime" in your Waiting
+Room and return it to your hand.
+
+================================================================================
+
+Chiyuri, Carefree Talk
+屈託ないお喋り チユリ
+Card No.: AW/S18-033  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Oh, Ta-kun, finally realized your doctor-attribute?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, choose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Chiyuri, Carefree Talk
+屈託ないお喋り チユリ
+Card No.: AW/S18-033S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, choose 1 of your Characters. That
+Character gains +1500 Power for the turn.
+
+================================================================================
+
+Chiyuri, Ice Cream for Apology
+謝罪のアイス チユリ
+Card No.: AW/S18-034  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Did you get it?
+TEXT: [A] When this attacks, choose 1 of your other Characters. That Character
+gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Lime Bell, Optimistic
+楽観的なライム・ベル
+Card No.: AW/S18-035  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: We just need to keep fighting and keep storing points and get to Level
+10, right?
+TEXT: [A] When this is placed from hand to the Stage, this gains +X Power,
+where X = 500 times # of your ::Avatar:: Characters.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Chiyuri, Caring for Friends
+友達想いなチユリ
+Card No.: AW/S18-036  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: I want to go back. To that time. The time where everyone played
+together...
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[A] When this attacks, if "Chiyuri's Tears" is in the Climax Zone, choose 1 of
+your other Characters. That Charcater gains +3000 Power until the end of your
+Opponent's next turn.
+
+================================================================================
+
+Chiyuri Kurashima
+倉嶋 千百合
+Card No.: AW/S18-037  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: Hey, let's go
+TEXT: [C] If you have 2 or more other Characters with either ::Avatar:: and/or
+::Net::, this gains +1500 Power.
+[A] When this is Front Attacked, look at the top card of your Library and put
+it either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Chiyuri Kurashima
+倉嶋 千百合
+Card No.: AW/S18-037SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 2 or more other Characters with either ::Avatar:: and/or
+::Net::, this gains +1500 Power.
+[A] When this is Front Attacked, look at the top card of your Library and put
+it either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Lime Bell
+ライム・ベル
+Card No.: AW/S18-038  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: Heh, ahh, I see~
+TEXT: [C] All your other ::Avatar:: Characters gain +500 Power.
+
+================================================================================
+
+Seiji Noumi
+能美 征二
+Card No.: AW/S18-039  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Game Over, Arita-senpai... rather, 'Silver Crow'
+TEXT: [S] [Rest 2 of your Characters with either ::Avatar:: and/or ::Net::]
+Choose 1 of your Opponent's Front Row Characters. That Character gets -1000
+Power for the turn.
+
+================================================================================
+
+Ash Roller
+アッシュ・ローラー
+Card No.: AW/S18-040  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: バイク (Bike)
+Triggers: None
+Flavor: Ahahahahaha! Dance more----!
+TEXT: [C] If there are 3 or fewer cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Dusk Taker
+ダスク・テイカー
+Card No.: AW/S18-041  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Before I take your points today... there's another thing I want
+TEXT: [A] [(1)] When "Demonic Commandeer" is placed in your Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Front Row Characters. That
+Character gets -2000 Power for the turn, and this gains +2500 Power for the
+turn.
+
+================================================================================
+
+Lime Bell, Betrayer
+裏切りのライム・ベル
+Card No.: AW/S18-042  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: ... Sorry, Ta-kun... Sorry, Haru...
+TEXT: [C] All your other Characters gain "[C] This cannot Side Attack".
+
+================================================================================
+
+Chiyuri, Youth
+幼き日のチユリ
+Card No.: AW/S18-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] BOND/"Haruyuki, To the Height Where Mankind Hasn't Reached" [(1)]
+
+================================================================================
+
+Chiyuri, Surprised Look
+訝しげな眼差し チユリ
+Card No.: AW/S18-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: ......
+TEXT: [S] [(1) Put this in Waiting Room] Your Opponent returns all cards in
+their Waiting Room to the Library. Shuffle that Library.
+
+================================================================================
+
+Chiyuri, Silver Cat
+銀色の猫 チユリ
+Card No.: AW/S18-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Ah, is that so. That's why you're acting like that
+TEXT: -- None --
+
+================================================================================
+
+Chiyuri, Bright And Energetic
+明るくて元気 チユリ
+Card No.: AW/S18-046  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Haru, he~y
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Ash Roller, Chivalry Skull Mask
+侠気の髑髏マスク アッシュ・ローラー
+Card No.: AW/S18-047  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: バイク (Bike)
+Triggers: None
+Flavor: Dance to my V Twin Sound!!
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Chiyuri, Sunny Smile
+太陽の笑顔 チユリ
+Card No.: AW/S18-048  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Yay---!
+TEXT: -- None --
+
+================================================================================
+
+Chiyuri, Beloved Charisma
+愛らしい魅力 チユリ
+Card No.: AW/S18-049  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Please understand. Now, please stay still
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Ash Roller, Good Rival
+良きライバル アッシュ・ローラー
+Card No.: AW/S18-050  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: バイク (Bike)
+Triggers: Soul 
+Flavor: As a bonus, my opponent's a brand new newbie. Really lucky!
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Hydro Dealer
+パイロディーラー
+Card No.: AW/S18-051  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: This is perpetual motion... basically, I am invincible
+TEXT: Choose 1 of your Characters. That Character gains +3000 Power and "[A]
+When the Battle Opponent of this becomes Reversed, you may put the top card of
+your Library in Stock" for the turn. At the end of turn, put that Character in
+Waiting Room.
+
+================================================================================
+
+Chori Chime
+クワイアー・チャイム
+Card No.: AW/S18-052  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Pile: "Of course... 'Lime Bell' is a 'Healer'"
+TEXT: [Counter] Choose 1 of your Standing Characters with either "Chiyuri" or
+"Lime Bell" in name and Rest it. If so, choose up to 2 of your Characters.
+Those Characters gain "[A] When this is placed from the Stage to the Waiting
+Room, you may put this back Rested in the Slot this was in" for the turn.
+
+================================================================================
+
+Chiyuri's Tears
+チユリの涙
+Card No.: AW/S18-053  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Please, stop-----!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Citron Call
+シトロン・コール
+Card No.: AW/S18-054  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Citron Call!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Demonic Commandeer
+魔王徴発令
+Card No.: AW/S18-055  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Didn't I say? I shall take the things important to you
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Niko, Good at Cooking
+料理が得意 ニコ
+Card No.: AW/S18-056  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: Wron-g! What do you mean, cup noodle! You want to pick a fight over my
+cooking?
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Charcater.
+[A] [(1)] When this is placed from hand to te Stage, you may pay cost. If so,
+choose 1 of your Characters. That Character gains "[A] When the Battle Opponent
+of this becomes Reversed, you may choose a card in your Opponent's Waiting Room
+and put it on top of the Library" for the turn.
+
+================================================================================
+
+Niko, Good at Cooking
+料理が得意 ニコ
+Card No.: AW/S18-056S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Charcater.
+[A] [(1)] When this is placed from hand to te Stage, you may pay cost. If so,
+choose 1 of your Characters. That Character gains "[A] When the Battle Opponent
+of this becomes Reversed, you may choose a card in your Opponent's Waiting Room
+and put it on top of the Library" for the turn.
+
+================================================================================
+
+Yuniko Kouzuki
+上月 由仁子
+Card No.: AW/S18-057  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: If you give me 10 berries I'll listen
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] [(3)] When this attacks, you may pay cost. If so, deal 1 Damage to your
+Opponent. (Damage Cancel may occur)
+
+================================================================================
+
+Yuniko Kouzuki
+上月 由仁子
+Card No.: AW/S18-057SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] [(3)] When this attacks, you may pay cost. If so, deal 1 Damage to your
+Opponent. (Damage Cancel may occur)
+
+================================================================================
+
+Scarlet Rain, Passionate
+激情のスカーレット・レイン
+Card No.: AW/S18-058  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ... Is that so! You're the one behind all this - 'Yellow
+Radio'!
+TEXT: [A] When another Character of yours becomes Reversed, choose 1 of your
+Characters. That Character gains +1000 Pwoer for the turn.
+[S] [(1) Rest this] Choose 1 of your Characters with either ::Avatar:: and/or
+::Net::. That Character gains +500 Power and "[A] When the Battle Opponent of
+this becomes Reversed, you may choose a Character in your Waiting Room and
+return it to your hand. If so, discard a card from your hand to the Waiting
+Room" for the turn.
+
+================================================================================
+
+Niko, Cute Second Cousin!?
+可愛いハトコ！？ ニコ
+Card No.: AW/S18-059  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Really, thank you!
+TEXT: [A] This ability may be activated up to once per turn. When you use an
+[S] ability, choose 1 of your Characters. That Character gains +500 Power for
+the turn.
+[A] When this becomes Reversed, if Level of the Battle Opponent of this is 0 or
+lower, you may Reverse that Character.
+
+================================================================================
+
+Niko, Cute Second Cousin!?
+可愛いハトコ！？ ニコ
+Card No.: AW/S18-059R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability may be activated up to once per turn. When you use an
+[S] ability, choose 1 of your Characters. That Character gains +500 Power for
+the turn.
+[A] When this becomes Reversed, if Level of the Battle Opponent of this is 0 or
+lower, you may Reverse that Character.
+
+================================================================================
+
+Rain & Leopard
+レイン＆レパード
+Card No.: AW/S18-060  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, you may pay cost. If so, put the top 2 cards
+of your Library in the Waiting Room. If both of them are Characters with either
+::Avatar:: and/or ::Net::, choose a Character in your Waiting Room and return
+it to your hand.
+
+================================================================================
+
+'Immobile Fortress' Scarlet Rain
+《不動要塞》スカーレット・レイン
+Card No.: AW/S18-061  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: If you look down on me, I shall crush you!
+TEXT: [C] Your other Character in the Front Row Center Slot gains +1500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +1000 Power for the turn.
+
+================================================================================
+
+'Red King' Scarlet Rain
+《赤の王》スカーレット・レイン
+Card No.: AW/S18-062  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Come, Fortified Armor---!!
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+[A] [(1) Put the top card of your Lbirary in Clock] When this attacks, if
+"Hailstorm Domination" is in the Climax Zone, you may pay cost. If so, choose 1
+of your Opponent's Characters whose Level is 3 or lower and put it in the
+Waiting Room.
+
+================================================================================
+
+Niko, Staying Over
+お泊りニコ
+Card No.: AW/S18-063  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: I don't want to go back, it's annoying-
+TEXT: [A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose an "'Immobile
+Fortress' Scarlet Rain" in your Waiting Room and put it in the Slot this was
+in.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Niko, Heart Thumping in Bath
+お風呂でドキドキ ニコ
+Card No.: AW/S18-064  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Th... thus, please don't stare~
+TEXT: [A] When this is placed from hand to the Stage, put the top 2 cards of
+your Library in your Waiting Room. If there were at least 1 Climax card among
+them, Rest this.
+
+================================================================================
+
+Niko, Angel Mode
+天使モード ニコ
+Card No.: AW/S18-065  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: W, whatareyoudoing~!?
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your
+Climax Phase, you may pay cost. If so, this gains +1500 Power and "[A] When the
+Battle Opponent of this becomes Reversed, you may put it on top of the Library"
+for the turn.
+
+================================================================================
+
+Silver Crow, Darkness of Heart
+心の闇 シルバー・クロウ
+Card No.: AW/S18-066  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: Then, I shall destroy. Be destroyed!
+TEXT: [A] When this attacks, if "Black Waves" is in the Climax Zone, this gains
++5500 Power for the turn, and at the start of your Encore Step, put this in
+Waiting Room.
+
+================================================================================
+
+Crikin, Strongest Name
+史上最強の名前を持つ男 クリキン
+Card No.: AW/S18-067  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: メカ (Mecha)
+Triggers: Soul 
+Flavor: Build up!! Super Kingbolt!!
+TEXT: [A] When your other ::Avatar:: and/or ::Net:: Character attacks, this
+gains +1000 Power for the turn.
+
+================================================================================
+
+Crimson Kingbolt
+クリムゾン・キングボルト
+Card No.: AW/S18-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: メカ (Mecha)
+Triggers: None
+Flavor: Yes, yes. Because I'm just a screw!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Pard, Nerima's Maid
+練馬のメイドさん パド
+Card No.: AW/S18-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: That's all. K?
+TEXT: [A] BOND/"Niko, Good at Cooking" [(1)]
+
+================================================================================
+
+Megumi Wakamiya
+若宮 恵
+Card No.: AW/S18-070  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Hime, shouldn't you tell us already? We are dying of curiosity
+TEXT: [A] [(2)] When this is placed from Stage to the Waiting Room, you may pay
+cost. If so, choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+'Bloody Storm' Scarlet Rain
+《鮮血の暴風雨》スカーレット・レイン
+Card No.: AW/S18-071  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: My win, onii-chan
+TEXT: -- None --
+
+================================================================================
+
+Scarlet Rain, Berseking of Dear Friend
+親友の暴走 スカーレット・レイン
+Card No.: AW/S18-072  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Stop talking about that and let's get moving
+TEXT: [A] [(1)] When this attacks, if "Judgment Blow" is in the climax Zone,
+you may pay cost. If so, choose a Character in your Waiting Room and return it
+to your hand.
+
+================================================================================
+
+5th Chrome Disaster
+五代目 クロム・ディザスター
+Card No.: AW/S18-073  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: -- I shall eat you. Be eaten and be my flesh
+TEXT: -- None --
+
+================================================================================
+
+Niko & Pard, Best of 'Prominence'
+《プロミネンス》のトップ ニコ＆パド
+Card No.: AW/S18-074  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Niko, Sassiness
+生意気盛り ニコ
+Card No.: AW/S18-075  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: I don't hate you. I am grateful, I think?
+TEXT: [A] [Put another Character of yours from the Stage to the Waiting Room]
+When this attacks, you may pay cost. IF so, this gains +2500 Power for the
+turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Invincible
+インビンシブル
+Card No.: AW/S18-076  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ... Oh, you won't run? You got guts
+TEXT: Choose up to 2 of your Characters. Those Characters gain "[A] [(1)] When
+the Battle Opponent of this becomes Reversed, you may pay cost. If so, choose a
+Character in your Waiting Room and return it to your hand" for the turn.
+
+================================================================================
+
+Disaster Armor
+災禍の鎧
+Card No.: AW/S18-077  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kuroyukihime: "Even if the bearer is defeated... 'Disaster
+Armor' does not disappear, and will attach itself to another Burst Linker
+and change their personality"
+TEXT: Send this to Memory.
+[C] RECOLLECTION If this is in the Memory, your ::Avatar:: Character in the
+Front Row Center Slot gain +1500 Power and "[A] When this becomes Reversed in
+battle, Put this in Clock".
+
+================================================================================
+
+Hailstorm Domination
+ヘイルストーム・ドミネーション
+Card No.: AW/S18-078  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Know that your enemy is the 'Red King'... and learn your place!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Black Waves
+黒い波動
+Card No.: AW/S18-079  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Disappear! Disappear Noumi! Disappear from in front of me!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Judgment Blow
+断罪の一撃
+Card No.: AW/S18-080  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Sky Raker, Living as Hermit
+隠棲中のスカイ・レイカー
+Card No.: AW/S18-081  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: Pleased to meet you. My name is 'Sky Raker'. I'm happy to
+finally meet you, Crow-san
+TEXT: [C] Your other Character in the Front Row Center Slot gain +500 Power.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax revealed this way, draw up to 1 card.
+
+================================================================================
+
+Takumu, Kendo Club
+剣道部 タクム
+Card No.: AW/S18-082  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Judge: "White, Mayuzumi" Takumu: "Yes!"
+TEXT: [C] If you have another Character with "Chiyuri" in name, this gains
++1000 Power and "[A] ENCORE [Discard a Character card from your hand to the
+Waiting Room]".
+
+================================================================================
+
+Fuuko, Gentle Smile
+穏やかな微笑 フーコ
+Card No.: AW/S18-083  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Those tears are proof that you actually exist in the Accel World
+TEXT: [C] If this is in the Front Row, this does not Stand during your Stand
+Phase.
+
+================================================================================
+
+Fuuko, Gentle Smile
+穏やかな微笑 フーコ
+Card No.: AW/S18-083S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If this is in the Front Row, this does not Stand during your Stand
+Phase.
+
+================================================================================
+
+Cyan Pile
+シアン・パイル
+Card No.: AW/S18-084  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: If I read this correctly...
+TEXT: [A] ACCELERATE [Put the top card of your Library in Clock] At the start
+of your Climax Phase, you may pay cost. If so, draw a card, discard a card from
+your hand to the Waiting Room, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Fuuko Kurasaki
+倉崎 楓子
+Card No.: AW/S18-085  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: Because of my own doing, I lost my bond with others
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from your hand to the Waiting Room.
+[S] [(1) Rest 2 of your ::Avatar:: Characters] This gains +2000 Power until the
+end of your Opponent's next turn.
+
+================================================================================
+
+Fuuko Kurasaki
+倉崎 楓子
+Card No.: AW/S18-085SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from your hand to the Waiting Room.
+[S] [(1) Rest 2 of your ::Avatar:: Characters] This gains +2000 Power until the
+end of your Opponent's next turn.
+
+================================================================================
+
+Sky Raker, Former Ally
+かつての仲間 スカイ・レイカー
+Card No.: AW/S18-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: None
+Flavor: Let's talk. About the Burst Linker who seeks the sky, and the only
+friend of the girl......
+TEXT: [C] ASSIST Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, look at the top card of your
+Library and put it either on top or bottom of the Library.
+
+================================================================================
+
+Cyan Pile, Trustworthy Partner
+頼れる相棒 シアン・パイル
+Card No.: AW/S18-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Haru, to your right!
+TEXT: [C] During your Opponent's turn, this gains +1000 Power.
+
+================================================================================
+
+Fuuko, Neet And Pretty
+清楚で可憐 フーコ
+Card No.: AW/S18-088  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: Good morning, Crow-san
+TEXT: [A] When this attacks, if "Power of Spirit" is in the Climax Zone, choose
+1 of your other Characters. That Character gains +1500 Power until the end of
+your Opponent's next turn.
+
+================================================================================
+
+Sky Raker, Ash's Master
+アッシュの師匠 スカイ・レイカー
+Card No.: AW/S18-089  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: None
+Triggers: Soul 
+Flavor: It's been a while, Ash. I'm happy that you haven't
+forgotten about me
+TEXT: [S] [(1) Rest 1 of your Characters with either ::Avatar:: and/or ::Net::]
+Draw a card, discard a card from your hand to the Waiting Room, and this gains
++1000 Power for the turn.
+
+================================================================================
+
+Mana Itosu
+糸洲 真魚
+Card No.: AW/S18-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Ah, ah, "Churagaagii" means "pretty girl"
+TEXT: [C] This gains +X Power. X = 2000 times Level of the Character Opposite
+this.
+
+================================================================================
+
+Takumu, New Ally
+新たな仲間 タクム
+Card No.: AW/S18-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: ... Please... My Master...
+TEXT: -- None --
+
+================================================================================
+
+'Bouncer' Aqua Current
+《用心棒》アクア・カレント
+Card No.: AW/S18-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 水 (Water)
+Triggers: None
+Flavor: I shall take all your points now
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from your hand to
+the Waiting Room]
+
+================================================================================
+
+Ruka Asato
+安里 琉花
+Card No.: AW/S18-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: Ah... Uh, sister, is really pretty...
+TEXT: -- None --
+
+================================================================================
+
+Takumu, Glass-Guy Character
+メガネ君キャラ タクム
+Card No.: AW/S18-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: ネット (Net)
+Triggers: Soul 
+Flavor: Red King probably will threatern Haru with 'Judgment Blow' and
+make him do something
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+
+================================================================================
+
+Cyan Pile, Unlimited Neutral Field
+無制限中立フィールド シアン・パイル
+Card No.: AW/S18-095  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Once you Dive, you can remain there forever. Of course, you need to be
+Level 4 or higher to get there
+TEXT: [A] When "Lightning Cyan Spike" is placed in the Climaxc Zone, if this is
+in the Front Row, choose 1 of your Opponent's Characters. You may move that
+Character to another vacant Slot on your Opponent's Stage.
+
+================================================================================
+
+Aqua Current, Quiet Pretty Lady
+無口な美女 アクア・カレント
+Card No.: AW/S18-096  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: ネット (Net)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: Please give it back
+TEXT: -- None --
+
+================================================================================
+
+Piledriver
+杭打ち機
+Card No.: AW/S18-097  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ... The person who told me about my spirit said this. Cyan Pile's
+potential is all in this piledriver
+TEXT: Choose 1 of your Opponent's Level 3 or lower Characters. That Character
+does not Stand during your Opponent's next Stand Phase.
+
+================================================================================
+
+Forced Revolution
+強制変遷
+Card No.: AW/S18-098  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Dolphin: "Don't worry, nee-nee! The sea is kind-!" Merrow:
+"Let us handle it in the water!"
+TEXT: If you have 2 or fewer ::Avatar:: Characters, you cannot play this from
+your hand.
+Choose 1 of your Opponent's Cost 1 or lower Characters and put it on bottom of
+the Library. Send this to Memory.
+
+================================================================================
+
+Power of Spirit
+心意の力
+Card No.: AW/S18-099  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: I have turned this wheelchair - specifically the image of the two
+rotating wheels into reality... and I can control it with Incarnation
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Lightning Cyan Spike
+ライトニング・シアン・スパイク
+Card No.: AW/S18-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I thought I believed in you
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

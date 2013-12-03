@@ -1,0 +1,638 @@
+Dog Days Dash (Prime) Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Couvert, Admiration Kept Inside
+抱き続けた憧れ クーベル
+Card No.: DD/WE17-01  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: I admire Millhi-nee and Leo-nee
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room] When this is
+placed from Stage to the Waiting Room, you may pay cost. If so, search your
+Library for up to 1 Character with either ::Animal:: and/or ::Hero::, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Rebecca, Divine Sword Mercurius
+神剣メルクリウス レベッカ
+Card No.: DD/WE17-02  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: ... Uh......?
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, choose 1 of your
+Characters. That Character gains +1 Soul for the turn. 
+
+================================================================================
+
+Couvert, Welcoming
+歓迎する クーベル
+Card No.: DD/WE17-03  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Perfect! The welcoming plan is perfect now~!
+TEXT: [C] If there are 4 or more cards in your Opponent's hand, this gains
++1000 Power.
+
+================================================================================
+
+Adel, Hero Mask
+英雄仮面 アデル
+Card No.: DD/WE17-04  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Sorry to keep you waiting!
+TEXT: [A] [Choose 1 Character in your Waiting Room with either ::Animal::
+and/or ::Hero:: and put it on the bottom of your Clock] When you use the BACKUP
+of this, you may pay cost. If so, choose 1 of your Characters. That Character
+gains +1500 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+Couvert Eschenbach Pastillage
+クーベル・エッシェンバッハ・パスティヤージュ
+Card No.: DD/WE17-05  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: I want to take to the sky with you
+TEXT: [C] If you have 3 or more other Characters with either ::Hero:: and/or
+::Royalty::, this gains +1000 Power.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+Rebecca, Speeding Through the Sky
+空を駆けるレベッカ
+Card No.: DD/WE17-06  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Couvert: "This is great, Rebecca!"
+TEXT: [C] All your other Characters with either ::Animal:: and/or ::Hero:: gain
++500 Power.
+
+================================================================================
+
+Couvert, Lord of Pastillage
+パスティヤージュ君主 クーベル
+Card No.: DD/WE17-07  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: But, the fact that fun things have occurred since the heroes came
+TEXT: [A] BOND/"Rebecca, Demon Crystal" [(1)]
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Rebecca, Flying-Type Hero
+飛翔系勇者 レベッカ
+Card No.: DD/WE17-08  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: I want to be Lady Cou's hero
+TEXT: [C] For each Marker under this, this gains +1 Level and +2000 Power.
+[A] When this attacks, you may choose 1 of your other "Couvert, Welcoming" and
+put it face-down under this as Marker.
+[A] [(2) Discard a card from hand to the Waiting Room, choose 1 Marker under
+this and return it to your hand] When this becomes Reversed, you may pay cost.
+If so, Rest this.
+
+================================================================================
+
+Couvert, Apprentice Lord
+領主見習い クーベル
+Card No.: DD/WE17-09  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: But onee-sama, I want to be glossy like usual~
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room] When "Garnet
+Spark" is placed in your Climax Zone, you may pay cost. If so, this gains +1000
+Power and "[A] When this attacks, you may instead choose a Character in your
+Opponent's Back Row and have this Front Attack that Character as Defending
+Character" for the turn.
+
+================================================================================
+
+Rebecca, Putting Her Hair Down
+髪を下すレベッカ
+Card No.: DD/WE17-10  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: It's more embarrassing than I thought to call Cinque like that...!
+TEXT: -- None --
+
+================================================================================
+
+Rebecca Anderson
+レベッカ・アンダーソン
+Card No.: DD/WE17-11  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: D... done...!
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this is placed
+from hand to the Stage, you may pay cost. If so, choose 1 of your Opponent's
+Cost 0 or lower Character and return it to hand.
+
+================================================================================
+
+Couvert, Heavenly Spear Coumars
+天槍クルマルス クーベル
+Card No.: DD/WE17-12  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Awaken, Heavenly Spear Coumars!
+TEXT: -- None --
+
+================================================================================
+
+Couvert, Mage Type
+術士タイプ クーベル
+Card No.: DD/WE17-13  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: But I have come for that girl!
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power. 
+[A] CHANGE [(1) Discard a card from hand to the Waiting Room] At the start of
+your Climax Phase, you may pay cost. If so, choose a "Couvert Eschenbach
+Pastillage" in your Clock and this and Swap them.
+
+================================================================================
+
+Rebecca, Demon Crystal
+魔神結晶 レベッカ
+Card No.: DD/WE17-14  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: But really... I'm glad that you're alright
+TEXT: [A] When this attacks, if "Witch Cannon, Supreme Demon King Mode" is in
+the Climax Zone, choose up to 1 of your other Characters and return it to your
+hand, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Valerio Calvados
+ヴァレリア・カルバドス
+Card No.: DD/WE17-15  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: All humans should call me the Demon King!
+TEXT: [A] When this attacks, this gains +X Power for the turn. X = 500 times
+the number of your Opponent's Characters.
+
+================================================================================
+
+Brave Connect
+ブレイブコネクト
+Card No.: DD/WE17-16  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Well done, brave heroes!
+TEXT: Search your Library for up to 2 ::Hero:: Characters, reveal them, and put
+them in your hand. Discard a card from your hand to the Waiting Room. Send this
+to Memory.
+
+================================================================================
+
+Witch Cannon, Supreme Demon King Mode
+ウィッチカノン 超魔王モード
+Card No.: DD/WE17-17  Rarity: C
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Witch Cannon, Supreme Demon King Mode!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Garnet Spark
+ガーネットスパーク
+Card No.: DD/WE17-18  Rarity: C
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: You all are horrible!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Noir, Summer Camp
+夏合宿 ノワール
+Card No.: DD/WE17-19  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Until I beat you... I won't stop...!
+TEXT: [A] When this becomes Reversed, if its Battle Opponent is Level 0 or
+lower, you may put the top card of your Opponent's Clock in the Waiting Room.
+If so, put that Character in Clock.
+
+================================================================================
+
+Gaul, Hero Crystal
+英雄結晶 ガウル
+Card No.: DD/WE17-20  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 9000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: There's only a little left. Come catch me and Cinque!
+TEXT: [C] This cannot Side Attack.
+
+================================================================================
+
+Leo, Millhi's Childhood Friend
+ミルヒの幼馴染み レオ
+Card No.: DD/WE17-21  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: All three kingdoms have a hero that takes care of things
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] This ability activates up to twice per turn. When your other ::Animal::
+Character is placed from hand to the Stage, this gains +1000 Power for the
+turn.
+[A] When this attacks, if "Nanami's Hair-Grooming" is in the Climax Zone,
+choose 1 of your Characters. That Character gains +4000 Power until the end of
+your Opponent's next turn.
+
+================================================================================
+
+Nanami, One Summer Adventure
+ひと夏の冒険 ナナミ
+Card No.: DD/WE17-22  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: But, this is nice~ looks fun~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, you may choose the bottom card
+of your Clock and a Character in your Waiting Room with either ::Animal::
+and/or ::Hero:: and Swap them.
+
+================================================================================
+
+Leo, Acting Lord of Galette
+ガレット代表領主 レオ
+Card No.: DD/WE17-23  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Then, will you participate?
+TEXT: [A] BOND/"Millhi, Looking Up" [(1)]
+
+================================================================================
+
+Nanami, Master And Rival
+師匠でライバル ナナミ
+Card No.: DD/WE17-24  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Ah, let's take a picture! A commemorative picture with everyone
+TEXT: -- None --
+
+================================================================================
+
+Nanami Takatsuki
+ナナミ・タカツキ
+Card No.: DD/WE17-25  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Let's have a relaxing time and make some summer memories~
+TEXT: [A] CHANGE [(2) Discard a card from hand to the Waiting Room] At the
+start of your Climax Phase, you may pay cost. If so, choose a "Nanami,
+Wave-Riding Hero" in your Clock and this and Swap them.
+[A] [Cloc] SHIFT Level 1
+
+================================================================================
+
+Jaune & Vert
+ジョーヌ＆ベール
+Card No.: DD/WE17-26  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Vert: "Nanami-chan?" Jaune: "What's this good idea?"
+TEXT: [A] When this is placed from hand to the Stage, you may choose the bottom
+card of your Clock and a Character in your Waiting Room with either ::Animal::
+and/or ::Hero:: and Swap them.
+
+================================================================================
+
+Leo, Lion King Samurai
+獅子王侍 レオ
+Card No.: DD/WE17-27  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Slice, blade of conviction!
+TEXT: [A] This ability activates up to once per turn. When you play an Event,
+this gains +2000 Power for the turn.
+
+================================================================================
+
+Nanami, Wave-Riding Hero
+波乗り勇者 ナナミ
+Card No.: DD/WE17-28  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: What should I do Cinque, the war in Flonyard is fun!
+TEXT: [A] When this attacks, if "Wave Rider" is in the Climax Zone, this gains
++3000 Power until the end of your Opponent's next turn.
+[A] ENCORE [Choose 1 Character in your Waiting Room with either ::Animal::
+and/or ::Hero:: and put it on the bottom of your Clock]
+
+================================================================================
+
+Hero Time
+ヒーロータイム
+Card No.: DD/WE17-29  Rarity: C
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Rebecca & Nanami: "Grown-!?"
+TEXT: Choose 1 of your ::Animal:: Characters and 1 of your ::Hero:: Characters
+(must target different Characters). They gain +2000 Power and "[C] This cannot
+be the target of your Opponent's effects" until the end of your Opponent's next
+turn.
+
+================================================================================
+
+Nanami's Hair-Grooming
+ナナミの毛づくろい
+Card No.: DD/WE17-30  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Leo: "Mmm~ Nanami is a great technician~..."
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Wave Rider
+ウェーブライダー
+Card No.: DD/WE17-31  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Nanami: "Frozen, Link created"
+TEXT: [A] When this is placed from hand to the Climax Zone, choose up to 1
+GREEN card in your Waiting Room and put it in Stock, and all your Characters
+gain +1 Soul for the turn.
+
+================================================================================
+
+Riko, Inventist
+発明王 リコ
+Card No.: DD/WE17-32  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: Everyone here is mean!
+TEXT: [C] This cannot Direct Attack.
+
+================================================================================
+
+Yukikaze, Battle of the Sealed Cave!
+封印洞窟戦！ ユキカゼ
+Card No.: DD/WE17-33  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 神 (God)
+Triggers: None
+Flavor: I shall do something about the cloth and shoes with my ninjutsu
+TEXT: [C] If you have 3 or more other ::Animal:: Characters, this gains +500
+Power and "[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Millhi, World Idol
+世界的アイドル ミルヒ
+Card No.: DD/WE17-34  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: This imporant feeling / I want it to each you and tell you
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains +2000 Power.
+[A] When this is placed from hand to the Stage or via the [A] effect of
+"Millhi, Looking Up" to the Stage, draw up to 2 cards and discard a card from
+hand to the Waiting Room.
+
+================================================================================
+
+Isuka Makishima
+イスカ・マキシマ
+Card No.: DD/WE17-35  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 鍛冶 (Smithing)
+Triggers: None
+Flavor: It's lively even in the morning
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters. That Character gains +1500 Power and ::Weapon:: for the turn.
+
+================================================================================
+
+Millhi, Summer Reunion
+夏の再会 ミルヒ
+Card No.: DD/WE17-36  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: No, I'm the one who should be thanking you
+TEXT: [A] [Discard a card from hand to the Waiting Room] When "Shiny Heart
+Shiny Smile" is placed in your Climax Zone, if this is in the Front Row, you
+may pay cost. If so, look at the top card of your Library and put it either on
+top of the Library or in the Waiting Room, and choose a Character in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+Cinque, Hero Crystal
+英雄結晶 シンク
+Card No.: DD/WE17-37  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 勇者 (Hero)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Let's go, Gaul!
+TEXT: [C] For each Marker under this, this gains +1 Level and +2000 Power.
+[A] [Discard a "Hero Time" from hand to the Waiting Room] When this attacks,
+you may pay cost. If so, put the top card of your Library under this as Marker.
+
+================================================================================
+
+Ecle, Awkward Feelings
+不器用な想い エクレ
+Card No.: DD/WE17-38  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: What do you mean, something troubling you?
+TEXT: [S] [(2) Discard a card from hand to the Waiting Room, Rest 1 of yor
+other ::Hero:: Characters and this] Choose up to 2 Characters in your Waiting
+Room and return them to your hand.
+
+================================================================================
+
+Ecle, Battle of the Sealed Cave!
+封印洞窟戦！ エクレ
+Card No.: DD/WE17-39  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: By the way, why haven't we gotten back?
+TEXT: [A] ENCORE [Choose 1 Character in your Waiting Room with either
+::Animal:: and/or ::Hero:: and put it on the bottom of your Clock]
+[S] [(1)] This gains "[A] When this becomes Reversed, if its Battle Opponent is
+Level 1 or lower, you may Reverse that Character" for the turn.
+
+================================================================================
+
+Millhi, Looking Up
+見上げる ミルヒ
+Card No.: DD/WE17-40  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: This morning I got to play with Cinque by the lake...
+TEXT: [A] [(1)] When "Heart Relation" is placed in your Climax Zone, you may
+pay cost. If so, choose a "Millhi, World Idol" in your Clock and this and Swap
+them.
+[S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Yukikaze, Summer Camp
+夏合宿 ユキカゼ
+Card No.: DD/WE17-41  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: 神 (God)
+Triggers: Soul 
+Flavor: Let's move on to the rescue training~
+TEXT: [C] All your other Characters with either ::Animal:: and/or ::Hero:: gain
++1000 Power.
+
+================================================================================
+
+Dalkian, Strongest in the Continent
+大陸最強 ダルキアン
+Card No.: DD/WE17-42  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I see... I can accept that you're Cinque's master
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains +2000 Power.
+
+================================================================================
+
+Change My Heart
+チェンジ・マイ・ハート
+Card No.: DD/WE17-43  Rarity: C
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ehh, this is, Yuki-?
+TEXT: You may discard a ::Royalty:: Character from your hand to the Waiting
+Room. If so, choose 1 of your ::Animal:: Characters and return it to your hand,
+and choose a Level 2 or lower ::Hero:: Character in your Clock and put it in
+any Slot on the Stage. That Character gains +1500 Power for the turn. Put this
+in Clock.
+
+================================================================================
+
+Heart Relation
+Heart Relation
+Card No.: DD/WE17-44  Rarity: R
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: The Relation will be connected / drawn in the sky
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Shiny Heart Shiny Smile
+Shiny Heart Shiny Smile
+Card No.: DD/WE17-45  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Unreachable crush / The heart in love wavers / But don't
+worry / And walk on
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

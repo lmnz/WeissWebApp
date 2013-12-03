@@ -1,0 +1,282 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Kotori, Resting in the Tree Shades
+木陰で憩う小鳥
+Card No.: RW/W15-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Of course. The forest is like a garden
+TEXT: [A] When this attacks, if you have 2 or more other ::Occult:: Characters,
+all your Characters gain +500 Power for the turn.
+
+================================================================================
+
+"Height Comparing" Shizuru
+“背比べ”静流
+Card No.: RW/W15-102  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Is it okay being small...
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, this gains +1500
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Kotarou Tennouji
+天王寺 瑚太朗
+Card No.: RW/W15-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: It's been decided. Why would you happily do bad things
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard a card from hand to the Waiting Room.
+[A] When this attacks, if "Everyone's Gardening" is in the Climax Zone, all
+your other Characters gain +2500 Power and +1 Soul for the turn.
+
+================================================================================
+
+"Happy Dessert Time" Lucia
+“至福のデザートタイム”ルチア
+Card No.: RW/W15-104  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: M... me eating parfait... is it weird
+TEXT: [A] When an Opponent's Climax card is placed to the Climax Zone, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Everyone's Gardening
+みんなでガーデニング
+Card No.: RW/W15-105  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Because I asked. Now, and in the future. There's a lot of happy
+things waiting for
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kotori in Uniform
+制服の小鳥
+Card No.: RW/W15-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: That's good. Let's have lunch together~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+"Speed Fight!" Kotarou
+“スピード勝負！”瑚太朗
+Card No.: RW/W15-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Damn it!! Again!!!
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Occult:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Kazako's Outlaw" Yoshino
+“カザコーのアウトロー”吉野
+Card No.: RW/W15-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 不良 (Delinquent)      Trait 2: None
+Triggers: None
+Flavor: You and I are like black and white, front and back, light and darkness.
+To crush or be crushed... that's all
+TEXT: [C] If you have no other Character in the Front Row, this gains +1500
+Power.
+
+================================================================================
+
+Akane in Uniform
+制服の朱音
+Card No.: RW/W15-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: No, thank you. Welcome to the Occult Research Club. It'd be nice if
+this becomes a good place for you to stay
+TEXT: -- None --
+
+================================================================================
+
+"Chihaya's Butler" Sakuya
+“ちはやの執事”咲夜
+Card No.: RW/W15-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 執事 (Butler)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: It's trivial
+TEXT: [C] All your other Characters gain +1000 Power during your turn.
+
+================================================================================
+
+Chihaya in Uniform
+制服のちはや
+Card No.: RW/W15-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Ah! Wh, where are you going
+TEXT: [A] When this attacks, if "Lost Transfer Student" is in the Climax Zone,
+choose 1 of your Characters. That Character gains +500 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Akane in Casual Clothing
+私服の朱音
+Card No.: RW/W15-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Ha!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Kotori in Casual Clothing
+私服の小鳥
+Card No.: RW/W15-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: The little ones are doing their best too
+TEXT: [A] [(1)] When this attacks, you may pay cost. If so, choose 1 of your
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Chihaya in Casual Clothing
+私服のちはや
+Card No.: RW/W15-T09  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: It, it might sound bad, but this is when it's okay to extend your
+hand, I think...
+TEXT: -- None --
+
+================================================================================
+
+Magical Girl of the Academy
+学園の魔女
+Card No.: RW/W15-T10  Rarity: TD
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Welcome, gypsy, to my mysterious room
+TEXT: BRAINSTORM Choose 1 of your Characters. That Character gains +5000 Power
+for the turn. Your Opponent chooses a number between 1 and 3. Reveal the top 3
+cards of your Library and put them in the Waiting Room. If the number of
+::Occult:: Characters revealed this way is equal to the number chosen by the
+Opponent, you draw a card.
+
+================================================================================
+
+Lost Transfer Student
+迷子の転校生
+Card No.: RW/W15-T11  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: No, no, help me! I can't get down
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Shizuru in Uniform
+制服の静流
+Card No.: RW/W15-T12  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Let's go to the grounds and have bento. Just by the two of us
+TEXT: -- None --
+
+================================================================================
+
+Lucia in Uniform
+制服のルチア
+Card No.: RW/W15-T13  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Kotarou Tennouji. I'm going to join this gathering
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Shizuru in Casual Clothing
+私服の静流
+Card No.: RW/W15-T14  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: ...A friend of my friend is also my friend
+TEXT: [S] [Rest 2 of your Characters] This gains +1000 Power until the end of
+your Opponent's next turn.
+
+================================================================================
+
+Lucia in Casual Clothing
+私服のルチア
+Card No.: RW/W15-T15  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: What now, aren't you late
+TEXT: -- None --
+
+================================================================================
+
+Lost Memories
+失くした記憶
+Card No.: RW/W15-T16  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...Nod once. Shizuru smiled
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

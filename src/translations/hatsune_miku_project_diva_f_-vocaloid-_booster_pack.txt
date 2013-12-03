@@ -1,0 +1,2106 @@
+Hatsune Miku Project Diva F (Vocaloid) Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Kagamine Rin "Scissors"
+鏡音リン“シザーズ”
+Card No.: PD/S22-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Omnipotent Words / Hey, Hear this / You need nothing besides
+your brain / why not, I don't know
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] [(1) Put 1 of your ::Music:: Character from Stage to Waiting Room] When
+"Tokyo Teddy Bear" is placed in your Climax Zone, you may pay cost. If so,
+choose a ::Music:: Character in your Waiting Room whose Level is equal to or
+lower than your Level and put it in any Slot on the Stage.
+
+================================================================================
+
+Kagamine Rin "Scissors"
+鏡音リン“シザーズ”
+Card No.: PD/S22-001S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] [(1) Put 1 of your ::Music:: Character from Stage to Waiting Room] When
+"Tokyo Teddy Bear" is placed in your Climax Zone, you may pay cost. If so,
+choose a ::Music:: Character in your Waiting Room whose Level is equal to or
+lower than your Level and put it in any Slot on the Stage.
+
+================================================================================
+
+Kagamine Len "Original"
+鏡音レン“オリジナル”
+Card No.: PD/S22-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If there are 5 or fewer cards in your Library, this gets -1 Level in
+your hand.
+[A] When this is placed from hand to the Stage, all your Characters gain +1
+Soul for the turn.
+
+================================================================================
+
+Kagamine Len "Original"
+鏡音レン“オリジナル”
+Card No.: PD/S22-002R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 5 or fewer cards in your Library, this gets -1 Level in
+your hand.
+[A] When this is placed from hand to the Stage, all your Characters gain +1
+Soul for the turn.
+
+================================================================================
+
+Kagamine Rin "Ni no Sakura: Butterfly"
+鏡音リン“弐ノ桜・胡蝶”
+Card No.: PD/S22-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When you use the BACKUP of this, reveal the top card of your Library.
+If it's a ::Music:: Character, choose 1 of your Characters. That Character
+gains +1000 Power for the turn. (Put the revealed card back where it was)
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Kagamine Rin "Ni no Sakura: Butterfly"
+鏡音リン“弐ノ桜・胡蝶”
+Card No.: PD/S22-003S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When you use the BACKUP of this, reveal the top card of your Library.
+If it's a ::Music:: Character, choose 1 of your Characters. That Character
+gains +1000 Power for the turn. (Put the revealed card back where it was)
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Kagamine Rin "SW Striped Bikini"
+鏡音リン“SW しましまビキニ”
+Card No.: PD/S22-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] For each other Character your have whose name includes "Rin" and/or
+"Len", this gains +500 Power.
+
+================================================================================
+
+Kagamine Rin "SW Striped Bikini"
+鏡音リン“SW しましまビキニ”
+Card No.: PD/S22-004S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] For each other Character your have whose name includes "Rin" and/or
+"Len", this gains +500 Power.
+
+================================================================================
+
+Kagamine Len "Star Mine"
+鏡音レン“スターマイン”
+Card No.: PD/S22-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: Soul 
+Flavor: During your life / like a sparkler / even for a moment /
+like a sunflower beaming on the two of you
+TEXT: [C] If this is in the Front Row Center Slot, this gains "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room]".
+[A] [(1)] When this attacks, if "Fire Flower" is in the Climax Zone, you may
+pay cost. If so, choose 1 of your other Characters. That Character gains +4500
+Power for the turn, and this gains +4500 Power for the turn.
+
+================================================================================
+
+Kagamine Len "Star Mine"
+鏡音レン“スターマイン”
+Card No.: PD/S22-005S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If this is in the Front Row Center Slot, this gains "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room]".
+[A] [(1)] When this attacks, if "Fire Flower" is in the Climax Zone, you may
+pay cost. If so, choose 1 of your other Characters. That Character gains +4500
+Power for the turn, and this gains +4500 Power for the turn.
+
+================================================================================
+
+Kagamine Rin "Cherry Moon"
+鏡音リン“桜月”
+Card No.: PD/S22-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: Why / don't you take that step? / Why / don't you
+create?
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power and "[A] ENCORE [Discard a Character card from your hand to the Waiting
+Room]".
+[A] [(1) Rest 2 of your Standing ::Music:: Characters] When this attacks, if
+"Tengaku" is in the Climax Zone, you may pay cost. If so, choose 1 of your
+Opponent's Cost 1 or lower Character and put it in Stock.
+
+================================================================================
+
+Kagamine Rin "Cherry Moon"
+鏡音リン“桜月”
+Card No.: PD/S22-006S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power and "[A] ENCORE [Discard a Character card from your hand to the Waiting
+Room]".
+[A] [(1) Rest 2 of your Standing ::Music:: Characters] When this attacks, if
+"Tengaku" is in the Climax Zone, you may pay cost. If so, choose 1 of your
+Opponent's Cost 1 or lower Character and put it in Stock.
+
+================================================================================
+
+Kagamine Rin "Original"
+鏡音リン“オリジナル”
+Card No.: PD/S22-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains +2000 Power.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+[A] When the Battle Opponent of this becomes Reversed, put that Character in
+Stock.
+
+================================================================================
+
+Kagamine Rin "Original"
+鏡音リン“オリジナル”
+Card No.: PD/S22-007R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains +2000 Power.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+[A] When the Battle Opponent of this becomes Reversed, put that Character in
+Stock.
+
+================================================================================
+
+Kagamine Rin "Melancholy"
+鏡音リン“メランコリー”
+Card No.: PD/S22-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [Put the top card of your Library in Clock] When this is placed from hand
+to the Stage, you may pay cost. If so, choose 1 of your ::Music:: Characters.
+That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Kagamine Len "SW Boxer"
+鏡音レン“SW ボクサー”
+Card No.: PD/S22-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] All your other Characters whose name includes "Rin" and/or "Len" gain
++500 Power.
+[S] [Rest this] Choose 1 of your Characters whose name includes "Rin" and/or
+"Len". That Character gains +500 Power for the turn.
+
+================================================================================
+
+Kagamine Len "Ni no Sakura: Fan Dance"
+鏡音レン“弐ノ桜・扇舞”
+Card No.: PD/S22-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Kagamine Len "Receiver"
+鏡音レン“レシーバー”
+Card No.: PD/S22-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メカ (Mecha)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this Direct Attacks, if "Remote Control" is in the Climax Zone,
+look at the top card of your Library and put it either on top of the Library or
+in the Waiting Room, and this gains "[A] This ability may activate up to once
+per turn. When the Damange dealt by this is Cancelled, you may deal 1 Damage to
+your Opponent" for the turn. (Damange Cancel can occur)
+
+================================================================================
+
+Kagamine Rin "Transmitter"
+鏡音リン“トランスミッター”
+Card No.: PD/S22-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メカ (Mecha)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, if "Remote Control" is in the Climax Zone,
+you may pay cost. If so, choose 1 of your Opponent's Characters and return it
+to the hand.
+
+================================================================================
+
+Akita Neru "Original"
+亞北ネル“オリジナル”
+Card No.: PD/S22-013  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [(1)] This gains +1 Soul for the turn.
+
+================================================================================
+
+Kagamine Rin "Append"
+鏡音リン“アペンド”
+Card No.: PD/S22-014  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] CHANGE [(2) Put this in Clock] At the start of your Climax Phase, you
+may pay cost. If so, choose a 'Kagamine Rin "Original"' in your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+Kagamine Len "Crane"
+鏡音レン“鶴”
+Card No.: PD/S22-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] BOND/'Kagamine Rin "Cherry Moon"' [(1)]
+
+================================================================================
+
+Kagamine Len "Append"
+鏡音レン“アペンド”
+Card No.: PD/S22-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] During your turn, this gains +1000 Power.
+
+================================================================================
+
+Kagamine Len "Tricker"
+鏡音レン“トリッカー”
+Card No.: PD/S22-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: More / Wish for more / Reveal your desire / Endless
+Paradise / That you will never / escape
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Kagamine Rin "Future Style"
+鏡音リン“Future Style”
+Card No.: PD/S22-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+"Continuation of Dream" Kagamine Rin
+“夢の続き”鏡音リン
+Card No.: PD/S22-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: You believed in me like this
+TEXT: -- None --
+
+================================================================================
+
+"Continuation of Dream" Kagamine Len
+“夢の続き”鏡音レン
+Card No.: PD/S22-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: Beliefs become one / residing warmly in my heart / and then
+miracle
+TEXT: -- None --
+
+================================================================================
+
+Melancholic
+メランコリック
+Card No.: PD/S22-021  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: That is the time / Drowned and pitiable / Melancholy
+TEXT: Search your Library for up to 1 ::Music:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Tengaku
+天樂
+Card No.: PD/S22-022  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Nothing will begin / People who decay / like corpses
+TEXT: [A] When this is placed from hand to the Cliamx Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Tengaku
+天樂
+Card No.: PD/S22-022R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Cliamx Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Fire Flower
+Fire◎Flower
+Card No.: PD/S22-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: "It'd be nice if I said I liked you from the start" as I
+sing to the sky
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Fire Flower
+Fire◎Flower
+Card No.: PD/S22-023R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Tokyo Teddy Bear
+東京テディベア
+Card No.: PD/S22-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Why not change? / You want to be treated like a pet? / Nothing?
+/ This isn't me! / Break the sewn spot and cut into pieces
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Tokyo Teddy Bear
+東京テディベア
+Card No.: PD/S22-024S  Rarity: SR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Remote Control
+リモコン
+Card No.: PD/S22-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Up Side Down A B A B B A B A Left Right L R L R Stop & Dash & Up & Talk
+/ All Green
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Remote Control
+リモコン
+Card No.: PD/S22-025S  Rarity: SR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+"Electronic Songstress" Hatsune Miku
+“電子の歌姫”初音ミク
+Card No.: PD/S22-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I wish my songs could always reach you.
+TEXT: [C] For each other ::Music:: Character you have, this gains +500 Power.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+"Electronic Songstress" Hatsune Miku
+“電子の歌姫”初音ミク
+Card No.: PD/S22-026X  Rarity: XR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each other ::Music:: Character you have, this gains +500 Power.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+Hatsune Miku "Stubborn Factory Chief"
+初音ミク“わがまま工場長”
+Card No.: PD/S22-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 工場 (Factory)
+Triggers: Soul 
+Flavor: "Next time you slack off / You will not leave here alive /
+Understood...now?"
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard 1 card from your hand to the Waiting Room.
+[A] When the Battle Opponent of this becomes Reversed, if "Sadistic.Music
+Factory" is in the Climax Zone, you may put that Character in Clock.
+
+================================================================================
+
+Hatsune Miku "Stubborn Factory Chief"
+初音ミク“わがまま工場長”
+Card No.: PD/S22-027R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 工場 (Factory)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, draw up to 2 cards, and
+discard 1 card from your hand to the Waiting Room.
+[A] When the Battle Opponent of this becomes Reversed, if "Sadistic Music
+Factory" is in the Climax Zone, you may put that Character in Clock.
+
+================================================================================
+
+Hatsune Miku "Linkage"
+初音ミク“リンケージ”
+Card No.: PD/S22-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: What I want to tell you / What I want to reach you / Many
+points form a line / And rings true until far away
+TEXT: [A] This ability may activate up to twice per turn. When another
+::Music:: Character of yours is placed from hand to the Stage, this gains +1500
+Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Linkage"
+初音ミク“リンケージ”
+Card No.: PD/S22-028S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability may activate up to twice per turn. When another
+::Music:: Character of yours is placed from hand to the Stage, this gains +1500
+Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Summer Memory"
+初音ミク“サマーメモリー”
+Card No.: PD/S22-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Suddenly it rang / The sound of farewell calls to me / The
+familiar crying face / Won't be seen again for a while
+TEXT: [A] [Put the top card of your Library in Clock] When this attacks, if
+"Time Machine" is in the Climax Zone, you may pay cost. If so, this gains +5500
+Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Summer Memory"
+初音ミク“サマーメモリー”
+Card No.: PD/S22-029S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Put the top card of your Library in Clock] When this attacks, if
+"Time Machine" is in the Climax Zone, you may pay cost. If so, this gains +5500
+Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Ichi no Sakura: Cherry Blossom"
+初音ミク“壱ノ桜・桜花”
+Card No.: PD/S22-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Thousand Cherry Blossom / Dances in the night / Your voice
+can't reach / The festivities is here / Steel cage / Look down
+from that guillotine
+TEXT: [A] [(1)] When this attacks, if "Senbonzakura" is in the Climax Zone, you
+may pay cost. If so, this gains +X Power for the turn. X = 3000 times Level of
+the Character Opposite this.
+
+================================================================================
+
+Hatsune Miku "Ichi no Sakura: Cherry Blossom"
+初音ミク“壱ノ桜・桜花”
+Card No.: PD/S22-030R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Senbonzakura" is in the Climax Zone, you
+may pay cost. If so, this gains +X Power for the turn. X = 3000 times Level of
+the Character Opposite this.
+
+================================================================================
+
+"With You, Two of Us" Hatsune Miku
+“キミとふたりで”初音ミク
+Card No.: PD/S22-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I want to play the music with you, the two of us--
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[S] [Rest this] All your other ::Music:: Characters gain +500 Power for the
+turn.
+
+================================================================================
+
+"With You, Two of Us" Hatsune Miku
+“キミとふたりで”初音ミク
+Card No.: PD/S22-031X  Rarity: XR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[S] [Rest this] All your other ::Music:: Characters gain +500 Power for the
+turn.
+
+================================================================================
+
+"Songs for You" Hatsune Miku
+“歌声をキミに”初音ミク
+Card No.: PD/S22-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I want my songs to be able to reach you--
+TEXT: [A] When another ::Music:: Character of yours attacks, this gains +1000
+Power for the turn.
+
+================================================================================
+
+"Songs for You" Hatsune Miku
+“歌声をキミに”初音ミク
+Card No.: PD/S22-032X  Rarity: XR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When another ::Music:: Character of yours attacks, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Holy Goddess"
+初音ミク“ホーリーゴッデス”
+Card No.: PD/S22-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 神 (God)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [Rest 2 of your ::Music:: Characters] Choose 1 of your Characters.
+That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Pierretta"
+初音ミク“ピエレッタ”
+Card No.: PD/S22-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If you have 2 or more other ::Music:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Hatsune Miku "Cat Cape"
+初音ミク“ねこねこケープ”
+Card No.: PD/S22-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If this is in the Front Row Center Slot, this gains +1000 Power.
+
+================================================================================
+
+"Continuation of Dream" Hatsune Miku
+“夢の続き”初音ミク
+Card No.: PD/S22-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: But you are different / Feelings were poured
+TEXT: [C] All your other Characters whose name includes "Continuation of Dream"
+gain +1000 Power.
+[A] [(1)] When "Continuation of Dream" is placed in your Climax Zone, you may
+pay cost. If so, all your Characters gain +X Power for the turn. X = 1000 times
+number of Characters you have whose name includes "Continuation of Dream".
+
+================================================================================
+
+Hatsune Miku "FOnewear Style"
+初音ミク“フォニュエールスタイル”
+Card No.: PD/S22-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネトゲ (Online Game)
+Triggers: None
+Flavor: The "AAAA" in the dark room is the most prideful warrior of the
+guild
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room] 
+
+================================================================================
+
+Hatsuen Miku "Append"
+初音ミク“アペンド”
+Card No.: PD/S22-038  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] CHANGE [(2) Discard a card from your hand to the Waiting Room, Put
+this in the Waiting Room] At the start of your Climax Phase, you may pay cost.
+If so, choose an '"Electronic Songstress" Hatsune Miku' In your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+"39 GET!" Hatsune Miku
+“39ゲット！”初音ミク
+Card No.: PD/S22-039  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: I want to play music with you, forever--
+TEXT: [C] All your other Characters whose name includes "Miku" gain +500
+Power.
+[S] [Rest this] Choose 1 of your Characters whose name includes "Miku". That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Pansy"
+初音ミク“パンジー”
+Card No.: PD/S22-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 植物 (Plant)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Choose 1 of your ::Music:: Characters. That Character gains +500
+Power for the turn. 
+
+================================================================================
+
+Hatsune Miku "Deep Sky"
+初音ミク“ディープスカイ”
+Card No.: PD/S22-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Tomorrow we should definitely find it / Thus now, open your eyes
+TEXT: -- None --
+
+================================================================================
+
+Hatsune Miku "SW School Swimwear"
+初音ミク“SW スクール競泳”
+Card No.: PD/S22-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Honey Whip"
+初音ミク“ハニーウィップ”
+Card No.: PD/S22-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+"Full Power Mikku Miku" Hatsune Miku
+“フルパワーでみっくみく”初音ミク
+Card No.: PD/S22-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I want to sing / my overwhelming feelings--
+TEXT: [S] [COUNTER] BACKUP 3000, Level 2 [(1) Discard this from your hand to
+the Waiting Room] 
+
+================================================================================
+
+Hatsune Miku "Hello, Good night."
+初音ミク“Hello, Good night.”
+Card No.: PD/S22-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: パジャマ (Pajama)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Weekender Girl
+Weekender Girl
+Card No.: PD/S22-046  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I don't want to leave my happiness behind / See / Raise
+your hands high / The other side of the prism / Can't wait /
+Weekender Girl
+TEXT: If you don't have a ::Music:: Character, you cannot play this from your
+hand.
+Search your Library for up to 2 ::Music:: Characters, reveal them, and put them
+in your hand. Shuffle your Library.
+
+================================================================================
+
+Senbonzakura
+千本桜
+Card No.: PD/S22-047a  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Three Thousand Worlds / Darkness of the reality / Cannot hear
+the songs of sighs
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Senbonzakura
+千本桜
+Card No.: PD/S22-047b  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hill of Hope / Is far away
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Senbonzakura
+千本桜
+Card No.: PD/S22-047c  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Fire that flashbang
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Senbonzakura
+千本桜
+Card No.: PD/S22-047R  Rarity: RRR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Sadistic.Music Factory
+Sadistic.Music∞Factory
+Card No.: PD/S22-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Eternity isn't someone nor something / Turn the void impulse
+into "Hunger"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Sadistic.Music Factory
+Sadistic.Music∞Factory
+Card No.: PD/S22-048R  Rarity: RRR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Time Machine
+タイムマシン
+Card No.: PD/S22-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: It gets smaller slowly / Once all are placed / The sadness
+/ Sealed within the Earphones
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Time Machine
+タイムマシン
+Card No.: PD/S22-049S  Rarity: SR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Continuation of Dream
+夢の続き
+Card No.: PD/S22-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I'm here / Even if you get older / The continuation of
+dream / Will be singing still / Today and tomorrow
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Continuation of Dream
+夢の続き
+Card No.: PD/S22-050S  Rarity: SR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Hatsune Miku "Emerald"
+初音ミク“翠玉”
+Card No.: PD/S22-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: "Meaning within short words / reason to dislike without seeing
+face-to-face / kept searching / kept searching / but can't find
+it"
+TEXT: [A] When this attacks, if "World's End Dance Hall" is in the Climax Zone,
+you may choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Hatsune Miku "Emerald"
+初音ミク“翠玉”
+Card No.: PD/S22-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "World's End Dance Hall" is in the Climax Zone,
+you may choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Megurine Luka "Ruby"
+巡音ルカ“紅玉”
+Card No.: PD/S22-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: Anger from shyness / Laughing because I look away / That is
+boring!"
+TEXT: [A] [(1)] When this attacks, if "World's End Dance Hall" is in the Climax
+Zone, you may pay cost. If so, deal 1 Damage to your Opponent. (Damange Cancel
+can Occur)
+
+================================================================================
+
+Megurine Luka "Ruby"
+巡音ルカ“紅玉”
+Card No.: PD/S22-052R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "World's End Dance Hall" is in the Climax
+Zone, you may pay cost. If so, deal 1 Damage to your Opponent. (Damange Cancel
+can Occur)
+
+================================================================================
+
+Megurine Luka "SW Resort Bikini"
+巡音ルカ“SW リゾートビキニ”
+Card No.: PD/S22-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this attacks, choose up to 2 of your ::Music:: Characters. Those
+Characters gain +500 Power for the turn.
+[A] When this becomes Reversed, if its Battle Opponent is Level 0 or lower, you
+may Reverse that Character.
+
+================================================================================
+
+Megurine Luka "SW Resort Bikini"
+巡音ルカ“SW リゾートビキニ”
+Card No.: PD/S22-053SS  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this attacks, choose up to 2 of your ::Music:: Characters. Those
+Characters gain +500 Power for the turn.
+[A] When this becomes Reversed, if its Battle Opponent is Level 0 or lower, you
+may Reverse that Character.
+
+================================================================================
+
+Megurine Luka "Eternal White"
+巡音ルカ“エターナルホワイト”
+Card No.: PD/S22-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: When did I start seeking more than even now / For example, even if
+" ' were my best "personality color"...
+TEXT: [A] When this attacks, if "DYE" is in the Climax Zone, this gains 1 of
+the following abilities of your choice for the turn: "[C] This gains +2000
+Power." "[C] This gains +1 Soul."
+
+================================================================================
+
+Megurine Luka "Eternal White"
+巡音ルカ“エターナルホワイト”
+Card No.: PD/S22-054S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this attacks, if "DYE" is in the Climax Zone, this gains 1 of
+the following abilities of your choice for the turn: "[C] This gains +2000
+Power." "[C] This gains +1 Soul."
+
+================================================================================
+
+MEIKO "SW Long Pareo"
+ＭＥＩＫＯ“SW ロングパレオ”
+Card No.: PD/S22-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1) Discard a card from your hand] When this is placed from hand to
+the Stage, you may pay cost. If so, choose a ::Music:: Character in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+MEIKO "SW Long Pareo"
+ＭＥＩＫＯ“SW ロングパレオ”
+Card No.: PD/S22-055S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand] When this is placed from hand to
+the Stage, you may pay cost. If so, choose a ::Music:: Character in your
+Waiting Room and return it to your hand.
+
+================================================================================
+
+MEIKO "Blue Crystal"
+ＭＥＩＫＯ“ブルークリスタル”
+Card No.: PD/S22-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, if "Nostalogic" is in the Climax Zone, you
+may pay cost. If so, choose up to 1 Level 1 or lower Character in your
+Opponent's Front Row and put it in the Waiting Room, and this gains +X Power
+for the turn. X = 2000 times number of 'MEIKO "Blue Crystal"' in your Waiting
+Room.
+
+================================================================================
+
+MEIKO "Blue Crystal"
+ＭＥＩＫＯ“ブルークリスタル”
+Card No.: PD/S22-056S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ドレス (Dress)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Nostalogic" is in the Climax Zone, you
+may pay cost. If so, choose up to 1 Level 1 or lower Character in your
+Opponent's Front Row and put it in the Waiting Room, and this gains +X Power
+for the turn. X = 2000 times number of 'MEIKO "Blue Crystal"' in your Waiting
+Room.
+
+================================================================================
+
+Megurine Luka "Original"
+巡音ルカ“オリジナル”
+Card No.: PD/S22-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+[C] Character Opposite this gets -1 Soul.
+[A] [(1)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, choose a card in your Opponent's Waiting Room and put it on top of the
+Library.
+
+================================================================================
+
+Megurine Luka "Original"
+巡音ルカ“オリジナル”
+Card No.: PD/S22-057R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Music:: Characters, this gains +1000
+Power.
+[C] Character Opposite this gets -1 Soul.
+[A] [(1)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, choose a card in your Opponent's Waiting Room and put it on top of the
+Library.
+
+================================================================================
+
+Hatsune Miku "Rin-chan Love Squad No.1"
+初音ミク“リンちゃん愛し隊1号”
+Card No.: PD/S22-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] All your other ::Music:: Characters gain +500 Power.
+[A] [Put the top card of your Library in Clock, Rest 1 of your Standing
+Characters] When "Rin-chan Now!" is placed in your Climax Zone, you may pay
+cost. If so, all your other Characters whose name includes "Rin" gain +2000
+Power for the turn.
+
+================================================================================
+
+Megurine Luka "Rin-chan Love Squad No.2"
+巡音ルカ“リンちゃん愛し隊2号”
+Card No.: PD/S22-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(1) Rest 1 of your Standing Characters] When "Rin-chan Now!" is placed in
+your Climax Zone, you may pay cost. If so, all your other Characters whose name
+includes "Rin" gain "[A] When the Battle Opponent of this becomes Reversed, you
+may put it on top of the Library" for the turn.
+
+================================================================================
+
+Megurine Luka "SW Competition Type"
+巡音ルカ“SW 競泳タイプ”
+Card No.: PD/S22-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Music:: Characters, this gains +2000 Power for the turn.
+
+================================================================================
+
+Kasane Teto "Original"
+重音テト“オリジナル”
+Card No.: PD/S22-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's not a ::Music:: Character, rest this. (Put the revealed
+card back where it was)
+[S] [(1)] Choose 1 of your ::Music:: Characters. That Character gains +1500
+Power for the turn.
+
+================================================================================
+
+MEIKO "Noel Rouge"
+ＭＥＩＫＯ“ノエル・ルージュ”
+Card No.: PD/S22-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times number of Characters with ASSIST you have.
+[S] [Rest this] Choose 1 of your ::Music:: Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Megurine Luka "Soft Light Coordination"
+巡音ルカ“ゆるふわコーデ”
+Card No.: PD/S22-063  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's not a ::Music:: Character, rest this. (Put the revealed
+card back where it was)
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Megurine Luka "Amour"
+巡音ルカ“アムール”
+Card No.: PD/S22-064  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, this gains +X Power for
+the turn. X = 500 times number of ::Music:: Characters you have.
+
+================================================================================
+
+MEIKO "SW Water Polo"
+ＭＥＩＫＯ“SW ウォータポロ”
+Card No.: PD/S22-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+"Continuation of Dream" Megurine Luka
+“夢の続き”巡音ルカ
+Card No.: PD/S22-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Until the day when the flower blooms / I shall pray and look over it
+TEXT: -- None --
+
+================================================================================
+
+Hatsune Miku "Dark Angel"
+初音ミク“堕悪天使”
+Card No.: PD/S22-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 警察 (Police)
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from your hand to
+the Waiting Room]
+
+================================================================================
+
+Hatsune Miku "Science Girl"
+初音ミク“理系少女”
+Card No.: PD/S22-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Megurine Luka "San no Sakura: Maple Scent"
+巡音ルカ“参ノ桜・楓香”
+Card No.: PD/S22-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+MEIKO "Rei no Sakura: Red Pillar"
+ＭＥＩＫＯ“零ノ桜・紅椿”
+Card No.: PD/S22-070  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If you have another Character with ASSIST, this gains +2000 Power.
+
+================================================================================
+
+MEGANE
+MEGANE
+Card No.: PD/S22-071  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: The fantasy on the glasses / fills me
+TEXT: Choose up to 2 Characters in your Waiting Room and return them to your
+hand.
+
+================================================================================
+
+DYE
+DYE
+Card No.: PD/S22-072  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: The source of "Vigour" can be gotten from 'Good man
+color".
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+DYE
+DYE
+Card No.: PD/S22-072R  Rarity: RRR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Nostalogic
+Nostalogic
+Card No.: PD/S22-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Nostalogic
+Nostalogic
+Card No.: PD/S22-073R  Rarity: RRR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+World's End Dance Hall
+ワールズエンド・ダンスホール
+Card No.: PD/S22-074a  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: It feels like everything can vanish in an instant
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+World's End Dance Hall
+ワールズエンド・ダンスホール
+Card No.: PD/S22-074b  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Will we remain at the next instant
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+World's End Dance Hall
+ワールズエンド・ダンスホール
+Card No.: PD/S22-074S  Rarity: SR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Rin-chan Now!
+リンちゃんなう！
+Card No.: PD/S22-075a  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: After the meal, when you wash the dishes I want you to say "Ah
+I'll do it" in the honorific way.
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Rin-chan Now!
+リンちゃんなう！
+Card No.: PD/S22-075b  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Rin-chan always say it in a honorific form, so we want to do exchanges
+like "Don't be so nervous" "A, yes" every time.
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Rin-chan Now!
+リンちゃんなう！
+Card No.: PD/S22-075S  Rarity: SR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kagamine Rin "Rain"
+鏡音リン“雨”
+Card No.: PD/S22-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this attacks, if "Kagamine Hachi Hachi Flower Wars" is in the
+Climax Zone, put the top card of your Library in the Waiting Room. If it's a
+Level 1 or higher Card, draw 2 cards. (Climax cards are considered Level 0 for
+this effect)
+
+================================================================================
+
+Kagamine Rin "Rain"
+鏡音リン“雨”
+Card No.: PD/S22-076S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Kagamine Hachi Hachi Flower Wars" is in the
+Climax Zone, put the top card of your Library in the Waiting Room. If it's a
+Level 1 or higher Card, draw 2 cards. (Climax cards are considered Level 0 for
+this effect)
+
+================================================================================
+
+KAITO & MEIKO "Original"
+ＫＡＩＴＯ＆ＭＥＩＫＯ“オリジナル”
+Card No.: PD/S22-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] This gains +2000 Power during your Opponent's turn.
+[A] When this attacks, reveal the top card of your Library. If it's a ::Music::
+Character, put it in your hand. (Otherwise put it back where it was)
+
+================================================================================
+
+KAITO & MEIKO "Original"
+ＫＡＩＴＯ＆ＭＥＩＫＯ“オリジナル”
+Card No.: PD/S22-077R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] This gains +2000 Power during your Opponent's turn.
+[A] When this attacks, reveal the top card of your Library. If it's a ::Music::
+Character, put it in your hand. (Otherwise put it back where it was)
+
+================================================================================
+
+KAITO "General"
+ＫＡＩＴＯ“ジェネラル”
+Card No.: PD/S22-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage or via the [A] effect of
+'Hatsune Miku "Agitation"' to the Stage, choose 1 of your Characters. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+KAITO "General"
+ＫＡＩＴＯ“ジェネラル”
+Card No.: PD/S22-078S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage or via the [A] effect of
+'Hatsune Miku "Agitation"' to the Stage, choose 1 of your Characters. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+"Endless Singing" Hatsune Miku
+“終わらない歌声”初音ミク
+Card No.: PD/S22-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Endless singing shall reach you--
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, draw up to 1
+card.
+
+================================================================================
+
+"Endless Singing" Hatsune Miku
+“終わらない歌声”初音ミク
+Card No.: PD/S22-079X  Rarity: XR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed this way, draw up to 1
+card.
+
+================================================================================
+
+Hatsune Miku "Agitation"
+初音ミク“アジテーション”
+Card No.: PD/S22-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: I laughed then and there
+TEXT: [A] [(1) Discard a card from your hand] When "Unhappy Refrain" is placed
+in your Climax Zone, if this is in the Front Row, you may pay cost. If so,
+search your Library for up to 1 'Kagamine Len "Bad Boy"' and up to 1 'KAITO
+"General"' and put them Rested in separate Slots o the Stage. Afterwards,
+shuffle your Library, and this gains +1500 Power for the turn.
+
+================================================================================
+
+Hatsune Miku "Agitation"
+初音ミク“アジテーション”
+Card No.: PD/S22-080S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand] When "Unhappy Refrain" is placed
+in your Climax Zone, if this is in the Front Row, you may pay cost. If so,
+search your Library for up to 1 'Kagamine Len "Bad Boy"' and up to 1 'KAITO
+"General"' and put them Rested in separate Slots o the Stage. Afterwards,
+shuffle your Library, and this gains +1500 Power for the turn.
+
+================================================================================
+
+Kagamine Len "Phoenix Moon"
+鏡音レン“鳳月”
+Card No.: PD/S22-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When "Kagamine Hachi Hachi Flower Wars" is placed in your Climax
+Zone, look at the top card of your Library and put it either on top or bottom
+of the Library, and choose 1 of your ::Music:: Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Kagamine Len "Phoenix Moon"
+鏡音レン”鳳月”
+Card No.: PD/S22-081S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When "Kagamine Hachi Hachi Flower Wars" is placed in your Climax
+Zone, look at the top card of your Library and put it either on top or bottom
+of the Library, and choose 1 of your ::Music:: Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Hatsune Miku "SW Water Balloon Bikini"
+初音ミク“SW みずたまビキニ”
+Card No.: PD/S22-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times number of Characters with ASSIST you have.
+[S] [(1)] Choose 1 of your ::Music:: Characters. That Character gains +1000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Hatsune Miku "SW Water Balloon Bikini"
+初音ミク“SW みずたまビキニ”
+Card No.: PD/S22-082S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times number of Characters with ASSIST you have.
+[S] [(1)] Choose 1 of your ::Music:: Characters. That Character gains +1000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Hatsune Miku "Memoria"
+初音ミク“メモリア”
+Card No.: PD/S22-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: xxxx
+TEXT: [A] [(1) Rest 2 of your Standing ::Music:: Characters] When this is
+palced from hand to the Stage, you may pay cost. If so, draw a card.
+
+================================================================================
+
+Kagamine Len "Bad Boy"
+鏡音レン“バッドボーイ”
+Card No.: PD/S22-084a  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] During your Opponent's turn, all your other ::Music:: Characters gain
++500 Power.
+[A] [Put this in the Waiting Room] When another Character of yours is placed
+from the Stage to the Waiting Room, if this is in the Back Row, you may pay
+cost. If so, put that Character back Rested in the Slot it was in.
+
+================================================================================
+
+Kagamine Len "Bad Boy"
+鏡音レン“バッドボーイ”
+Card No.: PD/S22-084b  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ヘッドフォン (Headphones)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] During your Opponent's turn, all your other ::Music:: Characters gain
++500 Power.
+[A] [Put this in the Waiting Room] When another Character of yours is placed
+from the Stage to the Waiting Room, if this is in the Back Row, you may pay
+cost. If so, put that Character back Rested in the Slot it was in.
+
+================================================================================
+
+Yowane Haku "Original"
+弱音ハク“オリジナル”
+Card No.: PD/S22-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: ネット (Net)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If you have another Character with ASSIST, this gains +2000 Power.
+
+================================================================================
+
+KAITO "Guilty"
+ＫＡＩＴＯ“ギルティ”
+Card No.: PD/S22-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [(1)] When this attacks, if "ACUTE" is in the Climax Zone, you may
+pay cost. If so, search your Library for up to 1 'Hatsune Miku "Innocent"' or
+'Megurine Luka "Amour"', reveal it, and put it in your hand. Afterwards,
+shuffle your Library, and this gains +2500 Power for the turn.
+
+================================================================================
+
+Kagamine Rin "SW School"
+鏡音リン“SW スクール”
+Card No.: PD/S22-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Music:: Characters, this gains +1000 Power until the end of your
+Opponent's next turn.
+
+================================================================================
+
+Hatsune Miku "Star Voice"
+初音ミク“スターヴォイス”
+Card No.: PD/S22-088  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this attacks, if "FREELY TOMORROW" is in the Climax Zone, all
+your ::Music:: Characters gain +1500 Power and "[A] When the Battle Opponent of
+this becomes Reversed, draw a card, and discard a card from your hand to the
+Waiting Room" for the turn.
+
+================================================================================
+
+Hatsune Miku "Innocent"
+初音ミク“イノセント”
+Card No.: PD/S22-089  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 10000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] At the start of your Encore Step, choose 1 of your Characters and put
+it in the Waiting Room.
+
+================================================================================
+
+Hatsune Miku "Solitude"
+初音ミク“ソリチュード”
+Card No.: PD/S22-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] If you have no other Front Row Characters, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+KAITO "Requiem"
+ＫＡＩＴＯ“レクイエム”
+Card No.: PD/S22-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+KAITO "SW Half Spats"
+ＫＡＩＴＯ“SW ハーフスパッツ”
+Card No.: PD/S22-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+KAITO "Rei no Sakura: Blue Snow"
+ＫＡＩＴＯ“零ノ桜・蒼雪”
+Card No.: PD/S22-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Hatsune Miku "Purple Swallowtail"
+初音ミク“紫揚羽”
+Card No.: PD/S22-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 植物 (Plant)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Close, but SAFE
+残念ながらSAFEでした
+Card No.: PD/S22-095  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: BRAINSTORM Reveal the top 3 cards of your Library and put them in the
+Waiting Room. If at least 1 Climax card was revealed this way, draw a card.
+Otherwise, draw 2 cards.
+
+================================================================================
+
+Ashes to Ashes
+ハイハハイニ
+Card No.: PD/S22-096  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Gather / Stockpile / Stacking / Song of Finality /
+Sound / Express / Sing / Return
+TEXT: [Counter] If you have no ::Music:: Characters, you cannot play this from
+your hand. Choose 1 of your Characters. That Character gains +4000 Power for
+the turn.
+
+================================================================================
+
+FREELY TOMORROW
+FREELY TOMORROW
+Card No.: PD/S22-097  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hearts / Body / All are phantoms within the memory / True
+/ Love / Flows from the fingertips
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+FREELY TOMORROW
+FREELY TOMORROW
+Card No.: PD/S22-097R  Rarity: RRR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+ACUTE
+ACUTE
+Card No.: PD/S22-098a  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Cold Room / Intersecting Emotions / I want your response /
+Now, here
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+ACUTE
+ACUTE
+Card No.: PD/S22-098b  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Voice of the devil / Pierces and doesn't disappear /
+Underneath the mask / Now take it / Take it off
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+ACUTE
+ACUTE
+Card No.: PD/S22-098R  Rarity: RRR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Kagamine Hachi Hachi Flower Wars
+鏡音八八花合戦
+Card No.: PD/S22-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Dazed by the instant when all-or-nothing fireworks explode
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kagamine Hachi Hachi Flower Wars
+鏡音八八花合戦
+Card No.: PD/S22-099S  Rarity: SR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Unhappy Refrain
+アンハッピーリフレイン
+Card No.: PD/S22-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Repeated 39 seconds / Kept repeating / Did you see, was it
+lucky? / I thought it was incredulous
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Unhappy Refrain
+アンハッピーリフレイン
+Card No.: PD/S22-100S  Rarity: SR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

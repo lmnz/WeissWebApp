@@ -1,0 +1,1644 @@
+Sengoku Basara Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Naive And Romantic" Itsuki
+“天真爛漫”いつき
+Card No.: SB/S06-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 雪 (Snow)
+Triggers: None
+Flavor: You shall witness our fury!
+TEXT: [A] Whenever your other Character with "Itsuki" in name attacks, this
+gains +1 Soul for the turn.
+
+================================================================================
+
+"Naive And Romantic" Itsuki
+“天真爛漫”いつき
+Card No.: SB/S06-001S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 雪 (Snow)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] Whenever your other Character with "Itsuki" in name attacks, this
+gains +1 Soul for the turn.
+
+================================================================================
+
+"Unrivaled Profusion" Nouhime
+“繚乱無比”濃姫
+Card No.: SB/S06-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Nou - believes that you are the true king of the world...
+TEXT: [C] ASSIST All your Characters in front of tis gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with "Demon King" or "Overlord" in
+name. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+"Unrivaled Profusion" Nouhime
+“繚乱無比”濃姫
+Card No.: SB/S06-002S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of tis gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with "Demon King" or "Overlord" in
+name. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+"Sky Conquering Demong King" Nobunaga Oda
+“征天魔王”織田 信長
+Card No.: SB/S06-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: There's no right or wrong!
+TEXT: [C] IF you have 1 or fewer other Characters in the Front Row, this gains
++1 Soul.
+
+================================================================================
+
+"Sky Conquering Demong King" Nobunaga Oda
+“征天魔王”織田 信長
+Card No.: SB/S06-003R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] IF you have 1 or fewer other Characters in the Front Row, this gains
++1 Soul.
+
+================================================================================
+
+"Son of Demon King" Ranmaru Mori
+“魔王の子”森 蘭丸
+Card No.: SB/S06-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Now is the time to attack, Nouhime-sama!
+TEXT: [A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore
+Step, you may pay cost. If so, choose a '"Wife of Demon King" Nouhime' in your
+Waiting Room and put it in the Slot this was in.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+"Natural Child" Itsuki
+“自然児”いつき
+Card No.: SB/S06-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 2   Power: 6500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 雪 (Snow)
+Triggers: Soul 
+Flavor: Revolt, revolt, we shall crush it!
+TEXT: -- None --
+
+================================================================================
+
+"Coldly Looking Down" Mitsuhide Akechi
+“冷眼下瞰”明智 光秀
+Card No.: SB/S06-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: I have done my preparation... You can just lose now
+TEXT: [A] [(3)] At the start of your Draw Phase, you may pay cost. If so,
+search your Library for up to 1 Cost 1 or lower ::Weapon:: Character and put it
+in any Slot on the Stage. Shuffle your Library.
+
+================================================================================
+
+"Younger Sister of Demon King" Oichi
+“魔王の妹”お市
+Card No.: SB/S06-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 影 (Shadow)
+Triggers: Soul 
+Flavor: I shall do my best... watch, Nagamasa-sama...
+TEXT: [C] During your turn, if '"Unwavering Faith" Nagamasa Asai' is in your
+Waiting Room, this gains +1500 Power.
+
+================================================================================
+
+"Unwavering Faith" Nagamasa Asai
+“信義不倒”浅井 長政
+Card No.: SB/S06-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 勇者 (Hero)
+Triggers: None
+Flavor: I swear on this flower, I will get there!
+TEXT: [A] When the Battle Opponent of this becomes Reversed, search your
+Library for up to 1 Character with "Oichi" in name, reveal it, and put it in
+your hand. If you do put a card in your hand this way, discard a card from your
+hand to the Waiting Room.
+
+================================================================================
+
+"Rumor Gossiper" Oichi
+“幻妖言惑”お市
+Card No.: SB/S06-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 影 (Shadow)
+Triggers: Soul 
+Flavor: Nagamasa-sama's enemies... shall all die...
+TEXT: [A] When "Flowery Oath" is placed in your Climax Zone, if this is in the
+Front Row, search your Library for up to 1 '"Unwavering Faith" Nagamasa Asai'
+and put it in any Slot on the Stage. Shuffle your Library.
+[A] CHANGE [Put all Character from your Stage in the Waiting Room] At the start
+of your Encore Step, if this is Rested, you may pay cost. If so, choose a
+'"Younger Sister of Demon King" Oichi' in your Waiting Room and put it in the
+Slot this was in.
+
+================================================================================
+
+"Wife of Demon King" Nouhime
+“魔王の妻”濃姫
+Card No.: SB/S06-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Nouhime: "Kazusanokai-sama is the true unifier of the country"
+TEXT: [A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore
+Step, you may pay cost. If so, choose a '"Lamenting Soul" Nobunaga Oda' in your
+Waiting Room and put it in the Slot this was in. (If this is not on the Stage
+at the start of the Encore Step this does not activate)
+
+================================================================================
+
+"Love Battle!?" Itsuki & Xavi
+“愛の対決！？”いつき＆ザビー
+Card No.: SB/S06-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 雪 (Snow)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Itsuki: "Your love isn't love!" Xavi: "You are the one
+who needs my love!"
+TEXT: [A] [(2)] When this attacks, if "Love Battle!?" is in your Climax Zone,
+you may pay cost. If so, choose a Level 2 or lower Character in your Opponent's
+Front Row and a Level 2 or lower Character in your Opponent's Back Row and
+return them to the hand.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+"Lamenting Soul" Nobunaga Oda
+“慟哭スル魂”織田 信長
+Card No.: SB/S06-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Hahaha... hahaha! I am! Nobunaga Oda!
+TEXT: [C] For each Marker under this, this gains +1000 Power and +1 Soul.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+[A] When the Battle Opponent of this becomes Reversed, if there are 3 or fewer
+Markers under this, you may put the top card of your Library under this as
+Marker.
+
+================================================================================
+
+"Greedy Emperor" Kennyo Honganji
+“信財成皇”本願寺 顕如
+Card No.: SB/S06-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 筋肉 (Muscle)
+Triggers: None
+Flavor: Eat my muscle attack!
+TEXT: [S] [(2)] This gains +3000 Power and +1 Soul for the turn.
+
+================================================================================
+
+"Mamushi's Daughter" Nouhime
+“マムシの娘”濃姫
+Card No.: SB/S06-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I cannot fight my blood... I am Mamushi...
+TEXT: [C] During your turn, all your other Characters gain +500 Power.
+[A] When the Battle Opponent of another Character of yours becomes Reversed,
+you may put the top card of your Library in the Waiting Room.
+
+================================================================================
+
+"Dispelling Evil" Ranmaru Mori
+“破邪清真”森 蘭丸
+Card No.: SB/S06-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: I'm the first cohort of Nobunaga-sama, Ranmaru!
+TEXT: -- None --
+
+================================================================================
+
+"Crush" Mitsuhide Akechi
+“蹂躙”明智 光秀
+Card No.: SB/S06-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: I enjoy watching people suffer...!
+TEXT: [S] [Put a Character from your Stage to the Waiting Room] This gains
++2000 Power for the turn.
+
+================================================================================
+
+"Demon King of the Sixth Domain" Nobunaga Oda
+“第六天魔王”織田 信長
+Card No.: SB/S06-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Surrender! I am the Demon King from the Sixth Domain!
+TEXT: [A] Whenever your other Character with "Demon King" and/or "Overlord"
+attacks, this gains +1000 Power for the turn.
+[A] When this attacks, if "Ambition of Unification" is in the Climax Zone, you
+may choose a Cost 1 or lower Character in your Opponent's Front Row and return
+it to the hand.
+
+================================================================================
+
+"Poisoned Teeth" Mitsuhide Akechi
+“毒牙”明智 光秀
+Card No.: SB/S06-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: The Demon King's words... are only this much
+TEXT: [A] When you use the BACKUP of this, you may choose 1 of your Characters
+with "Demon King" and/or "Overlord" in name and put it in Stock.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+"Singular" Hidehisa Matsunaga
+“天我独尊”松永 久秀
+Card No.: SB/S06-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: As I thought... you think you can win?
+TEXT: -- None --
+
+================================================================================
+
+Silent Killed
+無言・即殺
+Card No.: SB/S06-020  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Silent, kill. eliminate the evil and excessive words
+TEXT: BRAINSTORM Choose 1 of your Characters. That Character gains +3000 Power
+for the turn. Reveal the top 3 cards of your Library and put them in the
+Waiting Room. If any Climax was revealed this way, choose 1 of your Characters.
+That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Bloodline of Demon
+魔の血族
+Card No.: SB/S06-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: 50 years on this earth... the flesh of this domain...
+TEXT: Search your Library for up to 2 Characters with either "Demon King"
+and/or "Overlord" in name, reveal them, and put them in your hand. Shuffle your
+Library. Discard 2 cards from your hand to the Waiting Room.
+
+================================================================================
+
+Treason
+謀反
+Card No.: SB/S06-022  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Mitsuhide: "The enemy is at Honnouji..."
+TEXT: [Counter] Choose 1 of your Characters. That Character gains +1 Level and
++3000 Power for the turn.
+
+================================================================================
+
+Ambition of Unification
+天下統一の野望
+Card No.: SB/S06-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: The world is mine...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Ambition of Unification
+天下統一の野望
+Card No.: SB/S06-023SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Love Battle!?
+愛の対決！？
+Card No.: SB/S06-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Itsuki: "What's important to you and what's important to me
+are completely different!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Flowery Oath
+花の誓い
+Card No.: SB/S06-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Oichi: "Oichi, would like to always be with Nagamasa-sama... Is
+that okay...?"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+"Genius Strategist" Hanbei Takenaka
+“天才軍師”竹中 半兵衛
+Card No.: SB/S06-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: You over there, you should know that Hideyoshi hasn't been serious,
+okay?
+TEXT: [C] All your other Characters with "Hideyoshi" in name gain +500 Power.
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+"Brilliantly Strong" Keiji Maeda
+“絢麗豪壮”前田 慶次
+Card No.: SB/S06-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Keiji Maeda has appeared!
+TEXT: [A] Whenever another Characters of yours with "Keiji" in name attacks,
+this gains +1500 Power for the turn.
+
+================================================================================
+
+"Brilliantly Strong" Keiji Maeda
+“絢麗豪壮”前田 慶次
+Card No.: SB/S06-027R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] Whenever another Characters of yours with "Keiji" in name attacks,
+this gains +1500 Power for the turn.
+
+================================================================================
+
+"Broad-Minded" Toshiie Maeda
+“豪放磊落”前田 利家
+Card No.: SB/S06-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: This is our~ way of marriae!
+TEXT: [C] If you have an other '"Talented And Beautiful" Matsu', this gains
++500 Power.
+[C] All your other '"Talented And Beautiful" Matsu' gain +500 Power and
+::Love::.
+
+================================================================================
+
+"Trickery General" Motonari Mouri
+“詭計智将”毛利 元就
+Card No.: SB/S06-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 日輪 (Sun)
+Triggers: Soul 
+Flavor: Go, victory before death
+TEXT: [C] ASSIST All you Cost 0 or lower Characters in front of this gain +1000
+Power.
+[C] ALARM If this is on top of your Clock, all your Cost 0 or lower Characters
+gain +1000 Power.
+
+================================================================================
+
+"Talented And Beautiful" Matsu
+“賢才瞬麗”まつ
+Card No.: SB/S06-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: When we are together we are... strongest!
+TEXT: [C] If you have another '"Broad-Minded" Toshiie Maeda', this gains "[A]
+ENCORE [Discard a Character card from your hand to the Waiting Room".
+[C] All your other '"Broad-Minded" Toshiie Maeda' gain ::Love:: and "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room".
+
+================================================================================
+
+"Talented And Beautiful" Matsu
+“賢才瞬麗”まつ
+Card No.: SB/S06-030S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have another '"Broad-Minded" Toshiie Maeda', this gains "[A]
+ENCORE [Discard a Character card from your hand to the Waiting Room".
+[C] All your other '"Broad-Minded" Toshiie Maeda' gain ::Love:: and "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room".
+
+================================================================================
+
+"Avatar of Toushou" Ieyasu Tokugawa
+“東照権現”徳川 家康
+Card No.: SB/S06-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Buy me some time! I shall get Tadakatsu!
+TEXT: [A] [(1)] When this is Front Attacked, you may pay cost. IF so, search
+your Library for up to 1 ::Drill:: Character, reveal it, and put it in your
+hand. Shuffle your Library.
+[A] CHANGE [(2) Put this in Waiting Room] At the Start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose 1 '"Strongest of Sengoku"
+Tadakatsu Honda' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Warrior Emperor" Hideyoshi Toyotomi
+“裂界武帝”豊臣 秀吉
+Card No.: SB/S06-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: The future I see... You can't see it at your level / I,
+Hideyoshi Toyotomi, shall change the times with my power!
+TEXT: [A] When this attacks, if "Conflict" is in the Climax Zone, look at the
+top card of your Opponent's Library and put it either on top or bottom of the
+Library, and this gains +3000 Power for the turn.
+
+================================================================================
+
+"Warrior Emperor" Hideyoshi Toyotomi
+“裂界武帝”豊臣 秀吉
+Card No.: SB/S06-032S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Conflict" is in the Climax Zone, look at the
+top card of your Opponent's Library and put it either on top or bottom of the
+Library, and this gains +3000 Power for the turn.
+
+================================================================================
+
+"Strong Troops, Rich Country" Hideyoshi Toyotomi
+“富国強兵”豊臣 秀吉
+Card No.: SB/S06-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You want to risk your life against my fists!? 
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax revealed this way, this gains +3000 Power
+for the turn. 
+
+================================================================================
+
+"Best Cuisine" Matsu
+“究極のめし”まつ
+Card No.: SB/S06-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: お弁当 (Bento Box)
+Triggers: None
+Flavor: I am Matsu. Please
+TEXT: [A] CHANGE [(1) Put this in Waiting Room] At the start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose 1 '"Broad-Minded"
+Toshiie Maeda' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Conqueror" Hdeyoshi Toyotomi
+“覇王”豊臣 秀吉
+Card No.: SB/S06-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I will not retreat, kiss ass, or regret! I am Hideyoshi!
+TEXT: -- None --
+
+================================================================================
+
+"Remained Time" Hanbei Takenaka
+“残された時間”竹中 半兵衛
+Card No.: SB/S06-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: noot yet... my dream hasn't been realized...! Please... let me keep
+it for a little longer...!
+TEXT: [A] At the start of your Draw Phase, put the top card of your Library in
+Clock.
+[A] CHANGE [Put this in Waiting Room] At the start of your Encore Step, if this
+is Rested, you may pay cost. If so, choose 1 '"Warrior Emperor" Hideyoshi
+Toyotomi' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Strongest of Sengoku" Tadakatsu Honda
+“戦国最強”本多 忠勝
+Card No.: SB/S06-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: メカ (Mecha)      Trait 2: ドリル (Drill)
+Triggers: Soul 
+Flavor: Ieyasu: "Tadakatsu looks to be even stronger"
+TEXT: [C] If you have another '"Avatar of Toushou" Ieyasu Tokugawa' in the Back
+Row, this gains +1000 Power and "[A] ENCORE [Discard a Character card from your
+hand to the Waiting Room".
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you
+may put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+"Vagabond" Keiji Maeda
+“風来坊”前田 慶次
+Card No.: SB/S06-038  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Koi, people, as life is short! 
+TEXT: -- None --
+
+================================================================================
+
+"Surface of Ice" Motonari Mouri
+“氷の面”毛利 元就
+Card No.: SB/S06-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 日輪 (Sun)
+Triggers: None
+Flavor: Troops are just sacrificial pawns!
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+::Weapon:: Characters and put it in the Waiting Room.
+
+================================================================================
+
+"Bluffing" Yoshimoto Imagawa
+“虚張声勢”今川 義元
+Card No.: SB/S06-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 扇子 (Fan)      Trait 2: None
+Triggers: None
+Flavor: Hehehe, that is just a shadow warrior
+TEXT: [A] ENCORE [Put a ::Fan:: Character from your Stage in Clock]
+
+================================================================================
+
+"Azure Crusher" Hanbei Takenaka
+“蒼烈瞬躙”竹中 半兵衛
+Card No.: SB/S06-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: Need a bit more time until the strongest troop is done...!
+TEXT: [C] If '"Conqueror" Hideyoshi Toyotomi' is in your Level, this gains
++1000 Power.
+[A] When this attacks, if "Beauty Dies Young" is in the Climax Zone, you may
+choose a card in your Clock and return it to your hand. If so, put a card from
+your hand in Clock.
+
+================================================================================
+
+"Storm of Koi" Keiji Maeda
+“恋の嵐”前田 慶次
+Card No.: SB/S06-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Flower of koi, blossom! 
+TEXT: [A] [(1)] When this attacks, if "Fissure" is in the Climax Zone, you may
+pay cost. If you do, search your Library for up to 1 Character with "Koi" in
+its name, reveal it, and put it in your hand. Shuffle your Library. 
+
+================================================================================
+
+"Cold-Blooded Strategist" Motonari Mouri
+“冷酷な策略家”毛利 元就
+Card No.: SB/S06-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 日輪 (Sun)
+Triggers: Soul 
+Flavor: Watch! Everything is in my hands!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+"Flowery Path of Koi" Keiji Maeda
+“恋の花道”前田 慶次
+Card No.: SB/S06-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Koi is the dream of this world! 
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [(1)] Choose 1 of your Characters with "Koi" in its name. That Character
+gains +2000 Power for the turn. 
+
+================================================================================
+
+Legendary Stage
+伝説の舞台
+Card No.: SB/S06-045  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Worthless runts that don't know your place, watch how Imagawa
+battles!
+TEXT: Stand 1 of your Characters. All your Characters gain +1000 Power for the
+turn.
+
+================================================================================
+
+Food Couple
+食通夫婦
+Card No.: SB/S06-046  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Toshiie: "Whomever dares to disturb the two of us!" Matsu:
+"Shall be kicked by horses into the abyss!"
+TEXT: [Counter] Choose up to 2 of your Characters. Those Characters gain +1500
+Power and ::Love:: for the turn.
+
+================================================================================
+
+Dreamy
+夢心地
+Card No.: SB/S06-047  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Taking a break...
+TEXT: Rest 1 of your Standing Characters. If so, choose a card in your Waiting
+Room and put it in Stock, and choose 1 of your ::Animal:: Characters. That
+Character gains +2000 Power for the turn.
+
+================================================================================
+
+Conflict
+対決
+Card No.: SB/S06-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hideyoshi: "The past cannot give birth to anything! You know
+that!"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Conflict
+対決
+Card No.: SB/S06-048SP  Rarity: SP
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Beauty Dies Young
+佳人薄命
+Card No.: SB/S06-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hanbei: "Let's go, Hideyoshi! To fulfill your dream...!"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+Fissure
+亀裂
+Card No.: SB/S06-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Hideyoshi: "Keiji... You definitely wouldn't know" 
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+"Man of Sea" Motochika Chosokabe
+“海の男”長曾我部 元親
+Card No.: SB/S06-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: I shall teach you the manner of pirates!
+TEXT: [C] If you have 2 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+"Man of Sea" Motochika Chosokabe
+“海の男”長曾我部 元親
+Card No.: SB/S06-051S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 2 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+"Speedy Under the Blue Sky" Sasuke Sarutobi
+“蒼天疾駆”猿飛 佐助
+Card No.: SB/S06-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: What do ninjas do... everything
+TEXT: [A] [(2)] When "Two Ninjas" is placed in your Climax Zone, if this is in
+the Front Row, you may pay cost. If so, choose up to 2 '"Speedy Under the Blue
+Sky" Sasuke Sarutobi' in your Waiting Room and put them in Separate Slots in
+the Front Row.
+
+================================================================================
+
+"Oni of the West Sea" Motochika Chosokabe
+“西海の鬼”長曾我部 元親
+Card No.: SB/S06-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: I shall show you the might of oni
+TEXT: [A] When this attacks, if "Oni of Onigashima" is in the Climax Zone,
+search your Library for up to 1 ::Eye Patch:: Character, reveal it, and put it
+in your hand. Shuffle your Library. If you put a card in your hand this way,
+discard a card from your hand to the Waiting Room.
+[A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose 1 '"Flawless" Motochika
+Chosokabe' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Expert of Utsusemi" Sasuke Sarutobi
+“空蝉の極意”猿飛 佐助
+Card No.: SB/S06-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Now, joining the battle!
+TEXT: [A] [(4)] When this becomes Reversed in battle, you may pay cost. If so,
+Rest this, and deal 1 Damage to your Opponent. (Damage Cancel can occur)
+[S] [Rest 1 of your Characters] This gains the name '"Sky Conquering Lance"
+Yukimura Sanada' for the turn.
+[S] [Rest 1 of your Characters] This gains the name '"Conqueror God of War"
+Shingen Takeda' for the turn.
+
+================================================================================
+
+"Expert of Utsusemi" Sasuke Sarutobi
+“空蝉の極意”猿飛 佐助
+Card No.: SB/S06-054S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(4)] When this becomes Reversed in battle, you may pay cost. If so,
+Rest this, and deal 1 Damage to your Opponent. (Damage Cancel can occur)
+[S] [Rest 1 of your Characters] This gains the name '"Sky Conquering Lance"
+Yukimura Sanada' for the turn.
+[S] [Rest 1 of your Characters] This gains the name '"Conqueror God of War"
+Shingen Takeda' for the turn.
+
+================================================================================
+
+"Conqueror God of War" Shingen Takeda' 
+“戦神覇王”武田 信玄
+Card No.: SB/S06-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Yukimura!!
+TEXT: [C] If you have another '"Sky Conquering Lance" Yukimura Sanada', this
+gains "[S] [Rest this] Choose 1 of your Characters. That Character gains +1000
+Power for the turn".
+[C] ASSIST All your Cost 1 or higher Characters in front of this gain +1000
+Power.
+
+================================================================================
+
+"Sky Conquering Lance" Yukimura Sanada
+“天覇絶槍”真田 幸村
+Card No.: SB/S06-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: Soul 
+Flavor: My lord!!!
+TEXT: [C] If you have another '"Conqueror God of War" Shingen Takeda', this
+gains +1000 Power.
+[A] [(1)] When this attacks, if "Best of Japanese Troops" is in the Climax
+Zone, you may pay cost. If so, deal X Damage to your Opponent. X = # of your
+Opponent's Reversed Characters. (Damage Cancel can occur)
+
+================================================================================
+
+"Sky Conquering Lance" Yukimura Sanada
+“天覇絶槍”真田 幸村
+Card No.: SB/S06-056R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have another '"Conqueror God of War" Shingen Takeda', this
+gains +1000 Power.
+[A] [(1)] When this attacks, if "Best of Japanese Troops" is in the Climax
+Zone, you may pay cost. If so, deal X Damage to your Opponent. X = # of your
+Opponent's Reversed Characters. (Damage Cancel can occur)
+
+================================================================================
+
+"Last Fortress of Takeda" Shingen
+“武田最後の砦”信玄
+Card No.: SB/S06-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: I'm the strongest of the Takeda troops!
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, deal 1 Damage to your Opponent. (Damage Cancel can occur)
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+"Furinkazan" Shingen Takeda
+“風林火山”武田 信玄
+Card No.: SB/S06-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Takeda cavalry shall break through your defenses 
+TEXT: [A] CHANGE [(2) Put this in the Waiting Room] At the beginning of your
+Encore Step, if this is Rested, you may pay cost. If you do, choose a '"Chant
+of Battle Spirit" Yukimura Sanada' in your Waiting Room and put it in the Slot
+this was in.
+[S] [(1)] Choose 1 of your Characters. That Character gains +1000 Power and
+::Animal:: for the turn. 
+
+================================================================================
+
+"Cold-hearted" Sasuke Sarutobi
+“冷酷な一面”猿飛 佐助
+Card No.: SB/S06-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Sanada Ninja Squad Leader, Sasuke Sarutobi! Now joining the battle!
+TEXT: [C] All your other ::Ninja:: Characters gain +500 Power.
+[S] [(1)] Choose an Opponent's Level 0 or lower Character in the Front Row and
+put it in the Waiting Room.
+
+================================================================================
+
+"Young Fighter of Takeda" Yukimura Sanada
+“武田の若武者”真田 幸村
+Card No.: SB/S06-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: None
+Flavor: Please watch, my lord!
+TEXT: [A] When the Battle Opponent of this becomes Reversed, this gains "[A]
+[(1)] At the start of the Encore Step, you may pay cost. If so, Rest this, and
+move it to any Slot on the Stage" for the turn. (It can be the same Slot it's
+in.)
+[A] CHANGE [(2) Put this in Waiting Room] At the start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose 1 '"Conqueror God of War"
+Shingen Takeda' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Blue and Red" Masamune & Yukimura
+“蒼紅”政宗＆幸村
+Card No.: SB/S06-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: Masamune: "Between you and me, who will be the last man
+standing!" 
+TEXT: -- None --
+
+================================================================================
+
+"Flawless" Motochika Chosokabe
+“天衣無縫”長曾我部 元親
+Card No.: SB/S06-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: People that serves onis... what has this world come to? 
+TEXT: [C] If you have 3 or more other ::Weapon:: Characters, this gains +1000
+Power.
+[A] When another of your ::Eye Patch:: Characters attacks, this gains +1000
+Power for the turn. 
+
+================================================================================
+
+"Passionate" Yukimura Sanada
+“熱血漢”真田 幸村
+Card No.: SB/S06-063  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: None
+Flavor: Roar, my burning soul! 
+TEXT: [A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay
+cost. If you do, choose a ::Weapon:: Character in your Waiting Room and return
+it to your hand. 
+
+================================================================================
+
+"Sanada Ninja Squad Leader" Sasuke Sarutobi
+“真田忍隊の長”猿飛 佐助
+Card No.: SB/S06-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Now, shall we go test our enemies' abilities? 
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power. 
+
+================================================================================
+
+"Hero of Sengoku Period" Motochika Chosokabe
+“戦国の風雲児”長曾我部 元親
+Card No.: SB/S06-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: Haha! That's how I fight! 
+TEXT: -- None --
+
+================================================================================
+
+"Groundshaking" Musashi Miyamoto
+“天驚動地”宮本 武蔵
+Card No.: SB/S06-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 櫂 (Oar)
+Triggers: None
+Flavor: We are at an advantage! Thanks to me!
+TEXT: [A] ALARM If this is on top of Clock, all your ::Weapon:: Characters gain
+"[A] When this attacks, choose 1 of your Characters. That Character gains +500
+Power for the turn".
+
+================================================================================
+
+"Chant of Battle Spirit" Yukimura Sanada
+“闘魂絶唱”真田 幸村
+Card No.: SB/S06-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 鉢巻 (Hachimaki)
+Triggers: Soul 
+Flavor: I, Yukimura, shall fight you with all my power! 
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room] 
+
+================================================================================
+
+"Reliable Brother" Motochika Chosokabe
+“頼れるアニキ”長曾我部 元親
+Card No.: SB/S06-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: Haha! Leave it to me! 
+TEXT: [A] [(2)] When you use BACKUP of this, you mau pay cost. If you do, deal
+1 damage to your Opponent. (Damage Cancel can occur)
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to the
+Waiting Room] 
+
+================================================================================
+
+"One Cut Kill" Yoshihiro Shimazu
+“一刀必殺”島津 義弘
+Card No.: SB/S06-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 酒 (Wine)
+Triggers: Soul 
+Flavor: Shimazu's soul is all in this blade! Show me your soul!
+TEXT: -- None --
+
+================================================================================
+
+From the Same Birthplace
+同郷
+Card No.: SB/S06-070  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Sasuke: "Well, "we" are nice to ourselves..."
+TEXT: If you have no ::Ninja:: Characters, you cannot play this from your
+hand.
+Choose a ::Ninja:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Battle of Kawanakashima
+川中島の合戦
+Card No.: SB/S06-071  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Shingen: "You, and I..." Kenshin: "...It is fate"
+TEXT: [Counter] Choose 1 of your Characters. It gains +1500 Power and "[A] When
+the Battle Opponent of this becomes Reversed, you may deal 1 Damage to your
+Opponent" for the turn. (Damage Cancel can occur)
+
+================================================================================
+
+Kabukimono
+傾奇者
+Card No.: SB/S06-072  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Keiji: "Do this for both love and fighting!" 
+TEXT: All your ::Weapon:: Characters gain +1500 Power for the turn. 
+
+================================================================================
+
+Best of Japanese Troops
+日本一の兵
+Card No.: SB/S06-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Yukimura Sanada is the best of Japanese troops! 
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Best of Japanese Troops
+日本一の兵
+Card No.: SB/S06-073SP  Rarity: SP
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Two Ninjas
+二人の忍
+Card No.: SB/S06-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Sasuke: "Now, you shall die here
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Oni of Onigashima
+鬼ヶ島の鬼
+Card No.: SB/S06-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Motochika: "Welcome to the island habited by onis!"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+"Under the Moonlight, For You" Kasuga
+“月下為君”かすが
+Card No.: SB/S06-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: MitsugiL Kagero!
+TEXT: [A] [(4)] When this becomes Reversed in battle, you may pay cost. If so,
+Rest this, and put the top card of your Clock in Waiting Room.
+
+================================================================================
+
+"Under the Moonlight, For You" Kasuga
+“月下為君”かすが
+Card No.: SB/S06-076S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(4)] When this becomes Reversed in battle, you may pay cost. If so,
+Rest this, and put the top card of your Clock in Waiting Room.
+
+================================================================================
+
+"Lightning Speed Holy General" Kenshin Uesugi
+“神速聖将”上杉 謙信
+Card No.: SB/S06-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 薔薇 (Rose)
+Triggers: Soul 
+Flavor: You are no match for me
+TEXT: [A] [(3) Discard 2 cards from your hand to the Waiting Room] This ability
+may be activated up to once per turn. When the Battle Opponent of this becomes
+Reversed, if "Speedy Like the Wind And Lightning" is in the Climax Zone, you
+may pay cost. If so, Stand this.
+
+================================================================================
+
+"Hero of Oshu" Masamune Date
+“奥州の雄”伊達 政宗
+Card No.: SB/S06-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: Psyche up! Koujurou, come!
+TEXT: [C] If you have another '"Right Eye of the Dragon"' Koujurou Katakura,
+this gains +2000 Power.
+
+================================================================================
+
+"Right Eye of the Dragon" Koujurou Katakura
+“竜の右目”片倉 小十郎
+Card No.: SB/S06-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Allow me! I, Koujurou, shall risk it all here!
+TEXT: [C] If you have another '"Hero of Oshu" Masamune Date', this gains +2000
+Power.
+
+================================================================================
+
+"Humanity's Chivalry" Koujurou Katakura
+“仁吼義侠”片倉 小十郎
+Card No.: SB/S06-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Masamune-sama, let me handle here
+TEXT: [A] CHANGE [(3) Put this in Waiting Room] At the Start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose a '"Refined Guy"
+Masamune Date' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Humanity's Chivalry" Koujurou Katakura
+“仁吼義侠”片倉 小十郎
+Card No.: SB/S06-080S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] CHANGE [(3) Put this in Waiting Room] At the Start of your Encore
+Step, if this is Rested, you may pay cost. If so, choose a '"Refined Guy"
+Masamune Date' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Precocious And Resolute" Ujimasa Houjou
+“老成剛毅”北条 氏政
+Card No.: SB/S06-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Watch close at the legendary ninja of the Houjou family!
+TEXT: [A] [(2)] When this is Front Attacked, you may pay cost. If so, search
+your Library for up to 1 ::Ninja:: Character, reveal it, and put it in your
+hand. Shuffle your Library.
+
+================================================================================
+
+"Refined Guy" Masamune Date' 
+“粋な男”伊達 政宗
+Card No.: SB/S06-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: I do not turn back, so protect my back
+TEXT: [A] [(2)] When this is placed from the Waiting Room to the Stage, you may
+pay cost. If so, put the top card of your Clock in the Waiting Room.
+[A] CHANGE [Put this in the Waiting Room] At the Start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose a '"Masamune's Confidant"
+Koujurou Katakura' in your Waiting Room and put it in the Slot this was in.
+(This ability does not activate if this card isn't on the Stage at the start of
+the Encore Step)
+
+================================================================================
+
+"Refined Guy" Masamune Date' 
+“粋な男”伊達 政宗
+Card No.: SB/S06-082R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(2)] When this is placed from the Waiting Room to the Stage, you may
+pay cost. If so, put the top card of your Clock in the Waiting Room.
+[A] CHANGE [Put this in the Waiting Room] At the Start of your Encore Step, if
+this is Rested, you may pay cost. If so, choose a '"Masamune's Confidant"
+Koujurou Katakura' in your Waiting Room and put it in the Slot this was in.
+(This ability does not activate if this card isn't on the Stage at the start of
+the Encore Step)
+
+================================================================================
+
+"God of War" Kenshi Uesugi
+“軍神”上杉 謙信
+Card No.: SB/S06-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 薔薇 (Rose)
+Triggers: None
+Flavor: I shall kindly put you to rest
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(2) Rest this] Choose 1 of your Opponent's Characters. That Character does
+not Stand during your Opponent's next Stand Phase.
+
+================================================================================
+
+"Southern Barbaric Ways" Xavi
+“南蛮我道”ザビー
+Card No.: SB/S06-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Let's go Xavis
+TEXT: [C] During your Opponent's turn, all your other Characters with ::Love::
+gain +1000 Power.
+[A] [(1)] When "Warrior of Love" is placed in your Climax Zone, if this is in
+the Front Row, you may pay cost. If so, search your Library for up to 1
+'"Southern Barbaric Ways" Xavi' and put it in any Slot on the Stage. Shuffle
+your Library. That Character gains +2000 Power and ::Mecha:: for the turn.
+
+================================================================================
+
+"Unlimited Six-Claw Style" Masamune Date
+“無限六爪流”伊達 政宗
+Card No.: SB/S06-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: Ha! ... Are you prepared?
+TEXT: [C] If there are Markers under this, this gains +4000 Power, and
+Character Opposite this gets +1 Soul.
+[A] When "King of Date Troops" is placed in your Climax Zone, if there are no
+Markers under this, you may put the top card of your Library under this as
+Marker.
+
+================================================================================
+
+"Masamune's Confidant" Koujurou Katakura
+“政宗の腹心”片倉 小十郎
+Card No.: SB/S06-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: I, Koujurou, shall protect Masamune-sama's back as many times as
+possible!
+TEXT: [C] During your Opponent's turn, this gains +1000 Power.
+[S] [Rest this] Put this in Waiting Room. Choose a '"Refined Guy" Masamune
+Date' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Unrivaled in World" Masamune Date
+“天下無双”伊達 政宗
+Card No.: SB/S06-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: Soul 
+Flavor: Masamune the One-Eyed Dragon is unrivaled in this world! No one shall
+get in my way
+TEXT: [C] During your Opponent's turn, this gains +1000 Power.
+[C] Character Opposite this gets -1 Soul.
+[A] [(2)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, draw a card.
+
+================================================================================
+
+"One-Eyed Dragon" Masamune Date
+“独眼竜”伊達 政宗
+Card No.: SB/S06-088  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 眼帯 (Eye Patch)
+Triggers: None
+Flavor: One-eyed Dragon isn't just for looks, you see?
+TEXT: -- None --
+
+================================================================================
+
+"Vice General" Koujurou Katakura
+“副将”片倉 小十郎
+Card No.: SB/S06-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: I shall protect your back... Don't worry!
+TEXT: [C] During your Opponent's turn, all your other Characters gain +500
+Power.
+[A] When your other Character with ::Eye Patch:: is placed from Waiting Room to
+the Stage, look at the top card of your Library and put it either on top or
+bottom of the Library.
+
+================================================================================
+
+"Beautiful Sword" Kasuka
+“美しき剣”かすが
+Card No.: SB/S06-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Every fragment of my life... if it's for Kenshin-sama... I do not
+regret anything...
+TEXT: [C] If you have another Characters with ::Rose::, this gains +2000
+Power.
+[A] [Put this in the Waiting Room] When another Character of yours is placed
+from the Stage to the Waiting Room, if this is in the Back Row, you may pay
+cost. If so, put that Character back Rested in the Slot it was in.
+
+================================================================================
+
+"Overflowing Love" Xavi
+“愛ミナギル”ザビー
+Card No.: SB/S06-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Not enough love! I shall squeeze them out!
+TEXT: [C] All your other Characters gain ::Love::.
+
+================================================================================
+
+"Kunoichi" Kasuga
+“くの一”かすが
+Card No.: SB/S06-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 500   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Sorry to keep you waiting! Help is on the way!
+TEXT: [A] CHANGE [(3) Put this in the Waiting Room] At the beginning of your
+Encore Step, if this is Rested, you may pay cost. If so, choose 1 '"Godly Speed
+General" Kenshin Uesugi' in your Waiting Room and put it in the Slot this was
+in.
+[S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+"Genius of Battle" Kenshin Uesugi
+“合戦の天才”上杉 謙信
+Card No.: SB/S06-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 薔薇 (Rose)
+Triggers: Soul 
+Flavor: Kenshin: "It's destined that we meet in battle... Very well, I
+shall show you the power of God of Battle"
+TEXT: [A] This ability can activate up to twice per turn. When you use an [S]
+ability, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Gale Flight" Kotaro Fuuma
+“疾風翔慟”風魔 小太郎
+Card No.: SB/S06-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 忍 (Ninja)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Dragon And Right Eye
+竜と右目
+Card No.: SB/S06-095  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Masamune: "Aren't you supposed to protect my back?" Kojiro:
+"Of course! I, Kojiro, shall protect Masamune-sama with my life!"
+TEXT: [Counter] You may discard a card from your hand to the Waiting Room. If
+so, put up to 1 card from top of your Clock in your Waiting Room, Send this to
+Memory, and choose 1 of your Characters. That Character gains "[A] When this is
+placed from Stage to the Waiting Room, you may put this Rested in the Slot this
+was in" for the turn.
+
+================================================================================
+
+Press On...!
+推して参る…！
+Card No.: SB/S06-096  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Until we devour the one-eyed dragon!
+TEXT: You may put the top card of your Clock in your Waiting Room. Choose 1 of
+your ::Weapon:: Characters. That Character gains +4000 Power for the turn. Send
+this to Memory.
+
+================================================================================
+
+Legendary Ninja
+伝説の忍
+Card No.: SB/S06-097  Rarity: C
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kasuga: "Everyone knows the name of ninja... But, no one knows
+whether they exist on this earth"
+TEXT: Look at up to X cards from top of your Library and choose up to 1 of them
+and put it in your hand. Put the rest in your Waiting Room. X = number of your
+::Ninja:: Characters.
+
+================================================================================
+
+King of Date Troops
+キング・オブ・伊達男
+Card No.: SB/S06-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Masaune: "What's the matter, raise the tension"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+King of Date Troops
+キング・オブ・伊達男
+Card No.: SB/S06-098SP  Rarity: SP
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Speedy Like the Wind And Lightning
+疾風迅雷
+Card No.: SB/S06-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Only I can be called the Vaisravaṇa!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Warrior of Love
+愛の戦士
+Card No.: SB/S06-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Believe in love. Feel the heaven's wrath if you don't!!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

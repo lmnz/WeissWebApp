@@ -1,0 +1,1647 @@
+Fate/Zero Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Irisviel, Doll of Einzbern
+アインツベルンの人形 アイリスフィール
+Card No.: FZ/S17-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: You have given me everything... even the happiness that I never wished
+for
+TEXT: [A] [(1)] When this attacks, if "Symbol of Determination" is in the
+Climax Zone, you may pay cost. If so, search your Library for a Level 1 or
+higher Character with either ::Master:: and/or ::Servant::, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Saber, Ideal King
+理想の王 セイバー
+Card No.: FZ/S17-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: You're acceptable as an opponent
+TEXT: [C] If you have 4 or fewer cards in your hand, this gains +1000 Power.
+[C] Character Opposite this gets -1 Soul.
+[A] When the Battle Opponent of this becomes Reversed, choose 1 of your other
+::Servant:: Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Saber, Ideal King
+理想の王 セイバー
+Card No.: FZ/S17-002SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 4 or fewer cards in your hand, this gains +1000 Power.
+[C] Character Opposite this gets -1 Soul.
+[A] When the Battle Opponent of this becomes Reversed, choose 1 of your other
+::Servant:: Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Kiritsugu, Justice to Believe in
+信じる正義 切嗣
+Card No.: FZ/S17-003  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall terminate the endless chain. For that, I require the grail
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters. That Character gains +4000 Power and +1 Soul for the turn.
+[A] When Damage dealt by the attack of this is Cancelled, if "Origin Bullet" is
+in the Climax Zone, you may choose a Level 3 or lower Character in your
+Opponent's Front Row and put it in Stock.
+
+================================================================================
+
+Kiritsugu, Justice to Believe in
+信じる正義 切嗣
+Card No.: FZ/S17-003R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters. That Character gains +4000 Power and +1 Soul for the turn.
+[A] When Damage dealt by the attack of this is Cancelled, if "Origin Bullet" is
+in the Climax Zone, you may choose a Level 3 or lower Character in your
+Opponent's Front Row and put it in Stock.
+
+================================================================================
+
+Kiritsugu, Heretic Style
+異端の流儀 切嗣
+Card No.: FZ/S17-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: It's not my style to duel straight on
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 "Saber, Skill of 'Riding'", reveal it,
+and put it in your hand. Shuffle your Library.
+[A] When this becomes Reversed, if its Battle Opponent is Level 0 or lower, you
+may send that Character to the Stock. If so, put the bottom card of your
+Opponent's Stock in the Waiting Room. 
+
+================================================================================
+
+Maiya, Quiet Assistant
+寡黙なる助手 舞弥
+Card No.: FZ/S17-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Kiritsugu is the one who took me in. That's why Kiritsugu can use
+me as he desires
+TEXT: [C] If a YELLOW Climax is in your Climax Zone, this gains +1 Soul.
+[C] All your other "Kiritsugu, Justice to Believe in" gain +1000 Power.
+
+================================================================================
+
+Saber, Elegant King of Knights
+麗しき騎士王 セイバー
+Card No.: FZ/S17-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: I'm used to be considered different from people's imagination
+TEXT: [C] If your Opponent has 3 or fewer Characters, this gains +1000 Power.
+
+================================================================================
+
+Saber, Elegant King of Knights
+麗しき騎士王 セイバー
+Card No.: FZ/S17-006S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If your Opponent has 3 or fewer Characters, this gains +1000 Power.
+
+================================================================================
+
+"Prana Release" Saber
+“魔力放出”セイバー
+Card No.: FZ/S17-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: If it's a lance that can't be defended against, then I'll
+just cut it before I have to defend
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Servant:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+"Prana Release" Saber
+“魔力放出”セイバー
+Card No.: FZ/S17-007R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Servant:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Irisviel, Vessel of Grail
+聖杯の器 アイリスフィール
+Card No.: FZ/S17-008  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 6500   Soul: 2
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: I have always believed that you'd come. I believed that you'd
+finally get here
+TEXT: [A] When this attacks, choose up to 2 of your other ::Servant::
+Characters. Those Characters gains +1 Soul for the turn.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Irisviel, Vessel of Grail
+聖杯の器 アイリスフィール
+Card No.: FZ/S17-008S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 6500   Soul: 2
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, choose up to 2 of your other ::Servant::
+Characters. Those Characters gains +1 Soul for the turn.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Saber, End of Rule
+治世の果て セイバー
+Card No.: FZ/S17-009  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: I, I...
+TEXT: [C] If you have 3 or fewer cards in your hand, this gains +1500 Power.
+
+================================================================================
+
+Saber, End of Rule
+治世の果て セイバー
+Card No.: FZ/S17-009S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or fewer cards in your hand, this gains +1500 Power.
+
+================================================================================
+
+Irisviel, Girl Living as Human
+ヒトとして生きた女 アイリスフィール
+Card No.: FZ/S17-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: You will require Avalon. When you decide to fight the final battle, it
+will be of help...
+TEXT: [C] During your turn, all your Characters gain +500 Power.
+[A] CHANGE [Put this in your Waiting Room] At the beginning of your Draw Phase,
+you may pay cost. If so, choose an "Irisviel, Doll of Einzbern" in your Waiting
+Room and put it in the Slot this was in.
+
+================================================================================
+
+Shirou, Hope of the Future
+未来の希望 士郎
+Card No.: FZ/S17-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When the Battle Opponent of another Character of yours becomes
+Reversed, choose 1 of your Characters. That Character gains +1000 Power for the
+turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Kiritsugu, the Ideal Chased After
+追い求めた理想 切嗣
+Card No.: FZ/S17-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: The blood I bled here in Fuyuki shall be the last bled by humans
+TEXT: [C] For each other "Maiya, Spare Parts for Kiritsugu" you have, this
+gains +1 Soul.
+
+================================================================================
+
+Maiya, Spare Parts for Kiritsugu
+切嗣の部品 舞弥
+Card No.: FZ/S17-013  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Irisviel & Illya, Mother and Daughter
+母と子 アイリスフィール＆イリヤ
+Card No.: FZ/S17-014  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: It'd be nice if Illya can stay with Kiritsugu and Mother
+TEXT: [A] BOND/"'Magus Killer' Kiritsugu" [(1)]
+[A] BOND/"Irisviel, Doll of Einzbern" [(1)]
+
+================================================================================
+
+Saber, Noble Phantasm Unleashed
+宝具開放 セイバー
+Card No.: FZ/S17-015  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- Wind!
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this
+attacks, if "Excalibur" is in your Climax Zone, you may pay cost. If so, choose
+a card in your Opponent's Waiting Room and Send it to Memory, and this gains
++1000 Power for the turn.
+
+================================================================================
+
+Illya, Innocent Girl
+無邪気な少女 イリヤ
+Card No.: FZ/S17-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: None
+Triggers: None
+Flavor: Ah, here it is! Illya found one too!
+TEXT: [C] All your other ::Master:: and/or ::Homunculus:: gain +500 Power.
+
+================================================================================
+
+Irisviel von Einzbern
+アイリスフィール・フォン・アインツベルン
+Card No.: FZ/S17-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: 8 left. Then your fight will be over. Your and my ideal will finally be
+achieved
+TEXT: [A] [(2)] When your YELLOW Climax is placed in the Climax Zone, you may
+pay cost. If so, put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+Saber, Skill of "Riding"
+“騎乗”のスキル セイバー
+Card No.: FZ/S17-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: My skill of "Riding" works on anything that can be considered a
+"means of transportation" 
+TEXT: -- None --
+
+================================================================================
+
+Maiya Hisau
+久宇 舞弥
+Card No.: FZ/S17-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: The two of you shall use here as base of operation from now on
+TEXT: [C] If you have 4 or fewer cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+"Invisible Air" Saber
+“風王結界”セイバー
+Card No.: FZ/S17-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Don't expect my sword to become dull
+TEXT: [A] [Reveal any number of Climax cards in your hand] At the beginning of
+your Battle Step during battles involving this card, you may pay cost. If so,
+this gains +X Power, where X = 1000 times number of cards revealed this way.
+(Put the revealed cards back where they were) 
+
+================================================================================
+
+Kiritsugu, Time to Hunt
+狩りの時間 切嗣
+Card No.: FZ/S17-021  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ... Now, I shall see your skills. Cute King of Knights
+TEXT: -- None --
+
+================================================================================
+
+"Magus Killer" Kiritsugu
+“魔術師殺し”切嗣
+Card No.: FZ/S17-022  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Now, we shall confront with all our forces
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Maiya, Assistance Machinery
+補助機械 舞弥
+Card No.: FZ/S17-023  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: Understood
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 of your Characters. That Character gains +1 Soul for the turn. 
+
+================================================================================
+
+"First Time Outside" Irisviel
+“初めての外”アイリスフィール
+Card No.: FZ/S17-024  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: I-- it's the first time I was able to be outdoors 
+TEXT: -- None --
+
+================================================================================
+
+Searching for Winterbud
+冬芽探し
+Card No.: FZ/S17-025  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Wow! High above!
+TEXT: All players put the top 3 cards of their Libraries in their Waiting Room.
+If the number of Level 1 or lower Characters put into your Waiting Room via
+this effect is more than the number of Level 0 or lower Characters put into
+your Opponent's Waiting Room via this effect, you may draw a card.
+Put this in Stock.
+
+================================================================================
+
+Demolition
+爆破解体
+Card No.: FZ/S17-026  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [Counter] All players return all cards in their Waiting Room to their
+Libraries. Shuffle the Libraries. Discard a card from your hand to the Waiting
+Room. If so, choose 1 of your Characters. That Character gains +2000 Power for
+the turn.
+
+================================================================================
+
+Einzbern Castle
+アインツベルン城
+Card No.: FZ/S17-027  Rarity: C
+Color: Yellow   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I hereby swear that I shall be all the good in the world 
+TEXT: If there is 1 or fewer Climax cards in your Waiting Room, you cannot play
+this from your hand.
+Search your Library for up to 1 Character with either ::Weapon:: or
+::Alchemy::, reveal it, and put it in your hand. Shuffle your Library. 
+
+================================================================================
+
+Symbl of Determination
+決意の象徴
+Card No.: FZ/S17-028  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Shape ist leben!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Origin Bullet
+起源弾
+Card No.: FZ/S17-029  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: "Origin Bullet -- mana of those shot will rampage and rip
+their bodies apart"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Excalibur
+約束された勝利の剣
+Card No.: FZ/S17-030  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I hearby swear by my sword for Victory
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Waver Velvet
+ウェイバー・ベルベット
+Card No.: FZ/S17-031  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: Rider, you shall be victorious in the end
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times number of Characters with ASSIST you have.
+[A] When "Bond of King And Servant" is placed in your Climax Zone, reveal the
+top card of your Library. If it's a Character with either ::Royalty:: and/or
+::Alchemy::, put it in Stock. (Otherwise put it back where it was)
+
+================================================================================
+
+Waver Velvet
+ウェイバー・ベルベット
+Card No.: FZ/S17-031S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times number of Characters with ASSIST you have.
+[A] When "Bond of King And Servant" is placed in your Climax Zone, reveal the
+top card of your Library. If it's a Character with either ::Royalty:: and/or
+::Alchemy::, put it in Stock. (Otherwise put it back where it was)
+
+================================================================================
+
+Rider, King of Military Might
+覇道の王 ライダー
+Card No.: FZ/S17-032  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: AAAALaLaLaLaLaie!!
+TEXT: [C] For each Rested Character your Opponent has, this gains +500 Power.
+[A] [(1)] During the turn when this is placed from hand to the Stage, when the
+Battle Opponent of this becomes Reversed, you may pay cost. If so, put that
+Character in Clock.
+[A] [(2)] At the beginning of your Encore Step, you may pay cost. If so, choose
+this and 1 additional Character of yours and send them to Memory. At the
+beginning of your next Draw Phase, take the chosen Characters from your Memory
+and put them in separate Slots on stage.
+
+================================================================================
+
+Rider, King of Military Might
+覇道の王 ライダー
+Card No.: FZ/S17-032SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each Rested Character your Opponent has, this gains +500 Power.
+[A] [(1)] During the turn when this is placed from hand to the Stage, when the
+Battle Opponent of this becomes Reversed, you may pay cost. If so, put that
+Character in Clock.
+[A] [(2)] At the beginning of your Encore Step, you may pay cost. If so, choose
+this and 1 additional Character of yours and send them to Memory. At the
+beginning of your next Draw Phase, take the chosen Characters from your Memory
+and put them in separate Slots on stage.
+
+================================================================================
+
+Kayneth El-Melloi Archibald
+ケイネス・エルメロイ・アーチボルト
+Card No.: FZ/S17-033  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: How do my guests think about the magical workshop Kayneth El-Melloi 
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters with "Lancer" in
+name. That Character gains +1500 Power and "[C] If the Level of the Character
+Opposite this is higher than the Level of this, this cannot Attack" for the
+turn.
+
+================================================================================
+
+Rider, Conceited
+傲岸不遜 ライダー
+Card No.: FZ/S17-034  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: The enemy is the Hero King that rivals thousands - good enough to be my
+opponent!
+TEXT: [A] [Rest 1 of your Standing Characters] When "Gordius Wheel" is placed
+in your Climax Zone, if this is in the Front Row, you may pay cost. If so,
+choose a Character in your Opponent's Front Row. That Character gets -2000
+Power for the turn.
+
+================================================================================
+
+Rider, Conceited
+傲岸不遜 ライダー
+Card No.: FZ/S17-034R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Rest 1 of your Standing Characters] When "Gordius Wheel" is placed
+in your Climax Zone, if this is in the Front Row, you may pay cost. If so,
+choose a Character in your Opponent's Front Row. That Character gets -2000
+Power for the turn.
+
+================================================================================
+
+"Left Hand of Saber" Lancer
+“セイバーの左手”ランサー
+Card No.: FZ/S17-035  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I believe it's in our best interest to fight together, how's
+that?
+TEXT: [A] When you use the BACKUP of this, choose 1 of your ::Servant::
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+"Left Hand of Saber" Lancer
+“セイバーの左手”ランサー
+Card No.: FZ/S17-035S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When you use the BACKUP of this, choose 1 of your ::Servant::
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Rider, Conqueror of Macedonia
+マケドニアの覇者 ライダー
+Card No.: FZ/S17-036  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Gather, my friends! Tonight, we shall record the strongest hero in
+legend!
+TEXT: [C] All your other ::Servant:: Characters gain +1000 Power.
+[A] [(3) Discard a card from your hand to the Waiting Room] When "Ionioi
+Hetairoi" is placed in your Climax Zone, you may pay cost. If so, search your
+Library for up to 3 Cost 0 or lower ::Servant:: Characters and put them in
+separate Slots on the Stage. Shuffle your Library.
+
+================================================================================
+
+Lancer, Dispelling Crimson Lance
+魔を断つ赤槍 ランサー
+Card No.: FZ/S17-037  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this attacks, if "Gae Dearg" is in your Climax Zone, choose 1 of
+your Characters. That Character gains +2000 Power and "[C] During battles
+involving this Character, your Opponent may not play BACKUP from hand" until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Lancer, Dispelling Crimson Lance
+魔を断つ赤槍 ランサー
+Card No.: FZ/S17-037SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Gae Dearg" is in your Climax Zone, choose 1 of
+your Characters. That Character gains +2000 Power and "[C] During battles
+involving this Character, your Opponent may not play BACKUP from hand" until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Waver, Apprentice Magus
+見習い魔術師 ウェイバー
+Card No.: FZ/S17-038  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: Hey, Rider, situation improved! One has dropped out!
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 "Command Mantra", reveal it, and put it
+in your hand. Shuffle your Lbirary.
+[A] BOND/"Rider, Majestic" [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Lancer, Way of the Knight
+騎士の道 ランサー
+Card No.: FZ/S17-039  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Now -- shall we
+TEXT: [A] [(1) Discard a Climax card from hand to the Waiting Room] When this
+is placed from hand to the Stage, you may pay cost. If so, search your Library
+for up to 1 of either a GREEN Climax or an "Excalibur", reveal it, and put it
+in your hand. Shuffle your Library.
+
+================================================================================
+
+Rider, Magnificent Lord
+雄大な王 ライダー
+Card No.: FZ/S17-040  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: It's my duty as king to show people their dreams. It's your job
+as servant to record the dream of the king and pass it down the path of history
+TEXT: [A] When this attacks, all players put the top card of their Libraries in
+the Waiting Room. If the Level of the card you put into your Waiting Room via
+this effect is higher than the Level of the card your Opponent put into your
+Opponent's Waiting Room via this efect, you may put the top card of your
+Library in your Stock. (Climax cards are considered to be Level 0)
+
+================================================================================
+
+Lancer, Charming Looks
+魅了の魔貌 ランサー
+Card No.: FZ/S17-041  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] This cannot Direct Attack.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Rider, Majestic
+威風堂々 ライダー
+Card No.: FZ/S17-042  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Saber must defeat me. That's what she strives to do as a heroic
+spirit
+TEXT: -- None --
+
+================================================================================
+
+Sola-Ui Nuada-Re Sophia-Ri
+ソラウ・ヌァザレ・ソフィアリ
+Card No.: FZ/S17-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Lancer did well. Isn't it your judgment of the situation that went
+wrong?
+TEXT: [A] BOND/"Lancer, Dispelling Crimson Lance" [(1)]
+
+================================================================================
+
+Waver, Proof of Participation in War
+参戦の証 ウェイバー
+Card No.: FZ/S17-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: The Grail will only fulfill the wish of a singular person
+TEXT: [C] If there are 2 or fewer cards in your Stock, this gains +1500 Power.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Rider, Bold Disposition
+豪胆なる気性 ライダー
+Card No.: FZ/S17-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Um, this is delicious!!
+TEXT: [A] When a GREEN Climax is placed in your Climax Zone, chose 1 of your
+Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+Lancer, Bravery And Justice
+忠勇義烈 ランサー
+Card No.: FZ/S17-046  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: All I wish in the current life is the path of loyalty that I was unable
+to fulfill in my previous life...
+TEXT: -- None --
+
+================================================================================
+
+Kayneth, Genius Magus
+天才魔術師 ケイネス
+Card No.: FZ/S17-047  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: I'm Kayneth El-Melloi, 9th lord of Archbold House
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Waver "McKenzie"
+ウェイバー・“マッケンジー”
+Card No.: FZ/S17-048  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: I cannot promise that. There's no sure way for me to be able to
+return unharmed
+TEXT: [A] When your Character attacks, choose 1 of your other ::Servant::
+Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Kayneth, Elite of the Clock Tower
+時計塔のエリート ケイネス
+Card No.: FZ/S17-049  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: Come forth. Lancer 
+TEXT: -- None --
+
+================================================================================
+
+Command Mantra
+令呪
+Card No.: FZ/S17-050  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I order you with the Command Mantra
+TEXT: [Counter] Choose 1 of your ::Servant:: Characters. That Character gains
++4500 Power for the turn.
+
+================================================================================
+
+Precious Sword And Magical Lance
+宝剣と魔槍
+Card No.: FZ/S17-051  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Whomever wins here is the "Way of the Knight"--
+TEXT: Send this to Memory.
+[C] RECOLLECTION If this is in Memory, All your Characters with either "Saber"
+and/or "Lancer" in name gain +1000 Power.
+
+================================================================================
+
+Ionioi Hetairoi
+王の軍勢
+Card No.: FZ/S17-052  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Men, show the original heroic spirit our military might!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Bond of King And Servant
+王と臣下を結ぶ絆
+Card No.: FZ/S17-053  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Rider, promise to have the world at your palm. I will not allow you to
+fail
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Gordius Wheel
+神威の車輪
+Card No.: FZ/S17-054  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Now go, Gordius Wheel!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul.
+
+================================================================================
+
+Gae Dearg
+破魔の紅薔薇
+Card No.: FZ/S17-055  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Pince, Gae Dearg!
+TEXT: [A] When this is placed from hand to the Cliamx Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Berserker, Warrior of Madness
+狂乱の騎士 バーサーカー
+Card No.: FZ/S17-056  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: URRRRRRRR!!
+TEXT: [A] [Put this in the Waiting Room] When "Real Form of Fallen Knight" is
+placed in the Climax Zone, you may pay cost. If so, choose a Level 2 or lower
+::Servant:: Character in the Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Berserker, Warrior of Madness
+狂乱の騎士 バーサーカー
+Card No.: FZ/S17-056S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [Put this in the Waiting Room] When "Real Form of Fallen Knight" is
+placed in the Climax Zone, you may pay cost. If so, choose a Level 2 or lower
+::Servant:: Character in the Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Archer, King of All
+万象の王 アーチャー
+Card No.: FZ/S17-057  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Only I can be the hero that could be the true king
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in your Waiting Room
+[A] [(1) Discard an "Ea, Sword of Rupture" from your hand to the Waiting Room]
+At the start of your Opponent's Attack Phase, if this is in the Front Row, you
+may pay cost. If so, choose a Climax card in your Opponent's Climax Zone and
+put it in the Waiting Room, and this gains +5500 Power for the turn.
+
+================================================================================
+
+Archer, King of All
+万象の王 アーチャー
+Card No.: FZ/S17-057SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1) Discard an "Ea, Sword of Rupture" from your hand to the Waiting
+Room] At the start of your Opponent's Attack Phase, if this is in the Front
+Row, you may pay cost. If so, choose a Climax card in your Opponent's Climax
+Zone and put it in the Waiting Room, and this gains +5500 Power for the turn.
+
+================================================================================
+
+Archer, Pride of Nobility
+気高い気位 アーチャー
+Card No.: FZ/S17-058  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Watch carefully. And learn. This is "Wine of King"
+TEXT: [C] If there are 3 or more cards in your Stock, this gains "[A] When this
+becomes Reversed, if the Level of the Battle Opponent of this is 0 or lower,
+you may Reversed that Character".
+[A] BOND/"Kirei Kotomine" [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Archer, Pride of Nobility
+気高い気位 アーチャー
+Card No.: FZ/S17-058R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If there are 3 or more cards in your Stock, this gains "[A] When this
+becomes Reversed, if the Level of the Battle Opponent of this is 0 or lower,
+you may Reversed that Character".
+[A] BOND/"Kirei Kotomine" [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Berserker, Beast Hungering for Blood
+血に飢えた獣 バーサーカー
+Card No.: FZ/S17-059  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ...... ar......ur......!!
+TEXT: [A] [Put the top card of your Library in your Clock] When this is placed
+from hand to the Stage, you may pay cost. If so, choose an "Arondite" in your
+Waiting Room and return it to your hand.
+[A] CHANGE [(1) Put this in the Waiting Room] At the start of your Draw Phase,
+you may pay cost. If so, choose a "Berserker, Materialized Curse" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Archer, Best Wine
+至高の美酒 アーチャー
+Card No.: FZ/S17-060  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Kirei Kotomine, do you know what happened then?
+TEXT: [A] [(1)] When you use the BACKUP of this, you may pay cost. If so,
+choose 1 of your ::Master:: and/or ::Servant:: Character in battle. That
+Character gains +X Power, where X = 500 times Level of that Character.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Archer, Best Wine
+至高の美酒 アーチャー
+Card No.: FZ/S17-060S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When you use the BACKUP of this, you may pay cost. If so,
+choose 1 of your ::Master:: and/or ::Servant:: Character in battle. That
+Character gains +X Power, where X = 500 times Level of that Character.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Archer, Golden King
+金色の王者 アーチャー
+Card No.: FZ/S17-061  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Now, Saber, show me. I shall judge your value as a heroic spirit
+TEXT: [C] If a RED Climax is in your Climax Zone, this gains "[A] When this
+becomes Reversed, if the Cost of the Battle Opponent of this is 1 or lower, you
+may Reverse that Character".
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Berserker, Materialized Curse
+呪詛の具現 バーサーカー
+Card No.: FZ/S17-062  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I am - hated - laughed at - looked down on - 
+TEXT: [A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Tokiomi, Head of the Tohsa Household
+遠坂家の当主 時臣
+Card No.: FZ/S17-063  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: Soul 
+Flavor: You should be able to do this yourself
+TEXT: [A] When this attacks, if "Farewell with Rin" is in the Climax Zone, you
+may choose a Character card in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Tokiomi, Proper Magus
+由緒正しき魔術師 時臣
+Card No.: FZ/S17-064  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: None
+Flavor: We are victorious in this battle
+TEXT: [C] All your other ::Royalty:: Characters gain +500 Power.
+[S] [(2) Rest this] Choose a ::Servant:: Character in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Archer, King Amongst Kings
+王の中の王 アーチャー
+Card No.: FZ/S17-065  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: At least die in an interesting way, bastard
+TEXT: [C] If you have no other Characters, this gains +1500 Power and cannot be
+Reversed by your Opponent's Characters' [A] effects.
+
+================================================================================
+
+Zougen, Obsession of Matou
+間桐の執念 臓硯
+Card No.: FZ/S17-066  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 虫 (Bug)      Trait 2: None
+Triggers: None
+Flavor: Those who fell behind, finally got here
+TEXT: [S] [Put the top card of your Library in your Clock, Rest this] Choose 1
+of your ::Master:: Characters. That Character gains +2500 Power for the turn.
+
+================================================================================
+
+Sakura, Affected Heart
+蝕まれた心 桜
+Card No.: FZ/S17-067  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 500   Soul: 1
+Trait 1: 虫 (Bug)      Trait 2: None
+Triggers: None
+Flavor: Idiot
+TEXT: [A] [Discard a Level 2 or higher Character card from your hand to the
+Waiting Room, Rest this] When this is placed from hand to the Stage, you may
+pay cost. If so, choose a ::Master:: Character in your Waiting Room and return
+it to your hand.
+[S] [Counter] BACKUP 1500, Level 1 [Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Kariya, Payment of Life
+命の代償 雁夜
+Card No.: FZ/S17-068  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 虫 (Bug)
+Triggers: Soul 
+Flavor: Wait... Sakura...
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] [(1)] When this
+becomes Reversed, if the Level of the Battle Opponent of this is equal to or
+lower than the Level of this, you may pay cost. If so, Reveser that Character".
+
+================================================================================
+
+Rin, Young Successor
+若き後継者 凛
+Card No.: FZ/S17-069  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 宝石 (Gem)      Trait 2: None
+Triggers: Soul 
+Flavor: No! There's nothing I wish to rely on you for!
+TEXT: [A] [Discard a card from your hand to the Waiting Room] When this
+attacks, if a RED Climax is in your Climax Zone, you may pay cost. If so,
+choose a Character with either ::Master:: and/or ::Servant:: in your Waiting
+Room and return it to your hand.
+
+================================================================================
+
+Berserker, Dark Killing Intent
+黒い殺意 バーサーカー
+Card No.: FZ/S17-070  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 3   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ......Ar.......thur......
+TEXT: -- None --
+
+================================================================================
+
+Archer, Oldest Human King
+人類最古の王 アーチャー
+Card No.: FZ/S17-071  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Kariya Matou
+間桐 雁夜
+Card No.: FZ/S17-072  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 虫 (Bug)
+Triggers: None
+Flavor: Worms, eat him, eat and kill him!!
+TEXT: [C] All your other ::Servant:: Characters gain +500 Power.
+
+================================================================================
+
+Sakura & Aoi & Rin, Memory of a Day in Distant Past
+遠き日の思い出 桜＆葵＆凛
+Card No.: FZ/S17-073  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 宝石 (Gem)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+::Gem:: Characters. That Character gains +1000 Power for the turn.
+[A] [(2)] When this is placed from your hand to the Stage, you may pay cost. If
+so, choose a Character card in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Archer, I'm the Best
+唯我独尊 アーチャー
+Card No.: FZ/S17-074  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: ... Heh. What's up? Mad dog
+TEXT: -- None --
+
+================================================================================
+
+"His Highness" Archer
+“高貴なるもの”アーチャー
+Card No.: FZ/S17-075  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Heh... alright
+TEXT: [C] If your Opponent has 4 or more Characters, this gains +1000 Power.
+
+================================================================================
+
+Tokiomi, Strategy to Victory
+必勝への策謀 時臣
+Card No.: FZ/S17-076  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: None
+Flavor: Arrival at the root. That is the singular wish our we, the Tohsakas
+TEXT: [S] [Rest 2 of your ::Master:: Characters] This gains +1 Level and +2000
+Power for the turn.
+
+================================================================================
+
+Tokiomi, Gem Magic
+宝石魔術 時臣
+Card No.: FZ/S17-077  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 宝石 (Gem)
+Triggers: None
+Flavor: Now that we have met again, I must punish you
+TEXT: -- None --
+
+================================================================================
+
+Kariya, Man Who Ran Away from Destiny
+運命から逃げた男 雁夜
+Card No.: FZ/S17-078  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 虫 (Bug)
+Triggers: Soul 
+Flavor: I cannot forgive you... dirty magi...!
+TEXT: -- None --
+
+================================================================================
+
+Archer, Solitude Way of the King
+孤高なる王道 アーチャー
+Card No.: FZ/S17-079  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: All treasures in the world are mine
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+::Standing:: Servant Characters and Rest it.
+
+================================================================================
+
+Sword of Azoth
+アゾット剣
+Card No.: FZ/S17-080  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Tokiomi: "You practiced the magic of Tohsaka, and this shall serve
+as proof of the end of the apprentince process"
+TEXT: Choose 1 ::Servant:: Character in your Waiting Room and return it to your
+hand. Choose 1 of your ::Master:: Characters. That Character gains +3000 Power
+for the turn.
+
+================================================================================
+
+Vimana
+ヴィマーナ
+Card No.: FZ/S17-081  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Archer: "It's that mad dog again... Interesting..."
+TEXT: Choose up to 2 Characters with "Archer" in your Waiting Room and return
+them to your hand. Discard a card from your hand to the Waiting Room.
+Reveal the top card of your Library. If it's a Climax card, put it in Clock.
+(Put it back otherwise)
+
+================================================================================
+
+Arondite
+無毀なる湖光
+Card No.: FZ/S17-082  Rarity: C
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Saber: "A... Arondite... Are you-"
+TEXT: [Counter] Choose 1 of your Characters. That Character gains +X Power. X =
+1500 times the Cost of that Character. 
+
+================================================================================
+
+Real Form of the Fallen Knight
+墜ちた騎士の正体
+Card No.: FZ/S17-083  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: -- And "he" lost everything
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Farewell with Rin
+凛との別れ
+Card No.: FZ/S17-084  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: "There's only one thing to say for the prideful niece of
+Tohsaka as one of the past generation"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Ea, Sword of Rupture
+乖離剣エア
+Card No.: FZ/S17-085  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Now watch - "Enuma Elish"!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Kirei, Void Within
+内なる虚無 綺礼
+Card No.: FZ/S17-086  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Admit it. I'm a hollow person
+TEXT: [C] During your Opponent's turn, all your other ::Master:: Characters
+gain +1000 Power.
+[A] CHANGE [(4) Discard a Climax card from your hand to the Waiting Room, Put
+this in the Waiting Room] At the start of your Draw Phase, you may pay cost. If
+so, choose a "Kirei Kotomine" in your Waiting Room and put it in the Slot this
+was in.
+
+================================================================================
+
+Kirei, Void Within
+内なる虚無  綺礼
+Card No.: FZ/S17-086S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] During your Opponent's turn, all your other ::Master:: Characters
+gain +1000 Power.
+[A] CHANGE [(4) Discard a Climax card from your hand to the Waiting Room, Put
+this in the Waiting Room] At the start of your Draw Phase, you may pay cost. If
+so, choose a "Kirei Kotomine" in your Waiting Room and put it in the Slot this
+was in.
+
+================================================================================
+
+Kirei, Movement of Soul
+魂の躍動 綺礼
+Card No.: FZ/S17-087  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [Discard a ::Master:: Character from your hand to the Waiting Room]
+When this is placed from hand to the Stage, you may pay cost. If so, draw a
+card.
+
+================================================================================
+
+Caster, Sadistic Artst
+嗜虐の芸術家 キャスター
+Card No.: FZ/S17-088  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Just you wait, Ryuunosuke. I shall show you the best COOL
+TEXT: [A] [Put 1 of your other Characters in the Waiting Room] When this
+attacks, if a BLUE Climax is in the Climax Zone, you may pay cost. If so, this
+gains +2000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Kirei Kotomine
+言峰 綺礼
+Card No.: FZ/S17-089  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: Soul 
+Flavor: Fear the disaster as the Lord is with me
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in the Waiting Room.
+[S] [(2) Rest 2 of your Characters] Search your Library for up to 1 Character
+with either ::Master:: and/or ::Servant::, reveal it, and put it in your hand.
+Shuffle your Library.
+
+================================================================================
+
+Caster, Beauty of Death
+死の美学 キャスター
+Card No.: FZ/S17-090  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: That's right! Just as is! Good job Ryuunosuke!
+TEXT: [A] When "Trickery of Destiny" is placed in your Climax Zone, if this is
+in the Front Row, search your Library for up to 1 Level 0 or lower Character,
+reveal it, and put it in any Slot on the Stage. Shuffle your Library.
+
+================================================================================
+
+Archer, Current World After Reincarnation
+受肉による現界 アーチャー
+Card No.: FZ/S17-091  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Troublesome guy
+TEXT: [C] If you have 3 or more other Characters with either ::Master:: and/or
+::Servant::, this gains "[A] ENCORE [Discard a Character card from your hand to
+the Waiting Room]".
+[S] [(1)] Choose 1 of your ::Servant:: Characters. That Character gains +1500
+Power for the turn.
+
+================================================================================
+
+Risei, Observer
+監督役 璃正
+Card No.: FZ/S17-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 神 (God)      Trait 2: None
+Triggers: None
+Flavor: ... Shall we get to the real issue
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Assassin, One of Many
+群にして個 アサシン
+Card No.: FZ/S17-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: I, the shadowy heroic spirit... shall become the true shadow-
+TEXT: [S] [Rest 2 of your ::Master:: Characters] This can Side Attack this turn
+without Soul Penalty.
+
+================================================================================
+
+Kirei, Apprentice 
+魔術師の弟子 綺礼
+Card No.: FZ/S17-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Ryuunosuke, Homocidal Sadist
+快楽殺人鬼 龍之介
+Card No.: FZ/S17-095  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: Hey, blue beard!
+TEXT: [A] When another of your Characters or 1 of your Opponent's Battling
+Characters becomes Reversed, this gains +1000 Power for the turn.
+
+================================================================================
+
+Kirei, Protector of Religion
+信仰の護り手 綺礼
+Card No.: FZ/S17-096  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: Soul 
+Flavor: ... Entertainment is joy?
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+[A] When this attacks, if "8th Pact" is in the Climax Zone, you may draw a card.
+
+================================================================================
+
+Flame of Hell
+煉獄の炎
+Card No.: FZ/S17-097  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Impossible.. Impossible!
+TEXT: Search your Library for up to 1 ::Master:: Character and up to 1
+::Servant:: Character, reveal them, and put them in your hand. Shuffle your
+Library. Discard a card from your hand to the Waiting Room. Put this in Clock.
+
+================================================================================
+
+Sea Monster
+海魔
+Card No.: FZ/S17-098  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: The horrible fluid that would cause one to vomit reflects light - it is
+an island of flesh
+TEXT: Choose 1 Character in your hand and send it to Memory face-down. Your
+Opponent chooses either 2 or 3. Reveal the card. If the Level of the Character
+sent to Memory via this effect is the same as the number your Opponent picked,
+put it in any Slot on the Stage. If not, put that card in Waiting Room.
+
+================================================================================
+
+8th Pact
+第八の契約
+Card No.: FZ/S17-099  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Until I get the answer I hoped for, I shall play the part of clown...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Trickery of Destiny
+運命の悪戯
+Card No.: FZ/S17-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I have gained the magic to control the demonic army. How's that,
+Joan of Arc!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

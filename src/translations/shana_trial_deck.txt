@@ -1,0 +1,256 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Shana, Bearer of the Vairocana of the Offering Room
+贄殿遮那の担い手 シャナ
+Card No.: SS/W14-101  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm not just a Flame Haze, I'm the Flame-haired Blazing-eyed
+Hunter, and I fight for what I believe in!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] This ability can be used up to once per turn. When you place another
+::Flame:: Character from hand to the stage, choose 1 of your Characters. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Educator Wilhelmina
+養育係 ヴィルヘルミナ
+Card No.: SS/W14-102  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 炎 (Flame)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: There may be time where you need to make a distinction
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If that card is not a ::Flame:: Character, this gains "[C] This
+cannot Front Attack." for the turn. (Put the revealed card back where it was)
+
+================================================================================
+
+Shana, Student of the Misaki High School
+御崎高校の生徒 シャナ
+Card No.: SS/W14-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メロンパン (Melon Bread)
+Triggers: None
+Flavor: Hmm, I will not tell you that!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Shana, Fluttered and Black-clothed
+翻る黒衣 シャナ
+Card No.: SS/W14-104  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 炎 (Flame)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You want to test whether this is rather used not at its full potential?
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock to your Waiting Room.
+[A] When another battling Character of yours becomes Reversed, this gains +1000
+Power for the turn.
+
+================================================================================
+
+"Flame Haze" Shana
+“フレイムヘイズ”シャナ
+Card No.: SS/W14-105  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メロンパン (Melon Bread)
+Triggers: Soul 
+Flavor: I'm just a normal Flame Haze. No more, no less.
+TEXT: [S] [Rest 1 of your ::Flame:: Characters] This gain +1000 Power for the
+turn.
+
+================================================================================
+
+Shana who Loves Melon Bread
+メロンパン大好き シャナ
+Card No.: SS/W14-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メロンパン (Melon Bread)
+Triggers: None
+Flavor: The melon bread here is nicely hard on the outside and tasty
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+Puzzled Shana
+戸惑うシャナ
+Card No.: SS/W14-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メロンパン (Melon Bread)
+Triggers: None
+Flavor: What is this? I can't understand this.
+TEXT: -- None --
+
+================================================================================
+
+The Feeling that Nothing Can Be Done
+どうしようもない気持ち
+Card No.: SS/W14-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Like? Me... Yuji....
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Wilhelmina Carmel
+ヴィルヘルミナ・カルメル
+Card No.: SS/W14-T04  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: Now I can see the new age
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +500 Power for te turn.
+
+================================================================================
+
+Margery Daw
+マージョリー・ドー
+Card No.: SS/W14-T05  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Heh, aren't you doing great!
+TEXT: [C] When another battling Character of yours becomes Reversed, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Shana, Flame-Haired Blazing-Eyed Hunter
+“炎髪灼眼の討ち手”シャナ
+Card No.: SS/W14-T06  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: There!!
+TEXT: -- None --
+
+================================================================================
+
+"Improvisational Poem of Slaughter" Margery
+“屠殺の即興詩”マージョリー
+Card No.: SS/W14-T07  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Margery: "Rain of the Fox's wife!" Marchosias: "Buddha
+of this moment!"
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Shana, Something to Protect
+守るべきもの シャナ
+Card No.: SS/W14-T08  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Yuji.. I will help you!!
+TEXT: [A] [(1)] When this attacks, if "Power of Will" is in the Climax Zone,
+you may pay cost. If you do, choose up to 1 card in your opponent's Waiting
+Room and put it on top of the Library. This gains +3000 Power for the turn.
+
+================================================================================
+
+"Manipulator of Objects" Wilhelmina Carmel
+“万条の仕手”ヴィルヘルミナ・カルメル
+Card No.: SS/W14-T09  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: I shall be your opponent
+TEXT: -- None --
+
+================================================================================
+
+Shana, Contractor of Alastor
+アラストールの契約者 シャナ
+Card No.: SS/W14-T10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 炎 (Flame)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: You have no allies
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Mobilizer of Ceremonial Equipment" Khamsin Nbh'w 
+“儀装の駆り手”カムシン・ネブハーウ
+Card No.: SS/W14-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 炎 (Flame)      Trait 2: 神器 (Relics)
+Triggers: Soul 
+Flavor: I was seeking assistance and thought you're the most suitable
+TEXT: -- None --
+
+================================================================================
+
+Torch and Flame Haze
+トーチとフレイムヘイズ
+Card No.: SS/W14-T12  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yuji "It's impossible as a normal Torch" Shana
+"Don't say normal. You're Yuji Sakai"
+TEXT: Search your Library for up to 1 ::Flame:: Character, reveal it to your
+opponent, and put it in your hand. Shuffle your Library. Choose 1 of your
+Characters. That Character gain +1000 Power for the turn.
+
+================================================================================
+
+Power of Will
+想いの力
+Card No.: SS/W14-T13  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Yuji... I shall protect you!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Anything is Possible
+何でもできる
+Card No.: SS/W14-T14  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Yuji's here... Power overwhelming... anything is possible...!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

@@ -1,0 +1,252 @@
+Idolm@ster Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Haruka, Song Lover
+歌が大好きな春香
+Card No.: IM/S07-101  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Can I be next? Come, come to the stage just for us!
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Music:: Character and put it in the
+Waiting Room. Shuffle your Library.
+
+================================================================================
+
+Chihaya, Hard Worker
+努力家 千早
+Card No.: IM/S07-102  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: ...Watch from behind me. Watch my effort now... and my future
+TEXT: [C] If you have 5 or more cards in your hand, this gains "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Haruka, Regular Girl
+普通の女の子 春香
+Card No.: IM/S07-T01  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Producer-sa~n! Please stay there and watch me!
+TEXT: -- None --
+
+================================================================================
+
+Makoto, Sports Lover
+運動好きな真
+Card No.: IM/S07-T02  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Hehe, it was obvious that nobody else other than me can be the first
+one up!
+TEXT: [A] When this attacks, choose up to 2 of your ::Music:: Characters. Those
+Characters gain +500 Power for the turn.
+
+================================================================================
+
+Makoto, Gallant and Fearlessly Determined
+りりしく精悍 真
+Card No.: IM/S07-T03  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Producer, please watch my full ability!
+TEXT: [A] CHANGE [(3) Discard a card from hand to the Waiting Room, put this in
+the Waiting Room] At the beginning of the Climax Phase, you may pay cost. If
+so, choose a "Makoto, Powerful Girl" in your Waiting Room and put it in the
+Slot this was in.
+
+================================================================================
+
+Makoto, Prince-sama
+王子様 真
+Card No.: IM/S07-T04  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Everyone, thank you for waiting! Let me take over now
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Yayoi, 200&#37; Cheerful!
+200％元気！やよい
+Card No.: IM/S07-T05  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Every~one! Let's do this with high spirits~!
+TEXT: [C] If "Present" is in your Memory, all your other ::Music:: Characters
+gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Yayoi, High-Five
+ハイタッチやよい
+Card No.: IM/S07-T06  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Eh, eh~, high-five! Yay!
+TEXT: [A] When this is placed from hand to the Stage, if your Opponent has a
+"Yayoi, High-Five", and everyone agrees, high-five. If so, everyone draws a
+card. (Please pay attention to the noise level)
+
+================================================================================
+
+Makoto, Powerful Girl
+パワフルガール真
+Card No.: IM/S07-T07  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Well, this ends my turn. However, if you dare to forget me, you will be
+burnt, got it?
+TEXT: [A] When this is Reversed while battling, choose 1 of your ::Music::
+Characters. That Character gains +1000 Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Haruka, Passionate for Songs
+歌への情熱 春香
+Card No.: IM/S07-T08  Rarity: TD
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: If I remember memories that I made with producer-san, there's
+nothing for me to be scared of in the world!
+TEXT: [A] [(1)] When this is placed from Waiting Room to the Stage, you may pay
+cost. If so, choose a Character in your Waiting Room and return it to your
+hand.
+[S] [Put a "Present" from your Memory in your Waiting Room] This gains +1000
+Power and "[A] When the Battle Opponent of this becomes Reversed, you may put
+it on top of the Library" for the turn.
+
+================================================================================
+
+Present
+プレゼント
+Card No.: IM/S07-T09  Rarity: TD
+Color: Red   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Producer-san~. These are cookies that I baked yesterday... Would you
+like one?
+TEXT: Choose a ::Music:: Character in your Waiting Room and reutnri it to your
+hand. Send this to Memory.
+
+================================================================================
+
+I Want
+I Want
+Card No.: IM/S07-T10  Rarity: TD
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kneel there!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kotori, Supporting Role
+サポート役 小鳥
+Card No.: IM/S07-T11  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: If there's something you don't know, feel free to ask me.
+I'll do my best to support you
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Chihaya, Cool and Stoic
+クールでストイック千早
+Card No.: IM/S07-T12  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: If you don't make friends with loneliness, stuff like becoming the
+top idol would just be a dream
+TEXT: [C] If you don't have another Character, this gains +1 Level and +1500
+Power.
+
+================================================================================
+
+Chihaya, Vocalist
+ボーカリスト千早
+Card No.: IM/S07-T13  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Producer, today's weather is nice. Hehe, it's okay if I
+occasionally get this feeling to skip work, right?
+TEXT: -- None --
+
+================================================================================
+
+Azusa, Unhurried and Leisurely
+ゆっくりのんびり  あずさ
+Card No.: IM/S07-T14  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Uh, producer-san~? ...Hehehe, I just felt like saying it
+TEXT: -- None --
+
+================================================================================
+
+Ritsuko, Almighty
+オールマイティ律子
+Card No.: IM/S07-T15  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: Hehehe, how are my glasses? Now looking for people that say this fits
+me well!
+TEXT: -- None --
+
+================================================================================
+
+Me Ga Au Toki
+目が逢う瞬間
+Card No.: IM/S07-T16  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Eye met eye / Instantly realizing this feeling of like
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

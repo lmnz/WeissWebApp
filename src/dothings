@@ -1,0 +1,13 @@
+find *.py | xargs dos2unix
+cd translations
+allFiles=($(find *.txt))
+for file in "${allFiles[@]}"
+do
+	../parser.py $file
+done
+cd ..
+echo The number of cards extracted from the files was: `wc -l < translations/cards.csv`
+mysql < drop.sql
+mysql < create.sql
+mysql < load.sql
+rm translations/cards.csv

@@ -1,0 +1,253 @@
+Da Capo Plus Communication Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Otome, Caretaker
+世話焼き音姫
+Card No.: DC/W09-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: See? You didn't do your shirt buttons properly.
+TEXT: [C] RECOLLECTION If there are 3 or more cards in your Memory, this gains
+"[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Nemu, Boys Over Flowers
+花より団子 音夢
+Card No.: DC/W09-102  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: だんご (Dumpling)
+Triggers: None
+Flavor: That's fine, just eat some. Would you like some tea, onii-chan?
+TEXT: [A] When this is placed from hand to the Stage, you may choose 1
+::Magic:: Character in your Waiting Room and put it on top of your Library.
+
+================================================================================
+
+Sakura Who Proposed
+告白するさくら
+Card No.: DC/W09-103  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 先生 (Teacher)
+Triggers: Soul 
+Flavor: That's right. You're the miracle caused by the magic of this
+cherry blossom.
+TEXT: [A] When this attacks, if "Unwithering Cherry Blossom" is in the Climax
+Zone, you may return 1 of Opponent's Characters to the hand.
+
+================================================================================
+
+Unwithering Cherry Blossom
+枯れない桜
+Card No.: DC/W09-104  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...Thank you for letting me dream until now.
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Hypocritical Yume
+猫かぶり由夢
+Card No.: DC/W09-105  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: What can I do~, you know, onii-chan
+TEXT: -- None --
+
+================================================================================
+
+Yuuhi Takanashi
+小鳥遊 夕陽
+Card No.: DC/W09-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Sis, can we play together later~?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Otome, Age of Sophistication
+複雑なお年頃 音姫
+Card No.: DC/W09-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: ... What are you doing?
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If you do, this gains +1 Soul for the turn, and at the end of the turn, send
+this to Memory.
+
+================================================================================
+
+Sakura in Maid Uniform
+メイド服のさくら
+Card No.: DC/W09-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: I shall show you how strong a mother's love can be
+TEXT: -- None --
+
+================================================================================
+
+Sakura, Cute and Energetic
+キュートで元気さくら
+Card No.: DC/W09-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Ah, I found onii-chan
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Otome, Uniform of Attached School
+付属制服の音姫
+Card No.: DC/W09-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: *yawn* I haven't seen blue sky in a while~
+TEXT: [C] RECOLLECTION If there are 2 or more cards in your Memory, this gains
++1000 Power.
+
+================================================================================
+
+Mahiru in Gymnastics Outfit
+体操着のまひる
+Card No.: DC/W09-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: たとえ話 (Simple Example)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: Ehehe. I know that I have a strong resilence. For example---
+TEXT: -- None --
+
+================================================================================
+
+Aisia in Maid Uniform
+メイド服のアイシア
+Card No.: DC/W09-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: メイド (Maid)      Trait 2: None
+Triggers: Soul 
+Flavor: Then I shall show you the love of a wife!
+TEXT: -- None --
+
+================================================================================
+
+Season of Cherry Blooming
+桜の咲く季節に
+Card No.: DC/W09-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Promise? I've been lonely and sad until now...
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Kotori & Nemu & Sakura
+ことり＆音夢＆さくら
+Card No.: DC/W09-T09  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Nemu: "Onii-chan, are you busy?"
+TEXT: [A] [(1)] When this becomes Reversed while battling, you may pay cost. If
+you do, send this to Memory.
+
+================================================================================
+
+Yume & Otome & Erica
+由夢＆音姫＆エリカ
+Card No.: DC/W09-T10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Otome: "Now, shall we also get going?"
+TEXT: -- None --
+
+================================================================================
+
+Myu, Truthful And Holding On
+素直でがんばり屋μさん
+Card No.: DC/W09-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: Master, this way! Come this way quickly!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+
+================================================================================
+
+Nemu, Judgment
+風紀委員 音夢
+Card No.: DC/W09-T12  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: It's really untidy...
+TEXT: [A] [(1)] When this attacks, if "Only One Wish" is in the Climax Zone,
+you may pay cost. If you do, choose 1 Character in your Waiting Room and return
+it to your hand.
+
+================================================================================
+
+White Christmas
+ホワイトクリスマス
+Card No.: DC/W09-T13  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Onii-chan, come quickly
+TEXT: Choose up to 2 Characters in your Waiting Room and return them to your
+hand, then discard a card from your hand to the Waiting Room. Send this card to
+Memory.
+
+================================================================================
+
+Only One Wish
+たった1つの願い
+Card No.: DC/W09-T14  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: I wish I can be with onii-chan forever. That would be enough happiness
+for me
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

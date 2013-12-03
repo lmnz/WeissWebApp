@@ -1,0 +1,259 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Elen & Reiji, Peaceful Life
+平和な生活 江漣＆玲二
+Card No.: PT/W07-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Elen: "Please protect me properly, okay?"
+TEXT: [A] When this attacks, if you have 2 or fewer other Characters, all your
+Characters gains +1000 Power for the turn.
+
+================================================================================
+
+Cleaning Cal
+掃除するキャル
+Card No.: PT/W07-102  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メイド (Maid)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: Just wait a moment. After I finish cleaning here food will be served
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When tis is placed from hand to the Stage, choose 1 of your other
+Characters. That Character gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Hungry Cal
+はらぺこキャル
+Card No.: PT/W07-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: Making a pile of hamburgers in front of you like this, and eat until
+you can't eat anymore!
+TEXT: [A] When another Character of yours is put from the Stage to the Clock,
+this gains +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Elen, Reiji's Kid Sister
+玲二の妹 江漣
+Card No.: PT/W07-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Please be careful out there, nii-san
+TEXT: -- None --
+
+================================================================================
+
+Cal Devens
+キャル・ディヴェンス
+Card No.: PT/W07-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: None
+Flavor: I'll try to fill my role!
+TEXT: -- None --
+
+================================================================================
+
+Cal, Dressing Up
+おめかしキャル
+Card No.: PT/W07-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 時計 (Clock)      Trait 2: None
+Triggers: Soul 
+Flavor: This is the first time that I wore a light and swishy cloth like this!
+TEXT: [A] CHANGE [(2) Put this in Clock] At the beginning of your Climax Phase,
+you may pay cost. If so, put a "Cal, Practicing" from your Waiting Room to the
+Slot this was in.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Ein in Swimsuits
+水着のアイン
+Card No.: PT/W07-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: How's this?
+TEXT: [A] When a Character battling another of your Character becomes Reversed,
+this gains +1000 for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Elen in Sailor Uniform
+セーラー服の江漣
+Card No.: PT/W07-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: ... The only reason I live is to protect you...
+TEXT: -- None --
+
+================================================================================
+
+Cal, Practicing
+練習中のキャル
+Card No.: PT/W07-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Reiji: "Uh, was it Deniro or something!? Try it"
+TEXT: [A] When this is placed from the Waiting Room to the Stage, you may
+choose 1 of your Opponent's Back Row Characters whose Cost is 0 or lower and
+return it to the hand.
+
+================================================================================
+
+Training
+訓練
+Card No.: PT/W07-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ein: "You hold it like... this. Don't put your finger on the
+trigger"
+TEXT: Choose 1 of your ::Weapon:: Characters. That Character gains +2000 Power
+and +1 Soul.
+
+================================================================================
+
+Memories of Wind
+風の記憶
+Card No.: PT/W07-T09  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: The lights that are blinding.. And then, the wind blows. A very strong
+wind
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+"Best Work" Ein
+“最高傑作”アイン
+Card No.: PT/W07-T10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: We only need to perform our tasks. Don't think about anything else
+TEXT: [C] All your other ::Weapon:: Characters gain +500 Power.
+[S] [Put this in Clock] All your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Ein, No.1 Girl
+一番目の女アイン
+Card No.: PT/W07-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: I'm Ein, No.1 girl
+TEXT: [C] If you have 2 or fewer other Characters, all your other Characters
+gain +500 Power.
+
+================================================================================
+
+Drei, New Phantom
+新たなファントム ドライ
+Card No.: PT/W07-T12  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: ... I don't know much about Japanese Yakuzas
+TEXT: -- None --
+
+================================================================================
+
+Drei, Berserking
+暴走するドライ
+Card No.: PT/W07-T13  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: None
+Flavor: ...Eh? What do you mean?
+TEXT: [A] When this attacks, choose another of your Front Row Characters. Put
+that Character in the Waiting Room.
+
+================================================================================
+
+Drei, Flourishing Gunplay
+華麗なるガンプレイ ドライ
+Card No.: PT/W07-T14  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Scythe: "She can do it in 10 seconds"
+TEXT: [A] [(3)] When this attacks, if "Anger" is in the Climax Zone, you may
+pay cost. If so, deal 2 damage to your Opponent. (Damage Cancel can occur)
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Elen VS Drei
+江漣VSドライ
+Card No.: PT/W07-T15  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: 時計 (Clock)
+Triggers: Soul 
+Flavor: Drei: "... Nice to meet you, Ein. ... Or should I call you the
+Ex-Phantom...?"
+TEXT: -- None --
+
+================================================================================
+
+Conclusion
+決着
+Card No.: PT/W07-T16  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Drei: "It was nice to meet you... That is enough to make me
+happy..."
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Anger
+憤怒
+Card No.: PT/W07-T17  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: If you can beat me... everyone in the world will throw themselves at
+your feet
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+

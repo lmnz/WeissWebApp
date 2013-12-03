@@ -1,0 +1,1505 @@
+Rewrite Harvest festa! Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Beloved Quaesitor" Kotori
+“親愛なる探求者”小鳥
+Card No.: RW/W20-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Come with, Kotarou-kun
+TEXT: [C] If you have 2 or more other ::Plant:: Characters, this gains +1000
+Power and +1 Soul.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, draw
+up to 2 cards, and discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+"Beloved Quaesitor" Kotori
+“親愛なる探求者”小鳥
+Card No.: RW/W20-001S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 2 or more other ::Plant:: Characters, this gains +1000
+Power and +1 Soul.
+[A] When this is placed from hand to the Stage or via CHANGE to the Stage, draw
+up to 2 cards, and discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+"Mischievous Kiss" Chihaya
+“いたずらなキス”ちはや
+Card No.: RW/W20-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Grr, why are you running away~
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this
+attacks, you may pay cost. If so, all your Characters gain +500 Power and +1
+Soul for the turn.
+[A] This ability may be activated up to once per turn. During the turn this is
+placed from hand to the Stage, if the Damage dealt by this is Cancelled, you
+may deal 1 Damage to your Opponent. (Damage Cancel can occur)
+
+================================================================================
+
+"Mischievous Kiss" Chihaya
+“いたずらなキス”ちはや
+Card No.: RW/W20-002S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this
+attacks, you may pay cost. If so, all your Characters gain +500 Power and +1
+Soul for the turn.
+[A] This ability may be activated up to once per turn. During the turn this is
+placed from hand to the Stage, if the Damage dealt by this is Cancelled, you
+may deal 1 Damage to your Opponent. (Damage Cancel can occur)
+
+================================================================================
+
+"Official Couple" Chihaya
+“公認カップル”ちはや
+Card No.: RW/W20-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: N-o w-a-y!
+TEXT: [A] [(1)] When this attacks, if "Playing Water With Everyone" is in the
+Climax Zone, you may pay cost. If so, choose an Opponent's Character and return
+it to the hand.
+
+================================================================================
+
+"Charismatic Witch-Sama" Akane
+“カリスマ魔女様”朱音
+Card No.: RW/W20-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Well, if you want to try, I'll respond
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] When a card in either player's Clock is moved to Waiting Room due to an
+effect of a card of its owner's, that player may put the top 2 cards in their
+Stock in the Waiting Room. If not, that player puts the top card of the Library
+in Clock.
+
+================================================================================
+
+"Charismatic Witch-Sama" Akane
+“カリスマ魔女様”朱音
+Card No.: RW/W20-004SP  Rarity: SP
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] When a card in either player's Clock is moved to Waiting Room due to an
+effect of a card of its owner's, that player may put the top 2 cards in their
+Stock in the Waiting Room. If not, that player puts the top card of the Library
+in Clock.
+
+================================================================================
+
+"Highest Blessing" Kotori
+“最高の祝福”小鳥
+Card No.: RW/W20-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: None
+Triggers: Soul 
+Flavor: Aha... No... I'm... already crying... ahaha...
+TEXT: [A] When this attacks, if "Crossed Feelings" is in the Climax Zone, look
+at up to 5 cards from top your Library and choose up to 1 ::Plant:: and/or
+::Occult:: Character, reveal it, and put it in your hand. Put the rest in the
+Waiting Room, and this gains +2000 Power for the turn.
+[A] CHANGE [(2) Put this in Waiting Room] At the beginning of your Encore Step,
+if tis is Rested, you may pay cost. If so, choose a '"Beloved Quaesitor"
+Kotori' in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"A Cup to Wake Up" Sakuya
+“目覚めの一杯”咲夜
+Card No.: RW/W20-006  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 執事 (Butler)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: .........
+TEXT: [A] This ability may be activated up to once per turn. When you use
+BACKUP, choose 1 of your Characters in battle. That Character gains +500 Power
+for the turn.
+[A] BOND/'"Everyone Gather" Chihaya' [(1)]
+
+================================================================================
+
+Inoue in Swimsuits
+水着の井上
+Card No.: RW/W20-007  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: カメラ (Camera)
+Triggers: None
+Flavor: Oh, witch-sama is sexy~
+TEXT: [C] During your turn, your other Character in your Front Row Center Slot
+gains +1000 Power.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax revealed this way, choose 1 of your Characters.
+That Character gains +1 Soul for the turn.
+
+================================================================================
+
+"Talented High School Student Reporter" Inoway
+“敏腕高校生記者”イノウェイ
+Card No.: RW/W20-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: カメラ (Camera)
+Triggers: None
+Flavor: It's not interesting. The public seeks excitement. As a reporter,
+we must march into danger
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+"Honest Feelings" Kotori
+“正直な気持ち”小鳥
+Card No.: RW/W20-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: None
+Triggers: None
+Flavor: ... It's okay if you like me
+TEXT: [C] During your turn, if you have 2 or fewer other Characters, all your
+other Characters gain +1000 Power.
+
+================================================================================
+
+"Vacation Mood" Kotori
+“バカンス気分！”小鳥
+Card No.: RW/W20-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Good choice. You known how it is
+TEXT: [C] During your Climax Phase, you cannot play a Climax card from your
+hand.
+
+================================================================================
+
+"Heart of NEET" Akane
+“ニートのこころ”朱音
+Card No.: RW/W20-011  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: I want to go home already...
+TEXT: [S] [(1) Put this in Waiting Room] Choose 1 of your Characters and return
+it to your hand.
+
+================================================================================
+
+"Yoshino's Ideal" Super Yoshino
+“ヨッシーノの理想”スーパー吉野
+Card No.: RW/W20-012  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 不良 (Delinquent)      Trait 2: 覚醒 (Awaken)
+Triggers: Soul 
+Flavor: I know. This is the realization of my strength. Nothing more, nothing
+less. The six golden wings that falles into the depth. That is me
+TEXT: [C] The Event card "Mach Knuckle: Point Zero" in your hand gain
+[COUNTER].
+[A] This ability may be activated up to once per turn. When you use an Event,
+this gains +2000 Power for the turn.
+
+================================================================================
+
+"Unexpected Blunder" Chihaya & Sakuya
+“まさかの不覚”ちはや＆咲夜
+Card No.: RW/W20-013  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: 執事 (Butler)
+Triggers: Soul 
+Flavor: Sakuya: "This is impossible..." Chihaya: "Sa, Sakuya-!"
+TEXT: [C] If there are 5 or fewer cards in your Stock, this gains +1500 Power.
+
+================================================================================
+
+"Future of Two" Kotarou
+“二人の未来”瑚太朗
+Card No.: RW/W20-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: ... Is that so
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+"Future of Two" Chihaya
+“二人の未来”ちはや
+Card No.: RW/W20-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Kotarou just needs to be Kotarou, and that's all
+TEXT: [C] All your other ::Sweets:: Characters gain +500 Power.
+
+================================================================================
+
+Kotori in Swimsuits
+水着の小鳥
+Card No.: RW/W20-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Ooh, the water feels nice... I'm in heaven~
+TEXT: -- None --
+
+================================================================================
+
+Akane in Swimsuits
+水着の朱音
+Card No.: RW/W20-017  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: This air... It's the expected ero shonen aura during a swimsuit
+episode!
+TEXT: [A] When this attacks, choose 1 of your other Characters. That Character
+gains +1500 Power for the turn.
+
+================================================================================
+
+"Small Happiness" Kotori
+“小さなしやわせ”小鳥
+Card No.: RW/W20-018  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Even small happiness, when piled up, can change into big happiness
+TEXT: -- None --
+
+================================================================================
+
+"Everyone Gather" Chihaya
+“みんなとお揃い”ちはや
+Card No.: RW/W20-019  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Do... do I look off?
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+"Number One Reason" Kotori
+“一番の理由”小鳥
+Card No.: RW/W20-020  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: None
+Triggers: None
+Flavor: ... Are, are you serious?
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+"Human-made Miracle" Kotarou
+“人為的な奇跡”瑚太朗
+Card No.: RW/W20-021  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: オカルト (Occult)      Trait 2: None
+Triggers: Soul 
+Flavor: Kotori: "Kotarou-kun, is this..." Kotarou: "Ah... No
+mistaken it. ... It's them"
+TEXT: -- None --
+
+================================================================================
+
+Caught Werefish Yoshino!
+魚人ヨッシーノ捕獲！
+Card No.: RW/W20-022  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Chihaya: "Whaaaaaaaaaaaaaaaaat!?"
+TEXT: This cannot be played from hand if you have 1 or fewer Characters with
+either ::Occult:: and/or ::Delinquent::.
+All your Characters gain +2000 Power and +1 Soul for the turn.
+Put this in Clock.
+
+================================================================================
+
+On This Beautiful Day, With Out Whole Hearts.
+この良き日に、真心こめて。
+Card No.: RW/W20-023  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: "We are getting married!"
+TEXT: [COUNTER] You cannot play this from hand if you have 1 or fewer YELLOW
+Characters.
+Choose 1 of your Characters. That Character gains +4000 Power for the turn.
+
+================================================================================
+
+Playing Water With Everyone
+みんなで水遊び
+Card No.: RW/W20-024  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Chihaya: "Ahaha Akane-san take this~"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Crossed Feelings
+交わった気持ち
+Card No.: RW/W20-025  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ... Idiot
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Crossed Feelings
+交わった気持ち
+Card No.: RW/W20-025R  Rarity: RRR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+"Beloved Quaesitor" Shizuru
+“親愛なる探求者”静流
+Card No.: RW/W20-026  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Let's go, Kotarou
+TEXT: [C] All your other Characters gain +500 Power.
+[S] [(1) Rest this] Choose a card in your Clock and return it to your hand.
+Choose a card in your hand and put it in Clock.
+
+================================================================================
+
+"Beloved Quaesitor" Shizuru
+“親愛なる探求者”静流
+Card No.: RW/W20-026S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other Characters gain +500 Power.
+[S] [(1) Rest this] Choose a card in your Clock and return it to your hand.
+Choose a card in your hand and put it in Clock.
+
+================================================================================
+
+"Beloved Quaesitor" Lucia
+“親愛なる探求者”ルチア
+Card No.: RW/W20-027  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: The one who took my hand... was you, Kotarou
+TEXT: [C] For each Marker under this, this gains +1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may choose an
+::Occult:: Character in your Waiting Room and put it face-down under this as
+Marker.
+
+================================================================================
+
+"Beloved Quaesitor" Lucia
+“親愛なる探求者”ルチア
+Card No.: RW/W20-027S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each Marker under this, this gains +1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may choose an
+::Occult:: Character in your Waiting Room and put it face-down under this as
+Marker.
+
+================================================================================
+
+"Day of Departure" Lucia
+“旅立ちの日”ルチア
+Card No.: RW/W20-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: None
+Triggers: None
+Flavor: Lucia Konohana shall forever belong to Kotarou Tennouji. ... Make the
+mark
+TEXT: [A] [(1) Put the top card of your Library in Clock] When this attacks, if
+"Akari's Determination" is in the Climax Zone, you may pay cost. If so, all
+your Characters gain +3500 Power for the turn, and at the end of the turn, put
+this in Memory.
+
+================================================================================
+
+"Day of Departure" Lucia
+“旅立ちの日”ルチア
+Card No.: RW/W20-028S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Put the top card of your Library in Clock] When this attacks, if
+"Akari's Determination" is in the Climax Zone, you may pay cost. If so, all
+your Characters gain +3500 Power for the turn, and at the end of the turn, put
+this in Memory.
+
+================================================================================
+
+"Seat of Strongest" Shizuru
+“最強の座”静流
+Card No.: RW/W20-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Kotarou: "Shizuru... I came to honor my promise"
+TEXT: [A] When this attacks, if "Honored Promise" is in the Climax Zone, this
+gains +3500 Power and "[A] When the Battle Opponent of this becomes Reversed,
+you may put the top card of your Library in Stock" for the turn.
+
+================================================================================
+
+"Blitz Attack!" Shizuru
+“神速攻撃！”静流
+Card No.: RW/W20-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Ultra shot! Hah!
+TEXT: [C] If there are 6 or more Climax cards in your Waiting Room, this gets
+-1 Level in your Level.
+[A] When this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +3000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Blitz Attack!" Shizuru
+“神速攻撃！”静流
+Card No.: RW/W20-030SP  Rarity: SP
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 6 or more Climax cards in your Waiting Room, this gets
+-1 Level in your Level.
+[A] When this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +3000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Kill Enemies on Sight" Shizuru
+“けんてきひっさつ”静流
+Card No.: RW/W20-031  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: I will take point
+TEXT: [C] All your other Characters gain "[C] This cannot Side Attack".
+
+================================================================================
+
+Lucia in Swimsuits
+水着のルチア
+Card No.: RW/W20-032  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Wait, wait. If you don't do warm-ups it'll be dangerous. What
+if you drown
+TEXT: -- None --
+
+================================================================================
+
+"Lucia's Proxy" Kotarou
+“ルチアの代弁者”瑚太朗
+Card No.: RW/W20-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: The anger and sorrow of Lucia and Akari. ... I shall gather them all,
+... and, ... unleash it on you
+TEXT: [A] ACCELERATE [Put the top card of your Library in Clock] At the
+beginning of your Climax Phase, you may pay cost. If so, this gains +3000 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+"The Other Lucia" Akari
+“もう一人のルチア”アカリ
+Card No.: RW/W20-034  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: None
+Triggers: None
+Flavor: ... Good Da.... y
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Shizuru, Holding Hands
+手を引く静流
+Card No.: RW/W20-035  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Kotarou: "Look, Ferris Wheel. How awesome" Shizuru:
+"Ooooo"
+TEXT: [A] When this attacks, choose 1 of your Characters. That Character gains
++500 Power for the turn.
+[A] CHANGE [Put this in Clock] At the beginning of your Encore Step, if this is
+Rested, you may pay cost. If so, choose a '"Kill Enemies on Sight" Shizuru' in
+your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Leave the Past for the Future" Nishikujou
+“過去を絶ち未来へ”西九条
+Card No.: RW/W20-036  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 先生 (Teacher)
+Triggers: None
+Flavor: Your breasts are blocking your way towards future...! That's why
+this shall... end it!
+TEXT: [C] If you have 1 of fewer other Characters, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+Shizuru in Swimsuits
+水着の静流
+Card No.: RW/W20-037  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Goodbye, Namaazu-san...
+TEXT: -- None --
+
+================================================================================
+
+Amidst Miracle And Warmth
+奇跡と温もりの中で
+Card No.: RW/W20-038  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Lucia: "Forever... be with me!?" Kotarou: "Ah, yes! Always!
+I shall be with you always!! I, Kotarou Tennouji, shall be with you
+always!!"
+TEXT: Choose 1 of your Characters. That Character gaisn +6000 Power for the
+turn. Send this to Memory.
+[C] RECOLLRECTION If this is in the Climax Zone, all your Characters with
+"Kotarou" in name are also treated as having '"Power to Counter Lucia's Poison"
+Kotarou' as the name.
+
+================================================================================
+
+Honored Promise
+守られた約束
+Card No.: RW/W20-039  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: I realized what's going on. Everyone, especially Kotarou, did this
+for me
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Honored Promise
+守られた約束
+Card No.: RW/W20-039R  Rarity: RRR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Akari's Determination
+アカリの決意
+Card No.: RW/W20-040  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kotarou Tennouji, I love you
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Akari's Determination
+アカリの決意
+Card No.: RW/W20-040R  Rarity: RRR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Akane, After A Bath
+お風呂上りの朱音
+Card No.: RW/W20-041  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: If I called for you, I would be here, no
+TEXT: [A] When another Character of yours becomes Reversed in Battle, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, perform the following
+action: "Choose a Character in your Waiting Room and return it to your hand,
+and discard a card from your hand to the Waiting Room."
+
+================================================================================
+
+Akane, After A Bath
+お風呂上りの朱音
+Card No.: RW/W20-041S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When another Character of yours becomes Reversed in Battle, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, perform the following
+action: "Choose a Character in your Waiting Room and return it to your hand,
+and discard a card from your hand to the Waiting Room."
+
+================================================================================
+
+"Beloved Quaesitor" Chihaya
+“親愛なる探求者”ちはや
+Card No.: RW/W20-042  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: I, as well as Kotarou, was helped greatly by everyone
+TEXT: [A] [(1) Put the top card of your Library in Clock] When this is placed
+from hand to the Waiting Room, you may pay cost. If so, choose a Level 2 or
+higher Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+"Beloved Quaesitor" Chihaya
+“親愛なる探求者”ちはや
+Card No.: RW/W20-042S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Put the top card of your Library in Clock] When this is placed
+from hand to the Waiting Room, you may pay cost. If so, choose a Level 2 or
+higher Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+"All Her Strength" Akane
+“せいいっぱいの力”朱音
+Card No.: RW/W20-043  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: ... Come outttttt!
+TEXT: [A] [(1)] When this attacks, if "Altar of Dragon God" is in the Climax
+Zone, you may pay cost. If so, deal 1 Damage to your Opponent. (Damage Cancel
+can occur)
+[S] [Rest 2 of your Characters] This gains +2000 Power for the turn.
+
+================================================================================
+
+"Path to Walk Together" Chihaya
+“一緒に歩く道”ちはや
+Card No.: RW/W20-044  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: ... I have returned. And then... I'm going
+TEXT: [A] When this is placed from hand to the Stage, put the top card of your
+Library in Clock.
+[A] When this attacks, if "Someone to Protect" is in the Climax Zone, you may
+choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+"Path to Walk Together" Chihaya
+“一緒に歩く道”ちはや
+Card No.: RW/W20-044SP  Rarity: SP
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, put the top card of your
+Library in Clock.
+[A] When this attacks, if "Someone to Protect" is in the Climax Zone, you may
+choose a Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+"Beloved Quaesitor" Akane
+“親愛なる探求者”朱音
+Card No.: RW/W20-045  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: I'm really... a weakling who couldn't do anything
+TEXT: [A] [(1)] During your turn, when the Battle Opponent of this becomes
+Reversed, you may pay cost. If so, choose a Level 2 or lower Character in your
+Opponent's Front Row and put it on top of the Library.
+[A] [Rest 1 of your Standing Characters] When another Character of yours is
+placed from hand to the Stage, you may pay cost. If so, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+"Beloved Quaesitor" Akane
+“親愛なる探求者”朱音
+Card No.: RW/W20-045S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] During your turn, when the Battle Opponent of this becomes
+Reversed, you may pay cost. If so, choose a Level 2 or lower Character in your
+Opponent's Front Row and put it on top of the Library.
+[A] [Rest 1 of your Standing Characters] When another Character of yours is
+placed from hand to the Stage, you may pay cost. If so, this gains +1500 Power
+for the turn.
+
+================================================================================
+
+"Crimson-lit Night" Akane
+“紅く染まる夜に”朱音
+Card No.: RW/W20-046  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: I am not good at this, so please don't tell others...
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, look at the top card of your
+Library and put it either back on top of the Library or in the Waiting Room.
+
+================================================================================
+
+"Under the Brilliant Blue Sky" Chihaya
+“輝く青空の下で”ちはや
+Card No.: RW/W20-047  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Kotarou, this way~
+TEXT: [A] CHANGE [(1) Put this in Clock] At the beginning of your Encore Step,
+if this is Rested, you may pay cost. If so, choose a '"Path to Walk Together"
+Chihaya' from your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Knight of Blossoms" Sakuya
+“花弁の騎士”咲夜
+Card No.: RW/W20-048  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 使い魔 (Familiar)
+Triggers: None
+Flavor: Shall I blossom the last flower
+TEXT: [A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+"Very Interested" Shimako
+“興味津々”しまこ
+Card No.: RW/W20-049  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: None
+Flavor: ...... Are we playing?
+TEXT: [A] At the beginning of your Opponent's Attack Phase, you may move this
+to a vacant Front Row Center Slot.
+
+================================================================================
+
+"Courage to Face It" Akane
+“立ち向かう勇気”朱音
+Card No.: RW/W20-050  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: That's not it - the determination to fight is the strongest weapon.
+All shonen mangas say that
+TEXT: -- None --
+
+================================================================================
+
+"I'm Not An Idiot?" Chihaya
+“■■■？”ちはや
+Card No.: RW/W20-051  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Kagari: "Ah!? This is... Kagari-chan's special talent,
+compressed speech!?"
+TEXT: -- None --
+
+================================================================================
+
+"Student Council President" Suzy Middle
+“生徒会長”スージィ・ミドウ
+Card No.: RW/W20-052  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 炎 (Flame)
+Triggers: Soul 
+Flavor: Hear this, Kotarou Tennouji... Safety first... Don't ever forget
+that
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+Platinum Ticket
+プラチナチケット
+Card No.: RW/W20-053  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Take the thundering power! Unleash all power! Platinum
+Tick---et!
+TEXT: [COUNTER] BRAINSTORM This cannot be played from hand if you don't have a
+Character with "Akane" (Rewrite only) in name.
+Choose 1 of your Characters. That Character gains +2000 Power for the turn.
+Reveal the top 3 cards of your Library and put them in the Waiting Room. If any
+Climax card was placed in the Waiting Room this way, choose 1 of your
+Characters. That Character gains +3000 Power for the turn.
+
+================================================================================
+
+Someone to Protect
+守るべき人
+Card No.: RW/W20-054  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Kotarou: "Chihaya! I'm going!!"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Someone to Protect
+守るべき人
+Card No.: RW/W20-054R  Rarity: RRR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Altar of Dragon God
+竜神の祭壇
+Card No.: RW/W20-055  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Akane & Kotarou: "......"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Altar of Dragon God
+竜神の祭壇
+Card No.: RW/W20-055R  Rarity: RRR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+"Magical Third Planetary Fairy" Creamy Kagarin
+“魔法の第三惑精”クリーミィ☆かがりん
+Card No.: RW/W20-056  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: E-Mood Dimension!
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, Rest this. (Put the revealed card back
+where it was)
+[A] ACCELERATE [Put the top card of your Library in Clock] At the beginning of
+your Climax Phase, you may pay cost. If so, all your Characters gain +1000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Magical Third Planetary Fairy" Creamy Kagarin
+“魔法の第三惑精”クリーミィ☆かがりん
+Card No.: RW/W20-056SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, Rest this. (Put the revealed card back
+where it was)
+[A] ACCELERATE [Put the top card of your Library in Clock] At the beginning of
+your Climax Phase, you may pay cost. If so, all your Characters gain +1000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Best Memories" Kagari
+“最良の記憶”篝
+Card No.: RW/W20-057  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: Thank you. They were great memories. Nothing better than this--
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in Waiting Room.
+[A] When this attacks, if "Possibility Remained" is in the Climax Zone, this
+gains "[A] When another Character of yours becomes Reversed in battle, you may
+Send that Character to Memory. If so, at the beginning of your next Draw Phase,
+put that Character from Memory into any Slot on Stage" until the end of your
+Opponent's next turn.
+
+================================================================================
+
+"Best Memories" Kagari
+“最良の記憶”篝
+Card No.: RW/W20-057SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in Waiting Room.
+[A] When this attacks, if "Possibility Remained" is in the Climax Zone, this
+gains "[A] When another Character of yours becomes Reversed in battle, you may
+Send that Character to Memory. If so, at the beginning of your next Draw Phase,
+put that Character from Memory into any Slot on Stage" until the end of your
+Opponent's next turn.
+
+================================================================================
+
+"Beloved Quaesitor" Kagari
+“親愛なる探求者”篝
+Card No.: RW/W20-058  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: I have only one goal, and it's right in front of me. If I think of
+it as a game, I'd gather too much thoughts
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +500 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+"Beloved Quaesitor" Kagari
+“親愛なる探求者”篝
+Card No.: RW/W20-058S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] [(1)] Draw a card, and discard a card from your hand to the Waiting
+Room.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +500 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+"Corolla of Blessing" Kotori
+“祝福の花冠”小鳥
+Card No.: RW/W20-059  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: It's nice, beautiful! Just like that, just like that~
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Plant:: Characters, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+"Corolla of Blessing" Kotori
+“祝福の花冠”小鳥
+Card No.: RW/W20-059SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Plant:: Characters, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+"Destiny Rewritten" Kagari
+“書き換わる運命”篝
+Card No.: RW/W20-060  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: ... Have a good trip, homo sapiens...
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times # of your Characters with ASSIST.
+[S] [Discard a card from your hand] Choose 1 of your Characters. That Character
+gains +1000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Destiny Rewritten" Kagari
+“書き換わる運命”篝
+Card No.: RW/W20-060S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times # of your Characters with ASSIST.
+[S] [Discard a card from your hand] Choose 1 of your Characters. That Character
+gains +1000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+"Extremely Spicy Reconcilation" Lucia
+“激辛仲直り”ルチア
+Card No.: RW/W20-061  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: None
+Triggers: None
+Flavor: Kanbe-san. Thank you for everything. I have relieved myself of my wrong
+impressions towards Tennouji
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+"Let's Quest!" Shizuru
+“レッツクエスト！”静流
+Card No.: RW/W20-062  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Search, discovery, treasure boxes
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose 1 of your Characters. That Character gains "[A] When the Battle
+Opponent of this becomes Reversed, you may draw a card" for the turn.
+
+================================================================================
+
+"Let's Quest!" Shizuru
+“レッツクエスト！”静流
+Card No.: RW/W20-062S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose 1 of your Characters. That Character gains "[A] When the Battle
+Opponent of this becomes Reversed, you may draw a card" for the turn.
+
+================================================================================
+
+"Destiny Rewritten" Kotori
+“書き換える運命”小鳥
+Card No.: RW/W20-063  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: ... Kotarou-kun, let's go
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[S] [(1) Rest this] Choose 1 of your Characters. That Character gains "[A] When
+the Battle Oppoennt of this Becomes Reversed, you may put it on bottom of the
+Library" for the turn.
+
+================================================================================
+
+"Destiny Rewritten" Kotori
+“書き換える運命”小鳥
+Card No.: RW/W20-063S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 植物 (Plant)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Character.
+[S] [(1) Rest this] Choose 1 of your Characters. That Character gains "[A] When
+the Battle Oppoennt of this Becomes Reversed, you may put it on bottom of the
+Library" for the turn.
+
+================================================================================
+
+"Single Goal" Lucia
+“ひとつの目標”ルチア
+Card No.: RW/W20-064  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Let's right. It's not my habit to leave in the middle of
+something
+TEXT: [C] Character Opposite this gets -1 Soul.
+[C] If this is in the Front Row and not Reversed, your other Character in the
+Front Row Center Slot gains +1000 Power.
+
+================================================================================
+
+"Single Goal" Lucia
+“ひとつの目標”ルチア
+Card No.: RW/W20-064SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] Character Opposite this gets -1 Soul.
+[C] If this is in the Front Row and not Reversed, your other Character in the
+Front Row Center Slot gains +1000 Power.
+
+================================================================================
+
+Kagari Mirakuru
+未来来 篝
+Card No.: RW/W20-065  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: I want to meet a great boyfriend at this school
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +500 Power for the turn.
+
+================================================================================
+
+"Vacation Mood" Shizuru
+“バカンス気分！”静流
+Card No.: RW/W20-066  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 風紀委員 (Judgment)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: ... Tension up
+TEXT: [C] During your Opponent's turn, all your other Characters gain +500
+Power.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+draw a card.
+
+================================================================================
+
+"Student Who Understands the Differences" Kagari
+“違いがわかる生徒”篝
+Card No.: RW/W20-067  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: ... Feecof's best balance is within this
+TEXT: [C] If you have no other Characters, this gains +1500 Power and "[A]
+ENCORE [Discard a Character card from your hand to the Waiting Room]".
+
+================================================================================
+
+"Sometime, Somewhere" Kagari
+“いつかどこか”の篝
+Card No.: RW/W20-068  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: Kind words surrounded us. Words from thousands of people spread like
+bubbles into the surroundings
+TEXT: [A] [(1)] When this attacks, if "Momentary Dream" is in the Climax Zone,
+you may pay cost. If so, this gains +3000 Power until the end of your
+Opponent's next turn.
+
+================================================================================
+
+"Expressing Emotions" Kagari
+“感情の発露”篝
+Card No.: RW/W20-069  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: -- Fine, do it just like that -- I felt she spke so
+TEXT: [C] During your Opponent's turn, if this is in the Front Row Center Slot,
+this gains +2000 Power.
+
+================================================================================
+
+"Seeking Good Memories" Kagari
+“良い記憶を求めて”篝
+Card No.: RW/W20-070  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: ... That was my wish from the beginning
+TEXT: [A] [Rest 2 of your Standing Characters] When this is placed from hand to
+the Stage, you may pay cost. If so, choose 1 of your ::Key:: Characters. That
+Character gains "[C] This may Side Attack without Soul Penalty" for the turn.
+[A] CHANGE [(1) Rest this] At the beginning of your Encore Step, if this is
+Rested, yo umay pay cost. If so, choose a '"Best Memories" Kagari' in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+"Occult Research Club Gather!" Lucia
+“オカ研集合！”ルチア
+Card No.: RW/W20-071  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: No reason not to help
+TEXT: [A] BOND/'"Let's Quest!" Shizuru' [(1)]
+
+================================================================================
+
+"Amidst the Silvery Wold" Lucia
+“白銀の世界の中で”ルチア
+Card No.: RW/W20-072  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: Thank you. ... For meeting me
+TEXT: [S] [Rest 2 of your Characters] This gains +1000 Power until the end of
+your Opponent's next turn.
+
+================================================================================
+
+"Miracle Girl" Kagari
+“ミラクルガール”篝
+Card No.: RW/W20-073  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: None
+Flavor: Kagari is celebrating victory with this face
+TEXT: -- None --
+
+================================================================================
+
+"Peaceful Time" Lucia
+“平穏な時間”ルチア
+Card No.: RW/W20-074  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: オカルト (Occult)
+Triggers: None
+Flavor: That might be right. Simple might really be best
+TEXT: -- None --
+
+================================================================================
+
+"Hope of the World" Kagari
+“世界の希望”篝
+Card No.: RW/W20-075  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 時間 (Time)      Trait 2: 鍵 (Key)
+Triggers: Soul 
+Flavor: Even the great Kagari-chan, at her current level, can exceed her
+capacity! I can do it now!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+"Gennaji's Menra" Shizuru
+“げんなじーのめんらー”静流
+Card No.: RW/W20-076  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 風紀委員 (Judgment)      Trait 2: ラーメン (Ramen)
+Triggers: Soul 
+Flavor: *puff* *puff*
+TEXT: -- None --
+
+================================================================================
+
+System Tree of Possibilities
+可能性の系統樹
+Card No.: RW/W20-077  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: "Want to see you again sometime -- Kotarou Tennouji"
+TEXT: Choose 1 of your Characters. That Character gains +4000 Power until the
+end of your Opponent's next turn. Send this to Memory.
+
+================================================================================
+
+One Who Lit the Watchfire
+篝火を掲げし者
+Card No.: RW/W20-078  Rarity: C
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- But please do not forget. The path was carved open by a
+singular anonymous soldier--
+TEXT: Search your Library for up to 1 Climax card, reveal it, and put it in
+your hand. Shuffle your Library.
+
+================================================================================
+
+Momentary Dream
+いっときの夢
+Card No.: RW/W20-079  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Holding hands tightly. Kagari's troubled, but returns the grasp.
+Her slight wavering of heart was evidentary
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Momentary Dream
+いっときの夢
+Card No.: RW/W20-079R  Rarity: RRR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Possibility Remained
+残された可能性
+Card No.: RW/W20-080  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Then, is the trip possible?
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+

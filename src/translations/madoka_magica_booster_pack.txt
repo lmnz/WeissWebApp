@@ -1,0 +1,1697 @@
+Madoka Magica Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Mami, Silver Magical Gun
+銀の魔銃 マミ
+Card No.: MM/W17-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: I'll finish you off with a swift attack today.
+TEXT: [C] During your turn, if the Level of the Character opposite this is 3 or
+higher, this gains +4000 Power and +1 Soul.
+
+================================================================================
+
+Mami, Silver Magical Gun
+銀の魔銃 マミ
+Card No.: MM/W17-001S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] During your turn, if the Level of the Character opposite this is 3 or
+higher, this gains +4000 Power and +1 Soul.
+
+================================================================================
+
+Mami Tomoe
+巴 マミ
+Card No.: MM/W17-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: I feel bad because this happens rarely, but let's finish this
+--- now!
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waitng Room.
+[A] [(2)] When this attacks, if "Tiro Finale" is in the Climax Zone, you may
+pay cost. If so, choose up to 1 Level 3 or lower Character in your Opponent's
+Front Row and put it in Stock, and your Opponent may not use Encore for the
+turn. (This includes "[A] ENCORE [(3)]" provided by the rules.)
+
+================================================================================
+
+Mami Tomoe
+巴 マミ
+Card No.: MM/W17-002SP  Rarity: SP
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waitng Room.
+[A] [(2)] When this attacks, if "Tiro Finale" is in the Climax Zone, you may
+pay cost. If so, choose up to 1 Level 3 or lower Character in your Opponent's
+Front Row and put it in Stock, and your Opponent may not use Encore for the
+turn. (This includes "[A] ENCORE [(3)]" provided by the rules.)
+
+================================================================================
+
+Kyubey, Making Contract
+契約をせまるキュゥべえ
+Card No.: MM/W17-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Make a contract with me and become a magical girl!
+TEXT: [C] All your other ::Magic:: Characters gain +500 Power.
+[C] When you pay for the CHANGE cost of your Characters, you may put a Marker
+from under this to the Waiting Room in place of 1 Stock.
+[A] When this is placed from hand to the Stage, put the top card of your
+Library under this as Marker.
+
+================================================================================
+
+Mami, Senior Magical Girl
+先輩魔法少女 マミ
+Card No.: MM/W17-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Now, magical girls who contracted with Kyubey
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Magic:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Mami, Senior Magical Girl
+先輩魔法少女 マミ
+Card No.: MM/W17-004S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Magic:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Mami in Pajamas
+パジャマのマミ
+Card No.: MM/W17-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Magic:: Characters, this gains +2000 Power for the turn.
+
+================================================================================
+
+Mami, Shouldering Fate
+宿命を背負うマミ
+Card No.: MM/W17-006  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: For me... I didn't have time to think
+TEXT: [C] No player may use BACKUP from hand during battles involving this
+Character.
+
+================================================================================
+
+Mami, Shouldering Fate
+宿命を背負うマミ
+Card No.: MM/W17-006R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] No player may use BACKUP from hand during battles involving this
+Character.
+
+================================================================================
+
+"Dessert Witch" Charlotte
+“お菓子の魔女”シャルロッテ
+Card No.: MM/W17-007  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] Character Opposite this gains +1 Soul.
+[A] During battles involving this card, when damage dealt to you is cancelled,
+this gains +1000 Power until the end of your next turn.
+
+================================================================================
+
+"No Longer Alone" Mami
+“もうひとりじゃない”マミ
+Card No.: MM/W17-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: My body feels light. I've never fought so happily before
+TEXT: [A] When this Front Attacks, if "Nothing Scares Me Anymore" is in the
+Climax Zone, reveal the top card of your Library. If it's a Climax card, this
+gets -4500 Power for the turn. Otherwise, this gains +4500 Power for the turn.
+(Put the revealed card back where it was)
+
+================================================================================
+
+Mami, Wish for Survival
+生きるための願い マミ
+Card No.: MM/W17-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: Being a magical girl... isn't a good thing
+TEXT: [C] All your other Characters gain +1000 Power during your turn.
+[A] CHANGE [(1) Put this in the Waiting Room] At the beginning of the Draw
+Phase, you may pay cost. If so, choose 1 "Mami, Shouldering Fate" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Mami, Binding Magic
+束縛魔法 マミ
+Card No.: MM/W17-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: Akemi-san, please!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+your Waiting Room]
+
+================================================================================
+
+Mami, Enjoying Tea
+お茶をたしなむマミ
+Card No.: MM/W17-011  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: That's right, it's risking your life. That's why you all
+should choose carefully
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with "Madoka" in the name. That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Mami, Giving Advice
+忠告するマミ
+Card No.: MM/W17-012  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: -- Try not to let this happen to you a second time
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Mami, Veteran Magical Girl
+ベテラン魔法少女 マミ
+Card No.: MM/W17-013  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Don't worry. I wouldn't want future newbies see me doing
+horribly!
+TEXT: -- None --
+
+================================================================================
+
+Mami, Entrusting the Future
+希望を託すマミ
+Card No.: MM/W17-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: You yourself are hope. All of our hope
+TEXT: -- None --
+
+================================================================================
+
+Mami, Kindly Watching Over
+優しく見守るマミ
+Card No.: MM/W17-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: Oops... I tried to act more like your mentor, but that turns out to be
+something I can't do
+TEXT: -- None --
+
+================================================================================
+
+Mami, Graceful
+優雅なるマミ
+Card No.: MM/W17-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Grief Seed
+グリーフシード
+Card No.: MM/W17-017  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Mami: "This is a Grief Seed. An egg of a witch"
+TEXT: [Counter] Choose 1 of your Characters. That Characters gains +X Power. X
+= 1000 times number of ::Magic:: Characters you have.
+
+================================================================================
+
+Sudden Happening
+一瞬の出来事
+Card No.: MM/W17-018  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: --Eh?
+TEXT: Choose 1 Level 2 or lower Character in your Opponent's Front Row and Send
+it to Memory.
+
+================================================================================
+
+Nothing Scares Me Anymore
+もう何も恐くない
+Card No.: MM/W17-019  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: -- I am not alone
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Tiro Finale
+ティロ・フィナーレ
+Card No.: MM/W17-020  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Tiro Fina----le!!
+TEXT: [A] When this is placed from hand to the Stage, draw a card, and choose 1
+of your Characters. That Character gains +2000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Homura, Tragic Determination
+悲壮な覚悟 ほむら
+Card No.: MM/W17-021  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: This has nothing to do with you
+TEXT: [A] When this attacks, if "No Longer Relying on Others" is in the Climax
+Zone, and you have no other Standing Character in the Front Row, this gains
++7000 Power for the turn.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Homura, Tragic Determination
+悲壮な覚悟 ほむら
+Card No.: MM/W17-021SP  Rarity: SP
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "No Longer Relying on Others" is in the Climax
+Zone, and you have no other Standing Character in the Front Row, this gains
++7000 Power for the turn.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+"Secrecy" Madoka
+“内緒”のまどか
+Card No.: MM/W17-022  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: My secret is out
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] When this attacks, if "Don't Tell Anyone in Class!" is in the Climax zone,
+choose up to 1 of your other Characters and Send it to Memory, and at the
+beginning of your next Draw Phase, put that Character from Memory in any Slot
+on the Stage.
+[A] When this attacks, if "Don't Tell Anyone in Class!" is in the Climax Zone,
+this gains +2000 Power until the end of your next turn.
+
+================================================================================
+
+"Secrecy" Madoka
+“内緒”のまどか
+Card No.: MM/W17-022SP  Rarity: SP
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] When this attacks, if "Don't Tell Anyone in Class!" is in the Climax zone,
+choose up to 1 of your other Characters and Send it to Memory, and at the
+beginning of your next Draw Phase, put that Character from Memory in any Slot
+on the Stage.
+[A] When this attacks, if "Don't Tell Anyone in Class!" is in the Climax Zone,
+this gains +2000 Power until the end of your next turn.
+
+================================================================================
+
+Homura, Beautiful Looks
+容姿端麗 ほむら
+Card No.: MM/W17-023  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: You should just live as Madoka Kaname. Like you have been, and from now
+on
+TEXT: [A] [Choose 2 Characters cards in your Waiting Room and return it to your
+Library. Shuffle your Library] When this is played from hand to the Stage, you
+may pay cost. If so, this gains +2000 Power for the turn.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Homura, Beautiful Looks
+容姿端麗 ほむら
+Card No.: MM/W17-023S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Choose 2 Characters cards in your Waiting Room and return it to your
+Library. Shuffle your Library] When this is played from hand to the Stage, you
+may pay cost. If so, this gains +2000 Power for the turn.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Homura, Watching Over
+見守るほむら
+Card No.: MM/W17-024  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: She cannot be allowed to make a contract
+TEXT: [S] BRAINSTORM [(1) Rest 2 of your Characters] Reveal the top 4 cards of
+your Library and put it in the Waiting Room. For each Climax card revealed this
+way, search your Library for up to 1 ::Magic:: Character, reveal it, and put it
+in your hand. Shuffle your Library.
+
+================================================================================
+
+Homura, Hidden Feelings
+隠された思い ほむら
+Card No.: MM/W17-025  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: I cannot tell her my true feelings
+TEXT: [C] If you have 2 or fewer ::Magic:: Characters, you cannot play this
+from hand.
+
+================================================================================
+
+Homura, Hidden Feelings
+隠された思い ほむら
+Card No.: MM/W17-025S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 2 or fewer ::Magic:: Characters, you cannot play this
+from hand.
+
+================================================================================
+
+Madoka, Magical Girl of the Bow
+弓の魔法少女 まどか
+Card No.: MM/W17-026  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Even then -- I'm a magical girl. I must protect everyone
+TEXT: [C] If there are 4 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Madoka, Magical Girl of the Bow
+弓の魔法少女 まどか
+Card No.: MM/W17-026S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If there are 4 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Madoka, Wavering Feelings
+揺れ動く気持ち まどか
+Card No.: MM/W17-027  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: ... I'm sorry... I'm a weakling... I'm sorry...
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times the Level of the Character.
+[A] CHANGE [(1) Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Madoka, Ultimate" in your Waiting
+Room and put it in the Slot this was in.
+
+================================================================================
+
+Homura, Magical Girl of Time
+時の魔法少女 ほむら
+Card No.: MM/W17-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: No one will accept the future. Then, I will--
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+[A] [Discard a ::Magic:: Character card from your hand to the Waiting Room,
+Send this to Memory] When this becomes Reversed in Battle, you may pay cost. If
+so, at the beginning of your next Draw Phase, choose 1 "Homura, Magical Girl of
+Time" in your Memory and put it in any Slot on the Stage.
+
+================================================================================
+
+Homura, Magical Girl of Time
+時の魔法少女 ほむら
+Card No.: MM/W17-028R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+[A] [Discard a ::Magic:: Character card from your hand to the Waiting Room,
+Send this to Memory] When this becomes Reversed in Battle, you may pay cost. If
+so, at the beginning of your next Draw Phase, choose 1 "Homura, Magical Girl of
+Time" in your Memory and put it in any Slot on the Stage.
+
+================================================================================
+
+Madoka, Fate's Final Destination
+因果の終着点 まどか
+Card No.: MM/W17-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: Kyubey: "The size of the soul gem that Madoka would produce is
+unmeasurable even to me"
+TEXT: [C] For each Marker under this, this gains +1500 Power.
+[A] When you Refresh your Library, you may put the top card of your Library
+under this as a Marker.
+
+================================================================================
+
+Madoka, Fate's Final Destination
+因果の終着点 まどか
+Card No.: MM/W17-029S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each Marker under this, this gains +1500 Power.
+[A] When you Refresh your Library, you may put the top card of your Library
+under this as a Marker.
+
+================================================================================
+
+Madoka, Ultimate
+アルティメットまどか
+Card No.: MM/W17-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: My wish is for all witches to vanish
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [Send this to Memory] When "Madoka's Wish" is placed in the Climax Zone,
+you may pay cost. If so, search your Library for up to 1 "'Continue to Fight'
+Homura" and put it in the Slot this was in. Afterwards, shuffle your Library,
+and that Character gains +3000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Madoka, Ultimate
+アルティメットまどか
+Card No.: MM/W17-030R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may put the top card of your Clock in your Waiting Room.
+[A] [Send this to Memory] When "Madoka's Wish" is placed in the Climax Zone,
+you may pay cost. If so, search your Library for up to 1 "'Continue to Fight'
+Homura" and put it in the Slot this was in. Afterwards, shuffle your Library,
+and that Character gains +3000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Madoka, Bond with Homura
+ほむらとの絆 まどか
+Card No.: MM/W17-031  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: I'll become a magical girl
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose 1 ::Magic:: Character in your Clock and return it to your hand,
+and put the top card of your Library in your Clock.
+[A] BOND/"Homura, Hidden Feelings" [(1)]
+
+================================================================================
+
+Madoka, Confronting Walpurgis Night
+ワルプルギスの夜に挑むまどか
+Card No.: MM/W17-032  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Goodbye, Homura-chan. Be well
+TEXT: [C] If you have 2 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+Madoka, Protecting Hope
+希望を守る まどか
+Card No.: MM/W17-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: I'm happy when I can be of help to others
+TEXT: [A] When you use the BACKUP of this, choose 1 of your battling GREEN
+Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Homura, Determined
+決意のほむら
+Card No.: MM/W17-034  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: No one... believes the future...
+TEXT: [A] CHANGE [(1) Put this in the Waiting Room] At the beginning of your
+Draw Phase, you may pay cost. If so, choose a "Homura, Magical Girl of Time" in
+your Waiting Room and put it in the Slot this was in.
+[S] [Rest this] Choose 1 of your ::Magic:: Characters. That Character gains
++1000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Homura, Time-Travelling Backwards
+時間遡行者 ほむら
+Card No.: MM/W17-035  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: --Repeat. -- I shall repeat this as many times as I need
+TEXT: [A] When this is placed from hand to the Stage, if there are 5 or fewer
+cards in your Library, return all cards in your Waiting Room to the Library. If
+so, shuffle that Library, and choose 1 of your "Madoka, Fate's Final
+Destination", and put up to 2 cards from top of your Library under that
+Character as Marker, and all your Characters gain +2000 Power for the turn.
+
+================================================================================
+
+"Continue to Fight" Homura
+“戦い続ける”ほむら
+Card No.: MM/W17-036  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: I wanted to complain. -- Now, let's go
+TEXT: [C] RECOLLECTION If "Madoka, Ultimate" is in your Memory, this gains
++1500 Power.
+[A] When this is Front Attacked, look at the top card of your Library. Put it
+either on top of your Library or in the Waiting Room.
+
+================================================================================
+
+Madoka Kaname
+鹿目 まどか
+Card No.: MM/W17-037  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: Any rule that interferes, I shall break and change it
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] When this is placed from hand to the Stage, all your Characters gain +2000
+Power for the turn.
+[S] [(1)] This gains +2000 Power for the turn. 
+
+================================================================================
+
+Homura Akemi
+暁美 ほむら
+Card No.: MM/W17-038  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: Soul 
+Flavor: I shall use all options at my disposal to deal with fools
+TEXT: [C] If there are 4 or fewer cards in your Stock, this gains +500 Power
+and "[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+[C] Character Opposite this gets -1 Soul. 
+
+================================================================================
+
+Homura, Transfer Student
+転校生 ほむら
+Card No.: MM/W17-039  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: A,a,a,Akemi, Ho, Homura. Uh... Pl.. pleased to meet you
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Homura, Holding onto Bonds
+絆を抱く少女 ほむら
+Card No.: MM/W17-040  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: You are too hard on yourself. Madoka Kaname
+TEXT: [A] BOND/"Madoka, Wavering Feelings" [(1)]
+
+================================================================================
+
+Homura, Thinking of Madoka
+まどかを想うほむら
+Card No.: MM/W17-041  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: I shall deal with every single witch by myself
+TEXT: [C] If you have another Character with "Madoka" in the name, this gains
++1500 Power.
+
+================================================================================
+
+"To Protect Everyone" Madoka
+“みんなを守るために” まどか
+Card No.: MM/W17-042  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Becoming a magical girl would allow me to help a lot of people
+-- that makes my happiness more than my terror
+TEXT: [A] When this attacks, choose 1 of your other ::Magic:: Characters. That
+Character gains +1000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Madoka, Infirmary Officer
+保健係 まどか
+Card No.: MM/W17-043  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Homura: "Kaname... Madoka-san. You're the infirmary officer of
+this class, right?" 
+TEXT: [A] [(1)] When this attacks, if "The Girl From the Dream" is in your
+Climax Zone, you may pay cost. If so, choose a Character in your Clock and
+return it to your hand, and put the top card of your Library in your Clock.
+
+================================================================================
+
+Hitomi Shizuki
+志筑 仁美
+Card No.: MM/W17-044  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: If I could cut it cleanly like Madoka's mother...
+TEXT: [A] When this attacks, all your other Characters gain +1 Level for the
+turn.
+
+================================================================================
+
+Homura, Black-haired Girl
+黒髪の少女 ほむら
+Card No.: MM/W17-045  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: I'm Homura Akemi. Pleased to meet you 
+TEXT: -- None --
+
+================================================================================
+
+Madoka, Second-year Student of Mitakihara Middle School
+見滝原中学二年生 まどか
+Card No.: MM/W17-046  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: I... I'm being called. Directly within my head, this one's voice
+TEXT: [A] [Clock] SHIFT Level 1
+[S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them in the
+Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Magic:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Madoka & Homura, Best Friends
+最高の友達 まどか＆ほむら
+Card No.: MM/W17-047  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: Homura: "Because this is the place that girl protected"
+TEXT: [A] [(1)] When this attacks, if "My Best Friend" is in the Climax Zone,
+you may pay cost. If so, all your ::Magic:: Characters gain +2500 Power for the
+turn.
+
+================================================================================
+
+Madoka of the Blue Sky
+青空のまどか
+Card No.: MM/W17-048  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: That's the self that I want to become one day 
+TEXT: -- None --
+
+================================================================================
+
+Junko Kaname
+鹿目 詢子
+Card No.: MM/W17-049  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Even though I look like a girl, taking me lightly will be your end,
+okay?
+TEXT: [C] All your other Characters whose name includes "Madoka" gain +1000
+Power.
+
+================================================================================
+
+Homura, Lonely Battle
+孤独な戦い ほむら
+Card No.: MM/W17-050  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: Kyubey: "She is still wishing for hope"
+TEXT: [A] [(2)] When "Time Manipulation" is placed in your Climax Zone, you may
+pay cost. If so, this gains "[C] When this attacks, you may instead choose a
+Character in your Opponent's Back Row and have this Front Attack that Character
+as Defending Character" for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Stage Device's Witch" Walpurgis Night
+“舞台装置の魔女”ワルプルギスの夜
+Card No.: MM/W17-051  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: Homura: "Walpurgis Night will come to this town"
+TEXT: [S] [(2)] This gains +5000 Power for the turn.
+
+================================================================================
+
+Madoka, Feather-like Skirt
+ふわふわスカート まどか
+Card No.: MM/W17-052  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: I, I should really think about it, even if it's just the outfit...
+TEXT: -- None --
+
+================================================================================
+
+Law of Cycles
+円環の理
+Card No.: MM/W17-053  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Your prayers will not result in the end of despair
+TEXT: Search your Library for up to 1 ::Magic:: Character, reveal it, and put
+it in your hand. Shuffle your Library. 
+
+================================================================================
+
+Meaningless Chain
+無意味な連鎖
+Card No.: MM/W17-054  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Madoka: "... You mean as long as she has hope, she cannot be
+saved?"
+TEXT: Look at the top 3 cards of your Opponent's Library and choose up to 1 of
+them and put it at the bottom of the Lbirary. Put the rest on top of the
+Library in any order.
+
+================================================================================
+
+Madoka's Wish
+まどかの願い
+Card No.: MM/W17-055  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: I -- shall no longer need to despair
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+No Longer Relying on Others
+もう誰にも頼らない
+Card No.: MM/W17-056  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: This is not my battlefield
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Time Manipulation
+時間操作
+Card No.: MM/W17-057  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I live in a different time than Madoka
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Charcaters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+My Best Friend
+わたしの、最高の友達
+Card No.: MM/W17-058  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Just remember that. Don't ever forget it.
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Don't Tell Anyone in Class!
+クラスのみんなには、内緒だよ！
+Card No.: MM/W17-059  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kyubey: "They are magical girls"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+The Girl From the Dream
+夢に出てきた少女
+Card No.: MM/W17-060  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Homura: "Madoka Kaname, do you consider your life to be
+valuable?"
+TEXT: [A] When this is placed from hand to the Stage, put the top card of your
+Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Kyoko, Battle-loving
+好戦的 杏子
+Card No.: MM/W17-061  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: She looks like such an amateur. I'll finish her off instantly
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [Rest 1 of your ::Magic:: Characters] This gains +1500 Power for the turn.
+
+================================================================================
+
+Kyoko, Battle-loving
+好戦的 杏子
+Card No.: MM/W17-061R  Rarity: RRR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [Rest 1 of your ::Magic:: Characters] This gains +1500 Power for the turn.
+
+================================================================================
+
+Kyoko Sakura
+佐倉 杏子
+Card No.: MM/W17-062  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Isn't that right? A story that ends with victory for love and
+courage
+TEXT: [A] When this is placed from hand to the Stage or via CHANGE to the
+Stage, you may choose a ::Magic:: Character in your Waiting Room and return it
+to your hand.
+[S] [(1) Rest 2 of your Characters] This gains +2000 Power and "[A] When the
+Battle Opponent of this becomes Reversed, you may put that Character on top of
+the Library" for the turn.
+
+================================================================================
+
+Kyoko Sakura
+佐倉 杏子
+Card No.: MM/W17-062SP  Rarity: SP
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand or via CHANGE to the Stage, you may
+choose a ::Magic:: Character in your Waiting Room and return it to your hand.
+[S] [(1) Rest 2 of your Characters] This gains +2000 Power and "[A] When the
+Battle Opponent of this becomes Reversed, you may put that Character on top of
+the Library" for the turn.
+
+================================================================================
+
+Kyoko, Sharing Apples
+林檎のおすそわけ 杏子
+Card No.: MM/W17-063  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Want one?
+TEXT: [C] All your other "Sayaka, Second-year Student of Mitakihara Middle
+School" gain +1000 Power.
+[A] BOND/"Sayaka, Second-year Student of Mitakihara Middle School" [(1)]
+
+================================================================================
+
+Kyoko, Multi-Section Spear
+多節槍 杏子
+Card No.: MM/W17-064  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: What's with you? Whose ally are you?
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times number of your Characters with ASSIST
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose a ::Magic:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Kyoko, Selfish One
+利己主義者 杏子
+Card No.: MM/W17-065  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: What are you doing like a chicken about to lay an egg
+TEXT: [A] [(2)] When this attacks, if "Sayaka VS Kyoko" is in the Climax Zone,
+you may pay cost. If so, choose up to 2 Characters in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Kyoko, Selfish One
+利己主義者 杏子
+Card No.: MM/W17-065S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(2)] When this attacks, if "Sayaka VS Kyoko" is in the Climax Zone,
+you may pay cost. If so, choose up to 2 Characters in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Kyoko, Shouting
+吠える杏子
+Card No.: MM/W17-066  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Who are you!? What did you do to Sayaka!?
+TEXT: [C] If you have another Character whose name includes "Sayaka", this
+gains +1500 Power.
+
+================================================================================
+
+Kyoko, Shouting
+吠える杏子
+Card No.: MM/W17-066S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If you have another Character whose name includes "Sayaka", this
+gains +1500 Power.
+
+================================================================================
+
+Kyubey, Supporting Role
+サポート役 キュゥべえ
+Card No.: MM/W17-067  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: I don't understand. Why do humans have to care so much about where
+their soul is?
+TEXT: [C] If this is in the Front Row, your other ::Magic:: Character in the
+Front Row Center Slot gains "[A] ENCORE [Put the top card of your Library in
+your Clock]".
+
+================================================================================
+
+Kyoko, Confession of the Past
+過去の告白 杏子
+Card No.: MM/W17-068  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: My family consistently lacked food
+TEXT: [A] When this is placed from hand to the Stage, if you have 3 or more
+Climax cards in your Waiting Room, put the top card of your Library in your
+Clock.
+
+================================================================================
+
+Kyoko, Wishing for a Miracle
+奇跡を願う杏子
+Card No.: MM/W17-069  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Please, God... Just once in my life...show me a happy dream...
+TEXT: [A] [Discard a card from your hand to the Waiting Room] When "Being on
+Your Own is Lonely" is placed in your Climax Zone, if this is in the Front Row,
+you may pay cost. If so, choose a Level 2 or lower Character in your Opponent's
+Front Row and put it in the Waiting Room, and at the end of the turn, put this
+in the Waiting Room.
+
+================================================================================
+
+Kyoko in the Back Alley
+路地裏の杏子
+Card No.: MM/W17-070  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: I need to talk to you. Will you come with me?
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] CHANGE [(1) Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Kyoko Sakura" in your Waiting Room
+and put it in the Slot this was in.
+
+================================================================================
+
+Kyoko, Red Soul Gem
+赤いソウルジェム 杏子
+Card No.: MM/W17-071  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: You got something to say?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Kyoko, Farewell on the Subway Platform
+地下鉄ホームでの別れ 杏子
+Card No.: MM/W17-072  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Are you always going to be that stubborn?
+TEXT: [A] When this becomes Reversed, if its Battle Opponent is Level 0 or
+lower, you may Reverse that Character.
+
+================================================================================
+
+Kyoko, New Magical Girl
+新たなる魔法少女 杏子
+Card No.: MM/W17-073  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Kyubey: "I really didn't expect you to come"
+TEXT: -- None --
+
+================================================================================
+
+Kyoko who Finally Arrived
+やって来た杏子
+Card No.: MM/W17-074  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: But I'm not just going to let some rookie chick take this perfect
+area right from under my nose
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Kyubey, Extra-terrestial Lifeform
+地球外生命体 キュゥべえ
+Card No.: MM/W17-075  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Hah, it's so hard to communicate with humans
+TEXT: -- None --
+
+================================================================================
+
+Kyoko, Magical Girl of the Spear
+槍の魔法少女 杏子
+Card No.: MM/W17-076  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Heh, unwelcomed guys have unwelcomed friends too, it seems
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Kyoko's Determination
+杏子の覚悟
+Card No.: MM/W17-077  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: All your ::Magic:: Characters gain +1500 Power for the turn.
+
+================================================================================
+
+A Magical Girl Appears
+魔法少女現る
+Card No.: MM/W17-078  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Can we crush that girl?
+TEXT: Choose up to 2 Characters in your Waiting Room and return it to your
+hand, choose a card in your hand and put it in the Waiting Room.
+
+================================================================================
+
+Sayaka VS Kyoko
+さやか VS 杏子
+Card No.: MM/W17-079  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: I dove in half-hearted.... it really bothers me
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Being on Your Own is Lonely
+独りぼっちは、寂しいもんな
+Card No.: MM/W17-080  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Being on your own is lonely... That's alright. Let's go
+together. Sayaka...
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Sayaka, Rookie Magical Girl
+新人魔法少女 さやか
+Card No.: MM/W17-081  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I shall protect this town from now on
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] ENCORE [Discard
+a Character card from hand to the Waiting Room]"
+[A] CHANGE [(1) Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Sayaka, Hollowed Eyes" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Sayaka, Rookie Magical Girl
+新人魔法少女 さやか
+Card No.: MM/W17-081R  Rarity: RRR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain "[A] ENCORE [Discard
+a Character card from hand to the Waiting Room]"
+[A] CHANGE [(1) Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Sayaka, Hollowed Eyes" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Sayaka Miki
+美樹 さやか
+Card No.: MM/W17-082  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: I wished for this power not just because I want to fight witches, but
+also to protect people who are important to me
+TEXT: [C] For each other ::Magic:: Character you have, this gains +500 Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+[A] When this becomes Reversed in Battle, Send this to Memory. 
+
+================================================================================
+
+Sayaka Miki
+美樹 さやか
+Card No.: MM/W17-082SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each other ::Magic:: Character you have, this gains +500 Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+[A] When this becomes Reversed in Battle, Send this to Memory. 
+
+================================================================================
+
+Sayaka, Fighting for People
+人の為に戦うさやか
+Card No.: MM/W17-083  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I do not regret anything that I wished for others
+TEXT: [C] All your other "Kyoko, Shouting" gain +500 Power and "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room]".
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Sayaka, Admiration for Mami
+マミへの憧れ さやか
+Card No.: MM/W17-084  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Sayaka: "Mami-san looks so good!"
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library and put it either on top or bottom of the Library.
+[A] When this attacks, reveal the top card of your Library. If it's a ::Magic::
+Character, put it in your hand and discard a card from your hand to the Waiting
+Room. (Otherwise put the card back where it was)
+
+================================================================================
+
+Sayaka, Healing Prayer
+癒しの祈り さやか
+Card No.: MM/W17-085  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Kyubey: "She contracted with healing prayers and became a magical
+girl"
+TEXT: [A] When this becomes Reversed in Battle, put the top card of your
+Library in your Clock and Rest this.
+
+================================================================================
+
+Sayaka, Healing Prayer
+癒しの祈り さやか
+Card No.: MM/W17-085S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this becomes Reversed in Battle, put the top card of your
+Library in your Clock and Rest this.
+
+================================================================================
+
+Sayaka, Hollow Eyes
+虚ろな目 さやか
+Card No.: MM/W17-086  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Don't, get in my way...
+TEXT: [C] All your other Characters gain +1000 Power during your Opponent's
+turn.
+[A] [(1) Put this in the Waiting Room] When "I've Been Such A Fool" is placed
+in your Climax Zone, you may pay cost. If so, choose either 1 "'Mermaid Witch'"
+or 1 "Sayaka, Battling While Hurting" in your Waiting Room and put it in the
+Slot this was in, draw a card, and the chosen Character gains +1500 Power until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Sayaka, Hollow Eyes
+虚ろな目 さやか
+Card No.: MM/W17-086S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters gain +1000 Power during your Opponent's
+turn.
+[A] [(1) Put this in the Waiting Room] When "I've Been Such A Fool" is placed
+in your Climax Zone, you may pay cost. If so, choose either 1 "'Mermaid Witch'"
+or 1 "Sayaka, Battling While Hurting" in your Waiting Room and put it in the
+Slot this was in, draw a card, and the chosen Character gains +1500 Power until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Sayaka, Classmate
+クラスメイト さやか
+Card No.: MM/W17-087  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: No, Madoka's mother is always so nice
+TEXT: [C] If this is in the Front Row, this does not Stand during your Stand
+Phase.
+
+================================================================================
+
+Sayaka, Found Her Wish
+願いを見つけたさやか
+Card No.: MM/W17-088  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: I've found what I would wish for
+TEXT: [A] [(1) Put this in the Waiting Room] When "Both Miracles And Magic
+Exist" is placed in your Climax Zone, you may pay cost. If so, choose up to 1
+"Sayaka, Hollowed Eyes" in your hand and put it in the Slot this was in, and
+choose a Level 0 or lower Character in your Waiting Room whose name includes
+"Kamijou" and put it in any Slot on Stage.
+
+================================================================================
+
+Sayaka, Ally of Justice
+正義の味方 さやか
+Card No.: MM/W17-089  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Even from now on, the peace of Mitakihara City shall be protected by
+me, Magical Girl Sayaka-chan! 
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power. 
+
+================================================================================
+
+"Mermaid Witch"
+“人魚の魔女”
+Card No.: MM/W17-090  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: Madoka: "Hey, please... please return to the old Sayaka-chan!
+Please return to my favorite Sayaka-chan!"
+TEXT: [A] [Discard a Character card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If not, put this in the
+Waiting Room.
+
+================================================================================
+
+Sayaka, Confrontation
+対決するさやか
+Card No.: MM/W17-091  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Those who were attacked by witches... You didn't even help them!?
+TEXT: [A] BOND/"Kyoko, Wishing for a Miracle" [(1)]
+
+================================================================================
+
+Kyousuke Kamijou
+上条 恭介
+Card No.: MM/W17-092  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Sayaka: "You must wish for things that are somewhat related to
+you"
+TEXT: [A] When this attacks, look at the top card of your Library, and put it
+either on top or bottom of the Library.
+
+================================================================================
+
+Sayaka, Childhood Friend of Kamijou-kun
+上条君の幼なじみ さやか
+Card No.: MM/W17-093  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 音楽 (Music)
+Triggers: None
+Flavor: Wow
+TEXT: -- None --
+
+================================================================================
+
+Sayaka, Second-year Student of Mitakihara Middle School
+見滝原中学二年生 さやか
+Card No.: MM/W17-094  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Sayaka, Magical Girl of the Sword
+剣の魔法少女 さやか
+Card No.: MM/W17-095  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this from hand to the
+Waiting Room]
+
+================================================================================
+
+Sayaka, Battling While Hurting
+傷つきながら戦うさやか
+Card No.: MM/W17-096  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: If you can do that, all the pain... will completely go away...
+TEXT: [A] When this becomes Reversed in Battle, put the top card of your
+Library in your Clock, and Rest this.
+[S] [Rest 1 of your ::Magic:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Incubator
+孵卵器
+Card No.: MM/W17-097  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Even though there are lots of replacements, being destroyed
+meaninglessly is still troublesome
+TEXT: Choose 1 of your Standing ::Magic:: Characers and Rest it. If so, draw up
+to 2 cards, and discard a card from your hand to the Waiting Room.
+
+================================================================================
+
+Sayaka's Wish
+さやかの願い
+Card No.: MM/W17-098  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: There's no reason for me to regret
+TEXT: [Counter] Choose 1 of your Characters with "Sayaka" in the name and put
+it in the Waiting Room. If so, return the top card of your Clock to your hand,
+and Send this to Memory.
+
+================================================================================
+
+I've Been Such A Fool
+あたしって、ほんとバカ
+Card No.: MM/W17-099  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Resentment and pain took root in my own heart, I'm even hurting my
+dearest friend now
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Both Miracles And Magic Exist
+奇跡も、魔法も、あるんだよ
+Card No.: MM/W17-100  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: This is my final strike--!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

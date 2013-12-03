@@ -1,0 +1,1881 @@
+Da Capo 10th Anniversary Mix Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Otome, Gentle Smiles
+柔らかな笑顔 音姫
+Card No.: DC/W23-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Then, let's wipe it while it's still warm~
+TEXT: [C] RECOLLECTION If there are 2 or more cards in your Memory, this gains
++1000 Power and +1 Soul.
+[A] When this attacks, if "Foresight of Happiness" is in the Climax Zone,
+choose up to 1 "Otome, Gentle Smiles" in your Waiting Room and Send it to
+Memory, and this gains +1000 Power for the turn.
+
+================================================================================
+
+Otome, Gentle Smiles
+柔らかな笑顔 音姫
+Card No.: DC/W23-001SP  Rarity: SP
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] RECOLLECTION If there are 2 or more cards in your Memory, this gains
++1000 Power and +1 Soul.
+[A] When this attacks, if "Foresight of Happiness" is in the Climax Zone,
+choose up to 1 "Otome, Gentle Smiles" in your Waiting Room and Send it to
+Memory, and this gains +1000 Power for the turn.
+
+================================================================================
+
+Sakura, Evidence of Becoming an Adult
+オトナになった証拠 さくら
+Card No.: DC/W23-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: I love onii-chan!!
+TEXT: [A] This ability may activate up to once per turn. When you use an [S]
+ability, this gains +1000 Power for the turn.
+[S] [Rest 1 of your ::Magic:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Sakura, Evidence of Becoming an Adult
+オトナになった証拠 さくら
+Card No.: DC/W23-002R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] This ability may activate up to once per turn. When you use an [S]
+ability, this gains +1000 Power for the turn.
+[S] [Rest 1 of your ::Magic:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Otome, Sweet Moment
+甘いひととき 音姫
+Card No.: DC/W23-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: T, then, let's have a pretend-date
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Magic:: Character, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+Otome, Sweet Moment
+甘いひととき 音姫
+Card No.: DC/W23-003S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Magic:: Character, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+Aisia, Last Moments
+最後の刻 アイシア
+Card No.: DC/W23-006  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: Soul 
+Flavor: ... That is easy to see
+TEXT: [C] All your other Characters gain +X Power. X = 500 times Cost of that
+Character.
+[A] When "Uncontrollable Feelings" is placed in your Climax Zone, your Opponent
+cannot use "[A] ENCORE" for the turn. (This includes "[A] ENCORE [(3)]"
+provided by rules.)
+
+================================================================================
+
+Aisia, Last Moments
+最後の刻 アイシア
+Card No.: DC/W23-006S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters gain +X Power. X = 500 times Cost of that
+Character.
+[A] When "Uncontrollable Feelings" is placed in your Climax Zone, your Opponent
+cannot use "[A] ENCORE" for the turn. (This includes "[A] ENCORE [(3)]"
+provided by rules.)
+
+================================================================================
+
+Mahiru, Everyone's Happiness
+みんなの幸せ まひる
+Card No.: DC/W23-007  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: たとえ話 (Simple Example)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: Live energetic forever, okay
+TEXT: [C] If there are 4 or fewer cards in your hand, this gains +1000 Power
+and +2 Soul.
+[A] This ability may activate up to once per turn. During the turn this is
+placed from hand to the Stage, if the Damage dealt by this is Cancelled, you
+may deal 1 Damage to your Opponent. (Damage Cancel can occur)
+[A] When this becomes Reversed in Battle, Send this to Memory.
+
+================================================================================
+
+Mahiru, Everyone's Happiness
+みんなの幸せ まひる
+Card No.: DC/W23-007S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: たとえ話 (Simple Example)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 4 or fewer cards in your hand, this gains +1000 Power
+and +2 Soul.
+[A] This ability may activate up to once per turn. During the turn this is
+placed from hand to the Stage, if the Damage dealt by this is Cancelled, you
+may deal 1 Damage to your Opponent. (Damage Cancel can occur)
+[A] When this becomes Reversed in Battle, Send this to Memory.
+
+================================================================================
+
+"Justice Magician" Yuki
+“正義の魔法使い”由姫
+Card No.: DC/W23-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Because it's you, I asked you to help.
+TEXT: [A] When this attacks, choose 1 of your other Characters. That Character
+gains +X Power. X = 1000 times Soul of that Character.
+
+================================================================================
+
+Otome, Just Like Childhood Days
+小さな頃みたいに 音姫
+Card No.: DC/W23-011  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Good morning. ... Little brother still loves to oversleep, it seems
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] When your Opponent's Character is returned from Waiting Room to hand, you
+may put the top card of your Library in Stock.
+
+================================================================================
+
+Aisia, Hopeful Puppy Eyes
+期待の眼差し アイシア
+Card No.: DC/W23-012  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: Soul 
+Flavor: Now that you mentioned it, I am free all day tomorrow~
+TEXT: [A] [(1)] When Damage dealt by this is Cancelled, you may pay cost. If
+so, draw a card.
+
+================================================================================
+
+Shinya & Asa & Yuuhi, Album of Memories
+想い出のアルバム 真哉＆亜沙＆夕陽
+Card No.: DC/W23-013  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: たとえ話 (Simple Example)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Shinya: "I want to see Mahiru's face again~"
+TEXT: [C] RECOLLECTION If there are 3 or more cards in your Memory, this gains
++1 Soul and "[A] ENCORE [Discard a Character card from your hand to the Waiting
+Room".
+
+================================================================================
+
+Misaki, Night of White Miracle
+白い奇跡の夜 美咲
+Card No.: DC/W23-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: None
+Flavor: Yoriko: "This is my favorite place. I thought that one day I'd
+bring Misaki-san here too"
+TEXT: [A] When this attacks, choose 1 of your other Characters. That Character
+gains +X Power. X = 1000 times Soul of that Character.
+
+================================================================================
+
+Sakura, Princess of the Royal Capital
+王都のプリンセス さくら
+Card No.: DC/W23-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: ドレス (Dress)
+Triggers: None
+Flavor: T, thank you. P, prince...
+TEXT: [A] When this is placed from hand to the Stage, this gains +1500 Power
+for the turn. 
+
+================================================================================
+
+Izumiko, With Marvelous Boyfriend
+素敵な彼氏と 和泉子
+Card No.: DC/W23-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: シャケ (Salmon)
+Triggers: None
+Flavor: Asakusa-san, I love you. Please be with me forever
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it is a Climax card, choose 1 of your characters. That
+Character gains +2 Soul for the turn. (Put the revealed card back where it was) 
+
+================================================================================
+
+Mahiru, Big Ruckus!
+大はしゃぎ！ まひる
+Card No.: DC/W23-017  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: たとえ話 (Simple Example)      Trait 2: None
+Triggers: None
+Flavor: Ahahahahahahaha!!!
+TEXT: -- None --
+
+================================================================================
+
+Sakura, Happiness of "Family"
+“家族”の団欒 さくら
+Card No.: DC/W23-018  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 先生 (Teacher)
+Triggers: None
+Flavor: I, I'm sorry. B, but... h, ahahahahahahahahaha
+TEXT: [A] When this becomes Reversed in Battle, put this on bottom of the
+Library.
+
+================================================================================
+
+Aisia, Time of Happiness
+幸せな時間 アイシア
+Card No.: DC/W23-019  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: None
+Flavor: Merry Christmas
+TEXT: [A] When your Opponent Cancels Damage, this gains +1500 Power for the
+turn.
+
+================================================================================
+
+Otome, Always Together
+ずっと一緒に 音姫
+Card No.: DC/W23-021  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: No. You must properly get up today
+TEXT: [S] [COUNTER] BACKUP 3000, Level 2 ([(1) discard this card from hand to
+the Waiting Room] 
+
+================================================================================
+
+Secret of Two
+ふたりだけのひみつ
+Card No.: DC/W23-023  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: This makes us two people with the same mind~
+TEXT: Send this to Memory.
+[C] RECOLLECTION If this is in Memory, all your Characters whose name include
+"Otome" gain +500 Power.
+
+================================================================================
+
+Foresight of Happiness
+幸せの予感
+Card No.: DC/W23-024  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Hey you~ it's morning~
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Foresight of Happiness
+幸せの予感
+Card No.: DC/W23-024R  Rarity: RRR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Uncontrollable Feelings
+抑えられない想い
+Card No.: DC/W23-025  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: But, you can't...
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn. 
+
+================================================================================
+
+Nanaka, My Feelings
+わたしの気持ち ななか
+Card No.: DC/W23-026  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: What are you doing here, standing in the way?
+TEXT: [C] For each other ::Music:: Character you have, this gains +500 Power.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+put all your Opponent's Stock in the Waiting Room, and your Opponent puts the
+same number of cards from top of the Library in Stock.
+
+================================================================================
+
+Nanaka, My Feelings
+わたしの気持ち ななか
+Card No.: DC/W23-026R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each other ::Music:: Character you have, this gains +500 Power.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+put all your Opponent's Stock in the Waiting Room, and your Opponent puts the
+same number of cards from top of the Library in Stock.
+
+================================================================================
+
+Kotori, Favorite Song
+大好きな歌 ことり
+Card No.: DC/W23-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Then, now, Kotori, shall begi~n
+TEXT: [C] All your other Level 1 or lower Characters gain +500 Power.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Kotori, Favorite Song
+大好きな歌 ことり
+Card No.: DC/W23-028R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other Level 1 or lower Characters gain +500 Power.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Kotori, Date of Only Two
+二人だけのデート ことり
+Card No.: DC/W23-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: Do you like me?
+TEXT: [A] This ability may activate up to twice per turn. When a Character card
+of yours is placed from hand to Clock, this gains +3000 Power for the turn.
+
+================================================================================
+
+Kotori, Date of Only Two
+二人だけのデート ことり
+Card No.: DC/W23-029S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability may activate up to twice per turn. When a Character card
+of yours is placed from hand to Clock, this gains +3000 Power for the turn.
+
+================================================================================
+
+Koko, Has Not Changed
+ずっと変わらない 小恋
+Card No.: DC/W23-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: I'm glad I came back. Everyone didn't change
+TEXT: [A] When this attacks, if "Will We Meet Again" is in the Climax Zone,
+choose up to 1 ::Music:: Character card in your Waiting Room and put it in
+Stock, and choose 1 of your ::Music:: Characters. That Character gains +2500
+Power for the turn.
+
+================================================================================
+
+Koko, Has Not Changed
+ずっと変わらない 小恋
+Card No.: DC/W23-030S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Will We Meet Again" is in the Climax Zone,
+choose up to 1 ::Music:: Character card in your Waiting Room and put it in
+Stock, and choose 1 of your ::Music:: Characters. That Character gains +2500
+Power for the turn.
+
+================================================================================
+
+Akane, Feeling the Warmth
+温もりを感じて 茜
+Card No.: DC/W23-032  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: Soul 
+Flavor: Hehe, don't blush, don't blush...
+TEXT: [A] When a Level 2 or higher Battle Opponent of this becomes reversed,
+you may put the top card of your Library in Stock.
+
+================================================================================
+
+Akane, Feeling the Warmth
+温もりを感じて 茜
+Card No.: DC/W23-032S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When a Level 2 or higher Battle Opponent of this becomes reversed,
+you may put the top card of your Library in Stock.
+
+================================================================================
+
+Akane & Midori, At Their Own Pace
+マイペースな母娘 茜＆翠
+Card No.: DC/W23-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: None
+Flavor: Midori: "Hehe. Yoshiyuki-kun is a good kid" Akane:
+"Isn't he? I chose him. Of course he's a good kid"
+TEXT: [C] All your other Characters without a trait gain +500 Power.
+[C] When you pay the cost of an [S] ability of a Character either in your hand
+or on the Stage, you may put the Marker under this in the Waiting Room in place
+of 1 Stock.
+[A] [Rest 2 of your Standing Characters] When this is placed from hand to the
+Stage, you may pay cost. If so, put the top card of your Library under this as
+Marker.
+
+================================================================================
+
+Koko, Everyone's Session!
+みんなでセッション！ 小恋
+Card No.: DC/W23-034  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: That's right~ It sounds like a song now~
+TEXT: [C] If you have 3 or more other ::Music:: Cahracters, this gains +1000
+Power.
+
+================================================================================
+
+Nanaka, Everyone's Session!
+みんなでセッション！ ななか
+Card No.: DC/W23-035  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: With guitar it sounds completely different!
+TEXT: [A] [Put a card from your hand in Clock] When this is placed from Stage
+to the Waiting Room, you may pay cost. If so, choose a ::Music:: Character in
+your Clock and return it to your hand.
+
+================================================================================
+
+Wataru, Everyone's Sesison!
+みんなでセッション！ 渉
+Card No.: DC/W23-036  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: It really feels like we're in a band!
+TEXT: [S] [Rest 1 of your ::Music:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+Kotori, Cherry-Colored Miracle
+桜色の奇跡 ことり
+Card No.: DC/W23-038  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: Yeah. I like Yoshiyuki-kun like that
+TEXT: [A] This ability may activate up to twice per turn. When a Character card
+of yours is placed from hand to Clock, this gains +3000 Power for the turn.
+[A] ENCORE [Put the top card of your Library in Clock]
+
+================================================================================
+
+Kanae, Awkward Separation
+不器用なすれ違い 叶
+Card No.: DC/W23-039  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: None
+Flavor: .. Uh, it, it wasn't that I made up with Asakura-kun...
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Discard a card from your hand to the Waiting Room, Rest this] Choose a
+Level 0 or lower Character card in your Waiting Room whose name includes "Edo"
+and put it in any Slot on the Stage.
+
+================================================================================
+
+Mikkun, Heart-Thumping
+胸のドキドキ みっくん
+Card No.: DC/W23-040  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: --If that's the case, something will happen if we keep
+practicing
+TEXT: [C] All your other ::Music:: Characters gain +1 Level.
+[A] [(1)] At the start of your Opponent's Attack Phase, you may pay cost. If
+so, choose another of your ::Music:: Characters. That Character gains +1500
+Power for the turn.
+
+================================================================================
+
+Tomo-chan, Admiration for the Band
+憧れのバンド ともちゃん
+Card No.: DC/W23-041  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: None
+Triggers: None
+Flavor: Hehe... it's exciting! Wouldn't this work, you think...?
+TEXT: [A] This ability may activate up to twice per turn. When a Character card
+of yours is placed from hand to Clock, this gains +3000 Power for the turn.
+
+================================================================================
+
+Koko, Dancing with Yukata at Bon Festival
+浴衣で盆踊り 小恋
+Card No.: DC/W23-043  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Here, Yoshiyuki
+TEXT: [C] This cannot Direct Attack.
+
+================================================================================
+
+Miki, Mahiru's "Family"
+まひるの“家族” ミキ
+Card No.: DC/W23-044  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: ナース (Nurse)      Trait 2: たとえ話 (Simple Example)
+Triggers: None
+Flavor: How's this, doesn't Miki look cute in this picture? Doesn't
+she look cuter with every picture?
+TEXT: [A] [Rest 2 of your Standing Characters] When this is placed from your
+hand to the Stage, you may pay cost. If so, choose 1 of your Characters. That
+Character gains "[A] When the Battle Opponent of this becomes Reversed, you may
+put the top card of your Library in Stock" for the turn.
+
+================================================================================
+
+Kotori, Turning Feelings into Words
+想いを言葉に ことり
+Card No.: DC/W23-045  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: This is my reply to the proposal, okay?
+TEXT: [A] [Put a card from your hand in Clock] When you use the BACKUP of this,
+you may pay cost. If so, choose 1 of your Battling Characters. That Character
+gains +3000 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Tamaki, Future of Two
+二人の未来 環
+Card No.: DC/W23-046  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 巫女 (Miko)
+Triggers: None
+Flavor: Eh? Ehh? If you said so...
+TEXT: [A] When this attacks, reveal the top card of your Library. If it's a
+::Magic:: Character, this gains +2000 Power for the turn. (Put the revealed
+card back where it was)
+
+================================================================================
+
+Nanaka, Each's Own Feelings
+それぞれの想い ななか
+Card No.: DC/W23-047  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: Soul 
+Flavor: ... I, love Yoshiyuki-kun
+TEXT: [A] This ability may activate up to once per turn. When you use an [S]
+ability, choose 1 of your Characters. That Cahracter gains +2000 Power for the
+turn.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Will We Meet Again
+また会えるよね
+Card No.: DC/W23-050  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Thank you, everyone~!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Yume, Time of Two
+二人の時間 由夢
+Card No.: DC/W23-051  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Hey, onii-san. Where should we go first?
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] When the Battle Opponent of this becomes Reversed, put the top card of your
+Library in the Waiting Room. If that was a Climax card, you may choose a
+::Magic:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Yume, Time of Two
+二人の時間 由夢
+Card No.: DC/W23-051R  Rarity: RRR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If you have 3 or more other ::Magic:: Characters, this gains +1000
+Power.
+[A] When the Battle Opponent of this becomes Reversed, put the top card of your
+Library in the Waiting Room. If that was a Climax card, you may choose a
+::Magic:: Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Nemu, Overspilling Feelings
+溢れる気持ち 音夢
+Card No.: DC/W23-052  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: Onii-san... I love you
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] [(1) Discard a card from your hand to the Waiting Room] When "Kiss of Oath"
+is placed in your Climax Zone, if this is in the Front Row, you may pay cost.
+If so, choose an Opponent's Character whose Cost is 1 or lower and put it on
+top of the Library, and this gains +2000 Power for the turn.
+
+================================================================================
+
+Nemu, Overspilling Feelings
+溢れる気持ち 音夢
+Card No.: DC/W23-052SP  Rarity: SP
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: ドレス (Dress)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] [(1) Discard a card from your hand to the Waiting Room] When "Kiss of Oath"
+is placed in your Climax Zone, if this is in the Front Row, you may pay cost.
+If so, choose an Opponent's Character whose Cost is 1 or lower and put it on
+top of the Library, and this gains +2000 Power for the turn.
+
+================================================================================
+
+Minatsu, Going on a New Trip
+あらたなる旅立ち 美夏
+Card No.: DC/W23-053  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: Then, it's decided. Sorry, but Yoshiyuki is coming too!
+TEXT: [C] RECOLLECTION If either "One of Thousand" or "Banana Parfait" is in
+Memory, this gains "[A] When this becomes Reversed, you may Reverse the Battle
+Opponent of this".
+
+================================================================================
+
+Minatsu, Going on a New Trip
+あらたなる旅立ち 美夏
+Card No.: DC/W23-053S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] RECOLLECTION If either "One of Thousand" or "Banana Parfait" is in
+Memory, this gains "[A] When this becomes Reversed, you may Reverse the Battle
+Opponent of this".
+
+================================================================================
+
+Nemu, Old Memories
+昔の思い出 音夢
+Card No.: DC/W23-054  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: I just thought of stuff from a while back
+TEXT: [C] If there are 2 or fewer cards in your Stock, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+Nemu, Old Memories
+昔の思い出 音夢
+Card No.: DC/W23-054S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] If there are 2 or fewer cards in your Stock, this gains +1 Level and
++1000 Power.
+
+================================================================================
+
+Miharu, Lovers' Proof
+恋人の証 美春
+Card No.: DC/W23-055  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: -- *smooch*
+TEXT: [A] [Put the top card of your Library in Clock, Return this to hand] When
+"Miharu's Feelings" is placed in your Climax Zone, you may pay cost. If so,
+search your Library for up to 1 Level 0 or lower ::Banana:: Character and put
+it in the Slot this was in. Shuffle your Library.
+
+================================================================================
+
+Miharu, Lovers' Proof
+恋人の証 美春
+Card No.: DC/W23-055S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [Put the top card of your Library in Clock, Return this to hand] When
+"Miharu's Feelings" is placed in your Climax Zone, you may pay cost. If so,
+search your Library for up to 1 Level 0 or lower ::Banana:: Character and put
+it in the Slot this was in. Shuffle your Library.
+
+================================================================================
+
+Yume, Gentle Kiss
+優しいキス 由夢
+Card No.: DC/W23-056  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Short on breath, heart-thumping... it feels odd
+TEXT: [A] When this is placed from hand to the Stage, put the bottom card of
+your Stock in the Waiting Room.
+
+================================================================================
+
+Yume, Gentle Kiss
+優しいキス 由夢
+Card No.: DC/W23-056S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, put the bottom card of
+your Stock in the Waiting Room.
+
+================================================================================
+
+Erica, Dignified Style
+凛とした風格 エリカ
+Card No.: DC/W23-057  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: You're prepared?
+TEXT: [S] [Rest 1 of your Characters with "[A] ENCORE [Discard a Character card
+from your hand to the Waiting Room]"] This gains "[A] When the Battle Opponent
+of this becomes Reversed, you may put it on top of the Library" for the turn.
+
+================================================================================
+
+Erica, Dignified Style
+凛とした風格 エリカ
+Card No.: DC/W23-057S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [S] [Rest 1 of your Characters with "[A] ENCORE [Discard a Character card
+from your hand to the Waiting Room]"] This gains "[A] When the Battle Opponent
+of this becomes Reversed, you may put it on top of the Library" for the turn.
+
+================================================================================
+
+Erica, Private Lesson
+個人レッスン エリカ
+Card No.: DC/W23-058  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Grr--
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Maika, Treasure So-called "Friends"
+“友達”という宝物 舞佳
+Card No.: DC/W23-059  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: This is worth a lot. A treasure that most people may not gain
+throughout their lives
+TEXT: [C] If you have no other Characters in the Front Row, this gains +1500
+Power.
+[C] If this is on the Stage, this gains ::Nabe::.
+
+================================================================================
+
+Yume, Hand-Made Hydrangea
+手作りの紫陽花 由夢
+Card No.: DC/W23-060  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Let's put Hydrangea on it too
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a ::Magic:: Character, this gains "[A] When this becomes
+Reversed, if the Level of the Battle Opponent is 1 or lower, you may Reverse
+that Character." for the turn.
+
+================================================================================
+
+Shinobu, Yearning!
+お慕いしております！ 忍
+Card No.: DC/W23-061  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 忍 (Ninja)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: Yoshiyuki-dono!!
+TEXT: [A] When your Opponent's Climax is placed to the Climax Zone, you may put
+this in Stock.
+
+================================================================================
+
+Minatsu, Returned Smile
+帰ってきた笑顔 美夏
+Card No.: DC/W23-062  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: Soul 
+Flavor: I'm back, Yoshiyuki--
+TEXT: [A] [(2) Put a Character from your Stage to the Waiting Room] When you
+use the BACKUP of this, you may pay cost. If so, choose 1 of your Opponent's
+Characters whose Level is higher than your Opponent's Level and put it in the
+Waiting Room.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the
+Waiting Room]
+
+================================================================================
+
+Nemu, Caretaking Nurse
+世話焼きナース 音夢
+Card No.: DC/W23-063  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 3000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: ナース (Nurse)
+Triggers: Soul 
+Flavor: Here here onii-san, it's morning
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+1000 times number of Characters with ASSIST you have.
+
+================================================================================
+
+"Phantom Thief Princess" Erica
+“怪盗プリンセス”エリカ
+Card No.: DC/W23-064  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Hehehe, like I have said, I have came for the treasure
+"Setsugekka"!
+TEXT: [C] If this is on the Stage, this gains ::Phantom Thief::.
+
+================================================================================
+
+Miharu, Senpai And Banana
+先輩とバナナ 美春
+Card No.: DC/W23-065  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: M, Miharu thinks that the banana that senpai bought are --
+wait, Miharu meant that Miharu loves the senpai who bought her bananas
+TEXT: [C] If you are Level 1 or higher, this does not Stand during your Stand
+Phase.
+
+================================================================================
+
+Minatsu, Time for Only Two
+ふたりだけの時間 美夏
+Card No.: DC/W23-066  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: None
+Flavor: Okay? Minatsu feel that we should have no distance between us
+TEXT: [C] Your other Character in the Front Row Center Slot gain +X Power. X =
+1000 times Cost of that Character.
+
+================================================================================
+
+Nanako, Battle of Aiyue
+愛故の戦い ななこ
+Card No.: DC/W23-067  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: The Asakura-kun that has been with me who is like this -- I
+shall not give him to you!
+TEXT: [S] [(1)] This gains "[A] When this becomes Reversed, if the Battle
+Opponent of this is Level 1 or lower, you may Reverse that Character" for the
+turn.
+
+================================================================================
+
+Nemu, Happy Times
+楽しい時間 音夢
+Card No.: DC/W23-068  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: ナース (Nurse)
+Triggers: None
+Flavor: Now that we're in summer vacation, there has been many things that
+are fun that happened naturally
+TEXT: -- None --
+
+================================================================================
+
+Myu-san, Enjoyable Shopping
+楽しいお買い物 μさん
+Card No.: DC/W23-070  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: Un------!
+TEXT: [A] When this becomes Reversed, if the Battle Opponent is Level 2 or
+lower, you may Reverse that Character.
+[A] When this becomes Reversed in Battle, choose 1 of your Characters. That
+character gains +1000 Power for the turn. 
+
+================================================================================
+
+Yume, Cat-Eared
+ネコミミ 由夢
+Card No.: DC/W23-071  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: *nom nom*
+TEXT: [A] This ability may activate up to twice per turn. When another
+::Magic:: Character is placed from your hand to the Stage, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Rio & Flora & Kamie
+リオ＆フローラ＆ジェイミー
+Card No.: DC/W23-072  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 宇宙人 (Alien)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Rio: "Because you're standign next to Erica, that's what
+happens"
+TEXT: [C] If you have 2 or more other ::Royalty:: Characters, this gains "[A]
+ENCORE [Discard a Character card from your hand to the Waiting Room]".
+
+================================================================================
+
+One of Thousand
+ワン・オブ・サウザンド
+Card No.: DC/W23-073  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Miharu: "I said it's mine, so it's mine!" Minatsu:
+"No, it's Minatsu's!"
+TEXT: Rest 1 of your Standing ::Banana:: Characters. If so, choose a Character
+card in your Waiting Room and return it to your hand. Choose 1 of your
+Characters. That Character gains +3000 Power for the turn.
+Send this to Memory.
+
+================================================================================
+
+Kiss of Oath
+誓いのキス
+Card No.: DC/W23-074  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Junichi: "-- I swear"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kiss of Oath
+誓いのキス
+Card No.: DC/W23-074R  Rarity: RRR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Miharu's Feelings
+美春の気持ち
+Card No.: DC/W23-075  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Miharu: "No one can stop you from thinking about someone else"
+Miharu: "That... is true"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Anzu, Small Mystery
+小さな神秘 杏
+Card No.: DC/W23-076  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 演劇 (Play)
+Triggers: Soul 
+Flavor: ... Well, with what I can remember, it's like this
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 Character with either ::Magic:: and/or
+::Play::, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Anzu, Small Mystery
+小さな神秘 杏
+Card No.: DC/W23-076R  Rarity: RRR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 演劇 (Play)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 Character with either ::Magic:: and/or
+::Play::, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Moe, Searing Couple
+アツアツな二人 萌
+Card No.: DC/W23-078  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: None
+Flavor: Asakura-kun, if you don't eat soon, it won't be tasty anymore~?
+TEXT: [C] All your other ::Nabe:: Characters gain +500 Power.
+[S] [(1) Rest this] Draw up to 2 cards, and discard 2 cards from your hand to
+the Waiting Room.
+
+================================================================================
+
+Moe, Searing Couple
+アツアツな二人 萌
+Card No.: DC/W23-078S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Nabe:: Characters gain +500 Power.
+[S] [(1) Rest this] Draw up to 2 cards, and discard 2 cards from your hand to
+the Waiting Room.
+
+================================================================================
+
+Mako, Silvery Melody
+銀色の旋律 眞子
+Card No.: DC/W23-079  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: None
+Flavor: Listen. My feelings for you--
+TEXT: [A] When this attacks, if "Precious Flute" is in the Climax Zone, choose
+1 of your ::Music:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Mako, Silvery Melody
+銀色の旋律 眞子
+Card No.: DC/W23-079S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Precious Flute" is in the Climax Zone, choose
+1 of your ::Music:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Mayuki, Beloved Senpai
+愛しの先輩 まゆき
+Card No.: DC/W23-080  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: My heart's beating a little
+TEXT: [A] When another ::Sports:: Character of yours attacks, this gains +1000
+Power for the turn.
+[A] [(1) Discard a card from your hand to the Waiting Room, Send this to
+Memory] At the start of your Encore Step, if this is Rested, you may pay cost.
+If so, choose a "Mayuki, To Even Higher Places" in your Waiting Room and put it
+in the Slot this was in.
+
+================================================================================
+
+Mayuki, Beloved Senpai
+愛しの先輩 まゆき
+Card No.: DC/W23-080S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When another ::Sports:: Character of yours attacks, this gains +1000
+Power for the turn.
+[A] [(1) Discard a card from your hand to the Waiting Room, Send this to
+Memory] At the start of your Encore Step, if this is Rested, you may pay cost.
+If so, choose a "Mayuki, To Even Higher Places" in your Waiting Room and put it
+in the Slot this was in.
+
+================================================================================
+
+Maya, Smiling Robot
+笑顔のロボット 麻耶
+Card No.: DC/W23-081  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: メカ (Mecha)
+Triggers: None
+Flavor: Ah, that. That moves according to the love the master fills it with
+TEXT: [A] This ability may activate up to twice per turn. When another
+::Mecha:: Character is placed from your hand to the Stage, this gains +1000
+Power for the turn.
+[A] This ability may activate up to twice per turn. When another ::Chairman::
+Character is placed from your hand to the Stage, this gains +1000 Power for the
+turn.
+
+================================================================================
+
+Maya, Smiling Robot
+笑顔のロボット 麻耶
+Card No.: DC/W23-081S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: メカ (Mecha)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability may activate up to twice per turn. When another
+::Mecha:: Character is placed from your hand to the Stage, this gains +1000
+Power for the turn.
+[A] This ability may activate up to twice per turn. When another ::Chairman::
+Character is placed from your hand to the Stage, this gains +1000 Power for the
+turn.
+
+================================================================================
+
+Mayuki, Hiding Her Embarassment
+照れ隠し まゆき
+Card No.: DC/W23-083  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: H, hurry~~~ I'm embarassed
+TEXT: [C] During your Opponent's turn, for each other ::Student Council::
+Character you have, this gains +500 Power.
+[A] When another ::Sports:: Character of yours attacks, this gains +1000 Power
+for the turn.
+
+================================================================================
+
+Anzu, Victory Sign
+Ｖサイン 杏
+Card No.: DC/W23-084  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 演劇 (Play)
+Triggers: None
+Flavor: Hah
+TEXT: [A] [(1)] At the start of your Opponent's Attack Phase, you may pay cost.
+If so, this gains +2000 Power for the turn.
+
+================================================================================
+
+Rino, Time at Ease
+ゆったりとした時間 莉乃
+Card No.: DC/W23-085  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: ドングリ (Acorn)      Trait 2: 美術 (Art)
+Triggers: None
+Flavor: I'm almost at a break point... Just wait~
+TEXT: [A] [(2) Return this to your hand] At the start of your Opponent's Attack
+Phase, you may pay cost. If so, choose another Character of yours and return it
+to your hand.
+
+================================================================================
+
+Mako, Her Home Cooking
+彼女の手料理 眞子
+Card No.: DC/W23-086  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 9000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: Soul 
+Flavor: It's hot, so be careful. *blows air*
+TEXT: [A] When this is placed from hand to the Stage, this gets -1500 Power for
+the turn.
+
+================================================================================
+
+Anzu, From Hypothesis to Reality
+仮説から真相へ 杏
+Card No.: DC/W23-087  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 演劇 (Play)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: ... Then, who does Yoshiyuki think is the most suspicious?
+TEXT: [A] When your Character is placed from hand to the Waiting Room, this
+gains "[A] ENCORE [(1)]" for the turn.
+
+================================================================================
+
+Moe, New Future
+新しい未来 萌
+Card No.: DC/W23-088  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: Soul 
+Flavor: -- Asakura-kun, it seems like the weather will be good today
+TEXT: [C] For each other ::Nabe:: Character you have, this gains +500 Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+
+================================================================================
+
+Maya, Returned SSP
+帰ってきたＳＳＰ 麻耶
+Card No.: DC/W23-089  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: Here, shrimp. Sorry to keep you waiting
+TEXT: [A] [Put this in the Waiting Room] When another Character of yours is
+placed from the Stage to the Waiting Room, if this is in the Back Row, you may
+pay cost. If so, put that Character back Rested in the Slot it was in.
+
+================================================================================
+
+"Fall in Love Royal Straight Flush" Shiiren
+“恋する10JQKAFL”椎恋
+Card No.: DC/W23-090  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: ポーカー (Poker)
+Triggers: None
+Flavor: ... it's probably love, Asakura
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, this gains +3000 Power until the end of
+your Opponent's next turn. (Put the reveaed card back where it was)
+
+================================================================================
+
+Alice, Best Heart-Thumping
+一番のドキドキ アリス
+Card No.: DC/W23-092  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 人形 (Doll)      Trait 2: かき氷 (Shaved Ice)
+Triggers: None
+Flavor: I want to go. But, I want to go with just senpai next time
+TEXT: [A] When this becomes Reversed in Battle, put this on bottom of the
+Library.
+
+================================================================================
+
+Kasumi, "Life" of Sisters
+姉妹の“イノチ” 香澄
+Card No.: DC/W23-093  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 霊 (Spirit)      Trait 2: None
+Triggers: None
+Flavor: That's why I said I wanted to come search for ghosts
+TEXT: [A] [(1) Send this to Memory] When another Character of yours is placed
+from Stage to the Waiting Room, you may pay cost. If so, return that Character
+to your hand.
+
+================================================================================
+
+Anzu, Malicious Language Maid
+毒舌メイドさん 杏
+Card No.: DC/W23-094  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 演劇 (Play)      Trait 2: メイド (Maid)
+Triggers: None
+Flavor: Is there something that you're not satisfied with, master?
+TEXT: [C] If there are 5 or more cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+Moe, To the Dream World
+夢の世界へ 萌
+Card No.: DC/W23-095  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 鍋 (Nabe)
+Triggers: None
+Flavor: zzz...
+TEXT: -- None --
+
+================================================================================
+
+Mayuki, To Even Higher Places
+さらなる高みへ まゆき
+Card No.: DC/W23-096  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Now, I shall jump!
+TEXT: [A] [Put the top card of your Library in Clock] When the Battle Opponent
+of this becomes Reversed, you may pay cost. If so, draw a card.
+
+================================================================================
+
+Suginami & Suginami, Danger When Mixed!
+混ぜるな危険！ 杉並＆杉並
+Card No.: DC/W23-097  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: オカルト (Occult)
+Triggers: Soul 
+Flavor: Suginami: "He and I are allies. No, siblings? Nah, at least we
+think alike"
+TEXT: [C] If there are 6 or more cards in your hand, this gains +1500 Power.
+
+================================================================================
+
+Always Together, Always Smiling.
+ずっと一緒に、ずっと笑顔で。
+Card No.: DC/W23-098  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Asumi: "I love you, onee-chan...!" Kasumi: "M... me
+too!"
+TEXT: Choose a 'Kasumi, "Life" of Sisters' in your Memory and put it in Stock.
+Put this in Stock.
+
+================================================================================
+
+Precious Flute
+大切なフルート
+Card No.: DC/W23-100  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: The best friend of that flute - and the person who loves Asakura more
+than anyone else - is me, Mako Mitsukoshi!
+TEXT: [A] When this is placed from your hand to the Climax Zone, draw a card,
+and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul
+for the turn.
+
+================================================================================
+
+Charles, Kind Warmth
+優しい温もり シャルル
+Card No.: DC3/W23-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: It's warm
+TEXT: [A] When another ::Magic:: Character of yours attack, this gains +1000
+Power for the turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Charles, Kind Warmth
+優しい温もり シャルル
+Card No.: DC3/W23-004R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When another ::Magic:: Character of yours attack, this gains +1000
+Power for the turn.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]
+
+================================================================================
+
+Ricca, New Magic
+新しい魔法 リッカ
+Card No.: DC3/W23-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Because, it's more fun that way~
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Student Council:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Ricca, New Magic
+新しい魔法 リッカ
+Card No.: DC3/W23-005R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed this way, choose 1 of your
+::Student Council:: Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Ricca, Familiar Feeling
+懐かしい感じ リッカ
+Card No.: DC3/W23-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Hmm~? You calling me stupid because of that?
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times the cost of that Character.
+[A] [(1) Discard a card from your hand to the Waiting Room] When this is played
+from hand to the Stage, you may pay cost. If so, search your Library for up to
+1 ::Student Council:: Character, reveal it, and put it in your hand. Shuffle
+your Library. 
+
+================================================================================
+
+Elizabeth, Playful Urchin
+お茶目なエリザベス
+Card No.: DC3/W23-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: I, I thought I was gonna die...
+TEXT: [A] ENCORE [Put the top card of your Library in Clock] 
+
+================================================================================
+
+Charles, Someday's Memory
+いつかの記憶 シャルル
+Card No.: DC3/W23-020  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: None
+Flavor: Okay, let's do this~!
+TEXT: -- None --
+
+================================================================================
+
+Tomoe, Hotly Debating
+熱弁をふるう巴
+Card No.: DC3/W23-022  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 生徒会 (Student Council)
+Triggers: Soul 
+Flavor: Don't worry. If it's about blades, I'm always happy to
+spend time
+TEXT: [C] During your turn, this gains +1000 Power.
+
+================================================================================
+
+Himeno, Ticklish Future
+こそばゆい未来 姫乃
+Card No.: DC3/W23-027  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: If you don't hurry up I'll leave you behind~
+TEXT: [A] When this is placed from hand to the Stage, look at up to 3 cards
+from top of your Library and choose up to 1 of them and put it in your hand.
+Put the rest in the Waiting Room.
+[A] [Discard a card from your hand to the Waiting Room] When "Irreplaceable
+Family" is placed in your Climax Zone, if this is in the Front Row, you may pay
+cost. If so, choose a ::Magic:: Character in your Clock and put it in any Slot
+on the Stage.
+
+================================================================================
+
+Himeno, Ticklish Future
+こそばゆい未来 姫乃
+Card No.: DC3/W23-027SP  Rarity: SP
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, look at up to 3 cards
+from top of your Library and choose up to 1 of them and put it in your hand.
+Put the rest in the Waiting Room.
+[A] [Discard a card from your hand to the Waiting Room] When "Irreplaceable
+Family" is placed in your Climax Zone, if this is in the Front Row, you may pay
+cost. If so, choose a ::Magic:: Character in your Clock and put it in any Slot
+on the Stage.
+
+================================================================================
+
+Sara, Practicing Love!
+恋愛実践中！ サラ
+Card No.: DC3/W23-031  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: Oh no, I forgot a set of chopsticks~ now it's done, there's
+only one thing left we can do-
+TEXT: [S] [Discard a ::Sports:: Character card from your hand to the Waiting
+Room] This gains +3500 Power for the turn. 
+
+================================================================================
+
+Sara, Practicing Love!
+恋愛実践中！ サラ
+Card No.: DC3/W23-031R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: スポーツ (Sports)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [S] [Discard a ::Sports:: Character card from your hand to the Waiting
+Room] This gains +3500 Power for the turn. 
+
+================================================================================
+
+Sara, Truly Single-Minded
+真面目でひたむき サラ
+Card No.: DC3/W23-037  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 2   Power: 8500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: スポーツ (Sports)
+Triggers: None
+Flavor: ... Kiyotaka!? When did you get here!?
+TEXT: -- None --
+
+================================================================================
+
+Himeno, Relaxing at the Beach
+海でのんびり 姫乃
+Card No.: DC3/W23-042  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 水着 (Swimsuit)
+Triggers: None
+Flavor: A vacation spent with friends isn't so bad after all...
+TEXT: [A] When this attacks, choose 1 of your other Characters. That Character
+gains +1 Level and +1000 Power for the turn.
+
+================================================================================
+
+Himeno's Determination
+姫乃の覚悟
+Card No.: DC3/W23-048  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: ... Thank you, onii-san
+TEXT: Choose up to 1 Character card in your hand whose name includes "Himeno"
+and put it in any Slot on the Stage.
+
+================================================================================
+
+Irreplaceable Family
+かけがえのない家族
+Card No.: DC3/W23-049  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: *sigh* Onii-san is too over-protective...
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Irreplaceable Family
+かけがえのない家族
+Card No.: DC3/W23-049R  Rarity: RRR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Mikoto, Normal Outfit Is Bunny!?
+普段着はバニー！？ 美琴
+Card No.: DC3/W23-069  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: N, n, no! You can't wear that in front of guys that aren't
+Suginami-sama
+TEXT: [A] When the Battle Opponent of this becomes Reversed, if there are 3 or
+fewer cards in your Stock, you may put that Character on top of the Library.
+
+================================================================================
+
+Aoi, Dream-Like Night
+夢のような夜 葵
+Card No.: DC3/W23-077  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: Soul 
+Flavor: ... Then, here's is fine, right
+TEXT: [A] When a Climax is placed in your Climax Zone, this gains +1500 Power
+for the turn.
+[A] When "To 'Onii-chan'" is placed in your Climax Zone, if this is in the
+Front Row, you may choose a "To 'Onii-chan'" in your Waiting Room and return it
+to the Library. If so, shuffle your Library.
+[A] When this Front Attacked, look at the top card of your Library. Put it
+either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Aoi, Dream-Like Night
+夢のような夜 葵
+Card No.: DC3/W23-077SP  Rarity: SP
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When a Climax is placed in your Climax Zone, this gains +1500 Power
+for the turn.
+[A] When "To 'Onii-chan'" is placed in your Climax Zone, if this is in the
+Front Row, you may choose a "To 'Onii-chan'" in your Waiting Room and return it
+to the Library. If so, shuffle your Library.
+[A] When this Front Attacked, look at the top card of your Library. Put it
+either on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Aoi, Happy Smiles
+ニコニコ笑顔 葵
+Card No.: DC3/W23-082  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: None
+Flavor: Welcome~ to Flowers!
+TEXT: [A] This ability may activate up to once per turn. When you use an [S]
+ability, this gains +1500 Power for the turn.
+[A] [Put the top card of your Library in Clock] When the Battle Opponent of
+this becomes Reversed, you may pay cost. If so, draw a card.
+
+================================================================================
+
+Aoi, Happy Smiles
+ニコニコ笑顔 葵
+Card No.: DC3/W23-082S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] This ability may activate up to once per turn. When you use an [S]
+ability, this gains +1500 Power for the turn.
+[A] [Put the top card of your Library in Clock] When the Battle Opponent of
+this becomes Reversed, you may pay cost. If so, draw a card.
+
+================================================================================
+
+Aoi, Playing Water by the Shore
+浜辺で水遊び 葵
+Card No.: DC3/W23-091  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 新聞 (Newspaper)      Trait 2: ウェイトレス (Waitress)
+Triggers: None
+Flavor: Ah! It's cold
+TEXT: -- None --
+
+================================================================================
+
+To "Onii-chan"
+“お兄ちゃん”へ
+Card No.: DC3/W23-099  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Ah, this is... Valentine's day present
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+To "Onii-chan"
+“お兄ちゃん”へ
+Card No.: DC3/W23-099R  Rarity: RRR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

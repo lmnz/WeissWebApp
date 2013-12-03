@@ -1,0 +1,1376 @@
+Index II & Railgun Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Accelerator in the Underworld
+裏社会に生きる少年 一方通行
+Card No.: ID/W13-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: Soul 
+Flavor: Taking up time..
+TEXT: [C] RECOLLECTION If there are 2 or more cards in your Memory, this gains
++1 Soul.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Onee-Sama" Mikoto
+“お姉さま”美琴
+Card No.: ID/W13-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: You know about railguns?
+TEXT: [C] For each other Rested Character you have, this gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Komoe in Cheerleading Outfit
+チア衣装の小萌
+Card No.: ID/W13-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: Why is everyone working hard that you all look beat up~
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+a Character with either no traits or ::ESP::, reveal it, and put it in your
+hand. Shuffle your Library.
+
+================================================================================
+
+Kuroko, Onee-Sama's Herald
+お姉さまの露払い 黒子
+Card No.: ID/W13-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Bleh...!
+TEXT: [C] If you have 1 or fewer other Characters in play, this gains +1000
+Power and "[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Misaka, Mikoto's Kid Sister
+美琴の妹 ミサカ
+Card No.: ID/W13-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2500   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 超能力 (ESP)
+Triggers: None
+Flavor: Misaka tells you what's troubling her as she looks at you
+TEXT: [C] ASSIST Your Characters in front of this gain +500 Power.
+[S] BRAINSTORM [(1)] Reveal top 4 cards of your Library and put them in Waiting
+Room. Search your Library for up to X ::ESP:: Characters, reveal them, and put
+them in your hand, shuffle, then discard X cards from hand to Waiting Room, X =
+# of Climax cards this way.
+
+================================================================================
+
+Touma, Index' Protector
+インデックスの保護者 当麻
+Card No.: ID/W13-006  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: It seems that she's been waiting
+TEXT: [C] RECOLLECTION If there are 2 or more cards in your Memory, this gets
+-2 Level and +3000 Power while on the Stage.
+[A] When this attacks, if "Imagine Breaker" is in the Climax Zone, all your
+other Characters gain +3000 Power for the turn.
+
+================================================================================
+
+Touma, Man with A Special Right Hand
+異能の右手を持つ男 当麻
+Card No.: ID/W13-007  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Uh, eh, Miss Index?
+TEXT: [C] This gets -3 Level while on Stage. This cannot be chosen as target by
+an Opponent's effects.
+[C] Character opposite this gets -1 Soul.
+[A] [(1)] When the Battle Opponent of this becomes Reversed, you may pay cost.
+If so, search your Library for up to 1 Character with either ::ESP:: or
+::Magic::, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Maika, Maid Candidate
+メイド候補生 舞夏
+Card No.: ID/W13-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メイド (Maid)      Trait 2: None
+Triggers: None
+Flavor: Second semester sounds like lots of work~
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains +500 Power for the turn.
+
+================================================================================
+
+Last Order, Mischievous Child
+いたずらっ子 打ち止め
+Card No.: ID/W13-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 超能力 (ESP)
+Triggers: None
+Flavor: Misaka says that Misaka is staring at you with a pitiful look!
+TEXT: [A] When this attacks, all your other Characters with "Accelerator" in
+the name gain +500 Power for the turn.
+[A] BOND/"Accelerator in the Underworld" [(1)]
+
+================================================================================
+
+Accelerator, Change in Routine
+変化する日常 一方通行
+Card No.: ID/W13-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: Really...
+TEXT: [A] When this attacks, choose another Character of yours. That Character
+gains +1500 Power for the turn.
+
+================================================================================
+
+Mikoto, Unwilling to Lose
+負けられない戦い 美琴
+Card No.: ID/W13-011  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Whatever. Okay
+TEXT: [A] [(1)] When this attacks, if "Borrowed Goods Race" is in the Climax
+Zone, you may pay cost. If so, choose 1 of your Opponent's Characters. Return
+it to the hand.
+
+================================================================================
+
+"Multi-Spy" Tsuchimikado
+“多角スパイ”土御門
+Card No.: ID/W13-012  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 超能力 (ESP)
+Triggers: Soul 
+Flavor: Start the defense ritual before anyone gets hurt
+TEXT: [A] When this is placed from hand to the Stage, choose another Character
+of yours. That Character gains +1500 Power for the turn.
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 Character with either ::ESP:: or ::Magic::,
+reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Electrode Release" Accelerator
+“電極解放”一方通行
+Card No.: ID/W13-013  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: Soul 
+Flavor: Sorry. This is one way only
+TEXT: [A] [(1)] When this attacks, if "Strongest Man in the Academy City" is in
+the Climax Zone, you may pay cost. If so, choose an Opponent's Front Row
+Character whose Level is 2 or Lower. Put it in Stock.
+
+================================================================================
+
+Misuzu Misaka
+御坂 美鈴
+Card No.: ID/W13-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Uh, do you know where Tokiwadai Middle School is?
+TEXT: [C] All your other ::Frog:: Characters gain +500 Power.
+
+================================================================================
+
+Accelerator. Strongest Esper
+最強の能力者 一方通行
+Card No.: ID/W13-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: Is that so...
+TEXT: [C] When this card is Reversed, if its battle opponent's Level is 0 or
+lower, you may put that Character in the Stock. If you do, put the bottom card
+of the Opponent's Stock to the Waiting Room. 
+
+================================================================================
+
+Seiri Fukiyose
+吹寄 制理
+Card No.: ID/W13-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: None
+Flavor: What is this... this lack of motivation!
+TEXT: [A] [(1)] When this becomes Reversed while battling, you may pay cost. If
+so, send this to Memory.
+
+================================================================================
+
+Unlucky Touma
+不幸体質 当麻
+Card No.: ID/W13-017  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: You don't have any gratitude towards the person that feeds you!?
+TEXT: -- None --
+
+================================================================================
+
+Last Order, Sisters' Controller
+妹達の上位個体 打ち止め
+Card No.: ID/W13-018  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: クローン (Clone)      Trait 2: 超能力 (ESP)
+Triggers: None
+Flavor: ... What is this, lack-of-emotion-that-ignores me, as Misaka Misaka...!
+TEXT: [C] This gains +1000 Power during your turn. 
+
+================================================================================
+
+Awaki Musujime
+結標 淡希
+Card No.: ID/W13-019  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: My ability is Move Point. Unlike the untalented you, I don't need
+to touch the object
+TEXT: -- None --
+
+================================================================================
+
+Touma, High School Student in Academy City
+学園都市の高校生 当麻
+Card No.: ID/W13-020  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: .... I didn't know that you know Index...
+TEXT: [C] This gets -1 Level while on Stage.
+
+================================================================================
+
+Kuroko, Dutiful 7th Grader
+役者な中学一年生 黒子
+Card No.: ID/W13-021  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Y, yeah! Today's Kuroko is full of energy!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room] 
+
+================================================================================
+
+Realistic Narrative Shock
+劇画ショック
+Card No.: ID/W13-022  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Onee-sama... this futuristic design has reached places above and
+beyond...
+TEXT: All your ::ESP:: Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Imagine Breaker
+幻想殺し
+Card No.: ID/W13-023  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Disappearrr!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Strongest Man in the Academy City
+学園都市最強の男
+Card No.: ID/W13-024  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Know your place and return to where you were with your tail between the
+legs!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn. 
+
+================================================================================
+
+Borrowed Goods Race
+借り物競走
+Card No.: ID/W13-025  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Got it! Found my winning requirement!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+"Dedicatus545" Index
+“Dedicatus545”インデックス
+Card No.: ID/W13-076  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: You have something to tell me?
+TEXT: [A] [(1)] When this is placed from hand to Stage, you may pay cost. If
+so, draw up to 2 cards, and discard 2 cards from hand to Waiting Room.
+[A] CHANGE [(3) Discard a card from hand, Send this to Memory] At your Climax
+Phase beginning, you may pay cost. If so, choose an "Index, Incredible Sister"
+in your Waiting Room and put to the Slot this was.
+
+================================================================================
+
+The Sister with Silver Hair and Blue Eyes
+銀髪碧眼のシスターさん
+Card No.: ID/W13-077  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: I have lots of work so I want to be paid what I deserve!
+TEXT: [A] When this is placed from hand to the Stage, choose up to 2 other
+Characters of yours. Those Characters gain +1500 Power until the end of your
+Opponent's Next turn.
+[A] When this attacks, if "The Girl Who Eats a Lot" is in the Climax Zone, you
+may put the top card of your Clock to the Waiting Room.
+
+================================================================================
+
+Index in Cheerleading Outfit
+チア衣装のインデックス
+Card No.: ID/W13-078  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Today I cheer for Touma
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(2) Rest this] Search your Library for up to 1 ::Magic:: Character, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Orsola Aquinas
+オルソラ＝アクィナス
+Card No.: ID/W13-079  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: シスター (Sister)
+Triggers: None
+Flavor: ....You lied to me?
+TEXT: [A] [(1) Discard a card from hand, Send this to Memory] When this becomes
+Reversed while battling, you may pay cost. If so, search your Library for up to
+1 ::Magic:: Character, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Route Disturbe" Orsola Aquinas
+“追跡封じ”オリアナ＝トムソン
+Card No.: ID/W13-080  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Physical flame won't do anything to warm me up
+TEXT: [A] [(1) At the beginning of your Opponent's Attack Phase, you may pay
+cost. If so, move this to an unoccupied Back Row Slot.
+
+================================================================================
+
+Touma & Index, Always Merriful
+いつも賑やか 当麻&インデックス
+Card No.: ID/W13-081  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: It smells delicious! Touma!
+TEXT: [A] [(1)] When this attacks, if "Not a Big Deal?" is in the Climax Zone,
+you may pay cost. If so, choose another Character of yours. That Character
+gains +1500 Power until the end of your Opponent's next turn, and this gains
++1500 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Index, Incredible Sister
+不思議シスター インデックス
+Card No.: ID/W13-082  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Don't dwell on the roots. It's bad for you.
+TEXT: [C] RECOLLECTION During your Opponent's turn, if there are 2 or more
+Characters in your Memory, this gains +2000 Power.
+[A] When "Sheol Fear" is placed to your Climax Zone, if this is in the Front
+Row, you may choose 1 of your Opponent's Character and move it to an Opponent's
+unoccupied Slot.
+
+================================================================================
+
+Index, Walking Church
+歩く教会 インデックス
+Card No.: ID/W13-083  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Maybe I should go play in Touma's classroom!
+TEXT: [A] [(1)] When this becomes Reversed while battling, you may pay cost. If
+so, send this to Memory.
+[A] BOND/"Touma, Index' Protector" [(1)]
+
+================================================================================
+
+Agnese Sanctis
+アニェーゼ＝サンクティス
+Card No.: ID/W13-084  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: シスター (Sister)
+Triggers: None
+Flavor: Be quiet!
+TEXT: [A] RECOLLECTION When this is placed from hand to the Stage, if there are
+2 or more cards in your Memory, choose another Character of yours. That
+Character gains "[A] When this is placed from the Stage to the Waiting Room,
+you may put this in the Rested state in the Slot it was in." for the turn.
+
+================================================================================
+
+Agnese, Wielder of Lotus Wand
+蓮の杖の使い手 アニェーゼ
+Card No.: ID/W13-085  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: シスター (Sister)
+Triggers: None
+Flavor: ... Don't take too much of my time
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Saiji Tatemiya
+建宮 斎字
+Card No.: ID/W13-086  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Whatever, if I have to. Today will be your death!
+TEXT: [A] When you use BACKUP of this, if all your Characters have ::Magic::,
+then you may put the top card of your Library to your Stock.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Kanzaki, Former Amakusa Catholics 
+元天草式十字凄教 神裂
+Card No.: ID/W13-087  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: If he's there, then even if I'm not, Amakusa will still tread
+the correct path.
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Orsola, Missionary to A Heretic State
+異教地への伝道者 オルソラ
+Card No.: ID/W13-088  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: シスター (Sister)
+Triggers: None
+Flavor: Is it okay if I ride this bus?
+TEXT: [C] All your other ::Magic:: Characters gain +500 Power.
+
+================================================================================
+
+"Fortis931" Stiyl
+“Fortis931”ステイル
+Card No.: ID/W13-089  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: タバコ (Tobacco)
+Triggers: None
+Flavor: I have no reason to become familiar with you
+TEXT: [C] This gains +X Power, where X = 2000 times Level of the Character
+opposite this. 
+
+================================================================================
+
+Index, Parasite of the Touma Household
+上条家の居候 インデックス
+Card No.: ID/W13-090  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Nothing to do, bored, not funny!!
+TEXT: -- None --
+
+================================================================================
+
+Index in Swimsuits
+水着のインデックス
+Card No.: ID/W13-091  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Touma~ T-o-u-m-a~!!
+TEXT: [C] If Level of the Character opposite this is 0 or lower, this gains
+"[C] This cannot Front Attack".
+
+================================================================================
+
+Laura Stuart
+ローラ＝スチュアート
+Card No.: ID/W13-092  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 日傘 (Parasol)
+Triggers: None
+Flavor: Don't call me by that name
+TEXT: -- None --
+
+================================================================================
+
+Itsuwa of Formerly Amakusa Catholics
+天草式十字凄教 五和
+Card No.: ID/W13-093  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: おしぼり (Moist Hand Towel)
+Triggers: Soul 
+Flavor: I'm all set to go
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of the Character.
+[A] [(1) When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 of your Characters. That Character gains +1500 Power and ::Moist Hand
+Towel:: until the end of your Opponent's next turn.
+
+================================================================================
+
+Stiyl, Rune Magician
+ルーンの魔術師 ステイル
+Card No.: ID/W13-094  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: タバコ (Tobacco)
+Triggers: Soul 
+Flavor: Don't just start...
+TEXT: [A] [(2) Put the top card of your Library in your Clock] When this is
+placed from hand to the Stage, you may pay cost. If so, choose 1 of your
+Opponent's Front Row Characters whose Level is 2 or lower. Put it on bottom of
+the Library.
+
+================================================================================
+
+Ouma Yamisaka
+闇咲 逢魔
+Card No.: ID/W13-095  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: String of Fighting Demons
+TEXT: -- None --
+
+================================================================================
+
+Temptation on the Stall
+屋台の誘惑
+Card No.: ID/W13-096  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Japanese cuisines are foods that are also temptations
+TEXT: Search your Library for up to 2 ::Magic:: Characters, reveal them, and
+put them in your hand. Shuffle your Library. Discard a card from your hand to
+the Waiting Room.
+
+================================================================================
+
+Meaning of Cross
+十字架の意味
+Card No.: ID/W13-097  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Touma: "You are right that I don't have this kind of stuff"
+TEXT: [Counter] Draw 1 card.
+Choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Not a Big Deal?
+大した事ない？
+Card No.: ID/W13-098  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Boo, stupid Touma. You didn't look that way
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Sheol Fear
+魔滅の声
+Card No.: ID/W13-099  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Stiyl: "That song attacks the contradictions in the teaching -
+'Sheol Fear' is what it's called"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+The Girl Who Eats A Lot
+食いしん坊少女
+Card No.: ID/W13-100  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Let's eat~~~!!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+"Telepathy" Haruue
+“精神感応”春上
+Card No.: RG/W13-026  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: Soul 
+Flavor: The name is Erii Haruue
+TEXT: [A] When this attacks, if "Welcome!" is in the Climax Zone, you may pay
+cost. If so, search your Library for up to 1 ::ESP:: Character, reveal it, and
+put it in your hand. After that, Shuffle your Library, and this gains +3000
+Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Saten by the Water
+水辺の佐天
+Card No.: RG/W13-027  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: It looks fun!
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+[C] Character oppsite this gets -1 Soul.
+[A] [(1) When this is placed from hand to the Stage, you may pay cost. If so,
+this gains +1000 Power for the turn, and your Opponent may not play Events from
+their hand unti the end of their next turn.
+
+================================================================================
+
+Uiharu, Saten's Classmate
+佐天のクラスメイト 初春
+Card No.: RG/W13-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Thank you for treating me!
+TEXT: [C] All your other "Saten, Uiharu's Classmate" gain +1000 Power.
+[A] BOND/"Saten, Uiharu's Classmate" [(1)]
+
+================================================================================
+
+Erii Haruue
+春上 衿衣
+Card No.: RG/W13-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: That's the first time I saw teleporting
+TEXT: [A] [(1) Discard a card from hand, Send this to Memory] When this becomes
+Reversed while battling, you may pay cost. If so, search your Library for up to
+1 ::ESP:: Character, reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Uiharu by the Water
+水辺の初春
+Card No.: RG/W13-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: What is this!?
+TEXT: [A] RECOLLECTION When you use BACKUP on this, if there's a Character with
+either "Saten" or "Haruue" in the name in your Memory, choose 1 of your
+battling Characters. That Character gains +1000 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from hand to the Waiting
+Room]
+
+================================================================================
+
+"Clairvoyance" Konori
+“透視能力”固法
+Card No.: RG/W13-031  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: I'll teach you my method of relieving stress
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your ::ESP:: Characters. That
+Character gains +1000 Power for the turn.
+
+================================================================================
+
+Saten, Uiharu's Classmate
+初春のクラスメイト 佐天
+Card No.: RG/W13-032  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: They're doing it as usual
+TEXT: [C] If you have another Character with "Uiharu" in the name in play, this
+gains +2000 Power and "[A] ENCORE [Discard a Character card from hand to the
+Waiting Room]".
+
+================================================================================
+
+Uiharu in Yukata
+浴衣の初春
+Card No.: RG/W13-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Booo!
+TEXT: [C] If you have 1 or fewer other Characters in play, this gains +1 Level
+and +1000 Power.
+
+================================================================================
+
+"Level 2" Haruue
+“異能力者”春上
+Card No.: RG/W13-034  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: None
+Triggers: None
+Flavor: The sound they make makes them cute...
+TEXT: [A] When this is placed from hand to Stage, choose 1 of your Opponent's
+Characters. That Character gets -500 Power for the turn.
+[A] CHANGE [(3) Discard a card from hand, Send this to Memory] At beginning of
+your Climax Phase, you may pay cost. If so, choose a '"Telepathy" Haruue' in
+your Waiting Room and put it in the Slot this was.
+
+================================================================================
+
+Saten, Normal Girl
+普通の女の子 佐天
+Card No.: RG/W13-035  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: What's this noise...
+TEXT: [A] [(1)] When this attacks, if "What I Can Do" is in the Climax Zone,
+you may pay cost. If so, this gains +6000 Power for the turn.
+
+================================================================================
+
+"Thermal Hand" Uiharu
+“定温保存”初春
+Card No.: RG/W13-036  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Like this... The temperature of things I touch are fixed
+TEXT: [C] If you have 2 or more other ::ESP:: Characters, tis gains +1000
+Power.
+[A] When this attacks, if "Seeing Erii Again" is in the Climax Zone, put the
+top card of your Library to your Stock, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Kiyama, Teacher of Children
+子ども達の先生 木山
+Card No.: RG/W13-037  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 先生 (Teacher)      Trait 2: 科学 (Science)
+Triggers: Soul 
+Flavor: Teachers cannot give up on their students!
+TEXT: [C] RECOLLECTION If there are 2 or more ::ESP:: Characters in your
+Memory, this gains +2000 Power.
+
+================================================================================
+
+Saten in Yukata
+浴衣の佐天
+Card No.: RG/W13-038  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: A-n!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(1)] When this becomes Reversed while battling, you may pay cost. If so,
+send this to Memory.
+
+================================================================================
+
+Haruue in Yukata
+浴衣の春上
+Card No.: RG/W13-039  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: This.. is the first time wearing yukata for me
+TEXT: [S] [(1)] Choose 1 of your ::ESP:: Characters. That Character gain +1500
+Power for the turn.
+
+================================================================================
+
+Kiyama, Brain Biologist
+大脳生理学者 木山
+Card No.: RG/W13-040  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: 科学 (Science)
+Triggers: None
+Flavor: Say thanks
+TEXT: [S] [(1) Rest 1 of your Characters] This gains +2500 Power for the turn.
+
+================================================================================
+
+Tsuzuri Tessou
+鉄装 綴里
+Card No.: RG/W13-041  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: It's almost time for everyone to be out of school!
+TEXT: [C] ALARM If this is on top of your Clock, all your ::ESP:: Characters
+gain "[S] [(1)] This gains +2000 Power for the turn".
+
+================================================================================
+
+Saten, Surprise and Lowbrows
+意外とミーハー 佐天
+Card No.: RG/W13-042  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Eh?
+TEXT: -- None --
+
+================================================================================
+
+Uiharu, Backup Role
+バックアップ担当 初春
+Card No.: RG/W13-043  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Don't do that. It's mean
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+[S] [Rest a Character with ::ESP:: or with "Saten" in the name] This gains
++1000 Power for the turn.
+
+================================================================================
+
+Uiharu & Saten, Good Classmates
+仲良しクラスメイト 初春＆佐天
+Card No.: RG/W13-044  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Saten: "U-i-h-a-r-u~~!"
+TEXT: -- None --
+
+================================================================================
+
+Konori, Leather Jacket Full of Memories
+思い出の革ジャン 固法
+Card No.: RG/W13-045  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: I told you so, no?
+TEXT: [A] This ability may be played up to twice per turn. When another
+::Judgment:: Character of yours is placed from hand to the Stage, this gains
++1000 Power for hte turn.
+
+================================================================================
+
+Someone's Watching
+誰かが見てる
+Card No.: RG/W13-046  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ahhhhhhhhhhhhhh!
+TEXT: You cannot play this from hand if you have 2 or fewer GREEN Characters.
+Choose up to 2 of Opponent's Characters. Those Characters get -2500 Power for
+the turn.
+
+================================================================================
+
+Big Spider
+ビッグスパイダー
+Card No.: RG/W13-047  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Konori: "A place to stay, huh..."
+TEXT: [Counter] Choose 1 of your ::Judgment:: Characters. That Character gains
++4000 Power for the turn. Send this to Memory.
+
+================================================================================
+
+Welcome!
+ようこそ！
+Card No.: RG/W13-048  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Saten: "Somehow, it reminds me of the old Uiharu"
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Seeing Erii Again
+衿衣との再会
+Card No.: RG/W13-049  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Haruue-san... Haruue-san!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+What I Can Do
+私にできること
+Card No.: RG/W13-050  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Do not touch my friends!!!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Mikoto, Self-Confidence with Support
+裏打ちされた自信 美琴
+Card No.: RG/W13-051  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: If you don't come with me, I don't know you!
+TEXT: [A] [(1)] When "Battle on the Highway" is placed to your Climax Zone, you
+may pay cost. If so, this gains "[A] When the Battle Opponent of this becomes
+Reversed, you may choose 1 Character in your Opponent's Front Row whose Level
+is 2 or lower, Put that Character in the Waiting Room" and +X Power for the
+turn, where X = 1000 times # of ::ESP:: Characters you have.
+
+================================================================================
+
+Mikoto & Kuroko, Under One Roof
+一つ屋根の下 美琴＆黒子
+Card No.: RG/W13-052  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Kuroko: "It must be a good sign that we're just by
+ourselves"
+TEXT: [A] When this is placed from hand to Stage or placed via CHANGE to Stage,
+you may put the top card of your Clock to Waiting Room.
+[A] [(1) Discard a card from hand to the Waiting Room] When this attacks, you
+may pay cost. If so, this gains +2000 Power and "[A] When Battle Opponent of
+this becomes Reversed, you may deal 1 damage to Opponent" for the turn.
+
+================================================================================
+
+Mikoto, School Life
+学園生活 美琴
+Card No.: RG/W13-053  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Where should we go play?
+TEXT: [A] [(1) When your Characters' Trigger Check reveals a Climax card, if it
+has 2 Soul Trigger Icons, you may pay cost. If so, choose a Character in your
+Waiting Room and return it to your hand, then discard a card from your hand to
+the Waiting Room.
+
+================================================================================
+
+Mikoto, Embodiment of Justice
+正義の体現 美琴
+Card No.: RG/W13-054  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: By that you mean this?
+TEXT: [C] If all your Characters have ::ESP::, this gains +1000 Power.
+
+================================================================================
+
+Mikoto, Girl Who Doesn't Like to Lose
+勝気な女の子 美琴
+Card No.: RG/W13-055  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Next one is my full power
+TEXT: [A] [(1) Put the top card of your Library to the Clock] When "Railgun" is
+placed to your Climax Zone, if this is in the Front Row, you may pay cost. If
+so, choose up to 1 of Opponent's Front Row Characters whose Level is 2 or
+lower. Put it in the Waiting Room. This gains +1000 Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Kuroko, Tokiwadai's Lady
+常盤台のお嬢様 黒子
+Card No.: RG/W13-056  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Onee-sama~~!!!
+TEXT: [C] If you have a Character with "Mikoto" (Index/Railgun/Da Capo III
+only) in the name, this gains +1500 Power.
+
+================================================================================
+
+Kuroko, Modern Girl
+モダンガール 黒子
+Card No.: RG/W13-057  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Walking together under one umbrella should be obsolete in today's
+society...
+TEXT: [C] For each other ::Judgment:: Characters you have, this gains +500
+Power.
+[S] [Rest 1 of your Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Mikoto, Tokiwadai's Lady
+常盤台のお嬢様 美琴
+Card No.: RG/W13-058  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Hey, aren't you hungry?
+TEXT: [A] BOND/"Kuroko, Tokiwadai's Lady" [Put the top card of your Library to
+your Clock]
+
+================================================================================
+
+Kuroko, Admiration for Onee-Sama
+お姉さまへの憧れ 黒子
+Card No.: RG/W13-059  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Onee-sama...
+TEXT: [A] At the beginning of your Opponent's Attack Phase, you may move this
+to a vacant Front Row Slot.
+
+================================================================================
+
+"Aero Hand" Kongou
+“空力使い”婚后
+Card No.: RG/W13-060  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 扇子 (Fan)
+Triggers: None
+Flavor: Is it okay if I call myself the headliner?
+TEXT: [A] When this attacks, choose up to 2 of your ::ESP:: Characters. Those
+Characters gain +500 Power for the turn.
+
+================================================================================
+
+Kuroko, 177th Branch
+第一七七支部所属 黒子
+Card No.: RG/W13-061  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: IWe'll take it from here
+TEXT: [A] [(1)] When this attacks, if "Unexpected Alliance" is in the Climax
+Zone, you may pay cost. If so, choose a Character in your Waiting Room and
+return it to your hand.
+
+================================================================================
+
+Mikoto in Pajamas
+パジャマの美琴
+Card No.: RG/W13-062  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: What's the hurry...
+TEXT: [A] When this is placed from hand to Stage, look at the card of your
+Library. Put it to top of Library or to Waiting Room.
+[A] CHANGE [(2) Discard a card from hand, Send this to Memory] At beginning of
+your Climax Phase, you may pay cost. If so, choose a "Mikoto & Kuroko, Under
+One Roof" in your Waiting Room and put it in the Slot this was.
+
+================================================================================
+
+Mikoto in Yukata
+浴衣の美琴
+Card No.: RG/W13-063  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Kuroko: "Let's change, let's change"
+TEXT: [A] [(2)] When tis is placed from the Stage to the Waiting Room, you may
+pay cost. If so, choose a Character in your Waiting Room and return it to your
+hand.
+
+================================================================================
+
+Kuroko by the Water
+水辺の黒子
+Card No.: RG/W13-064  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Onee-sama, I know this isn't what you want, but please make do
+TEXT: [A] [(1)] When another Character of yours becomes Reversed while
+battling, you may pay cost. If so, this gains +3000 Power for the turn.
+
+================================================================================
+
+Kuroko, Recorder
+記録係 黒子
+Card No.: RG/W13-065  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Please don't make bad assumptions. Kuroko's just doing the
+recording today
+TEXT: -- None --
+
+================================================================================
+
+Mikoto in Dress
+ドレス姿の美琴
+Card No.: RG/W13-066  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: I want to ask you why you are here!
+TEXT: -- None --
+
+================================================================================
+
+"Maid of Maids" Kongou
+“メイド・オブ・メイド”婚后
+Card No.: RG/W13-067  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: Greetings everyone
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Dorm Supervisor
+寮監
+Card No.: RG/W13-068  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: None
+Triggers: Soul 
+Flavor: Just like what you heard. Please make sure these kids get what they want
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(2) Rest this] Choosea Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Therestina Kihara Lifeline
+テレスティーナ・木原・ライフライン
+Card No.: RG/W13-069  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 科学 (Science)
+Triggers: Soul 
+Flavor: What's today's lucky color?
+TEXT: -- None --
+
+================================================================================
+
+Kuroko in Yukata
+浴衣の黒子
+Card No.: RG/W13-070  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 9000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: Soul 
+Flavor: Nothing even remotely poetic here
+TEXT: [C] You cannot play this from hand if you have 3 or fewer Characters in
+play.
+
+================================================================================
+
+Hint
+手掛かり
+Card No.: RG/W13-071  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Erii: "Her name is Banri Edasaki"
+TEXT: Choose up to 2 of your ::ESP:: Characters. Those Characters gain +3000
+Power for the turn.
+
+================================================================================
+
+Obsession
+執念
+Card No.: RG/W13-072  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 3   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Therestina: "These... stupid kids...!"
+TEXT: Choose 1 of Opponent's Front Row Characters whose Level is 3 or lower.
+Put it on top of the Library.
+
+================================================================================
+
+Battle on the Highway
+高速道路の戦い
+Card No.: RG/W13-073  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I shall show you...
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Railgun
+超電磁砲
+Card No.: RG/W13-074  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: This is my full power!!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Unexpected Alliance
+まさかの共闘
+Card No.: RG/W13-075  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kuroko: "I couldn't even dream of the day you and I would fight
+together as allies"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

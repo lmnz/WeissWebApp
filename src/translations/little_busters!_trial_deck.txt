@@ -1,0 +1,273 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Mascot" Kud
+“マスコット”クド
+Card No.: LB/W02-01T  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 2   Power: 7500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+Kojirou Kamikita
+神北 小次郎
+Card No.: LB/W02-02T  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [S] [(1)] Choose 1 of your Characters. That Character gains +1500 Power
+for the turn.
+[S] [(1)] Send this to Memory.
+
+================================================================================
+
+"Pony Girl" Rin
+“ポニーガール”鈴
+Card No.: LB/W02-03T  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] Bodyguard
+[A] When this attacks, if "Humming of the Breeze" is in the Climax Zone, choose
+the top card of your Library and put it in your Stock, and this gains +3000
+Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+State of Emergency
+緊急事態
+Card No.: LB/W02-04T  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [Counter] Choose up to 2 of your Characters. Those Characters gain +1000
+Power for the turn. 
+
+================================================================================
+
+Kudryavka Noumi
+能美 クドリャフカ
+Card No.: LB/W02-05T  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] All your other Characters gain ::Animal:: for the turn.
+
+================================================================================
+
+"Normal Young Man" Riki
+“普通の少年”理樹
+Card No.: LB/W02-06T  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+"Queen Cat" Sasami
+“女王猫”佐々美
+Card No.: LB/W02-07T  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] All your other '"Strongest Kid" Kengo' gains +1000 Power.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+"Apron" Haruka
+“エプロン”葉留佳
+Card No.: LB/W02-08T  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: ビー玉 (Marble)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [A] When this is played and placed to the Stage, choose the top card of
+your Library and put it under this as Marker.
+[S] [Rest this] If this has 1 or fewer Markers, choose the top card of your
+Library and put it under this as Marker.
+[S] [Rest this] During this turn, when you use a GREEN Character's ability, you
+may pay cost of that ability with Markers under this in place of Stock.
+
+================================================================================
+
+"Strongest Kid" Kengo
+“最強の男児”謙吾
+Card No.: LB/W02-09T  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [S] [(1)] Choose 1 of your Opponent's Characters. That Character gets
+-500 Power for the turn.
+
+================================================================================
+
+Humming of the Breeze
+そよ風のハミング
+Card No.: LB/W02-10T  Rarity: U
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Hypocrite Acting Like the Top Student
+優等生のフリをした偽善者
+Card No.: LB/W02-11T  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+American Pastime
+あめりかんな遊び
+Card No.: LB/W02-12T  Rarity: R
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Search your Library for up to 1 ::Animal:: Characters, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Mysteric Blue" Mio
+“ミステリックブルー”美魚
+Card No.: LB/W02-13T  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 本 (Book)      Trait 2: 日傘 (Parasol)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] [Put this in the Waiting Room] When another of your Characters is put
+from Stage to the Waiting Room, if this is in the Back Row, you may pay cost.
+If so, put that Character in the Rested State in the Slot it was in.
+
+================================================================================
+
+Kud & Komari
+クド＆小毬
+Card No.: LB/W02-14T  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When you Level Up, choose the top card of your Library and put it in
+your Stock.
+[S] [(2) Rest this] Put the top card of your Clock and put it in the Waiting
+Room.
+
+================================================================================
+
+Kyousuke Natsume
+棗 恭介
+Card No.: LB/W02-15T  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] ALARM When this is on top of the Clock, All your BLUE Characters gain
+"[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Royal Princess Parfait
+ロイヤルプリンセスパフェ
+Card No.: LB/W02-16T  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Choose 1 card in your Clock and return it to your hand. Send this to
+Memory.
+
+================================================================================
+
+"3 Sisters" Kud
+“３姉妹”クド
+Card No.: LB/W02-17T  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1)] Choose 1 of your ::Animal:: Characters. That Character gains +500
+Power for the turn.
+
+================================================================================
+
+Mio & Midori
+美魚＆美鳥
+Card No.: LB/W02-18T  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 本 (Book)      Trait 2: 影 (Shadow)
+Triggers: None
+Flavor: -- None --
+TEXT: -- None --
+
+================================================================================
+
+"Dress Up" Komari
+“おめかし”小毬
+Card No.: LB/W02-19T  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 童話 (Fairy Tales)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] [(1)] When a Level 2 or higher Battle Opponent of this becomes
+Reversed, you may pay cost. If so, draw a card.
+
+================================================================================
+
+2 Long Shadows
+２つの長い影
+Card No.: LB/W02-20T  Rarity: C
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

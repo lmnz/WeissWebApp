@@ -1,0 +1,1659 @@
+Lucky Star Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Tsukasa Hiiragi
+柊 つかさ
+Card No.: LS/W05-001  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Onee-chan, if it's okay, can we do it together?
+TEXT: [A] [(1) Discard a Climax card from hand to the Waiting Room] When this
+is placed from hand to the Stage, you may pay cost. If so, choose a Climax card
+in your Waiting Room and return it to your hand.
+[A] [(1)] When this attacks, if "Graduation Ceremony" is in the Climax Zone,
+you may pay cost. If so, choose 1 of Opponent's Characters and return it to the
+hand.
+
+================================================================================
+
+Miyuki, Completionist General
+やりこみ大将みゆき
+Card No.: LS/W05-002  Rarity: RR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: How about this?
+TEXT: [A] When this is placed from hand to the Stage, this gains +50 Soul for
+the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Miyuki, Completionist General
+やりこみ大将みゆき
+Card No.: LS/W05-002R  Rarity: RRR
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, this gains +50 Soul for
+the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Hiyori, Hobbyist
+趣味の人ひより
+Card No.: LS/W05-003  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: N-n-n, no no, you can't do that
+TEXT: [S] [Discard a Climax card from hand to the Waiting Room, Rest this]
+Choose 1 of your Standing Characters and Rest it. If so, choose a Cost 2 or
+lower Character in your hand whose Level is equal or lower than your Level that
+shares at least 1 trait with the Rested Character and put it in any Slot on the
+Stage.
+
+================================================================================
+
+Hiyori, Hobbyist
+趣味の人ひより
+Card No.: LS/W05-003S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: SECRET
+TEXT: [S] [Discard a Climax card from hand to the Waiting Room, Rest this]
+Choose 1 of your Standing Characters and Rest it. If so, choose a Cost 2 or
+lower Character in your hand whose Level is equal or lower than your Level that
+shares at least 1 trait with the Rested Character and put it in any Slot on the
+Stage.
+
+================================================================================
+
+Yutaka & Minami
+ゆたか＆みなみ
+Card No.: LS/W05-004  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: None
+Flavor: Ah, Minami-chan, wh, what is it?
+TEXT: [C] If you have other ::Infirmary:: Characters, this gains +2000 Power.
+
+================================================================================
+
+Kou, Anime Resarch Club President
+アニ研部長こう
+Card No.: LS/W05-005  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: オタク (Otaku)
+Triggers: None
+Flavor: Hmm? Hiyorin, what's up?
+TEXT: [S] [(2)] Choose 1 of your ::Otaku:: Characters. That Character gains
++3000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Miyuki, Renowned Detective
+名探偵みゆき
+Card No.: LS/W05-006  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: メガネ (Glasses)      Trait 2: 探偵 (Detective)
+Triggers: Soul 
+Flavor: How about this?
+TEXT: [A] [(1)] When this attacks, if "Good Idea" is in the Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Characters and return it to
+the hand, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Tsukasa, Natural
+天然つかさ
+Card No.: LS/W05-007  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Kona-chan, what's up?
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [Discard 2 Climax cards from hand to the Waiting Room] All your Characters
+gain +2500 Power for the turn.
+
+================================================================================
+
+Tsukasa, Natural
+天然つかさ
+Card No.: LS/W05-007S  Rarity: SR
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [Discard 2 Climax cards from hand to the Waiting Room] All your Characters
+gain +2500 Power for the turn.
+
+================================================================================
+
+Minami, Cool And Good-Looking
+クールでカッコいい みなみ
+Card No.: LS/W05-008  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: ... It'll be oaky since I, the infirmary officer, am here... Yutaka
+TEXT: [A] BOND/"Yutaka, Finally Said Her Name" [(1)]
+[S] [Rest this] Choose 1 of your Characters whose name includes "Yutaka". That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Miyuki & Minami
+みゆき＆みなみ
+Card No.: LS/W05-009  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Minami: "I know you're giving me praises -- but for
+some reason I am not really truly happy"
+TEXT: [S] [Rest 1 of your ::Glasses:: Characters] Choose 1 of your ::Glasses::
+Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Yutaka, Finally Said Her Name
+名前が呼べたゆたか
+Card No.: LS/W05-010  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: Soul 
+Flavor: Hmm... That's right. Thank you, Minami-chan
+TEXT: [C] All your other Characters with BOND gain +1 Soul.
+[A] When "End of Summer Vacation" is placed in your Climax Zone, if you have
+another Character with "Minami" in the name, this gains "[A] When this becomes
+Reversed while Battling, you may choose this and the Battle Opponent of this
+and return them to the hand" for the turn.
+
+================================================================================
+
+Minami, Infirmary Officer
+保健委員のみなみ
+Card No.: LS/W05-011  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Yutaka: "Ehhh? Minami-chan, you changed your hairstyle?"
+TEXT: [C] All your other ::Infirmary:: Characters gain "[C] This cannot be
+chosen as the target of Opponent's effects".
+[A] [(1) Discard a Climax card from hand to the Waiting Room] When this
+attacks, you may pay cost. If so, this gains +3000 Power and +2 Soul for the
+turn.
+
+================================================================================
+
+Tsukasa, Pampered Child
+甘えん坊つかさ
+Card No.: LS/W05-012  Rarity: U
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Ah, I have something I wanted to ask Onee-chan...
+TEXT: [C] If you have 3 or fewer Characters, you cannot play this from hand.
+[A] ENCORE [Doscard a Character card from hand to the Waiitng Room]
+
+================================================================================
+
+Kou Yasaka
+八坂 こう
+Card No.: LS/W05-013  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: オタク (Otaku)
+Triggers: None
+Flavor: How's it going? Hiyori, found material yet?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Tsukasa, Dreaming Maiden
+夢見る乙女つかさ
+Card No.: LS/W05-014  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: To be proposed on a day where everybody considers special, as well as
+having feelings returned, feels nice, or so I think
+TEXT: [C] ALARM If this is on top of your Clock, all your ::Sweets:: Characters
+gain "[A] When the Battle Opponent of this becomes Reversed, choose 1 of your
+Characters. That Character gains +1 Soul for the turn.".
+
+================================================================================
+
+Yutaka Kobayakawa
+小早川 ゆたか
+Card No.: LS/W05-015  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: None
+Flavor: I even borrowed her handkerchiefs... I'm glad that I was able to
+make good friends
+TEXT: [A] When Battle Opponent of your other Characters becomes Reversed, this
+gains +1000 Power.
+
+================================================================================
+
+Miyuki as Child
+幼少時のみゆき
+Card No.: LS/W05-016  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: Truth be told, I couldn't open my eyes underwater, therefore I
+couldn't really swim----
+TEXT: -- None --
+
+================================================================================
+
+Miyuki Takara
+高良 みゆき
+Card No.: LS/W05-017  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: The difference between Influenza and Cold...
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Hiyori, Outlaw
+アウトローひより
+Card No.: LS/W05-018  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: Soul 
+Flavor: Hiyori: "Hmm, normal 4-panel manga... or a love manga about game
+characters in love..."
+TEXT: -- None --
+
+================================================================================
+
+Yutaka & Minami & Hiyori
+ゆたか＆みなみ＆ひより
+Card No.: LS/W05-019  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 保健室 (Infirmary)      Trait 2: オタク (Otaku)
+Triggers: Soul 
+Flavor: Kou: "... What are you saying, Hiyori. Your mind wandered off"
+Hiyori: "You already have too much guesses, or what do you mean...?"
+TEXT: -- None --
+
+================================================================================
+
+Battle Mode
+戦闘モード
+Card No.: LS/W05-020  Rarity: U
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Miyuki: "Just a little..." Konata: "Er, that, what just
+happened--" Kagami: "--It came out" KonataL
+"Give her some space--" Kagami: "I don't think
+she'll be back any time soon--"
+TEXT: [Counter] Choose 1 of your Characters. That Character gains +X Power for
+the turn, where X = 1000 times # of ::Glasses:: Characters you have.
+
+================================================================================
+
+Regrettable Strike
+痛恨の一撃
+Card No.: LS/W05-021  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yukari: "It stinks, or something?" Yukari: "Only you stood
+out amongst the group, are you really good friends with Tsukasa-chan and
+company? ... or something like that" Miyuki: "P, please top, stop
+before I couldn't get back up or..."
+TEXT: Choose 1 of your Opponent's Front Row Characters whose Level is 2 or
+lower and put it in Stock.
+
+================================================================================
+
+Dream-Like Life
+夢のような生活
+Card No.: LS/W05-022  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 3   Cost: 4   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Zzz...
+TEXT: [Counter] Choose 1 of your Opponent's Front Row Characters whose Level is
+2 or lower and return it to the hand.
+
+================================================================================
+
+End of Summer Vacation
+夏休み明け
+Card No.: LS/W05-023  Rarity: CR
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Hiyori: (There are people too who feel different at the end of
+summer vacation~~)
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+Graduation Ceremony
+卒業式
+Card No.: LS/W05-024  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Konata: "Isn't graduation ceremony supposed to feel like
+'Striking Climax!'?"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Graduation Ceremony
+卒業式
+Card No.: LS/W05-024SP  Rarity: SP
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Good Idea
+名案
+Card No.: LS/W05-025  Rarity: CC
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: "Plan your year on New Year's Day", so can I say my goal
+this year would be "to practice my calligraphy at the beginning of the
+year"--
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul
+
+================================================================================
+
+Konata & Kagami & Tsukasa
+こなた＆かがみ＆つかさ
+Card No.: LS/W05-026  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: オタク (Otaku)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: Kagami: "Don't take food off the plate with your fingers!"
+TEXT: [C] If you have 3 or more other ::Glasses:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]".
+[S] [Rest 1 of your ::Glasses:: Characters] This gains +1000 Power for the turn.
+
+================================================================================
+
+Akira Kogami
+小神 あきら
+Card No.: LS/W05-027  Rarity: RR
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: テレビ (Television)      Trait 2: 音楽 (Music)
+Triggers: Soul 
+Flavor: Everyone, Oha-Lucky~ I'm the host of Lucky Channel, Akira Kogami~
+TEXT: [C] For each Standing Character your Opponent has, this gains +500
+Power.
+[A] When this attacks, if "Lucky Channel" is in the Climax Zone, put the top
+card of your Library in your Stock, and this gains +X Power, where X = 1000
+times # of your other Standing Characters.
+
+================================================================================
+
+Tsukasa, Dressed Up
+おめかしつかさ
+Card No.: LS/W05-028  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Kagami: "She used to follow me everywhere when I went out or play,
+even acted like me - cute like a baby chick"
+TEXT: [A] BOND/"Kagami Hiiragi" [(1)]
+[S] [Rest this] Choose 1 of your ::Twins:: Characters. That Character gains
++500 Power for the turn.
+
+================================================================================
+
+Tsukasa, Dressed Up
+おめかしつかさ
+Card No.: LS/W05-028R  Rarity: RRR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] BOND/"Kagami Hiiragi" [(1)]
+[S] [Rest this] Choose 1 of your ::Twins:: Characters. That Character gains
++500 Power for the turn.
+
+================================================================================
+
+Misao Kusakabe
+日下部 みさお
+Card No.: LS/W05-029  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 八重歯 (Double Tooth)
+Triggers: None
+Flavor: Hiiragi, I changed my hairstyle, how does it look?
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Library in your Clock.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Misao Kusakabe
+日下部 みさお
+Card No.: LS/W05-029S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 八重歯 (Double Tooth)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Library in your Clock.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1000 Power
+for the turn.
+
+================================================================================
+
+Kagami, Older Sister of the Twins
+双子の姉かがみ
+Card No.: LS/W05-030  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: The snacks Tsukasa makes are really delicious
+TEXT: [C] All your other ::Twins:: Characters gain +500 Power.
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Kagami, Older Sister of the Twins
+双子の姉かがみ
+Card No.: LS/W05-030S  Rarity: SR
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other ::Twins:: Characters gain +500 Power.
+[C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Hikaru Sakuraba
+桜庭 ひかる
+Card No.: LS/W05-031  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: Nah, I didn't think Tamura would read that kind of magazine
+TEXT: [C] ASSIST All your Characters with "[A] ENCORE [Discard a Character card
+to the Waiting Room" in front of this gain +1000 Power.
+[A] BOND/"Fuyuki Amahara" [(1)]
+
+================================================================================
+
+Kagami Hiiragi
+柊 かがみ
+Card No.: LS/W05-032  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: That's it
+TEXT: [C] If you have 2 or more other ::Twins:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Misao, 3-Second Rule
+３秒ルールみさお
+Card No.: LS/W05-033  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 八重歯 (Double Tooth)
+Triggers: None
+Flavor: S, see...... 3-second rule, 3-second rule!
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose a Climax card in your Clock and return it to your hand, than put
+a card from your hand in your Clock.
+
+================================================================================
+
+Ayano, Accommodating
+世話好きあやの
+Card No.: LS/W05-034  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オデコ (Forehead)
+Triggers: None
+Flavor: Because you said you like this...
+TEXT: [A] When this attacks, you may choose 1 of your Climax card in your
+Climax Zone and put it in your Stock. 
+
+================================================================================
+
+Ayano Minegishi
+峰岸 あやの
+Card No.: LS/W05-035  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オデコ (Forehead)
+Triggers: Soul 
+Flavor: I only make snacks as hobby~
+TEXT: [A] [Rest this] When your other ::Sweets:: Characters is placed from hand
+to the Stage, if this is Standing, you may pay cost. If so, put the top card of
+your Library in your Stock.
+
+================================================================================
+
+Kagami, 100 Times Cuter
+可愛さ百倍かがみ
+Card No.: LS/W05-036  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: But, this summer festival, I want to do goldfish scooping~
+TEXT: [A] When either your Climax card or your Opponent's Climax card is placed
+from the Climax Zone to the Waiting Room, put it in Stock.
+[A] When "Goldfish Scooping" is placed in your Climax Zone, you may choose 1 of
+your Characters and put it in your Clock. If so, choose a Level 1 or lower
+::Animal:: Character in your Clock and put it in any Slot on the Stage, and
+this gains +1000 Power for the turn.
+
+================================================================================
+
+Kagami-sama
+かがみ様
+Card No.: LS/W05-037  Rarity: U
+Color: Green   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 双子 (Twins)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Konata: "Sorry to keep you waiting, Kagami-sama"
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [Discard 1 Climax card from hand to the Waiting Room] Choose 1 of your
+Opponent's characters. That Character gets -1000 Power for the turn.
+
+================================================================================
+
+Kagami & Tsukasa
+かがみ＆つかさ
+Card No.: LS/W05-038  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 巫女 (Miko)
+Triggers: None
+Flavor: Tsukasa: "Did you pull a written fortune this year?" Kagami:
+"Whether good things will happen depends on the person" 
+TEXT: English Card Text 
+[C] All your other Characters with "Kagami" in its name gain +500 Power.
+[C] All your other Characters with "Tsukasa" in its name gain +500 Power. 
+
+================================================================================
+
+Tsukasa Who Tried Her Best
+頑張ちゃったつかさ
+Card No.: LS/W05-039  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: Konata: "Even if it's just the friendly type, you shouldn't
+give them to boys... They will definitely get the wrong idea..." 
+TEXT: -- None --
+
+================================================================================
+
+Tsukasa, Ambushing
+伏兵のつかさ
+Card No.: LS/W05-040  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Hmm, that is...
+TEXT: [A] When you use the BACKUP of this, choose 1 of your Characters. That
+Character gets -1 Level for the turn.
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Fuyuki Amahara
+天原 ふゆき
+Card No.: LS/W05-041  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: 保健室 (Infirmary)
+Triggers: None
+Flavor: The best thing for an in-school infirmary nurse is for everyone to feel
+great 
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your
+Characters. That Character gains ::Infirmary:: and +1000 Power for the turn.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Ayano, Different Culture
+異文化の人あやの
+Card No.: LS/W05-042  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: オデコ (Forehead)
+Triggers: Soul 
+Flavor: I'm... er.... "Bride"... or something?
+TEXT: -- None --
+
+================================================================================
+
+Misao, Genki Girl
+元気っ娘みさお
+Card No.: LS/W05-043  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: スポーツ (Sports)      Trait 2: 八重歯 (Double Tooth)
+Triggers: Soul 
+Flavor: To do nothing during the summer vacation is intolerable 
+TEXT: -- None --
+
+================================================================================
+
+Tsukasa, Loves Snacks
+お菓子好き つかさ
+Card No.: LS/W05-044  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Cotton candies are so soft and so sweet, I love them~
+TEXT: [C] For each other ::Sweets:: Character, this gains +500 Power.
+[A] When this attacks, if "Summer Festival" is in your Climax Zone, choose up
+to 1 card in your Waiting Room and put it in Stock, and all other Characters
+gain ::Sweets:: and ::Yukata:: for the turn.
+
+================================================================================
+
+The Most Natural Thing
+もっとも自然なこと
+Card No.: LS/W05-045  Rarity: U
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Tsukasa: "I want to be able to spend the whole year friendly with
+everyone~" Konata: "I also made that wish, Kagami is so cold~"
+Kagami: "It's my fault" Kagami: (---wait, do you really
+need to make that kind of wish for that kind of thing---?)
+TEXT: Look at the top card of your Library and put it either on top of the
+Library or in the Waiting Room. Put this in Stock.
+
+================================================================================
+
+Pigtails
+ツインテール
+Card No.: LS/W05-046  Rarity: C
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Konata: "I thought of this before"
+TEXT: Counter] Choose up to 2 of your Characters. Those Characters gain +X
+Power for the turn, where X = 500 times # of your ::Twins:: Characters. 
+
+================================================================================
+
+The Usual
+おやくそくっ
+Card No.: LS/W05-047  Rarity: C
+Color: Green   Side: Weiss  Event
+Level: 1   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yui: "I would love to be able to have more appearances" Nanako:
+"This is the usual - or as they call it"
+TEXT: Choose a Climax card in your Clock and return it to your hand.
+
+================================================================================
+
+Summer Festival
+夏祭り
+Card No.: LS/W05-048  Rarity: CR
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Kagami: "You're not a kid, so eat it more slowly"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Summer Festival
+夏祭り
+Card No.: LS/W05-048SP  Rarity: SP
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: SECRET
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Goldfish Scooping
+金魚すくい
+Card No.: LS/W05-049  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: (So cute--- this one is so cute--- )
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn. 
+
+================================================================================
+
+Lucky Channel
+らっきー☆ちゃんねる
+Card No.: LS/W05-050  Rarity: CC
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Oha-lucky! "Lucky Star" Vol. 6 available now! 
+TEXT: [C] All your Characters gain +2 Soul. 
+
+================================================================================
+
+Yutaka & Yui
+ゆたか＆ゆい
+Card No.: LS/W05-051  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 警察 (Police)
+Triggers: Soul 
+Flavor: Yui: "Yutaka~" Yutaka: "Uh, what's wrong,
+onee-chan?"
+TEXT: [C] All your other Characters with BOND gains "[S] [Rest this] Choose 1
+of your Characters with the same name as the BOND target of this. That
+Character gains +1000 Power for the turn".
+[C] ASSIST All your Characters in front of this gain "[A] [(1)] When this
+becomes Reversed, if the Level of the Battle Opponent of this is equal to or
+lower than the Level of this, you may pay cost. If so, Reverse that Character".
+
+================================================================================
+
+Yutaka & Yui
+ゆたか＆ゆい
+Card No.: LS/W05-051S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 警察 (Police)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] All your other Characters with BOND gains "[S] [Rest this] Choose 1
+of your Characters with the same name as the BOND target of this. That
+Character gains +1000 Power for the turn".
+[C] ASSIST All your Characters in front of this gain "[A] [(1)] When this
+becomes Reversed, if the Level of the Battle Opponent of this is equal to or
+lower than the Level of this, you may pay cost. If so, Reverse that Character".
+
+================================================================================
+
+Kagami, Tsundere Express
+ツンデレ特急かがみ
+Card No.: LS/W05-052  Rarity: RR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Here, have this. I'll say this now, though, this is just friendly!
+Friendly, got it!? 
+TEXT: [A] [(1)] When this attacks, if "Valentine" is in the Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Level 1 or lower Characters
+and put it in the Waiting Room.
+[S] [(1) Discard a Climax card from hand to the Waiting Room] Choose 1 of your
+Opponent's Characters. That Character gains ::Sweets:: and gets -1 Level for
+the turn.
+
+================================================================================
+
+Kagami, Tsundere Express
+ツンデレ特急かがみ
+Card No.: LS/W05-052R  Rarity: RRR
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Valentine" is in the Climax Zone, you
+may pay cost. If so, choose 1 of your Opponent's Level 1 or lower Characters
+and put it in the Waiting Room.
+[S] [(1) Discard a Climax card from hand to the Waiting Room] Choose 1 of your
+Opponent's Characters. That Character gains ::Sweets:: and gets -1 Level for
+the turn.
+
+================================================================================
+
+Konata Izumi
+泉 こなた
+Card No.: LS/W05-053  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: Although it looks like she can do everything, when people find out that
+she has her weak subjects, I can think of Kagami secretly working hard behind
+the scenes, and that makes her cute
+TEXT: [A] BOND/"Kagami, Tsundere Express" [(1)]
+[S] [Rest this[ Choose 1 of your Characters whose name includes "Kagami". That
+Character gains +500 Power for the turn.
+
+================================================================================
+
+Kuroi-Sensei
+黒井先生
+Card No.: LS/W05-054  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: ネトゲ (Online Game)
+Triggers: None
+Flavor: Izumi? You're clenching your teeth~
+TEXT: [A] [(1) Discard a Climax card from hand to the Waiting Room] When this
+is placed from hand to the Stage, you may pay cost. If so, your Opponent choose
+1 of his or her Characters and put it in the Waiting Room.
+
+================================================================================
+
+Konata, At Her Own Pace
+マイペースこなた
+Card No.: LS/W05-055  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: ネトゲ (Online Game)
+Triggers: Soul 
+Flavor: That's fine! It'll be okay
+TEXT: [A] [(1)] When this attacks, if "Chocolate Cornet" is in the Climax Zone,
+you may pay cost. If so, choose 1 Character in your Waiting Room and return it
+to your hand.
+[A] [(3)] When tis is placed from the Stage to the Waiting Room, you may pay
+cost. If so, choose a Climax card in your Waiting Room and return it to your
+hand.
+
+================================================================================
+
+Minami Iwasaki
+岩崎 みなみ
+Card No.: LS/W05-056  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 保健室 (Infirmary)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Stage, if you have "Hiyori,
+Hobbyist" and "Yutaka, Great Material", you may put the top card of your
+Library in the Stock.
+[A] When this attacks, if "Nonchalant Happiness" is in the Climax Zone, choose
+a Character i nyour Waiting Room and return it to your hand.
+
+================================================================================
+
+Konata, Embarrassed
+恥じらうこなた
+Card No.: LS/W05-057  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: オタク (Otaku)      Trait 2: ネトゲ (Online Game)
+Triggers: Soul 
+Flavor: U, uh, ex...
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [[(1)] Discard 2 Climax cards from hand to the Waiting Room] Choose 1 of
+your Opponent's Level 2 or lower Character in the Front Row and put it on top
+of the Library.
+
+================================================================================
+
+Konata, Embarrassed
+恥じらうこなた
+Card No.: LS/W05-057S  Rarity: SR
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: オタク (Otaku)      Trait 2: ネトゲ (Online Game)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [[(1)] Discard 2 Climax cards from hand to the Waiting Room] Choose 1 of
+your Opponent's Level 2 or lower Character in the Front Row and put it on top
+of the Library.
+
+================================================================================
+
+Minami, Petting
+もふもふ みなみ
+Card No.: LS/W05-058  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Good boy, good boy... 
+TEXT: [C] This cannot attack if your Opponent has an ::Animal:: Character.
+
+================================================================================
+
+Kagami, Patissiere
+パティシエかがみ
+Card No.: LS/W05-059  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: I thought that it tasted okay...
+TEXT: [A] When this becomes Reversed, if the Battle Opponent of this is a
+::Sweets:: Character whose Level is 1 or lower, you may Reverse that
+Character.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Yutaka, Walking Charming Points
+歩く萌え要素ゆたか
+Card No.: LS/W05-060  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: Soul 
+Flavor: I think I might cause a bit of trouble... but pleased to meet you
+TEXT: [A] When you use the BACKUP of this, if you have a Character with BOND,
+choose 1 of your Battling Characters. That Character gains +1000 Power for the
+turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Yutaka, Great Material
+素敵素材ゆたか
+Card No.: LS/W05-061  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: Soul 
+Flavor: Although this looks a bit off on me, what do you think... Minami-chan
+TEXT: [A] [(1)] When this attacks, if you have another "Hiyori, Hobbyist", you
+may pay cost. If so, choose 1 "Minami Iwasaki" in your Waiting Room and return
+it to your hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Yutaka, Fairy Tale-Like
+メルヘンチックゆたか
+Card No.: LS/W05-062  Rarity: U
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: Soul 
+Flavor: I want a nice big sister~
+TEXT: [A] [(2) Put 1 Climax card in the Waiting Room] When this attacks, you
+may pay cost. If so, choose 1 Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Yutaka, Buying Charms
+お守りを買うゆたか
+Card No.: LS/W05-063  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: None
+Triggers: None
+Flavor: Eh!? Ah, er, what should I do...
+TEXT: [A] BOND/"Konata, At Her Own Pace" [(1)]
+
+================================================================================
+
+Yui Narumi
+成実 ゆい
+Card No.: LS/W05-064  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Don't cause too much trouble and listen to us and go home early,
+okay---?
+TEXT: [A] When this becomes Reversed in battle, choose 1 of your Characters.
+That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Konata & Yutaka
+こなた＆ゆたか
+Card No.: LS/W05-065  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 保健室 (Infirmary)
+Triggers: None
+Flavor: Yutaka: "Does sis make bento boxes every day---?" 
+TEXT: [A] [(2) When this is placed from hand to the Stage, you may pay cost. If
+so, choose 1 ::Infirmary:: Character in your Waiting Room and return it to your
+hand. 
+
+================================================================================
+
+Hiiragi Sisters in Pajamas
+パジャマの柊姉妹
+Card No.: LS/W05-066  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: パジャマ (Pajama)
+Triggers: None
+Flavor: Tsukasa: "Good morning, big sis~" 
+TEXT: -- None --
+
+================================================================================
+
+Yui-chan, Loop Shooter
+ループシューターゆいちゃん
+Card No.: LS/W05-067  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 警察 (Police)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Hahaha, I was called the "Loop Shooter" within my station 
+TEXT: [A] [(3) Discard a Climax card from hand to the Waiting Room] When this
+is placed from the Stage to the Waiting Room, you may pay cost. If so, choose 1
+of your Opponent's Character whose Level is 2 or lower. Put that Character in
+the Waiting Room. 
+
+================================================================================
+
+Minami, Easily Misunderstood
+誤解されるタイプみなみ
+Card No.: LS/W05-068  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 保健室 (Infirmary)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Yutaka: "No, she's embarrassed~" 
+TEXT: -- None --
+
+================================================================================
+
+Konata & Kagami
+こなた＆かがみ
+Card No.: LS/W05-069  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: オタク (Otaku)      Trait 2: 双子 (Twins)
+Triggers: Soul 
+Flavor: Kagami: "This test covers a huge amount of material to the point it
+was hard to prepare" Konata: "I pulled an all-nighter so I should be
+okay" 
+TEXT: -- None --
+
+================================================================================
+
+Diet
+ダイエット
+Card No.: LS/W05-070  Rarity: U
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kagami: "It's the season for delicious cooked sweet
+yam--" Konata: "Er, Kagami, er..." Kagami: "Er, I know.
+I know, so don't say it"
+TEXT: Deal X Damage to all players. X = # of your ::Sweets:: Characters.
+(Damage Cancel can occur)
+
+================================================================================
+
+One for Safekeeping And One for Promoting
+保存用と宣伝用
+Card No.: LS/W05-071  Rarity: C
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kagami: "Why do you always buy multiple copies of the same book"
+TEXT: Choose 1 Climax card in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Doggie And Minami
+わんことみなみ
+Card No.: LS/W05-072  Rarity: C
+Color: Red   Side: Weiss  Event
+Level: 2   Cost: 4   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Yukari: "Minami-chan, it's the circulationg
+board--" Yukari: "Minami-chan is cool and good-looking~"
+TEXT: Choose up to X cards in your Opponent's Waiting Room and return them to
+the Library. Shuffle that Library. X = # of your ::Infirmary:: Characters.
+
+================================================================================
+
+Nonchalant Happiness
+何気ない幸せ
+Card No.: LS/W05-073  Rarity: CR
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Minami: (Whenever Yutaka is around, I stop carring about little
+troubles--)
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Nonchalant Happiness
+何気ない幸せ
+Card No.: LS/W05-073SP  Rarity: SP
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Chocolate Cornet
+チョココロネ
+Card No.: LS/W05-074  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Konata: "Which end is the head? The fat one or the thin one"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Valentine
+バレンタイン
+Card No.: LS/W05-075  Rarity: CC
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Here, have this. I'll say this now, though, this is just friendly!
+Friendly, got it!? What! Sorry it looks bad
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Konata, Battlefield
+戦場のこなた
+Card No.: LS/W05-076  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: Soul 
+Flavor: There's constantly a war in tis world
+TEXT: [C] For each other ::Otaku:: Character you have, this gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Konata, Battlefield
+戦場のこなた
+Card No.: LS/W05-076R  Rarity: RRR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] For each other ::Otaku:: Character you have, this gains +500 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Konata, Fast Girl
+つっぱしる女こなた
+Card No.: LS/W05-077  Rarity: RR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: オタク (Otaku)      Trait 2: ネトゲ (Online Game)
+Triggers: Soul 
+Flavor: ...... If I join a club, then I wouldn't be able to watch prime
+time anime, no?
+TEXT: [C] For each other ::Otaku:: Character you have, this gains +500 Power.
+[A] When this attacks, if "Small Breast Is A Status And Rare" is in the Climax
+Zone, search your Library for up to 1 ::Otaku:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Patricia Martin
+パトリシア＝マーティン
+Card No.: LS/W05-078  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: Hello Konata~ thank you for ComiFe-
+TEXT: [C] All your other ::Manga:: Characters gain +500 Power.
+[A] BOND/"Konata, Battlefield" [(1)]
+
+================================================================================
+
+Soujirou Izumi
+泉 そうじろう
+Card No.: LS/W05-079  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 1000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Konata should do it the way Konata wants to
+TEXT: [C] All your other Characters whose name includes "Konata" gain +500
+Power.
+[A] [(1)] When this is placed from the Stage to the Waiting Room, you may pay
+cost. If so, draw a card.
+
+================================================================================
+
+Patricia in A Hot Country
+熱い国のパトリシア
+Card No.: LS/W05-080  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: This is my explanation: Housekeeper: Having one would be helpful, Maid:
+Having one would make me feel happy
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Patricia in A Hot Country
+熱い国のパトリシア
+Card No.: LS/W05-080S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: SECRET
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Soujirou & Kanata
+そうじろう＆かなた
+Card No.: LS/W05-081  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: That's right, I live within your hearts, and I shall protect you
+from above the sky.....
+TEXT: [A] When this attacks, if "The Place Where I Feel Most Safe" is in the
+Climax Zone, draw a card.
+[A] [(2)] When this is placed from the Stage to the Waiting Room, if you have
+another Character whose name includes either "Konata" or "Soujirou", you may
+pay cost. If so, choose 1 card in your Waiting Room and return it to your hand.
+Shuffle your Library.
+
+================================================================================
+
+Soujirou & Kanata
+そうじろう＆かなた
+Card No.: LS/W05-081S  Rarity: SR
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 霊 (Spirit)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "The Place Where I Feel Most Safe" is in the
+Climax Zone, draw a card.
+[A] [(2)] When this is placed from the Stage to the Waiting Room, if you have
+another Character whose name includes either "Konata" or "Soujirou", you may
+pay cost. If so, choose 1 card in your Waiting Room and return it to your hand.
+Shuffle your Library.
+
+================================================================================
+
+Miyuki, Strongest Character
+最強キャラみゆき
+Card No.: LS/W05-082  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: U, uh...... I'm scared... Contact lenses... or rather, putting
+anything in my eye...
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may paycost. If
+so, return all Climax cards in your Waiting Room to your hand, and discard the
+same number of cards from your hand to the Waiting Room.
+[S] [(1) Discard 1 Climax cards from hand to the Waiting Room] Choose 1 card in
+your Clock and put it in the Waiting Room.
+
+================================================================================
+
+Kanata Izumi
+泉 かなた
+Card No.: LS/W05-083  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 遺言 (Will)      Trait 2: 霊 (Spirit)
+Triggers: None
+Flavor: Grant Sou-kun and company, who gave me a lot of happiness, some
+happiness too...
+TEXT: [A] [Put this in the Waiting Room] When another of your Character with
+"Konata" in name is placed from the Stage to the Waiting Room, if this is in
+the Back Row, you may pay cost. If so, put that Character Rested in the Slot it
+was in.
+[A] BOND/"Soujirou Izumi" [(1)]
+
+================================================================================
+
+Konata, Meganekko Geki LOVE
+眼鏡っ子激ＬＯＶＥこなた
+Card No.: LS/W05-084  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: My e-mail address, written in romanji, is "Meganekko Geki LOVE"
+TEXT: [A] [(2)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. If so, search your Library for up to 1 ::Glasses:: Character, reveal
+it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+Nanako, Online Gamer
+オンラインゲーマーななこ
+Card No.: LS/W05-085  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: ネトゲ (Online Game)
+Triggers: None
+Flavor: Should I play some online game this weekend~
+TEXT: [A] When this attacks, if you are Level 0, you may return all cards in
+your hand to the Library and Shuffle the Library. If so, draw back up to the
+same number of cards.
+
+================================================================================
+
+Hiyori, Thinking That Way
+そっち思考のひより
+Card No.: LS/W05-086  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Ahhhh, restrain, restrain, myself---!!!
+TEXT: [C] All your other ::Otaku:: Characters gain +500 Power.
+[A] [(1)] When this attacks, if "Hiyori Starting" is in the Climax Zone, you
+may pay cost. If so, draw a card.
+[S] [(1)] Choose 1 of your Characters. That Character gains a Trait chosen by
+you for the turn.
+
+================================================================================
+
+Miyuki, High Spec
+高スペックみゆき
+Card No.: LS/W05-087  Rarity: U
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: Soul 
+Flavor: Good behaved, good grades, class chairman and a lady...... On top of
+that, beautiful, big-breasted, naturally ditzy and with glasses......!!
+TEXT: [A] [(2) Put 1 Climax card in the Waiting Room] When this attacks, you
+may pay cost. If so, put the top card of your Clock in the Waiting Room.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Miyuki, Chairman Character
+委員長キャラみゆき
+Card No.: LS/W05-088  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: Konata: "Once you're a chairman, your character image is
+fixed" Miyuki: "T, that seems to be right... At least I don't
+dislike it..."
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Put this in the Waiting Room] Choose 1 of your Characters. That Character
+gains +1000 Power for the turn.
+
+================================================================================
+
+Konata & Hiyori & Patty
+こなた＆ひより＆パティ
+Card No.: LS/W05-089  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 漫画 (Manga)
+Triggers: None
+Flavor: Patricia: "There are uniforms in Japan, and isn't that a great
+thing!!"
+TEXT: [S] [Rest 2 of your ::Otaku:: Characters] This gains +2500 Power for the
+turn.
+
+================================================================================
+
+Konata, Getting Out of Bath
+湯上りのこなた
+Card No.: LS/W05-090  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: 牛乳 (Milk)
+Triggers: None
+Flavor: Of course you should do this when you get out of bath!
+TEXT: -- None --
+
+================================================================================
+
+Miyuki, Teeth Hurting
+歯が痛いみゆき
+Card No.: LS/W05-091  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: I went to the dentist yesterday...... but I fled halfway...
+TEXT: -- None --
+
+================================================================================
+
+Yukari Takara
+高良 ゆかり
+Card No.: LS/W05-092  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Miyuki~ take care of the rest~
+TEXT: [C] ALARM If this is on top of the Clock, all your ::Glasses:: Characters
+gain +1000 Power.
+
+================================================================================
+
+Nanako Kuroi
+黒井 ななこ
+Card No.: LS/W05-093  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 先生 (Teacher)      Trait 2: ネトゲ (Online Game)
+Triggers: Soul 
+Flavor: This isn't too bad, come!
+TEXT: [A] When you use the BACKUP of this, choose 1 of your Characters with
+either ::Otaku:: and/or ::Online Game::. That Character gains +1000 Power for
+the turn.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Hiyori Tamura
+田村 ひより
+Card No.: LS/W05-094  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: オタク (Otaku)      Trait 2: メガネ (Glasses)
+Triggers: Soul 
+Flavor: I changed my hairstyle, how's it?
+TEXT: -- None --
+
+================================================================================
+
+100 Mega Shock
+100Мショック
+Card No.: LS/W05-095  Rarity: U
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Kou: "Hmm? I thought I saw this specific material recently..."
+TEXT: [Counter] Choose 1 of the Battling Characters. That Character gains +6
+Soul for the turn.
+
+================================================================================
+
+Boooo!!
+Ｂｏｏｏｏ！！
+Card No.: LS/W05-096  Rarity: C
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Konata: "Glasses and hakama should only be for
+girls--!!" Hiyori: "I thought they'd be okay for guys
+too...!!" Konata: "Eh~~~~!?"
+TEXT: Look at up to X cards from the top of your Library and put up to 2 of
+them in your hand. Put the rest in your Waiting Room. X = # of your ::Otaku::
+Characters.
+
+================================================================================
+
+Zero Hour on New Year's Eve
+決戦は大晦日
+Card No.: LS/W05-097  Rarity: C
+Color: Blue   Side: Weiss  Event
+Level: 3   Cost: 3   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Konata: "New Year should come soon-" Hiyori: "Time, please
+stop~!!"
+TEXT: All your Opponent's Level 3 or lower Characters do not Stand during your
+Opponent's next Stand Phase.
+
+================================================================================
+
+Small Breast Is A Status And Rare
+貧乳はステータスだ希少価値だ
+Card No.: LS/W05-098  Rarity: CR
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Even if I say that, there are needs for it. That's why I'm
+precious
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Hiyori Starting
+ひより始まる
+Card No.: LS/W05-099  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...... Maybe I'm helpless--!!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+The Place Where I Feel Most Safe
+私が一番安心できる場所
+Card No.: LS/W05-100  Rarity: CC
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Soujirou: "That is: I love Kanata the most in the world"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+The Place Where I Feel Most Safe
+私が一番安心できる場所
+Card No.: LS/W05-100SP  Rarity: SP
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+

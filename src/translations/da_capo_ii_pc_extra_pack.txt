@@ -1,0 +1,251 @@
+Da Capo II PC Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Aisia in Santa Suit
+サンタのアイシア
+Card No.: DC/WE02-001  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: オモチャ (Toy)
+Triggers: Soul 
+Flavor: I told him that it's almost Christmas...
+TEXT: [A] [Discard 3 Level 1 or higher Characters from hand to the Waiting
+Room] This ability may be played up to once per turn. When this attacks, if
+"Selfish Aisia" is in the Climax Zone, you may pay cost. If so, choose 1 of
+your Reversed Characters and Stand it.
+
+================================================================================
+
+Otome, Doll
+お雛様 音姫
+Card No.: DC/WE02-002  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 和服 (Yukata)
+Triggers: None
+Flavor: Does this look okay, little brother?
+TEXT: [A] When this attacks, reveal the top card of your Library. If it's a
+::Student Council:: Character, this gains +1 Soul for the turn. (Put the
+revealed card back where it was)
+
+================================================================================
+
+Mahiru, Sending Souls
+魂を送るまひる
+Card No.: DC/WE02-003  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 霊 (Spirit)      Trait 2: None
+Triggers: Soul 
+Flavor: It promised to give me an ideal relationship
+TEXT: [C] This cannot be chosen as target of Opponent's effects.
+[A] When this is placed from the Stage to the Waiting Room, send this to Memory.
+
+================================================================================
+
+Luxurious Worry
+贅沢な悩み
+Card No.: DC/WE02-004  Rarity: C
+Color: Yellow   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: But there's no bright future
+TEXT: Choose 1 of your Characters. That Character gains +1000 Power for the
+turn. Opponent may not use "[A] ENCORE" for the turn. (This includes the "[A]
+ENCORE [(3)]" provided by the rules.) 
+
+================================================================================
+
+Selfish Aisia
+我がままなアイシア
+Card No.: DC/WE02-005  Rarity: C
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Because it's Yoshiyuki-kun, that's why
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Akane, Going on a Trip
+旅立つ茜
+Card No.: DC/WE02-006  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Well then, Yoshiyuki-kun. I'm going
+TEXT: [A] When this attacks, if "Let's Eat Together" is in the Climax Zone,
+choose 1 of your other Characters. That Character gains +3000 Power for the
+turn, and this gains +3000 Power for the turn.
+
+================================================================================
+
+Nanaka, Songstress
+歌姫 ななか
+Card No.: DC/WE02-007  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 魔法 (Magic)
+Triggers: None
+Flavor: I want to sing my heart out
+TEXT: [A] When this attacks, reveal the top card of your Library. If it's a
+::Music:: Character, this gains +2000 Power for the turn. (Put the revealed
+card back where it was)
+
+================================================================================
+
+Koko, Halloween
+ハロウィン小恋
+Card No.: DC/WE02-008  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: かぼちゃ (Pumpkin)
+Triggers: None
+Flavor: People will see...
+TEXT: -- None --
+
+================================================================================
+
+Let's Eat Together
+一緒に食べよ♪
+Card No.: DC/WE02-009  Rarity: C
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Merry Christmas, Yoshiyuki-kun
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library to your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Erica in Swimsuits
+水着のエリカ
+Card No.: DC/WE02-010  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 生徒会 (Student Council)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: No- nothing! I- I'm not embarassed
+TEXT: [C] For each of your other Characters with "[A] ENCORE [Discard a
+Character card from hand to the Waiting Room]", this gains +500 Power.
+[A] When this attacks, if "Erica, Sleepwalking" is in the Climax Zone, choose a
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Minatsu, Tossing Beans
+豆まき美夏
+Card No.: DC/WE02-011  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 4500   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: バナナ (Banana)
+Triggers: Soul 
+Flavor: Okay, Sakurai's the oni!
+TEXT: [C] If you have another Character with "Anzu" in the name, this gains
+"[A] When the Battle Opponent of this becomes Reversed, you may put it on top
+of the Library".
+[C] If you have another Character with ::Chairman::, this gains +1000 Power.
+
+================================================================================
+
+Yume, Moon Watching
+お月見 由夢
+Card No.: DC/WE02-012  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: だんご (Dumpling)
+Triggers: None
+Flavor: It's pretty, onii-san
+TEXT: [A] When this is placed from hand to the Stage, look at the top card of
+your Library. Put it on top of the Library or in the Waiting Room.
+
+================================================================================
+
+Erica, Sleepwalking
+寝ぼけるエリカ
+Card No.: DC/WE02-013  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Why, why am I in the futon!? When, when!?
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Anzu, Wishing upon a Star
+星に願う杏
+Card No.: DC/WE02-014  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 和服 (Yukata)      Trait 2: 演劇 (Play)
+Triggers: None
+Flavor: What I wrote... it's a secret
+TEXT: [A] When this is placed from hand to the Stage, look at the top 2 cards
+of your Library. Put the back in any order.
+
+================================================================================
+
+Maya, Volunteer Miko
+ボランティア巫女 麻耶
+Card No.: DC/WE02-015  Rarity: C
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 委員長 (Chairman)      Trait 2: 巫女 (Miko)
+Triggers: None
+Flavor: It, it's embarassing, so please don't look...
+TEXT: [A] When "Chairman's Miko Outfit" is placed in the Climax Zone, reveal
+the top card of your Library. If it's a ::Mecha:: Character, put it in Stock.
+(Otherwise put it back where it was)
+[S] [(1) Rest this] Reveal the top card of your Library. If it's a ::Mecha::
+Character, put it in your hand. (Otherwise put it back where it was)
+
+================================================================================
+
+Mayuki in the Hydrangea Field
+アジサイ畑のまゆき
+Card No.: DC/WE02-016  Rarity: R
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 傘 (Umbrella)
+Triggers: None
+Flavor: Little brother, come this way
+TEXT: [C] All your other ::Student Council:: Characters gain "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Sorry. And, thank you
+ごめんね。そして、ありがとう
+Card No.: DC/WE02-017  Rarity: C
+Color: Blue   Side: Weiss  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I'm very happy
+TEXT: You cannot play this from hand if you don't have a ::Student Council::
+Character.
+Choose a card in your Clock and return it to your hand. Send this to Memory.
+
+================================================================================
+
+Chairman's Miko Outfit
+委員長の巫女姿
+Card No.: DC/WE02-018  Rarity: C
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Sakurai... what? I am busy
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+

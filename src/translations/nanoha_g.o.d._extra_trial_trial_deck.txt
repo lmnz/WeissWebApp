@@ -1,0 +1,370 @@
+Nanoha G.O.D. Extra Trial Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Chrono Harlaown
+クロノ・ハラオウン
+Card No.: NA/W12-G01  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: What a coincidence. I also though that it's time for me to come out
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Linith, Temporal Dream
+片時の夢 リニス
+Card No.: NA/W12-G02  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Returned to life... not really, so I think it's just a temporary
+dream...
+TEXT: [A] When this becomes Reversed in Battle, choose 1 of your ::Clone::
+Characters. That Character gains +1500 Power for the turn.
+
+================================================================================
+
+Yuuno, Son of Scrya
+スクライアの子 ユーノ
+Card No.: NA/W12-G03  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Good job, but I shall not fall to the same tricks
+TEXT: [S] [(1) Rest this] Choose 1 of your Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Presea, Remnants of Dream
+夢の残骸 プレシア
+Card No.: NA/W12-G04  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: For me, sadness and suffering are good things - I only have one wish
+TEXT: [A] [(2)] When the Battle Opponent of this beocmes Reversed, you may pay
+cost. If so, choose a ::Magic:: Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Vivio, Strike Arts
+ストライクアーツ ヴィヴィオ
+Card No.: NA/W12-G05  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オッドアイ (Odd-Eye)
+Triggers: None
+Flavor: Jet Step, GO--!
+TEXT: [A] At the beginning of your Opponent's Attack Phase, you may move this
+to an empty Slot on your Stage which has an Opponent Character Opposite the
+Slot.
+
+================================================================================
+
+Arf, Support Role
+サポート役 アルフ
+Card No.: NA/W12-G06  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Blow that guy away... A troublesome task like this should be done
+quickly!
+TEXT: -- None --
+
+================================================================================
+
+"Operator of Time" Kyrie
+“時の操手” キリエ
+Card No.: NA/W12-G07  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: Here I go, Cherry Blossom Gunblade strike - stomache full, thank you!
+TEXT: [A] When this becomes Reversed in Battle, choose 1 of your Characters.
+That Character gains +1000 Power and ::Weapon:: for the turn.
+
+================================================================================
+
+Einhalt, Kaiser Arts
+覇王流 アインハルト
+Card No.: NA/W12-G08  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: オッドアイ (Odd-Eye)
+Triggers: Soul 
+Flavor: I shall go - help now!!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this from hand to the
+Waiting Room]
+
+================================================================================
+
+Fate, High Speed Battle Mage
+高速戦魔導師 フェイト
+Card No.: NA/W12-G09  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: Program Cartridge, "Bardiche", Load! Drive Ignition!!
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+Characters with "Nanoha" in the name. That Character gains +2000 Power for the
+turn.
+[A] When this is placed from hand to the Stage, all your Characters gain +1
+Soul.
+
+================================================================================
+
+Nanoha, Gunnery Mage
+砲撃魔導師 なのは
+Card No.: NA/W12-G10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Program Cartridge, "Nebelwerfer", Load! Drive Ignition!
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] [(3)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose 1 of your Opponent's Characters whose Level is 1 or lower and put it in
+the Waiting Room.
+
+================================================================================
+
+Goodbye Rinis
+さよならリニス
+Card No.: NA/W12-G11  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Rinis: "Thank you, Fate, Arf... To meet you guys and spend time
+with you... I am truly fortunate"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+all your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Method to Return to the Future
+未来に帰る方法
+Card No.: NA/W12-G12  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Silver Cross: "The Catlike terminal has caused light damages to the
+book itself. Requesting permission to exclude"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+"Yagami Household" Reinforce
+“八神家” リインフォース
+Card No.: NA/W12-G13  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: My lord, stand down - let me!
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 ::Book:: Character, reveal it, and put
+it in your hand. Shuffle your Library.
+
+================================================================================
+
+Aria Liese & Lotte Liese, Twin Familiars
+双子の使い魔 リーゼアリア＆リーゼロッテ
+Card No.: NA/W12-G14  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 双子 (Twins)      Trait 2: 使い魔 (Familiar)
+Triggers: None
+Flavor: Aria Liese: "Happiness two-to-one! Lotte! Let's finish this
+with the combo!" Lotte Liese: "Of course Aria! Let's do this
+lightning fast!!"
+TEXT: [A] When this attacks, choose 1 of your other ::Familiar:: Characters.
+That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Vita, Goblin
+天邪鬼 ヴィータ
+Card No.: NA/W12-G15  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 人形 (Doll)
+Triggers: None
+Flavor: Those who creates problems shall be punished by me
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this from hand to the Waiting
+Room]
+
+================================================================================
+
+Shamal, Strategist
+参謀格 シャマル
+Card No.: NA/W12-G16  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Let's go. By the name of Protection Knight of the Dark Sky!
+TEXT: [C] All your other Characters with ::Magic:: and/or ::Animal:: gain +500
+Power.
+
+================================================================================
+
+"Guardian of Destiny" Amitie
+“運命の守護者” アミティエ
+Card No.: NA/W12-G17  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 時間 (Time)
+Triggers: None
+Flavor: I shall protect the destiny of the world!
+TEXT: [A] [(2)] When this is placed from the Stage to the Waiting Room, you may
+pay cost. IF so, search your Library for up to 1 '"Operator of Time" Kyrie',
+reveal it, and put it in your hand. Shuffle your Library.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Zafira, Quiet Type
+寡黙な性格 ザフィーラ
+Card No.: NA/W12-G18  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Now, sleep quietly
+TEXT: -- None --
+
+================================================================================
+
+Signum, Battle Mania
+バトルマニア シグナム
+Card No.: NA/W12-G19  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 6500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: It's good to want to be stronger - but also listen to those who
+need you
+TEXT: [A] When this is placed from hand to the Stage, put the top card of your
+Library in your Clock.
+
+================================================================================
+
+Unbreakable Darkness
+砕け得ぬ闇
+Card No.: NA/W12-G20  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: None
+Flavor: Once I awaken - nothing but the claw marks of destruction shall remain
+--
+TEXT: -- None --
+
+================================================================================
+
+Thoma, Black Knight Mode
+モード黒騎士 トーマ
+Card No.: NA/W12-G21  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Thoma: "It's okay! If you can't stop it, we will!"
+Lily: "That's right! We shall definitely help!!"
+TEXT: -- None --
+
+================================================================================
+
+Hayate, Magic Knight
+魔導騎士 はやて
+Card No.: NA/W12-G22  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Install Program "Waffentrager" -- Drive Ignition!
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+
+================================================================================
+
+Lord de Arche
+闇統べる王
+Card No.: NA/W12-G23  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 本 (Book)
+Triggers: Soul 
+Flavor: Your head is too high! Kneel!
+TEXT: [C] EXPERIENCE If "Stern the Destructor" is in your Level Zone, this
+gains +1 Soul.
+[C] EXPERIENCE If "Levi the Slasher" is in your Level Zone, this gains +1000
+Power.
+
+================================================================================
+
+Stern the Destructor
+星光の殲滅者
+Card No.: NA/W12-G24  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The path towards King - only Luciferion and I will carve it
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Levi the Slasher
+雷刃の襲撃者
+Card No.: NA/W12-G25  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: King and Stern both protect me --
+TEXT: [C] Characters Opposite this gains +1 Soul.
+
+================================================================================
+
+Sisters' Making-Up
+姉妹の和解
+Card No.: NA/W12-G26  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Kyrie: "That's why I hate you - haaaaaate..." Amita:
+"Even if you hate me -- I love you"
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+all your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Resurrection of de Arche!
+闇王復活！
+Card No.: NA/W12-G27  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Lord de Arche: "Ahahaha! Kid crow and the fusion knight! Our
+resurrection means the end of you"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

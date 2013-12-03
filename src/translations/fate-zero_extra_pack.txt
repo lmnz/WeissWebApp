@@ -1,0 +1,386 @@
+Fate&#47;Zero Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Irisviel, Pure And Innocent
+純朴で無邪気 アイリスフィール
+Card No.: FZ/SE13-01  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: Well, these are from Japan, so we should enjoy them before the battle
+begins
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Master:: and/or ::Servant:: Character, reveal it, and put it in your
+hand. Shuffle your Library.
+
+================================================================================
+
+Saber, Metallic Gale
+鋼色の疾風 セイバー
+Card No.: FZ/SE13-02  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: You have no idea what my precious sword really is
+TEXT: [A] [(1)] When this attacks, if "Strike Air" is in the Climax Zone, you
+may pay cost. If so, choose 1 of your Characters. That Character gains +5000
+Power for the turn.
+
+================================================================================
+
+"Protector of Vessel" Irisviel
+“器の護り手”アイリスフィール
+Card No.: FZ/SE13-03  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: Soul 
+Flavor: Saber!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your ::Servant:: Characters. That
+Character gains +2000 Power for the turn.
+
+================================================================================
+
+Maiya, Female Soldier
+女兵士 舞弥
+Card No.: FZ/SE13-04  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] If there's a Yellow Climax in your Climax Zone, this gains +2000
+Power.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Kiritsugu, Trump of Einzbern
+アインツベルンの切り札 切嗣
+Card No.: FZ/SE13-05  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] Your other Character in your Front Row Center Slot gains +1000
+Power.
+[A] CHANGE [(3) Put this in the Waiting Room] At the beginning of your Draw
+Phase, you may pay cost. If so, choose a "Kiritsugu, Cold-Blooded Hound" in
+your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Saber, Girl of Heroic Spirit
+英霊の少女 セイバー
+Card No.: FZ/SE13-06  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: ...Irisviel, you really think I could fit into this time period with
+this outfit?
+TEXT: [A] This ability may be played up to 2 times per turn. When another of
+your Characters with either ::Master:: or ::Homunculus:: is placed from hand to
+the Stage, this gains +1000 Power.
+
+================================================================================
+
+Irisviel, Precious Gem
+高貴な宝石 アイリスフィール
+Card No.: FZ/SE13-07  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: ホムンクルス (Homunculus)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: ... Thank you Saber. Because of you, I survived
+TEXT: [C] If you have another Character whose name includes "Saber", this gains
++1000 Power and "[A] ENCORE [Discard a Character card from hand to the Waiting
+Room".
+
+================================================================================
+
+Kiritsugu, Cold-Blooded Hound
+冷酷非情の猟犬 切嗣
+Card No.: FZ/SE13-08  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall attack them from the side
+TEXT: [C] If you have 4 or fewer cards in your hand, this gains "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room]".
+
+================================================================================
+
+Strike Air
+風王鉄槌
+Card No.: FZ/SE13-09  Rarity: C
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: If the lance is undefendable, then we shall cut it before we have to
+defend
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Lancer, Two Magical Lances
+二本の魔槍 ランサー
+Card No.: FZ/SE13-10  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: You got here without breaking a sweat, all females would look up at you
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, you may choose a Character
+whose name includes "Lancer" in your Clock and return it to your hand. If so,
+choose a card in your hand and put it in your Clock.
+
+================================================================================
+
+Lancer, Cursed Yellow Lance
+呪いの黄槍 ランサー
+Card No.: FZ/SE13-11  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You have to kill if you want to get pass here
+TEXT: [A] [Discard a "Gae Buidhe" from your hand to the Waiting Room] When this
+attacks, you may pay cost. If so, search your Library for up to 1 ::Weapon::
+Character, reveal it, and put it in your hand. Afterwards, shuffle that
+Library, this gains +3000 Power for the turn, and your Opponent may not use
+"[A] ENCORE" for the turn. (This includes "[A] ENCORE [(3)] provided by rules.)
+
+================================================================================
+
+Rider, Legendary Conqueror King
+伝説の征服王 ライダー
+Card No.: FZ/SE13-12  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: The king is not alone
+TEXT: [C] If you have 3 or more other ::Master:: and/or ::Servant:: Characters,
+this gains +1000 Power.
+[A] When this is placed from hand or placed via CHANGE to the Stage, you may
+put the top card of your Clock in the Waiting Room.
+
+================================================================================
+
+Rider, Ambition to Conquer the World
+世界征服の野望 ライダー
+Card No.: FZ/SE13-13  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: None
+Flavor: Ahahaha... To be able to have the world at my chest feels nice
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If so, choose 1 of your Characters. That Character gains +2000 Power for the
+turn.
+
+================================================================================
+
+Kayneth, Royalty at Birth
+生まれついての貴族 ケイネス
+Card No.: FZ/SE13-14  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: Heh... why weren't you able to keep Saber tonight?
+TEXT: [S] [Rest 1 of your ::Master:: Characters] This gains +1000 Power for the
+turn.
+
+================================================================================
+
+"Volumen Hydragyrum" Kayneth
+“月霊髄液”ケイネス
+Card No.: FZ/SE13-15  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: Now, let's play fair!
+TEXT: [A] [(1)] When this is Front Attacked, you may pay cost. If so, this
+gains +1500 Power for the turn.
+
+================================================================================
+
+Waver, Self-Proclaimed Genius Magician
+自称天才魔術師 ウェイバー
+Card No.: FZ/SE13-16  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 錬金術 (Alchemy)
+Triggers: None
+Flavor: I... All I want is a legitimate evaluation
+TEXT: -- None --
+
+================================================================================
+
+Rider, My Path of Kingship
+我が王道 ライダー
+Card No.: FZ/SE13-17  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: My bond with them is my greatest treasure!  My path of kingship!
+TEXT: [A] ENCORE [Discard a Climax card from hand to the Waiting Room]
+[A] CHANGE [Put this in the Waiting Room] At the beginning of your Draw Phase,
+you may pay cost. If so, choose a "Rider, Legendary Conqueror King" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Holy Grail Dialogue
+聖杯問答
+Card No.: FZ/SE13-18  Rarity: C
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Which of us is more suited to be the king of the Grail?  The matter
+will clarify itself as we drink
+TEXT: Search your Library for up to 2 ::Royalty:: Characters, reveal them, and
+put them in your hand. Shuffle your Library.
+
+================================================================================
+
+Gae Buidhe
+必滅の黄薔薇
+Card No.: FZ/SE13-19  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I shall hit you when you least expect
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+all your Characters gain +1000 Power for the turn.
+
+================================================================================
+
+Kirei, Father with Questions
+葛藤を抱える神父 綺礼
+Card No.: FZ/SE13-20  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Even I don't understand. Why was I - one without ideal or an
+earnest wish - chosen for the war
+TEXT: [A] When this is placed from hand to the Stage, this gets -1500 Power for
+the turn.
+
+================================================================================
+
+Kirei, Truth Seeker of the Holy Church
+聖堂教会の求道者 綺礼
+Card No.: FZ/SE13-21  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 虚無 (Void)      Trait 2: マスター (Master)
+Triggers: None
+Flavor: Kiritsugu Emiya is like me, no one understands us, no one approves of
+us, and void-like...
+TEXT: [C] For every other Character with either ::Master:: and/or ::God:: that
+you have, this gains +500 Power.
+
+================================================================================
+
+Caster, Teacher of Ryunosuke
+龍之介の師 キャスター
+Card No.: FZ/SE13-22  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 本 (Book)
+Triggers: None
+Flavor: Now, kids, hide and seek has begun
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your other
+::Death:: Characters. That Character gains +1000 Power for the turn.
+[A] BOND/"Ryunosuke Uryu" [(1)]
+
+================================================================================
+
+"Artist" Ryunosuke
+“アーティスト”龍之介
+Card No.: FZ/SE13-23  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: マスター (Master)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: What does it feel like to be killed by a devil?
+TEXT: [C] If you have 5 or more cards in your hand, this gains +1000 Power.
+
+================================================================================
+
+"Zabaniya" Assassin
+“妄想幻像”アサシン
+Card No.: FZ/SE13-24  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: サーヴァント (Servant)      Trait 2: 仮面 (Mask)
+Triggers: None
+Flavor: Kirei: "... For you, that fortress-like magical field near Tohsaka
+Mansion would not scare you"
+TEXT: [C] You may have as many copies of cards with the same name as this in
+your Deck.
+[C] All your other "'Zabaniya' Assassin" gain +500 Power.
+
+================================================================================
+
+Risei Kotomine
+言峰 璃正
+Card No.: FZ/SE13-25  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 神 (God)      Trait 2: None
+Triggers: Soul 
+Flavor: As the overseer, Risei Kotomine shall guarantee your safety
+TEXT: [A] At the beginning of your Opponent's Attack Phase, choose 1 of your
+::Master:: Characters. That Character gains +1500 Power for the turn.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+"Zabaniya" Assassin
+“妄想幻像”アサシン
+Card No.: FZ/SE13-26  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 6500   Soul: 2
+Trait 1: サーヴァント (Servant)      Trait 2: 仮面 (Mask)
+Triggers: Soul 
+Flavor: A servant of multiple
+TEXT: [C] You may have as many copies of cards with the same name as this in
+your Deck.
+[C] All your other "'Zabaniya' Assassin" gain +1500 Power and "[A] ENCORE
+[Discard a Character card from your hand to the Waiting Room]".
+
+================================================================================
+
+Ryunosuke Uryu
+雨生 龍之介
+Card No.: FZ/SE13-27  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: マスター (Master)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: Your husband is much much COOLer than you
+TEXT: [C] For every other Level 0 or lower Character you have, this gains +500
+Power.
+
+================================================================================
+

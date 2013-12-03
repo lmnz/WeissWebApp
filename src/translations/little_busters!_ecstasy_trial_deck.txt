@@ -1,0 +1,245 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Friends" Rin & Komari
+“お友達”鈴＆小毬
+Card No.: LB/W06-101  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: I caught Rin-chan~
+TEXT: [C] If you have 2 or more other ::Sweets:: Characters, this gains +1000
+Power.
+
+================================================================================
+
+Sayaka in Yukata
+浴衣の沙耶
+Card No.: LB/W06-102  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: 和服 (Yukata)
+Triggers: Soul 
+Flavor: I'm allowed to take a breather, no?
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, draw a card.
+
+================================================================================
+
+Rin & Komari, Looking Down at the Evening City
+黄昏の街を見下ろす鈴と小毬
+Card No.: LB/W06-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: お菓子 (Sweets)
+Triggers: None
+Flavor: ...Because you're my best friend
+TEXT: -- None --
+
+================================================================================
+
+"Wishing Star" Komari
+“ねがいぼし”小毬
+Card No.: LB/W06-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: 童話 (Fairy Tales)
+Triggers: None
+Flavor: I have wished upon a star...
+TEXT: -- None --
+
+================================================================================
+
+"Mood-Maker" Komari
+“ムードメーカー”小毬
+Card No.: LB/W06-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: 童話 (Fairy Tales)
+Triggers: None
+Flavor: Everyone, please eat a lot~
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power during
+your turn.
+[C] [Discard a Climax card from hand to the Waiting Room] Choose a Character in
+your Opponent's Front Row with Cost 0. Put that Character in the Stock.
+
+================================================================================
+
+Rin & Komari
+鈴＆小毬
+Card No.: LB/W06-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 3000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: お菓子 (Sweets)
+Triggers: Soul 
+Flavor: Rin-chan and I are friends
+TEXT: [A] Whenever your Opponent Level-Up, put the top card of your Library in
+your Stock.
+[S] [(3)] All your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Yuiko in Maid Uniform
+メイド服の唯湖
+Card No.: LB/W06-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: メイド (Maid)
+Triggers: Soul 
+Flavor: What, Riki-kun wants to wear it too?
+TEXT: -- None --
+
+================================================================================
+
+"Self-Righteous" Sasami
+“唯我独尊”佐々美
+Card No.: LB/W06-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 3   Power: 10000   Soul: 3
+Trait 1: スポーツ (Sports)      Trait 2: None
+Triggers: Soul 
+Flavor: Miyazawa-sama is marvelous
+TEXT: [C] Character opposite this gets -1 Soul.
+[A] When the Character battling this becomes Reversed, you may put that
+Character in the Stock.
+
+================================================================================
+
+Trial from Older Brother
+兄からの試練
+Card No.: LB/W06-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: You did well by yourself, Rin
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +3 Soul for the turn.
+
+================================================================================
+
+The Piano that Kept Playing
+鳴り続けるピアノ
+Card No.: LB/W06-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: ...Goodbye, Riki-kun
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Kud from Wonderland
+不思議の国のクド
+Card No.: LB/W06-T09  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Ehh, it's sooo dark---
+TEXT: [C] All your other Characters gain +500 Power during your Opponent's
+turn.
+[S] [(2) Rest this] Search your Library for up to 1 Character whose name
+includes "Komari", reveal it, and put it in your hand. Shuffle your Library.
+
+================================================================================
+
+"Rising Stock" Komari
+“成長株”小毬
+Card No.: LB/W06-T10  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: 童話 (Fairy Tales)
+Triggers: None
+Flavor: "Komari Kamikita has been recalled from the farm system"
+TEXT: [C] All your other Characters gain +500 Power during your Opponent's
+turn.
+[S] [Discard a Climax card from hand to the Waiting Room, Rest this] Put up to
+1 Level 1 or lower Character whose name includes "Komari" from your hand to any
+Slot on your Stage.
+
+================================================================================
+
+"Female Spy" Saya
+“女スパイ”沙耶
+Card No.: LB/W06-T11  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 武器 (Weapon)      Trait 2: None
+Triggers: None
+Flavor: Game clear!
+TEXT: -- None --
+
+================================================================================
+
+"Quarter Girl" Kud
+“クォーター少女”クド
+Card No.: LB/W06-T12  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: It's thin and light and flat... flat?
+TEXT: [C] If you have 5 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+"Happy Spiral" Komari
+“幸せスパイラル”小毬
+Card No.: LB/W06-T13  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 1500   Soul: 1
+Trait 1: お菓子 (Sweets)      Trait 2: 童話 (Fairy Tales)
+Triggers: Soul 
+Flavor: If you do good deeds you'll also feel good
+TEXT: [A] When you use BACKUP on this, put the top 3 cards of your Library to
+your Waiting Room.
+[S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+"Western-Eastern Compromise" Kud
+“和洋折衷”クド
+Card No.: LB/W06-T14  Rarity: TD
+Color: Blue   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: Soul 
+Flavor: Eh, eh, can't reach-
+TEXT: [A] [(1) When a Level 2 or higher Battle Opponent of this becomes
+Reversed, you may pay cost. If so, put the top card of your Clock to your
+Waiting Room.
+
+================================================================================
+
+Incredible Deja Vu
+不思議な既視感
+Card No.: LB/W06-T15  Rarity: TD
+Color: Blue   Side: Weiss  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I like Riki-kun
+TEXT: Look at up to 2 cards from top of your Library. You may put up to 1 of
+them in your hand. Put the other cards on top of the Library in any order.
+
+================================================================================
+
+It'll Be Okay
+きっと、だいじょうぶ
+Card No.: LB/W06-T16  Rarity: TD
+Color: Blue   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: ...Riki-kun is here
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

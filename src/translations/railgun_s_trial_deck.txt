@@ -1,0 +1,256 @@
+Railgun S Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Uiharu, Friendly 4-Man Group
+仲良し4人組 初春
+Card No.: RG/W26-081  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Even if it weren't a surprise, so long as it expresses
+everyone's feelings
+TEXT: [A] This ability may activate up to twice per turn. When another
+Character of yours with either ::ESP:: and/or whose name includes "Saten" is
+placed from hand to the Stage, this gains +1000 Power for the turn.
+
+================================================================================
+
+Saten, Friendly 4-Man Group
+仲良し4人組 佐天
+Card No.: RG/W26-082  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: Soul 
+Flavor: I'm worried. Misaka-san is always reckless
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[S] [(1) Rest this] Choose a card in your Clock and return it to your hand.
+Choose a card in your hand and put it in Clock.
+
+================================================================================
+
+Mikoto, Friendly 4-Man Group
+仲良し4人組 美琴
+Card No.: RG/W26-083  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Let's not discuss it here, let's hurrt!
+TEXT: [C] If you have 2 or more other ::ESP:: Characters, this gains +1000
+Power.
+[A] [(4)] When this attacks, if "Railgun" is in the climax Zone, you may pay
+cost. If so, deal 5 Damage to your Opponent. (Damage cancel can occur)
+
+================================================================================
+
+Mikoto, Works Hard
+努力家 美琴
+Card No.: RG/W26-084  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Hey Kuroko...... Thanks
+TEXT: [A] When this is placed from hand to the Stage, you may choose an ::ESP::
+Character from your Waiting Room and return it to your hand.
+[A] When another ::ESP:: Character of yours attacks, this gains +1000 Power for
+the turn.
+
+================================================================================
+
+Kuroko, Friendly 4-Man Group
+仲良し4人組 黒子
+Card No.: RG/W26-085  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Now now, Onee-sama
+TEXT: [A] When this attacks, choose up to 2 of your ::ESP:: Characters. They
+gain +500 Power for the turn.
+
+================================================================================
+
+Uiharu, Worrying
+心配する初春
+Card No.: RG/W26-T01  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Saten-san is Saten-san. Using shortcuts and having that happen
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, search your Library for up to 1 Character with either ::ESP:: and/or
+whose name includes "Saten", reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+"Strawberry Oden" Uiharu
+“いちごおでん”初春
+Card No.: RG/W26-T02  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Cold oden isn't oden. It's a hot summer, thus why hot food
+TEXT: -- None --
+
+================================================================================
+
+Saten, Seeking help
+助けを求める佐天
+Card No.: RG/W26-T03  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: None
+Flavor: Hey, I was just walking normally
+TEXT: -- None --
+
+================================================================================
+
+Saten at the Hospital
+病院の佐天
+Card No.: RG/W26-T04  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 特徴なし (No Keyword)      Trait 2: None
+Triggers: Soul 
+Flavor: Eh!?
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Location Triangulation
+位置特定
+Card No.: RG/W26-T05  Rarity: TD
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Okay okay, just a little longer...
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Escape from Dark Alleys
+路地裏の脱出
+Card No.: RG/W26-T06  Rarity: TD
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: That's not good!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kuroko, Working
+お仕事中 黒子
+Card No.: RG/W26-T07  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: It appeared, Uiharu.
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Mikoto at the Library
+図書館の美琴
+Card No.: RG/W26-T08  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: None
+Flavor: Kongo: "Hey there, Misaka-san"
+TEXT: [A] When another Character of yours becomes Reversed in battle, choose 1
+of your ::ESP:: Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+"Queen" Misaki Shokuhou
+“女王”食蜂 操祈
+Card No.: RG/W26-T09  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 手袋 (Gloves)
+Triggers: None
+Flavor: Mikoto: "The strongest mental type ability user in the Academy
+City, 'Mental Out' Misaki Shokuhou"
+TEXT: -- None --
+
+================================================================================
+
+Kuroko, Full of Justice
+強い正義感 黒子
+Card No.: RG/W26-T10  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: 風紀委員 (Judgment)
+Triggers: None
+Flavor: Welcome back. Radical copycat
+TEXT: -- None --
+
+================================================================================
+
+Mikoto, On the Way to School
+通学中 美琴
+Card No.: RG/W26-T11  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8500   Soul: 1
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: Now, who are they?
+TEXT: -- None --
+
+================================================================================
+
+Mikoto at the Hospital
+病院の美琴
+Card No.: RG/W26-T12  Rarity: TD
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 超能力 (ESP)      Trait 2: カエル (Frog)
+Triggers: Soul 
+Flavor: What does Kuroko think of me...
+TEXT: [C] If you have 2 or more other ::ESP:: Characters, this gains "[A]
+ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+When the Cat's Away
+鬼の居ぬ間に
+Card No.: RG/W26-T13  Rarity: TD
+Color: Red   Side: Weiss  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Onee-sama-!
+TEXT: [Counter] Choose 1 of your ::ESP:: Characters. That Character gains +2000
+Power for the turn.
+
+================================================================================
+
+Railgun
+超電磁砲
+Card No.: RG/W26-T14  Rarity: TD
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

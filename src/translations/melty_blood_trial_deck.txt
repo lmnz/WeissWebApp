@@ -1,0 +1,243 @@
+Melty Blood Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Arcueid, Naive And Romatic
+天真爛漫 アルクェイド
+Card No.: MB/S10-101  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: That was easy! 
+TEXT: [A] [(1)] When this is placed from hand to the Stage, you may pay cost.
+If you do, this gains +2500 Power for the turn.
+
+================================================================================
+
+Ren, Familiar
+使い魔 レン
+Card No.: MB/S10-102  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: ...Shiki's in trouble
+TEXT: [A] When this is placed from hand to the Stage, this gains +1 Soul for
+the turn.
+
+================================================================================
+
+Shall We Play Around for a While?
+すこしばかり戯れようか？
+Card No.: MB/S10-103  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Sion, Alchemist
+錬金術師 シオン
+Card No.: MB/S10-104  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 錬金術 (Alchemy)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: We, alchemists of Atlas, are able to calculate the future
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+White Ren, Familiar
+使い魔 白レン
+Card No.: MB/S10-105  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Stop, give it back! That's my.. my
+crabbbbbb--------!
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest 2 of your Characters] Choose 1 of your Characters. That Character
+gains "[A] ENCORE [Discard a Character card from hand to the Waiting Room]" for
+the turn.
+
+================================================================================
+
+Arcueid, Vampire
+吸血鬼 アルクェイド
+Card No.: MB/S10-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Sorry to say, you have no chance of winning
+TEXT: -- None --
+
+================================================================================
+
+Shiki Tohno
+遠野 志貴
+Card No.: MB/S10-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Since you have a shape, the least I can do to erase it
+TEXT: [C] This gains +1000 Power during your turn.
+[C] If this is in the Front Row, this does not Stand during your Stand Phase.
+
+================================================================================
+
+Ren
+レン
+Card No.: MB/S10-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: ........
+TEXT: -- None --
+
+================================================================================
+
+Arcuied Brunestud
+アルクェイド・ブリュンスタッド
+Card No.: MB/S10-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 王族 (Royalty)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Ahhh, that felt nice
+TEXT: [C] For each other Rested Character you have, this gains +500 Power.
+
+================================================================================
+
+Arcueid, Princess of Shinso
+真祖の姫 アルクェイド
+Card No.: MB/S10-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 王族 (Royalty)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Use your death to stop my smile.
+TEXT: [C] EXPERIENCE If sum of Levels of cards in your Level Zone is 4 or
+higher, this gains +500 Power and "[A] When Battle Opponent of this Reverses,
+you may put that Character in the Stock."
+[A] When this is placed from hand to Stage, you may put top card in your Clock
+to your Waiting Room.
+
+================================================================================
+
+Seventeen Cuts
+十七分割
+Card No.: MB/S10-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I can see...!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Miyako Arima
+有間 都古
+Card No.: MB/S10-T07  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I'm going~!
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Riesbyfe Stridberg
+リーズバイフェ・ストリンドヴァリ
+Card No.: MB/S10-T08  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 盾 (Shield)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I am Riesbyfe Stridberg. I am a knight that protects small things in
+the name of the Lord
+TEXT: -- None --
+
+================================================================================
+
+Sion, Atlas Academy Resident
+アトラス院所属 シオン
+Card No.: MB/S10-T09  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 錬金術 (Alchemy)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You thought of THAT in THAT situation!?
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 2 or
+higher, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Sion, Vampire
+吸血鬼シオン
+Card No.: MB/S10-T10  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 錬金術 (Alchemy)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: All that stands in my way will be decimated by these claws and teeth...!
+TEXT: -- None --
+
+================================================================================
+
+Miyako, Eight Extremities Fists
+八極拳士 都古
+Card No.: MB/S10-T11  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 1000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Reform, stupid cat---!
+TEXT: [C] If your Opponent has an ::Animal:: Character, this gains +6000
+Power.
+[S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+Vampire Sion, Successor to TATARI
+タタリの後継 吸血鬼シオン
+Card No.: MB/S10-T12  Rarity: TD
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 錬金術 (Alchemy)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Move, loser. You said yourself that those who fall into hell have no
+future
+TEXT: [C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 3 or
+higher, this gains +1000 Power.
+
+================================================================================
+
+Barrel Replica
+バレルレプリカ
+Card No.: MB/S10-T13  Rarity: TD
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: Barrel Replica, full trance!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

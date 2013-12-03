@@ -1,0 +1,259 @@
+Sword Art Online Trial Deck Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Conquering Team" Asuna
+《攻略組》アスナ
+Card No.: SAO/S20-101  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: But I still want to go back. There are many things I still need to
+finish on the other side
+TEXT: [A] This ability may activate up to twice per turn. When you use an [S]
+ability, this gains +1000 Power for the turn.
+
+================================================================================
+
+"Conquering Team" Kirito
+《攻略組》キリト
+Card No.: SAO/S20-102  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: If we don't do our best, we cannot reward those smith-type players
+who support us
+TEXT: [C] All your other Characters with ::Avatar:: and/or ::Net:: gain +1000
+Power.
+[A] When this is placed from hand to the Stage, look at the top card of your
+Library and put it either on top or bottom of the Library.
+
+================================================================================
+
+"Beater" Kirito
+《ビーター》キリト
+Card No.: SAO/S20-103  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Don't put me with other former beta testers from now on
+TEXT: [S] [(1)] Choose 1 of your Characters with ::Avatar:: and/or ::Net::.
+That Character gains +1500 Power for the turn.
+
+================================================================================
+
+Kirito & Asuna
+キリト＆アスナ
+Card No.: SAO/S20-104  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Asuna: "Even if I lose to a monster and die, I don't want to
+lose to this game... this world. In any way"
+TEXT: [C] During your Opponent's turn, this gains +1000 Power.
+[A] When this is Front Attacked, look at the top card of your Library and put
+it either on top of the Library or in the Waiting Room.
+[S] [(1)] This gains +1000 Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Asuna, Infiltrating Underground Dungeon
+地下ダンジョンへの潜入 アスナ
+Card No.: SAO/S20-105  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Please take Yui! The three of you should escape!
+TEXT: [A] ACCELERATE [Put the top card of your Library in Clock] At the start
+of your Climax Phase, you may pay cost. If so, this gains +3500 Power for the
+turn.
+
+================================================================================
+
+Asuna, Jumping to the Wrong Conclusion
+早とちり アスナ
+Card No.: SAO/S20-T01  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: D, don't... look this way...
+TEXT: [C] During your turn, this gains +1000 Power.
+
+================================================================================
+
+Asuna, Beginning of Battle
+戦いのはじまり アスナ
+Card No.: SAO/S20-T02  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Then I'll take your word and enjoy today. You take the Forward role!
+TEXT: -- None --
+
+================================================================================
+
+Heathcliff, Hidden True Self
+隠された正体 ヒースクリフ
+Card No.: SAO/S20-T03  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Kirito-kun, I shall grant you a reward for actually seeing through my
+true form. I shall grant you a chance
+TEXT: -- None --
+
+================================================================================
+
+Asuna, Response to Propose
+プロポーズの返事 アスナ
+Card No.: SAO/S20-T04  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ...... Yes
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If it's a Character with either ::Avatar:: and/or ::Net::, choose 1 of
+your Characters. That Character gains +1 Soul for the turn. (Put the revealed
+card back where it was)
+
+================================================================================
+
+Asuna, Mastery of Cooking Skill
+熟練の料理スキル アスナ
+Card No.: SAO/S20-T05  Rarity: TD
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Stew is done now. I shall make other dishes to accompany it
+TEXT: [C] During your turn, if you have 2 or more other ::Avatar:: Characters,
+this gains +1 Level and +1500 Power.
+
+================================================================================
+
+Star Splash
+《スター・スプラッシュ》
+Card No.: SAO/S20-T06  Rarity: TD
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Hyahhhh!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Kirito, Beginning of Battle
+戦いのはじまり キリト
+Card No.: SAO/S20-T07  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Wait a second, Forward role is supposed to be swapped out from time to
+time!
+TEXT: -- None --
+
+================================================================================
+
+Yui, Child of the Two
+ふたりの子供 ユイ
+Card No.: SAO/S20-T08  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: I want the same thing as papa
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with either "Kirito" or "Asuna" in
+name. That Character gains +500 Power for the turn.
+
+================================================================================
+
+Yui, Lovely Child
+愛らしい少女 ユイ
+Card No.: SAO/S20-T09  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: ネット (Net)      Trait 2: None
+Triggers: None
+Flavor: It's delicious
+TEXT: -- None --
+
+================================================================================
+
+Kirito, Becoming Member of Knights of the Blood
+血盟騎士団への入団 キリト
+Card No.: SAO/S20-T10  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ... Whomever did this wasn't a subdued guy, right...
+TEXT: [C] During your Opponent's turn, this gains +1000 Power.
+
+================================================================================
+
+Agil, Axe Warrior
+斧戦士 エギル
+Card No.: SAO/S20-T11  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: What do you mean! I abandoned my shop to come assist
+TEXT: -- None --
+
+================================================================================
+
+Kirito, Snow Mountain on Floor 55
+五十五層の雪山 キリト
+Card No.: SAO/S20-T12  Rarity: TD
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: アバター (Avatar)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Hide behind that!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from your hand
+to the Waiting Room]
+
+================================================================================
+
+End of the World
+世界の終焉
+Card No.: SAO/S20-T13  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Asuna: "Thank you... I love you..."
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+User of "Dual Wield"
+《二刀流》の使い手
+Card No.: SAO/S20-T14  Rarity: TD
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Ahhhhhhhh!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

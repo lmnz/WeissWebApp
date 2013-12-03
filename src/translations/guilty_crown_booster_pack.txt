@@ -1,0 +1,1664 @@
+Guilty Crown Booster Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Gai, Leader's Style
+リーダーの風格 涯
+Card No.: GC/S16-001  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: First you survive. Then everything else can follow
+TEXT: [A] [(1)] When this attacks, if "Commencing Attacks" is in the Climax
+Zone, you may pay cost. If so, this gains +2000 Power and "[A] When the Battle
+Opponent of this becomes Reversed, you may choose 1 of your Characters and
+return it to your hand" for the turn.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Gai, Leader's Style
+リーダーの風格 涯
+Card No.: GC/S16-001R  Rarity: RRR
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Commencing Attacks" is in the Climax
+Zone, you may pay cost. If so, this gains +2000 Power and "[A] When the Battle
+Opponent of this becomes Reversed, you may choose 1 of your Characters and
+return it to your hand" for the turn.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Gai, Important Decisions
+重要な選択 涯
+Card No.: GC/S16-002  Rarity: RR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: You already know the fictitious nature of the world. Even then, you
+still choose the side of evolution's losers?
+TEXT: [S] [(1) Rest 1 of your Characters] Reveal the top card of your Library.
+If it's Level 1 or higher, choose 1 of your Characters. That Character gains
++1000 Power and +1 Soul for the turn. (Climax card is considered to be Level 0
+for this effect. Put the revealed card back where it was)
+
+================================================================================
+
+Gai, Important Decisions
+重要な選択 涯
+Card No.: GC/S16-002S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [S] [(1) Rest 1 of your Characters] Reveal the top card of your Library.
+If it's Level 1 or higher, choose 1 of your Characters. That Character gains
++1000 Power and +1 Soul for the turn. (Climax card is considered to be Level 0
+for this effect. Put the revealed card back where it was)
+
+================================================================================
+
+"First Infected" Mana
+“第一感染者”真名
+Card No.: GC/S16-003  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Isn't Triton my knight? That's why you should protect me from
+now on too
+TEXT: [A] BOND/"Gai, Accepted Fate" [Put the top card of your Library in
+Clock]
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Mana Ouma
+桜満 真名
+Card No.: GC/S16-004  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: It's okay, don't be afraid. Let's do happy things,
+Shu--
+TEXT: [C] This gains +2000 Power during your turn.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Gai, Accepted Fate
+運命を受け入れる涯
+Card No.: GC/S16-005  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: There's no time. -- Take it out, Shu. My heart. The proof
+of our friendship
+TEXT: [C] All your other Characters gain +1000 Power during your turn.
+[A] This ability may be activated up to once per turn. When you use SHIFT, this
+gains "[C] ASSIST All your Characters in front of this gain +500 Power" until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Gai, Oath of United Front
+共闘を誓う涯
+Card No.: GC/S16-006  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Well done, Shu
+TEXT: [C] If there are 6 or more cards in your Stock, this gains "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+[A] When your other ::Funeral Parlor:: Character attacks, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Gai, Oath of United Front
+共闘を誓う涯
+Card No.: GC/S16-006S  Rarity: SR
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] If there are 6 or more cards in your Stock, this gains "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+[A] When your other ::Funeral Parlor:: Character attacks, this gains +1000
+Power for the turn.
+
+================================================================================
+
+Gai Tsutsugami
+恙神 涯
+Card No.: GC/S16-007  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: ...... I want to hold that one woman in my arms. That's why I fight
+TEXT: [A] When this attacks, if "Embrace of Re-meeting" is in the Climax Zone,
+this gains +2000 Pwoer and "[C] Character Opposite this gets -1 Soul" until the
+end of your Opponent's next turn.
+[A] When this is Front Attacked, look at the tp card of your Library and put it
+either on top of the Library or in the Waiting Room.
+[A] [Clock] SHIFT Level 3
+
+================================================================================
+
+Gai Tsutsugami
+恙神 涯
+Card No.: GC/S16-007SP  Rarity: SP
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Embrace of Re-meeting" is in the Climax Zone,
+this gains +2000 Pwoer and "[C] Character Opposite this gets -1 Soul" until the
+end of your Opponent's next turn.
+[A] When this is Front Attacked, look at the tp card of your Library and put it
+either on top of the Library or in the Waiting Room.
+[A] [Clock] SHIFT Level 3
+
+================================================================================
+
+Kenji Kido
+城戸 研二
+Card No.: GC/S16-008  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Is it time? My Void
+TEXT: [C] This gains +1000 Power during your turn.
+
+================================================================================
+
+Gai, Infiltrating Investigation
+潜入捜査 涯
+Card No.: GC/S16-009  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Are you nervous, Shu
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's a Climax card, put the top card of your Stock in the
+Waiting Room. (Put the revealed card back where it was)
+
+================================================================================
+
+Shu, Lost Pain
+失った痛み 集
+Card No.: GC/S16-010  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: If Gai's here, I'd be able to ask him what to do in this
+situation
+TEXT: [A] CHANGE [(3) Discard a card from hand to the Waiting Room, Put this in
+the Waiting Room] At the start of your Climax Phase, you may pay cost. If so,
+choose a "Shu, New Resolution" in your Waiting Room and put it in the Slot this
+was in.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1 Level and
++1000 Power for the turn.
+
+================================================================================
+
+Algo Tsukishima
+月島 アルゴ
+Card No.: GC/S16-011  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The name of Funeral Parlor is not to be taken lightly. --
+Don't be afraid at this kind of junk!
+TEXT: [C] During you turn, if there are 4 or more cards in your Stock, this
+gains +1500 Power.
+[A] [Clock] SHIFT Level 2
+
+================================================================================
+
+Shu, New Resolution
+新たなる決意 集
+Card No.: GC/S16-012  Rarity: U
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: -- None --
+TEXT: [C] For each Marker under this, this gains +1000 Power.
+[A] When this attacks, if "Awakened 'Power of Kings'" is in the Climax Zone,
+choose 1 of your other Characters. Put the top X cards of your Library under
+this as Marker, where X = the Level of the Chosen Character.
+
+================================================================================
+
+Oogumo
+大雲
+Card No.: GC/S16-013  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: -- None --
+TEXT: [C] During your turn, your other Character in the Front Row Center Slot
+gains +500 Power.
+[C] ASSIST All your Characters in front of this gain +1 Level.
+
+================================================================================
+
+"Funeral Parlor" Shibungi
+“葬儀社”四分儀
+Card No.: GC/S16-014  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Well done, skipping scenarios. -- But maybe too hurried...? 
+TEXT: [C] During your turn, all your other Characters gain +500 Power.
+[S] [Rest 2 of your Characters] Look at the top card of your Library. Put it on
+top or bottom of your Library. 
+
+================================================================================
+
+"Funeral Parlor" Algo
+“葬儀社”アルゴ
+Card No.: GC/S16-015  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I had a good view. -- With Gai.
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power. 
+
+================================================================================
+
+Gai, Command Tower of the Funeral Parlor
+葬儀社の司令塔 涯
+Card No.: GC/S16-016  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: We prepare exactly for this kind of situation. -- If you want
+to live, follow my directions!
+TEXT: [C] All your other "Shu, Hidden Potential" gain +1000 Power.
+[A] when this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +500 Power for the turn. 
+
+================================================================================
+
+Gai, Young Leader
+若き首領 涯
+Card No.: GC/S16-017  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: If that's a face of the future, we shall bless him now. The birth
+of a new king --
+TEXT: -- None --
+
+================================================================================
+
+Shu, Hidden Potential
+秘めたる能力 集
+Card No.: GC/S16-018  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'll do it!! Believe in me, Gai!
+TEXT: -- None --
+
+================================================================================
+
+"Funeral Parlor" Oogumo
+“葬儀社”大雲
+Card No.: GC/S16-019  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Don't mind me, just do your job. --Good luck
+TEXT: [S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand
+to the Waiting Room] 
+
+================================================================================
+
+"Funeral Parlor" Gai
+“葬儀社”涯
+Card No.: GC/S16-020  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Battle. The eliminated is either going to be me..... or the
+world-- 
+TEXT: XXXXX
+
+================================================================================
+
+Lost Christmas
+ロストクリスマス
+Card No.: GC/S16-021  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Nooooooo--!!
+TEXT: Choose 1 Level 2 or lower Character in your Opponent's Front Row and put
+it in Stock.
+
+================================================================================
+
+Danger of Collapse
+崩壊の危機
+Card No.: GC/S16-022  Rarity: U
+Color: Yellow   Side: Schwarz  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Tsugumi: "It's your fault, Shu. Because you didn't come. We
+couldn't use Void!"
+TEXT: [Counter] You cannot play this from hand if you don't have any ::Funeral
+Parlor:: Character. Choose 1 of your Characters. That Character gains +4000
+Power for the turn.
+
+================================================================================
+
+Commencing Attacks
+攻撃開始
+Card No.: GC/S16-023  Rarity: CR
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Do it! Shu!!
+TEXT: [A] When this is placed from hand to the Climax Zome, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Embrace of Re-meeting
+再会の抱擁
+Card No.: GC/S16-024  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: Gai: "Finally... reached you..."
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Awakened "Power of Kings"
+覚醒する“王の能力”
+Card No.: GC/S16-025  Rarity: CC
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Mana: "Gather the Void. Powerful Void. -- Your right arm is
+meant to weave the future by doing so"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul. 
+
+================================================================================
+
+Hare, Charming Beach
+魅惑のビーチ 祭
+Card No.: GC/S16-026  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 500   Soul: 1
+Trait 1: 水着 (Swimsuit)      Trait 2: None
+Triggers: None
+Flavor: Hey, hurry up
+TEXT: [C] All your other Characters gain +500 Power.
+[A] At the beginning of your Main Phase, look at the top card of your Library
+and put it either on top or bottom of the Library.
+
+================================================================================
+
+Hare, Charming Beach
+魅惑のビーチ 祭
+Card No.: GC/S16-026S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 500   Soul: 1
+Trait 1: 水着 (Swimsuit)      Trait 2: None
+Triggers: None
+Flavor: SECRET
+TEXT: [C] All your other Characters gain +500 Power.
+[A] At the beginning of your Main Phase, look at the top card of your Library
+and put it either on top or bottom of the Library.
+
+================================================================================
+
+Shu Ouma
+桜満 集
+Card No.: GC/S16-027  Rarity: RR
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I shall be king
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[S] [(1) Rest 2 of your Characters] Reveal the top card of your Library. If
+it's Level 1 or higher, this gains +1000 Power and "[A] When a Level 2 or
+higher Battle Opponent of this becomes Reversed, you may put that Character in
+Clock" for the turn. (Climax card is considered to be Level 0 for this effect.
+Put the revealed card back where it was)
+
+================================================================================
+
+Shu Ouma
+桜満 集
+Card No.: GC/S16-027SP  Rarity: SP
+Color: Green   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[S] [(1) Rest 2 of your Characters] Reveal the top card of your Library. If
+it's Level 1 or higher, this gains +1000 Power and "[A] When a Level 2 or
+higher Battle Opponent of this becomes Reversed, you may put that Character in
+Clock" for the turn. (Climax card is considered to be Level 0 for this effect.
+Put the revealed card back where it was)
+
+================================================================================
+
+Shu, Hanging His Head
+うつむく集
+Card No.: GC/S16-028  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Well, everything is over--
+TEXT: [S] BRAINSTORM [(1) Rest this] Reveal 4 cards from top of your Library
+and put them in the Waiting Room. For each Climax card revealed this way,
+perform the following action once: "Choose a card in your Clock and return it
+to your hand, and then put the top card of your Library in your Clock".
+
+================================================================================
+
+Kanon in the Academy
+学園の花音
+Card No.: GC/S16-029  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: If there's something you need to know, just ask
+TEXT: [A] [(1)] When your Character's Trigger Check reveals a Climax card, you
+may pay cost. If so, choose 1 of your Characters. That Character gains +2000
+Power until the end of your Opponent's next turn.
+
+================================================================================
+
+Inori, Staring into Distance
+遠くを見据えるいのり
+Card No.: GC/S16-030  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Gai isn't strong. -- That's why he wants help - from Shu
+TEXT: [A] When this attacks, if "Smile of the Goddess" is in the Climax Zone,
+this gains +1000 Power and "[A] When the Battle Opponent of this becomes
+Reversed, you may put the top card of your Library in your Stock" for the
+turn.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Inori, Staring into Distance
+遠くを見据えるいのり
+Card No.: GC/S16-030R  Rarity: RRR
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Smile of the Goddess" is in the Climax Zone,
+this gains +1000 Power and "[A] When the Battle Opponent of this becomes
+Reversed, you may put the top card of your Library in your Stock" for the
+turn.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Shu, Looking at the Sky
+空を見上げる集
+Card No.: GC/S16-031  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 9000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: If I can communicate with that person, would my power change also?
+TEXT: [A] Whent his attacks, put the top card of your Stock in your Waiting
+Room.
+[A] When this attacks, if "King's Talent" is in the Climax Zone, return the top
+card of your Stock to your hand, and this gains +2000 Power for the turn.
+
+================================================================================
+
+Shu, Looking at the Sky
+空を見上げる集
+Card No.: GC/S16-031S  Rarity: SR
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 9000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] Whent his attacks, put the top card of your Stock in your Waiting
+Room.
+[A] When this attacks, if "King's Talent" is in the Climax Zone, return the top
+card of your Stock to your hand, and this gains +2000 Power for the turn.
+
+================================================================================
+
+Hare, Kind Words
+優しい言葉 祭
+Card No.: GC/S16-032  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: I think Shu would be a good King. That's why...
+TEXT: [A] [(1)] When this attacks, if "My Favorite king" is in the Climax Zone,
+you may pay cost. If so, all your other Characters gain +4500 Power for the
+turn.
+
+================================================================================
+
+Hare Menjou
+校条 祭
+Card No.: GC/S16-033  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: That's fine, I know many many good things about Shu
+TEXT: [A] BOND/"Shu, Looking at the Sky" [(1)]
+
+================================================================================
+
+Jun Samukawa
+寒川 潤
+Card No.: GC/S16-034  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Shu-san. Please kill me
+TEXT: [A] When this attacks, choose 1 of your Characters. That Character gains
++1 Level and +500 Power for the turn.
+[A] [Clock] SHIFT Level 0
+
+================================================================================
+
+Kanon Kusama
+草間 花音
+Card No.: GC/S16-035  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: メガネ (Glasses)      Trait 2: 委員長 (Chairman)
+Triggers: None
+Flavor: -- But really. Life doesn't go according to what you wish
+TEXT: [S] [Reveal the top card of your Library] This ability may be used up to
+once per turn. If the card revealed for the cost is Level 1 or higher, this
+gains +1500 Power for the turn. (Climax card is considered to be Level 0 for
+this effect. Put the revealed card back where it was)
+
+================================================================================
+
+Shu, Something to Protect
+守るべき存在 集
+Card No.: GC/S16-036  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Inori is... my...!
+TEXT: [S] [(1)] This gains +2000 Power for the turn.
+
+================================================================================
+
+Inori in Uniform
+制服のいのり
+Card No.: GC/S16-037  Rarity: U
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: Worried? Being betrayed and what not
+TEXT: [S] [(1)] Reveal the top card of your Library. If it's Level 1 or higher,
+choose 1 of your Characters. That Character gains +2000 Power for the turn.
+(Climax card is considered to be Level 0 for this effect. Put the revealed card
+back where it was)
+
+================================================================================
+
+Hare, Watching Over
+見守る祭
+Card No.: GC/S16-038  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I shall help out as much as I can
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [(1) Rest this] Choose 1 of your other Characters. That Character gains
++1000 Power for the turn.
+
+================================================================================
+
+Souta Tamadate
+魂館 颯汰
+Card No.: GC/S16-039  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I cannot guarantee your safety if you remain here. You better get moving
+TEXT: [C] If there are 3 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Shu in the Academy
+学園の集
+Card No.: GC/S16-040  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: I don't know. I don't know what to talk to everyone about
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1500 Power.
+
+================================================================================
+
+Inori, Sudden Freeloader
+突然の居候 いのり
+Card No.: GC/S16-041  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Hey, Shu... I'm hungry
+TEXT: -- None --
+
+================================================================================
+
+Yahiro Samukawa
+寒川 谷尋
+Card No.: GC/S16-042  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 6000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: None
+Triggers: None
+Flavor: Nice job, Souta. You can do it if you try
+TEXT: [C] All your other Characters gain "[C] This cannot Side Attack".
+
+================================================================================
+
+Arisa Kuhouin
+供奉院 亞里沙
+Card No.: GC/S16-043  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: None
+Triggers: None
+Flavor: ...... I know. Because I'm Arisa Kuhouin
+TEXT: -- None --
+
+================================================================================
+
+Arisa, Charming Beach
+魅惑のビーチ 亞里沙
+Card No.: GC/S16-044  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 生徒会 (Student Council)      Trait 2: 水着 (Swimsuit)
+Triggers: Soul 
+Flavor: Because it's this situation, wouldn't spare time be important?
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Inori in Casual Clothing
+私服のいのり
+Card No.: GC/S16-045  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: I wanted to try. ...... Is it okay?
+TEXT: -- None --
+
+================================================================================
+
+Concert Stage of the Day After Festival
+後夜祭のステージ
+Card No.: GC/S16-046  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 1   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: -- None --
+TEXT: Look at the top card of your Library and put it either on top of the
+Library or in the Waiting Room, Put this in Stock.
+
+================================================================================
+
+Genome Resonance Gauge
+ゲノムレゾナンスゲージ
+Card No.: GC/S16-047  Rarity: U
+Color: Green   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Tsugumi: "To put it bluntly, a device to measure the strength of
+Void"
+TEXT: Choose 1 of your Opponent's Characters. That Character gets -4000 Power
+for the turn.
+
+================================================================================
+
+King's Talent
+王の素質
+Card No.: GC/S16-048  Rarity: CR
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Treasure 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul
+
+================================================================================
+
+Smile of the Goddess
+女神の微笑み
+Card No.: GC/S16-049  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Shu looks happy
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+My Favorite King
+私の大好きな王様
+Card No.: GC/S16-050  Rarity: CC
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: This is for Shu. My...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Inori, Kind Feelings
+優しい気持ち いのり
+Card No.: GC/S16-051  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Gai said this: Depends on how you feel, your Void changes shape
+TEXT: [A] [(1)] When this attacks, if "Trial of Courage" is in the Climax Zone,
+you may pay cost. If so, choose a Character in your Waiting Room and return it
+to your hand.
+[A] When this is Reversed during Battle, your Opponent may choose a card in
+your Waiting Room and put it on top of the Library.
+
+================================================================================
+
+Inori, Kind Feelings
+優しい気持ち いのり
+Card No.: GC/S16-051R  Rarity: RRR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] [(1)] When this attacks, if "Trial of Courage" is in the Climax Zone,
+you may pay cost. If so, choose a Character in your Waiting Room and return it
+to your hand.
+[A[ When this is Reversed during Battle, your Opponent may choose a card in
+your Waiting Room and put it on top of the Library.
+
+================================================================================
+
+Inori, Shu's Partner
+集のパートナー いのり
+Card No.: GC/S16-052  Rarity: RR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: Please... Use... me...
+TEXT: [A] CHANGE [(2) Discard a card from hand to the Waiting Room, put this in
+the Waiting Room] At the beginning of your Climax Phase, you may pay cost. If
+so, choose an "Inori Yuzuriha" in your Waiting Room and put it in the Slot this
+was in.
+[S] [Rest this] Choose 1 of your Characters. That Character gains +1500 Power
+for the turn.
+
+================================================================================
+
+Inori, Sleeping Alongside Him
+添い寝するいのり
+Card No.: GC/S16-053  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: Do you... like this?
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this is placed
+from hand to the Stage, you may pay cost. If so, choose a ::Funeral Parlor::
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Inori, Sleeping Alongside Him
+添い寝するいのり
+Card No.: GC/S16-053S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 4000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] [Discard a card from hand to the Waiting Room] When this is placed
+from hand to the Stage, you may pay cost. If so, choose a ::Funeral Parlor::
+Character in your Waiting Room and return it to your hand.
+
+================================================================================
+
+Inori, Clearing Troubles
+迷いを見抜くいのり
+Card No.: GC/S16-054  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Not the group...... What does Shu want to do?
+TEXT: [C] ASSIST All your Characters in front of this gain +1000 Power.
+[A] This ability may activate up to once per turn. When you use SHIFT, this
+gains "[C] All your other Characters gain +500 Power" until the end of your
+Opponent's next turn.
+
+================================================================================
+
+Inori, Painful Scream
+悲痛な叫び いのり
+Card No.: GC/S16-055  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: If you don't stop...... that person...... will... awaken....
+TEXT: [A] This ability may activate up to once per turn. When your other
+Character with SHIFT is placed from hand to the Stage, this gains +2000 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Inori, Painful Scream
+悲痛な叫び いのり
+Card No.: GC/S16-055S  Rarity: SR
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] This ability may activate up to once per turn. When your other
+Character with SHIFT is placed from hand to the Stage, this gains +2000 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Mana, Childhood
+幼少の真名
+Card No.: GC/S16-056  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Since you came from the sea, you shall be Triton from now on.
+-- isn't it a great name?
+TEXT: [A] [(1) Put 1 of your Characters on the Stage in the Waiting Room] When
+this attacks, if "Memories of That Summer" is in the Climax Zone, you may pay
+cost. If so, choose 1 of your Opponent's Level 2 or lower Characters and put it
+in the Waiting Room.
+
+================================================================================
+
+Inori Yuzuriha
+楪 いのり
+Card No.: GC/S16-057  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: If it were me... I'd stop it
+TEXT: [A] When this is placed from hand or via CHANGE to the Stage, you may put
+the top card of your Clock in the Waiting Room.
+[A] [Discard a card from hand to the Waiting Room] When this attacks, if
+"Euterpe" is in the Climax Zone, you may pay cost. If so, choose up to 2
+Characters in your Waiting Room and return it to your hand, and this gains
++1000 Power for the turn.
+
+================================================================================
+
+Inori Yuzuriha
+楪 いのり
+Card No.: GC/S16-057SP  Rarity: SP
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this is placed from hand or via CHANGE to the Stage, you may put
+the top card of your Clock in the Waiting Room.
+[A] [Discard a card from hand to the Waiting Room] When this attacks, if
+"Euterpe" is in the Climax Zone, you may pay cost. If so, choose up to 2
+Characters in your Waiting Room and return it to your hand, and this gains
++1000 Power for the turn.
+
+================================================================================
+
+Funell, Auto-Insect
+オートインセクト ふゅーねる
+Card No.: GC/S16-058  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: -- None --
+TEXT: [A] BOND/"Inori, Sleeping Alongside Him" [Put the top card of your
+Library in your Clock]
+
+================================================================================
+
+Haruka Ouma
+桜満 春夏
+Card No.: GC/S16-059  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 科学 (Science)      Trait 2: None
+Triggers: None
+Flavor: I shall give you lots of delicious food, so you have time to talk about
+it
+TEXT: [C] If there are 3 or fewer cards in your Opponent's Stock, this gains
++1000 Power.
+
+================================================================================
+
+Makoto Waltz Segai
+嘘界＝ヴァルツ・誠
+Card No.: GC/S16-060  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: None
+Triggers: None
+Flavor: Pleased to meet you, Shu Ouma-kun. I am here to arrest you
+TEXT: [S] [(1)] Put the top card of your Opponent's Library in the Waiting
+Room, and then choose a card in your Opponent's Waiting Room and put it on top
+of the Library.
+
+================================================================================
+
+Daryl, Arrogant
+傲慢な態度 ダリル
+Card No.: GC/S16-061  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: ...... Please don't kid. You want me to touch that?
+TEXT: [A] When this is placed from hand to the Stage, choose 1 of your non-RED
+Characters. That Character gains +1000 Power for the turn.
+
+================================================================================
+
+EGOIST Inori
+EGOIST いのり
+Card No.: GC/S16-062  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Shu: "Live concert of EGOIST!?"
+TEXT: [C] If you have 2 or more other Characters with ASSIST, this gains +1000
+Power.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Shu, Childhood
+幼少の集
+Card No.: GC/S16-063  Rarity: U
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: Soul 
+Flavor: Don't worry. Believe in me!
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Inori, Voice of Souls
+魂の歌声 いのり
+Card No.: GC/S16-064  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: This song is already different
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so,
+choose a ::Funeral Parlor:: Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Funell
+ふゅーねる
+Card No.: GC/S16-065  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: メカ (Mecha)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Beep!
+TEXT: [A] When another Battling Character of yours becomes Reversed, choose 1
+of your Characters. That Character gains +1000 Power for the turn.
+[A] [Clock] SHIFT Level 0 
+
+================================================================================
+
+Inori, Words of Farewell
+別れの言葉 いのり
+Card No.: GC/S16-066  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: Goodbye... is something that you say before you do. When I thought so...
+TEXT: [A] When this becomes Reversed, if the Level of the Battle Opponent is 0
+or lower, you may Reverse that Character.
+
+================================================================================
+
+Shu, Normal High School Student
+平凡な高校生 集
+Card No.: GC/S16-067  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Is this alright? Is there really nothing else to do.....
+TEXT: -- None --
+
+================================================================================
+
+Gai, Childhood
+幼少の涯
+Card No.: GC/S16-068  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Hey...... can you really fly?
+TEXT: [C] If you have other Characters with "Shu" in the name, this gains +1
+Level and +1000 Power.
+
+================================================================================
+
+Daryl Yan
+ダリル・ヤン
+Card No.: GC/S16-069  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 軍隊 (Army)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Is that okay? I do whatever I want. If you get in my way, I will tell
+my father
+TEXT: -- None --
+
+================================================================================
+
+Inori, Pure Emotions
+純粋な気持ち いのり
+Card No.: GC/S16-070  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: None
+Flavor: ...... Is it okay if I remain by your side forever? 
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room] 
+
+================================================================================
+
+Inori, Web Artist
+ウェブアーティスト いのり
+Card No.: GC/S16-071  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 音楽 (Music)      Trait 2: 葬儀社 (Funeral Parlor)
+Triggers: Soul 
+Flavor: Is Shu Ouma a coward?
+TEXT: [A] When another Battling Character of yours becomes Reversed, this gains
++1000 Power for the turn. 
+
+================================================================================
+
+Truth of Void Genome
+ヴォイドゲノムの真実
+Card No.: GC/S16-072  Rarity: U
+Color: Red   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Shu: "This is ......!?"
+TEXT: Choose up to 2 Characters in your Waiting Room and return them to your
+hand. 
+
+================================================================================
+
+Euterpe
+エウテルペ
+Card No.: GC/S16-073  Rarity: CR
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Charcters gain +1 Soul for the turn.
+
+================================================================================
+
+Memories of That Summer
+あの夏の思い出
+Card No.: GC/S16-074  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: This is how we met and spent the whole summer together. The year of
+Lost Christmas -- the last summer when everyone had a smile--
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Trial of Courage
+勇気の試練
+Card No.: GC/S16-075  Rarity: CC
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Take this
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Tsugumi in Swimsuits
+水着のツグミ
+Card No.: GC/S16-076  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Hey, hey, what now? Aya~
+TEXT: [A] [(1) Discard a card from hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Funeral Parlor:: Character, reveal it, and put it in your hand,
+Shuffle your Library.
+
+================================================================================
+
+Ayase Shinomiya
+篠宮 綾瀬
+Card No.: GC/S16-077  Rarity: RR
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: Soul 
+Flavor: Pay attention or you'll die!
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] [(1) Discard a card from hand to the Waiting Room] At the beginning of your
+Climax Phase, you may pay cost. If so, choose 1 of your Opponent's Characters.
+Stand it and move it to another empty Slot on the Stage. This gains +1000 Power
+for the turn.
+
+================================================================================
+
+Ayase Shinomiya
+篠宮 綾瀬
+Card No.: GC/S16-077SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] Character Opposite this gets -1 Soul.
+[A] [(1) Discard a card from hand to the Waiting Room] At the beginning of your
+Climax Phase, you may pay cost. If so, choose 1 of your Opponent's Characters.
+Stand it and move it to another empty Slot on the Stage. This gains +1000 Power
+for the turn.
+
+================================================================================
+
+Tsugumi, Positive Thinking
+ポジティブ思考 ツグミ
+Card No.: GC/S16-078  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Can't do anything even if you worry. Take this opportunity to have
+fun
+TEXT: [A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's Level 1 or higher, put it in your hand, and discard a
+card from hand to the Waiting Room. (Otherwise put the card back. Climax card
+is considered Level 0 for this effect)
+[A] When this attacks, choose 1 of your Characters. That Character gains +500
+Power for the turn.
+
+================================================================================
+
+Tsugumi in Furisode
+振袖姿のツグミ
+Card No.: GC/S16-079  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: You need to take responsibility for making me embarrassed!
+TEXT: [A] When you use the BACKUP of this, if you have 2 or more ::Funeral
+Parlor:: Characters, choose 1 of your Characters. That Character gains +1000
+Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [(1) Discard this card from hand to the
+Waiting Room] 
+
+================================================================================
+
+Tsugumi in Furisode
+振袖姿のツグミ
+Card No.: GC/S16-079S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When you use the BACKUP of this, if you have 2 or more ::Funeral
+Parlor:: Characters, choose 1 of your Characters. That Character gains +1000
+Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [(1) Discard this card from hand to the
+Waiting Room] 
+
+================================================================================
+
+Ayase, Maiden in Love
+恋する乙女 綾瀬
+Card No.: GC/S16-080  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: L, like.... no! It's just respect!
+TEXT: [A] When "Regained Self-Confidence" is placed in your Climax Zone, if
+this is in the Front Row, search your Library for up to 1 "Ayase Shinomiya",
+reveal it, and put it in your hand. Shuffle your Library.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Ayase, Maiden in Love
+恋する乙女 綾瀬
+Card No.: GC/S16-080R  Rarity: RRR
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: SECRET
+TEXT: [A] When "Regained Self-Confidence" is placed in your Climax Zone, if
+this is in the Front Row, search your Library for up to 1 "Ayase Shinomiya",
+reveal it, and put it in your hand. Shuffle your Library.
+[A] [Clock] SHIFT Level 1
+
+================================================================================
+
+Tsugumi, Operator
+オペレーター ツグミ
+Card No.: GC/S16-081  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: Soul 
+Flavor: Aya-nee, shall I connect?
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Characters.
+[A] This abiltiy may be activated up to 2 times per turn. When another of your
+::Funeral Parlor:: Characters is placed from hand to the Stage, look at the top
+card of your Library and put it either on top or bottom of the Library.
+
+================================================================================
+
+Tsugumi, Operator
+オペレーター ツグミ
+Card No.: GC/S16-081SP  Rarity: SP
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 4500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [C] ASSIST All your Characters in front of this gain +X Power, where X =
+500 times Level of that Characters.
+[A] This abiltiy may be activated up to 2 times per turn. When another of your
+::Funeral Parlor:: Characters is placed from hand to the Stage, look at the top
+card of your Library and put it either on top or bottom of the Library.
+
+================================================================================
+
+Ayase, Hates Losing
+勝気な綾瀬
+Card No.: GC/S16-082  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: Soul 
+Flavor: If you do this half-heartly, you will die. Now, will you, or will you
+not?
+TEXT: [A] When this attacks, if "Sortie" is in the Climax Zone, this gains
++2000 Power and "[A] When the Battle Opponent of this becomes Reversed, you may
+draw a card" for the turn.
+
+================================================================================
+
+Ayase, Hates Losing
+勝気な綾瀬
+Card No.: GC/S16-082S  Rarity: SR
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: Soul 
+Flavor: SECRET
+TEXT: [A] When this attacks, if "Sortie" is in the Climax Zone, this gains
++2000 Power and "[A] When the Battle Opponent of this becomes Reversed, you may
+draw a card" for the turn.
+
+================================================================================
+
+Ayase, Wheelchair girl
+車椅子の少女 綾瀬
+Card No.: GC/S16-083  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: I made a decision to not trouble people
+TEXT: [A] BOND/"Gai, Leader's Style" [(1)]
+
+================================================================================
+
+Tsugumi, Moodmaker
+ムードメーカー ツグミ
+Card No.: GC/S16-084  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Because it's this time period. Isn't it so?
+TEXT: [C] During your Opponent's turn, your other Character in the Front Row
+Center Slot gains +1500 Power.
+
+================================================================================
+
+Ayase, Female Boss
+姉御肌 綾瀬
+Card No.: GC/S16-085  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: Why are you drunk! Open your eyes!
+TEXT: [A] CHANGE [(2) Discard a card from hand to the Waitin Room, put this in
+the Waiting Room] At the beginning of your Climax PHase, you may pay cost. IF
+so, choose 1 "Ayase, Reliable Girl" in your Waiting Room and put it in the Slot
+this was in.
+[S] [Rest this[ Choose 1 of your Characters. That Character gains +500 Power
+until the end of your Opponent's next turn.
+
+================================================================================
+
+Ayase, Reliable Girl
+しっかり者 綾瀬
+Card No.: GC/S16-086  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: Soul 
+Flavor: Endlave is the feet that Gai gave me
+TEXT: [A] [Return 2 Characters from your Waiting Room to your Library. Shuffle
+your Library] When this attacks, reveal the top card of your Library. If it's
+Level 1 or higher, you may pay cost. If so, this gains +2000 Power until the
+end of your Opponent's next turn. (Climax card is considered to be Level 0 for
+this effect. Put the revealed card back where it was)
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+"Funeral Parlor" Tsugumi
+“葬儀社”ツグミ
+Card No.: GC/S16-087  Rarity: U
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: Soul 
+Flavor: This time the Operation is going to be pretty enormous
+TEXT: [C] If there are 4 or more cards in your Stock, this gains "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]"
+[A] When this attacks, if "Needed in Information War" is in the Climax Zone,
+you may draw a card.
+
+================================================================================
+
+Shu, Sneak Attack
+不意打ち 集
+Card No.: GC/S16-088  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: ........!
+TEXT: [A] When this is placed from hand to the Stage, you may reveal your hand.
+If so, and there are no Level 0 or lower Character cards in your hand, search
+your Library for up to 1 "Shu in the Academy", reveal it, and put it in your
+hand, and discard a card from hand to the Waiting Room. Shuffle your Library.
+
+================================================================================
+
+Ayase, Dumbfounded Look
+呆れ顔 綾瀬
+Card No.: GC/S16-089  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: ......
+TEXT: [C] During your Opponent's turn, if you have 2 or fewer other Characters,
+this gains +1500 Power.
+
+================================================================================
+
+Tsugumi, Frank Personaliy
+フランクな性格 ツグミ
+Card No.: GC/S16-090  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Those who don't work shouldn't eat~. Now, follow me~
+TEXT: [C] If there are 4 or more cards in your Opponent's Clock, this gains
++1000 Power.
+
+================================================================================
+
+"Funeral Parlor: Ayase
+“葬儀社”綾瀬
+Card No.: GC/S16-091  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: If you want to know, first win in the simulation battle tomorrow
+TEXT: -- None --
+
+================================================================================
+
+Ayase, Capable Pilot
+有能なパイロット 綾瀬
+Card No.: GC/S16-092  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 車椅子 (Wheelchair)
+Triggers: None
+Flavor: Understood! I'm also ready!
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Tsugumi, Strong-hearted
+強い心 ツグミ
+Card No.: GC/S16-093  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Don't worry excessively, Shu!
+TEXT: [C] If there are Markers under this, this gains +1000 Power.
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If it's Level 1 or higher, you may put it under this as Marker.
+(Otherwise put it back. Climax card is considered to be Level 0)
+
+================================================================================
+
+Tsugumi, Different Look
+風変わりな子 ツグミ
+Card No.: GC/S16-094  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: オペレーター (Operator)
+Triggers: None
+Flavor: Now, now. This way awkwardness will be solved
+TEXT: -- None --
+
+================================================================================
+
+Shu, Overfilled Emotions
+ふっきれた思い 集
+Card No.: GC/S16-095  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 葬儀社 (Funeral Parlor)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: I am only doing it in the way I know how to
+TEXT: -- None --
+
+================================================================================
+
+Ayase's Steiner
+綾瀬機シュタイナー
+Card No.: GC/S16-096  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 1   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Ayase: "What's the next target?"
+TEXT: Search your Library for up to 1 Climax card, reveal it, and put it in
+your hand. Shuffle your Library.
+
+================================================================================
+
+Full Force Strike
+渾身の一撃
+Card No.: GC/S16-097  Rarity: U
+Color: Blue   Side: Schwarz  Event
+Level: 2   Cost: 2   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Missile..... Kick!
+TEXT: Look at up to X cards from the top of your Library and put up to 2 of
+them in your hand. Put the rest in your Waiting Room. X = # of your ::Funeral
+Parlor:: Characters. 
+
+================================================================================
+
+Regained Self-Confidence
+取り戻した自信
+Card No.: GC/S16-098  Rarity: CR
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Isn't it nice? This is my Void
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Sortie
+出撃
+Card No.: GC/S16-099  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Steiner, going!
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Needed in Information War
+情報戦の要
+Card No.: GC/S16-100  Rarity: CC
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: We shall begin our descend shortly
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

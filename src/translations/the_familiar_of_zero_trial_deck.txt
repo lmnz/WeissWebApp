@@ -1,0 +1,277 @@
+ Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+"Familiar of Zero" Saito
+“ゼロの使い魔”サイト
+Card No.: ZM/W03-T01  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm the familiar of Louise the Zero!
+TEXT: [C] When you use BRAINSTORM and as a result a Climax card is placed to
+the Waiting Room, this gains +3000 Power for the turn.
+
+================================================================================
+
+Sylphid
+シルフィード
+Card No.: ZM/W03-T02  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 竜 (Dragon)
+Triggers: None
+Flavor: Tabitha: "Horse, two people are riding. Can't eat"
+TEXT: [C] All your other Characters with either "Tabitha" or "Charlotte" (from
+Zero's Familiar) in the name gain +500 Power.
+[A] BOND/"Charlotte Helene Orleans" [(1)] 
+
+================================================================================
+
+Louise the Zero
+ゼロのルイズ
+Card No.: ZM/W03-T03  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 虚無 (Void)
+Triggers: None
+Flavor: It seems it failed a little
+TEXT: [S] BRAINSTORM [(1) Rest this] Reveal the top 2 cards of your Library and
+put them in your Waiting Room. For each Climax revealed, all your Characters
+gain +2000 Power and +1 Soul for the turn.
+
+================================================================================
+
+Quiet Tabitha
+無口なタバサ
+Card No.: ZM/W03-T04  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: Staff of Destruction
+TEXT: -- None --
+
+================================================================================
+
+Tabitha & Illococoo
+タバサ＆イルククゥ
+Card No.: ZM/W03-T05  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 竜 (Dragon)
+Triggers: None
+Flavor: Onee-sama is cute today too! I'm happy!
+TEXT: [C] Your Opponent may not play Events from hand during battles involving
+this.
+[A] When your Characters' Trigger Checks reveal a Climax card, choose 1 of your
+Characters. That Character gains +1 Soul for the turn.
+
+================================================================================
+
+Wardes the Lightning
+閃光のワルド
+Card No.: ZM/W03-T06  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Don't worry. Show me your full strength
+TEXT: [A] When you use BRAINSTORM and as a result a Climax card is placed to
+the Waiting Room, this gains +3000 Power for the turn.
+[A] When this attacks, if "A Match" is in the Climax Zone, you may choose an
+Opponent's Character and return it to the hand.
+
+================================================================================
+
+Charlotte Helene Orleans
+シャルロット・エレーヌ・オルレアン
+Card No.: ZM/W03-T07  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 王族 (Royalty)
+Triggers: Soul 
+Flavor: Kirche: "Charlotte is the real name of that girl, right?"
+TEXT: [C] Bodyguard
+[A] When this attacks, if "Tabitha's Secret" is in the Climax Zone, you may
+choose an Opponent's Character and return it to the hand.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Tabitha's Secret
+タバサの秘密
+Card No.: ZM/W03-T08  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Bounce 
+Flavor: Percerin: "Tabitha is the name of the doll given as present by
+Mistress to my Lady"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+A Match
+手合わせ
+Card No.: ZM/W03-T09  Rarity: TD
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: I've always wanted to have a match with you
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Jessica
+ジェシカ
+Card No.: ZM/W03-T10  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ウェイトレス (Waitress)      Trait 2: None
+Triggers: None
+Flavor: I'm Jessica, and you are?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Louise Francoise Le Blanc de La Valliere
+&#12523;&#12452;&#12474;&#12539;&#12501;&#12521;&#12531;&#12477;&#12527;&#12540;&#12474;&#12539;&#12523;&#12539;&#12502;&#12521;&#12531;&#12539;&#12489;&#12539;&#12521;&#12539;&#12532;&#12449;&#12522;
+Card No.: ZM/W03-T102  Rarity: TD
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 虚無 (Void)
+Triggers: Soul 
+Flavor: I... I didn't took the trouble to purposely come here because I
+wanted to see you!
+TEXT: [C] Your Opponent may not play BACKUP from hand during battles involving
+this.
+
+================================================================================
+
+"Golden Fairy" Tiffania
+“金色の妖精”ティファニア
+Card No.: ZM/W03-T103  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 虚無 (Void)
+Triggers: None
+Flavor: Return... to where you should return...
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+
+================================================================================
+
+Tiffania Westwood
+ティファニア・ウエストウッド
+Card No.: ZM/W03-T11  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 虚無 (Void)
+Triggers: None
+Flavor: It stirrs... Gundalf, Left Hand of God...
+TEXT: [A] When you Refresh your Library, you may put this in the Stock.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax revealed, all your Characters gain
++2000 Power for the turn.
+
+================================================================================
+
+"Little Nee-sama" Cattleya
+“ちい姉さま”カトレア
+Card No.: ZM/W03-T12  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: If Louise stays this way, you'll meet the son-in-law
+TEXT: [A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Michelle
+ミシェル
+Card No.: ZM/W03-T13  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Captain, it's the Emperor!
+TEXT: [S] BRAINSTORM [(1) Rest this] Reveal the top 2 cards of your Library and
+put them in the Waiting Room. For each Climax revealed, choose 1 of your
+Opponent's Front Row Characters. That Character gets -6000 Power for the turn.
+[S] [(1) Put this in the Waiting Room] You may rearrange the order of cards in
+your Clock.
+
+================================================================================
+
+Old Osmond
+オールド・オスマン
+Card No.: ZM/W03-T14  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 先生 (Teacher)
+Triggers: Soul 
+Flavor: This stamp is a magic item that cannot be used by anyone except me
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Fouquet, the Crumbling Dirt
+土くれのフーケ
+Card No.: ZM/W03-T15  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: None
+Triggers: Soul 
+Flavor: "I have accepted the Staff of Destruction"
+TEXT: [A] When this attacks, if "Golem" is in the Climax Zone, put the top card
+of your Library in your Stock, and this gains +3000 Power for the turn.
+[S] [(1)] Choose 1 of your Opponent's Front Row Characters. That Character gets
+-1000 Power for the turn.
+
+================================================================================
+
+Louise & Cattleya
+ルイズ&カトレア
+Card No.: ZM/W03-T16  Rarity: TD
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 9000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 虚無 (Void)
+Triggers: Soul 
+Flavor: Hehe, Louise has grown to be more attractive than I am
+TEXT: -- None --
+
+================================================================================
+
+Saito's Disposition
+サイトの意地
+Card No.: ZM/W03-T17  Rarity: TD
+Color: Green   Side: Weiss  Event
+Level: 2   Cost: 1   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: But! I will not bow down to someone I'm not willing to bow down to!!
+TEXT: [Counter] BRAINSTORM Choose 1 of your Characters. That Character gains
++2000 Power for the turn. Reveal the top 3 cards of your Library and put them
+in the Waiting Room. If at least 1 Climax card is revealed this way, choose 1
+of your Characters. That Character gains +2000 Power for the turn. 
+
+================================================================================
+
+Golem
+ゴーレム
+Card No.: ZM/W03-T18  Rarity: TD
+Color: Green   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Louise: "Go... Golem!?"
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+

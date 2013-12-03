@@ -1,0 +1,653 @@
+Disgaea 4 Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Fuuka, Leader of Prinny Eliminator Squad
+プリニー殲滅部隊のリーダー フーカ
+Card No.: DG/SE08-01  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 1500   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: I'm not a prinny! I'm Fuuka Kazamatsuri!
+TEXT: [A] When you use the BACKUP on this, if you have a ::Prinny:: Character,
+choose 1 of your battling Characters. That Character gains +1000 Power for the
+turn.
+[S] [Counter] BACKUP 1500, Level 1 [(1) Discard this card from hand to the
+Waiting Room]
+
+================================================================================
+
+"Thoughts of a Maiden" Fuuka
+“乙女の思い込み”フーカ
+Card No.: DG/SE08-02  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7500   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: I will not accept any dreams that don't have a happy end!!
+TEXT: [A] [Discard a card to the Waiting Room] When "Prinny Wars" is placed to
+your Climax Zone, if this is in your Front Row, you may pay cost. If so, choose
+a Level 2 or lower Character opposite this and return it to the Library. Your
+opponent shuffles that Library.
+[A] ENCORE [Put the top card of your Library in your Clock]
+
+================================================================================
+
+Emizel, Reaper
+死神 エミーゼル
+Card No.: DG/SE08-03  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: As a reaper, shall I cut for your soul?
+TEXT: [C] If you have 4 or fewer cards in hand, this gains +1000 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may put it in the
+Stock.
+
+================================================================================
+
+Fuuka Kazamatsuri
+風祭 フーカ
+Card No.: DG/SE08-04  Rarity: R
+Color: Yellow   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: That's my dream! Getting closer to that happy ending!!
+TEXT: [C] If 5 or fewer cards in your Library, this has -1 Level when in hand.
+[A] When placed from hand to the Stage, this gains +3000 Power & +2 Soul for
+the turn.
+[A] [(1)] When damage dealt from this is Damage Cancelled, you may pay cost. If
+so, Opponent may not "[A] ENCORE" this turn (including "[A] ENCORE [(3)]" from
+rules).
+
+================================================================================
+
+"Onee-Sama" Fuuka
+“おねえさま”フーカ
+Card No.: DG/SE08-05  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: You did protect... As the Last Boss
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[A] When this is placed from hand to the Stage, choose another ::Clone::
+Character of yours. That Character gains +1 Level and +500 Power for the turn.
+
+================================================================================
+
+Emizel, Impertinent Kid
+生意気なお坊ちゃん エミーゼル
+Card No.: DG/SE08-06  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: Call me Emizel-sama. Heir to the President Emizel-sama!!
+TEXT: [C] If there's a Climax card in your Opponent's Climax Zone, the
+Character opposite this gets -1 Soul.
+
+================================================================================
+
+Emizel, Leader of Special Killing Operation Squad
+特殺任務部隊のリーダー エミーゼル
+Card No.: DG/SE08-07  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: Shut up! I'm not weak!
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. Search your Library for up to X ::Death:: Characters,
+reveal them, put them in your hand, shuffle your Library, then discard X cards
+from your hand to the Waiting Room, where X = # of Climax cards revealed.
+
+================================================================================
+
+Fuuka, Girl with a Prinny Cap
+プリニー帽子の少女 フーカ
+Card No.: DG/SE08-08  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: Hehehe! I've been waiting!
+TEXT: [S] [Rest 2 of your Characters] This gains +1 Level and +1500 Power for
+the turn.
+
+================================================================================
+
+Fuuka, Middle School Student Who Fell into Hell
+地獄に堕ちてきた中学生 フーカ
+Card No.: DG/SE08-09  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: プリニー (Prinny)      Trait 2: 死 (Death)
+Triggers: None
+Flavor: This is war! A war of freedom and youth to shatter nightmares and
+achieve a maiden-like dream!
+TEXT: [A] When this is placed from hand to the Stage, you may return a Climax
+card from your Opponent's Waiting Room to the Library. If so, your Opponent
+shuffles that Library, and you choose 1 of your Characters. That Character
+gains +3000 Power for the turn.
+
+================================================================================
+
+Emizel, Netherworld President Junior
+魔界大統領Jr エミーゼル
+Card No.: DG/SE08-10  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 死 (Death)
+Triggers: Soul 
+Flavor: I will use my own power and achieve greatness as a demon!
+TEXT: [C] All your other Characters gain +X power during your turn, where X =
+500 times Level of that Character.
+[A] [(2) Put this in the Waiting Room] When "Phoenix's Promise" is placed to
+your Climax Zone, you may pay cost. If so, choose an "Emizel, Reaper" in your
+Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Raspberyl, President
+ラズベリル大統領閣下
+Card No.: DG/SE08-11  Rarity: C
+Color: Yellow   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 不良 (Bad)
+Triggers: Soul 
+Flavor: The manifest is "a good deed a day"! I want this NetherWorld to
+become the gathering spots of baddies!
+TEXT: [A] When you use a BRAINSTORM, and as a result at least 1 Climax card was
+put to the Waiting Room, this gains +2000 Power for the turn.
+[A] When damage dealt by this is Damage Canceled, this gains +3000 Power for
+the turn.
+
+================================================================================
+
+Prinny Wars
+プリニー・ウォーズ
+Card No.: DG/SE08-12  Rarity: C
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Prinnies and those who educate prinnies are all to be exterminated,
+EXTERMINATED!!
+TEXT: [A] When this is placed from hand to the Climax Zone, draw a card, and
+choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for
+the turn.
+
+================================================================================
+
+Phoenix's Promise
+不死鳥の誓い
+Card No.: DG/SE08-13  Rarity: C
+Color: Yellow   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Soul Shot 
+Flavor: I want to be able to acknowledge my own power this time
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Altina, Phantom Thief Angel
+怪盗天使 アルティナ
+Card No.: DG/SE08-14  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 怪盗 (Phantom Thief)
+Triggers: None
+Flavor: Of course, I've been praying as much as I can since the beginning!
+TEXT: [A] [Rest 2 of your Standing Characters] When this is placed from hand to
+the Stage, you may pay cost. If so, choose 1 of your Characters. That Character
+gains "[A] When the Battle Opponent of this becomes Reversed, you may put the
+top card of your Library in the Stock" for the turn.
+
+================================================================================
+
+Flonne, Archangel
+天使長 フロン
+Card No.: DG/SE08-15  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: "Love"! Prayers come from the power of love!
+TEXT: [C] ASSIST All your Level 2 or higher Characters in front of this gain
++1000 Power.
+[S] [(2) Rest 2 of your Characters] Search your Library for up to 1 ::Demon::,
+::Angel::, or ::Love:: Character, reveal it, and put it in your hand. Shuffle
+your Library.
+
+================================================================================
+
+Altina, Ubiquitous
+神出鬼没 アルティナ
+Card No.: DG/SE08-16  Rarity: R
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 怪盗 (Phantom Thief)
+Triggers: Soul 
+Flavor: Hehehe. Take care, everyone
+TEXT: [A] Another Character of yours in your Front Row Center Slot gains +1000
+Power.
+[A] At the beginning of your Encore Step, if "Bond between Angel and Demon" is
+in the Climax Zone, Rest this and put it in any Slot you desire. (It can be the
+same Slot this is currently in.)
+
+================================================================================
+
+Altina, Nurse
+看護師 アルティナ
+Card No.: DG/SE08-17  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: ナース (Nurse)      Trait 2: 愛 (Love)
+Triggers: None
+Flavor: If you want to drink my blood, please do
+TEXT: [A] BOND/"Valvatorez, Tyrant" [(1)]
+
+================================================================================
+
+Nemo, Convictor
+断罪者 ネモ
+Card No.: DG/SE08-18  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 霊 (Spirit)      Trait 2: メガネ (Glasses)
+Triggers: None
+Flavor: I'm not a criminal. I'm a convictor to deal with crimes
+committed by humans
+TEXT: [A] When this becomes Reversed while battling, you may choose a card in
+your Opponent's Clock and put it in the Waiting Room. If so, your Opponent puts
+the top card of his or her Library to the Clock.
+
+================================================================================
+
+"Angel of Greed" Vulcano(?)
+“業欲の天使”ブルカノ（？）
+Card No.: DG/SE08-19  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 怪盗 (Phantom Thief)
+Triggers: None
+Flavor: A demon that promotes social reform? You're a strange vampire
+TEXT: -- None --
+
+================================================================================
+
+Nice Body Etna
+ナイスバディ・エトナ
+Card No.: DG/SE08-20  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 3500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I will not relinquish my nice body!!!
+TEXT: [A] When this is placed from hand to the Stage, choose 1 Climax card in
+your Opponent's Waiting Room and return it to the Library. Your Opponents
+shuffles that Library.
+
+================================================================================
+
+Altina, Illegal Immigrant from Heaven
+天界からの密入界者 アルティナ
+Card No.: DG/SE08-21  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 天使 (Angel)      Trait 2: 怪盗 (Phantom Thief)
+Triggers: None
+Flavor: Just wait, Archangel-sama. We just need a little bit more to achieve
+our goal amount
+TEXT: [C] If there are 4 or more cards in your Stock, this gains +1000 Power.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Great Flonneger X, Super Alloy Robot
+超合金ロボ グレートフロンガーＸ
+Card No.: DG/SE08-22  Rarity: C
+Color: Green   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: メカ (Mecha)      Trait 2: 愛 (Love)
+Triggers: Soul 
+Flavor: Archangel Flonne: "To protect the blue Earth, it comes from another
+dimension! The power of prayers of love!!"
+TEXT: [A] When this is placed from hand to the Stage, if there are 5 or fewer
+cards in your Library, return all cards in your Waiting Room to your Library.
+If you do, shuffle that Library, and this gains +3000 Power until the end of
+your Opponent's next turn.
+
+================================================================================
+
+Bond between Angel and Demon
+悪魔と天使の絆
+Card No.: DG/SE08-23  Rarity: C
+Color: Green   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Stock 
+Flavor: Valvatorez: "Hey... Why did you protect me?"
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Fenrich, Caretaker of Prinnies
+プリニーの世話係 フェンリッヒ
+Card No.: DG/SE08-24  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: ...The initiatives shall be taken here
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If you do, choose a ::Prinny:: Character in your Waiting Room and return it to
+your hand.
+[A] [(2)] When this is placed from Stage to the Waiting Room, you may pay cost.
+If you do, choose a ::Blood:: Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+"Sardine Power" Valvatorez
+“イワシのチカラ”ヴァルバトーゼ
+Card No.: DG/SE08-25  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: This is great -- the small fish called "Sardine"!!!
+TEXT: [C] If you have 1 or fewer other Characters, this gains +1000 Power and
+"[C] This cannot be Reversed by an Opponent Character's [A] effects".
+
+================================================================================
+
+Valvatorez, Asthetics of Evil
+悪の美学 ヴァルバトーゼ
+Card No.: DG/SE08-26  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: How many times do I have to tell you!? A demon full of pride like me
+does not break promises!
+TEXT: [S] BRAINSTORM [(1)] Reveal the top 4 cards of your Library and put them
+in the Waiting Room. For each Climax card revealed, choose 1 of your ::Demon::
+Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Valvatorez, Tyrant
+暴君 ヴァルバトーゼ
+Card No.: DG/SE08-27  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: My pride does not allow me to drink blood from humans who aren't
+afraid of demons
+TEXT: [A] When this is placed from hand to the Stage, choose another of your
+::Demon:: Charcaters. That Character gains +1000 Power for the turn.
+[A] When this becomes Reversed, if its Battle Opponent is Level 2 or lower, you
+may Reverse that Character.
+
+================================================================================
+
+Fenrich, Strategist of Val-sama
+ヴァル様の参謀 フェンリッヒ
+Card No.: DG/SE08-28  Rarity: R
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 6500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: The un-demon-like "trusting allies" thing is a special power
+for our lord Valvatorez-sama
+TEXT: [A] When another of your battling ::Demon:: Characters becomes Reversed,
+choose 1 of your Characters. That Character gains +2000 Power for the turn.
+
+================================================================================
+
+Valvatorez, Educator of Prinnies
+プリニーの教育係 ヴァルバトーゼ
+Card No.: DG/SE08-29  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: None
+Flavor: Alright, I will show you how an educator of prinnies fight!!
+TEXT: [C] All your other ::Prinny:: Characters gain +500 Power.
+[A] When this becomes Reversed, if its Battle Opponent is Level 0 or lower, you
+may Reverse that Character.
+
+================================================================================
+
+Fenrich, Butler of Werewolves
+人狼族の執事 フェンリッヒ
+Card No.: DG/SE08-30  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Sir...! To promise somthing trifle like that perplexes me!
+TEXT: [C] If you have 1 or fewer other Characters, all your other Characters
+gain +1500 Power.
+
+================================================================================
+
+Fenrich, Absolute Allegiance
+絶対の忠誠 フェンリッヒ
+Card No.: DG/SE08-31  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: This moon shall serve as my pledge of allegiance to my lord
+TEXT: [A] When damage dealt by this is Damage Canceled, if "Pledge by Moon" is
+in your Climax Zone, choose a Character in your Waiting Room and return it to
+your hand.
+
+================================================================================
+
+Overlord Laharl, President
+魔王ラハール大統領閣下
+Card No.: DG/SE08-32  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 1   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: The protagonist of this world can only be one person! That's ME!
+Overlord Laharl, President!!
+TEXT: -- None --
+
+================================================================================
+
+Valvatorez, Demon with Pride
+誇り高き悪魔 ヴァルバトーゼ
+Card No.: DG/SE08-33  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: Don't worry about me. Let me handle this
+TEXT: [S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to
+the Waiting Room]
+
+================================================================================
+
+Valvatorez, Traitor to Gods
+神への反逆者 ヴァルバトーゼ
+Card No.: DG/SE08-34  Rarity: C
+Color: Red   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: 血 (Blood)
+Triggers: Soul 
+Flavor: ... Shall we carry forth on the path of treachery to the Gods?
+TEXT: [C] If you have 3 or more other ::Demon::, ::Angel::, or ::Prinny::
+Characters, this gains +1000 Power.
+[C] Character opposite this gets -1 Soul.
+[A] [(1)] When 'Power of "Bond"' is placed to your Climax Zone, if this is in
+Front Row, you may pay cost. If so, choose a Level 3 or lower Character in
+Opponent's Front Row, and put it in the Waiting Room.
+
+================================================================================
+
+Power of "Bond"
+『絆』のチカラ
+Card No.: DG/SE08-35  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: ---God!! Humans should repay their sins to the demons! You have
+no reason to be here!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
+Pledge by Moon
+月の誓い
+Card No.: DG/SE08-36  Rarity: C
+Color: Red   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: -- None --
+TEXT: [C] All your Characters gain +2 Soul.
+
+================================================================================
+
+Desco, Maiden Aiming for Last Boss
+ラスボスを目指す乙女 デスコ
+Card No.: DG/SE08-37  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: Of, of course, onee-sama!
+TEXT: [C] All your other ::Clone:: or ::Death:: Characters gain +500 Power.
+[S] BRAINSTORM [(1) Rest this] Reveal the top 4 cards of your Library and put
+them in the Waiting Room. For each Climax card revealed, draw a card.
+
+================================================================================
+
+Desco, Fancy Dreaming
+夢見がちでファンシー デスコ
+Card No.: DG/SE08-38  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: ... So, three-stage transformation, as well as using half the world as
+bait for the hero are all okay, right?
+TEXT: [A] When you use a BRAINSTORM, and as a result at least 1 Climax card was
+put to the Waiting Room, this gains +2000 Power for the turn.
+
+================================================================================
+
+"Final Weapon DESCO"
+“最終兵器ＤＥＳＣＯ”
+Card No.: DG/SE08-39  Rarity: R
+Color: Blue   Side: Schwarz  Character
+Level: 3   Cost: 2   Power: 9500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: I am the source of chaos that will bring the whole world into a sea of
+inferno, Final Weapon DESCO!!!
+TEXT: [C] This gains +X Power, where X = 500 times Level of Character opposite
+this.
+[A] When this is placed from hand to Stage or placed via CHANGE to Stage, you
+may put top card of your Clock to Waiting Room.
+[A] When this is placed from hand to Stage, choose 1 of your Standing
+Characters. Rest that Character.
+
+================================================================================
+
+Desco, Master of Special Section
+特別房のヌシ デスコ
+Card No.: DG/SE08-40  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: I'm not lying!! I, Desco, is the last boss!!
+TEXT: [C] This gains +1000 Power during your Opponent's turn.
+
+================================================================================
+
+Arctaare
+
+Card No.: DG/SE08-41  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: ダークヒーロー (Dark Hero)
+Triggers: None
+Flavor: Be enraptured!! By my beautiful voice! By my song!!
+TEXT: [A] When this becomes Reversed while Battling, put this on bottom of the
+Library.
+[S] [Rest 2 of your ::Demon:: Characters::] Choose 1 of your Characters. That
+Character gains +2000 Power for the turn.
+
+================================================================================
+
+Arctaare, Hellmaster
+地獄の獄長 アクターレ
+Card No.: DG/SE08-42  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: ダークヒーロー (Dark Hero)
+Triggers: None
+Flavor: It's an Arctaare world!!
+TEXT: -- None --
+
+================================================================================
+
+Desco, Last Boss Training
+ラスボス修行 デスコ
+Card No.: DG/SE08-43  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 1   Power: 7000   Soul: 1
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: Desco will follow you until Desco becomes a splendid last boss!
+TEXT: [A] [(1)] When "Final Weapon Appears" placed to your Climax Zone, if this
+is in Front Row, you may pay cost. If so, choose 1 Opponent's Cost 0 or less
+Character. Put to their Library bottom.
+[A] CHANGE [(2) This to Waiting Room] Start of your Encore Step, if this
+Rested, you may pay cost. If so, put "Final Weapon DESCO" from your Waiting
+Room to Slot this was in.
+
+================================================================================
+
+"Perfect Version" Deszet
+“パーフェクトバージョン”デスゼット
+Card No.: DG/SE08-44  Rarity: C
+Color: Blue   Side: Schwarz  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 悪魔 (Demon)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: I'm the worst True Last Boss since history began - Deszet-sama!!
+TEXT: [C] If your Opponent's Level is 3 or higher, this gains +500 Power and
+"[A] ENCORE [Discard a Character card from hand to the Waiting Room]".
+
+================================================================================
+
+Final Weapon Appears
+最終兵器、現る
+Card No.: DG/SE08-45  Rarity: C
+Color: Blue   Side: Schwarz  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Draw 
+Flavor: Hahaha... To think there would be stupid beings that would reopen the
+cauldron of hell that was sealed with great effort...
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+

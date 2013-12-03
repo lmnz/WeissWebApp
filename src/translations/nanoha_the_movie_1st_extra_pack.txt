@@ -1,0 +1,386 @@
+Nanoha The MOVIE 1st Extra Pack Translation
+Downloaded from HeartOfTheCards.com
+Do not distribute, reprint, or repost in whole or in part
+
+================================================================================
+
+Fate, Alternate Doll
+代わりの人形フェイト
+Card No.: N1/WE06-01  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 4000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: What mother is looking for... Jewel Seed... is here.
+TEXT: [A] When this becomes Reversed in battle, put the top card of your
+Library in your Clock.
+
+================================================================================
+
+Arf, Equal Partner
+対等のパートナー アルフ
+Card No.: N1/WE06-02  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 3000   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Well now I shall dish out what that guy deserves......!
+TEXT: [A] BOND"Fate, Thinking of Mother" [Put the top card of your Library in
+your Clock]
+[A] CHANGE [(2) Discard a card to your Waiting Room, put this in the Waiting
+Room] At the beginning of your Climax Phase, you may pay cost. If so, choose an
+"Arf, Wolf Form" in your Waiting Room and put it in the Slot this was in.
+
+================================================================================
+
+Fate, the Other Magical Girl
+もうひとりの魔法少女フェイト
+Card No.: N1/WE06-03  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: This time I might not be able to hold back.
+TEXT: [A] CHANGE [(2) Discard a card to your Waiting Room, put this in the
+Waiting Room] At the beginning of your Climax Phase, you may pay cost. If so,
+choose a "Fate, Thinking of Mother" in your Waiting Room and put it in the Slot
+this was in.
+[A] ENCORE [Discard a Character card from hand to the Waiting Room]
+
+================================================================================
+
+Precia, Lost Past
+失われた過去プレシア
+Card No.: N1/WE06-04  Rarity: R
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 3500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 病気 (Illness)
+Triggers: Soul 
+Flavor: To recover... everything of a world that wasn't like this...!
+TEXT: [C] All your other ::Magic:: Characters gain +1500 Power.
+[A] At the beginning of your Draw Phase, you may put the top card of your
+Library in your Clock. If not, Send this to Memory.
+
+================================================================================
+
+Precia Testarossa
+プレシア・テスタロッサ
+Card No.: N1/WE06-05  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 病気 (Illness)
+Triggers: None
+Flavor: To obtain... for my mother
+TEXT: [C] For each Marker under this, this gains +1000 Power.
+[A] When one of your Characters with "Fate" in the name Reverses its Battle
+Opponent, you may put the top card of your Library under this as Marker.
+[A] [(3)] When this becomes Reversed in battle, you may pay cost. If so, Rest
+this.
+
+================================================================================
+
+Rinis, Educator
+教育係リニス
+Card No.: N1/WE06-06  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Lady... what's your name?
+TEXT: [A] [Put a Character with "Fate" from the Stage to your Clock, Send this
+to Memory] When this is placed from hand to the Stage, you may pay cost. If so,
+search your Library for up to 1 "Fate, the Other Magical Girl" and put it in
+any Slot in the Back Row. Shuffle your Library.
+
+================================================================================
+
+Fate, Focused
+ひたすらに一途フェイト
+Card No.: N1/WE06-07  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: None
+Flavor: That's why... to start my true self... I must be done with what I
+am up until now!
+TEXT: -- None --
+
+================================================================================
+
+Arf, Wolf Form
+狼形態アルフ
+Card No.: N1/WE06-08  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 6000   Soul: 1
+Trait 1: 使い魔 (Familiar)      Trait 2: 動物 (Animal)
+Triggers: Soul 
+Flavor: Get out of Fate's way!
+TEXT: [C] All your other Characters with "Fate" in the name gain +1000 Power.
+[S] [(1)] This gains +1 Soul for the turn.
+
+================================================================================
+
+Fate, Thinking of Mother
+母を想うフェイト
+Card No.: N1/WE06-09  Rarity: C
+Color: Yellow   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 7000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: I won... I won and now I can return to mother......!
+TEXT: [C] If you have another ::Familiar:: Character, this gains +2000 Power.
+[A] [(6)] When this attacks, if "Phalanx Shift" is in your Climax Zone, you may
+pay cost. If so, for each "Fate, Thinking of Mother" you have, perform the
+following: "Deal 1 Damage to your Opponent." (Damage Cancel may occur)
+
+================================================================================
+
+Phalanx Shift
+ファランクスシフト
+Card No.: N1/WE06-10  Rarity: C
+Color: Yellow   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Cruuuusssshhhhhh!
+TEXT: [A] When this is placed from hand to the Climax Zone, put the top card of
+your Library in your Stock, and all your Characters gain +1 Soul for the turn.
+
+================================================================================
+
+Alisa, Stubborn
+意地っ張りアリサ
+Card No.: N1/WE06-11  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1000   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: It's okay...... no big deal?
+TEXT: [C] All your other Characters with "Nanoha" in the name gain "[A] ENCORE
+[Discard a Character card from hand to the Waiting Room]".
+[A] When this is placed from hand to the Stage, choose 1 of your Characters.
+That Character gains +1000 Power for the turn.
+
+================================================================================
+
+Nanoha, Own Will
+自分の意思なのは
+Card No.: N1/WE06-12  Rarity: R
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8500   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Raging Heart, Set Up!
+TEXT: [C] If there are 5 or more cards in your Stock, this gains +1000 Power.
+
+================================================================================
+
+Suzuka Shikimura
+月村 すずか
+Card No.: N1/WE06-13  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: ......Nanoha-chan, today's bad too, right?
+TEXT: [C] ASSIST All your Characters in front of this gain +500 Power.
+[S] [Rest this] Choose 1 of your Characters with "Nanoha" in the name. That
+Character gains +1 Level for the turn.
+
+================================================================================
+
+Amy, Top Operator
+敏腕オペレータ エイミィ
+Card No.: N1/WE06-14  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 1500   Soul: 1
+Trait 1: None      Trait 2: None
+Triggers: None
+Flavor: Commencing Battle... or something
+TEXT: [C] ALARM If this is on top of your Clock, all your ::Magic:: Characters
+gain "[S] [(1)] This gains +2000 Power for the turn".
+
+================================================================================
+
+Suzuka, Kind Girl
+優しい少女すずか
+Card No.: N1/WE06-15  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: That wound looks like it hurt... But please remain still, okay...?
+TEXT: [A] [Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Animal:: Character, reveal it, and put it in your hand. Shuffle your
+Library.
+
+================================================================================
+
+Alisa Bannings
+アリサ・バニングス
+Card No.: N1/WE06-16  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 4500   Soul: 1
+Trait 1: 動物 (Animal)      Trait 2: None
+Triggers: None
+Flavor: Nanoha's late again...!
+TEXT: [C] If you have another Character with "Nanoha" in the name, this gains
+"[A] When the Battle Opponent of this becomes Reversed, you may put the top
+card of your Library in your Stock".
+
+================================================================================
+
+Lindy, Chief of Time-Space Administration Bureau
+時空管理局提督リンディ
+Card No.: N1/WE06-17  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 5000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: お茶 (Tea)
+Triggers: None
+Flavor: It's over... I'll take card of the dimension shocks
+TEXT: [A] [(2)] When this is placed from hand to the Stage, you may pay cost.
+If so, your Opponent may not use [S] abilities on Characters on the Stage until
+the end of your Opponent's next turn.
+
+================================================================================
+
+Chrono, Asura's Trump Card
+アースラの切り札クロノ
+Card No.: N1/WE06-18  Rarity: C
+Color: Green   Side: Weiss  Character
+Level: 2   Cost: 1   Power: 8000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: No matter what kind of magic you use... you cannot recover the past...!
+TEXT: [A] When a Level 2 or higher Battle Opponent of this becomes Reversed,
+you may put the top card of your Library in your Stock.
+
+================================================================================
+
+Nanoha, Believing Thoughts
+信じた思い なのは
+Card No.: N1/WE06-19  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 1   Power: 5500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: The two of us shall seal it in one swoop!
+TEXT: [A] When this attacks, if "Divine Buster" is in the Climax Zone, choose 1
+of your Characters with "Fate" in the name. That Character gains +2000 Power
+for the turn, and this gains +2000 Power for the turn.
+
+================================================================================
+
+Nanoha, Full Power
+全力全開なのは
+Card No.: N1/WE06-20  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 2   Cost: 2   Power: 8000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: Soul 
+Flavor: Let's begin... the first and last true battle!!
+TEXT: [A] When this attacks, if "Starlight Breaker" is in the Climax Zone, this
+gains +X Power and all battling Characters gain "[A] When the Battle Opponent
+of this becomes Reversed, you may choose a Character in your Waiting Room and
+return it to your hand" for the turn, where X = 1000 times # of Climax cards in
+your Waiting Room.
+
+================================================================================
+
+Nanoha & Fate,Shared Feelings
+分け合う気持ち なのは＆フェイト
+Card No.: N1/WE06-21  Rarity: R
+Color: Red   Side: Weiss  Character
+Level: 3   Cost: 2   Power: 10000   Soul: 2
+Trait 1: 魔法 (Magic)      Trait 2: クローン (Clone)
+Triggers: Soul 
+Flavor: Fate, Nanoha: "Read---y!"
+TEXT: [C] All your other "Nanoha & Fate, Shared Feelings" gain +1000 Power.
+[A] When this is placed from hand to the Stage, choose a ::Magic:: Character in
+your Waiting Room and return it to your hand.
+
+================================================================================
+
+Nanoha in Uniform
+制服のなのは
+Card No.: N1/WE06-22  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: I'm going!
+TEXT: [C] If you have 2 or more other ::Magic:: and/or ::Anima:: Characters,
+this gains +1500 Power.
+
+================================================================================
+
+Yuuno, Ferret Form
+フェレット形態ユーノ
+Card No.: N1/WE06-23  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2000   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Take it with your hand...... close your eyes and clear your heart...
+TEXT: [S] [(1) Rest this] Choose 1 of your Characters with "Nanoha" in the
+name. That Character gains "[A] When the Battle Opponent of this becomes
+Reversed, you may choose a Character in your Waiting Room and return it to your
+hand" for the turn.
+
+================================================================================
+
+Nanoha, Magical Nature
+魔法の資質なのは
+Card No.: N1/WE06-24  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 0   Cost: 0   Power: 2500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 武器 (Weapon)
+Triggers: None
+Flavor: Teach me...... how to use magic better!
+TEXT: [A] CHANGE [Discard a card from your hand to the Waiting Room, Put this
+in your Clock] At the beginning of your Climax Phase, you may pay cost. If so,
+choose a "Nanoha, Believing Thoughts" in your Waiting Room and put it in the
+Slot this was in.
+
+================================================================================
+
+Yuuno, Force Field Magician
+結界魔導師ユーノ
+Card No.: N1/WE06-25  Rarity: C
+Color: Red   Side: Weiss  Character
+Level: 1   Cost: 0   Power: 1500   Soul: 1
+Trait 1: 魔法 (Magic)      Trait 2: 動物 (Animal)
+Triggers: None
+Flavor: Why are you gathering Jewel Seeds? Those are dangerous!
+TEXT: [S] [Counter] BACKUP 1500, Level 1 [Discard this from your hand to the
+Waiting Room]
+
+================================================================================
+
+Divine Buster
+ディバインバスター
+Card No.: N1/WE06-26  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: 2 Soul 
+Flavor: Raging Heart "Divine Buster"
+TEXT: [A] When this is placed from your hand to the Climax Zone, draw a card,
+and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul
+for the turn.
+
+================================================================================
+
+Starlight Breaker
+スターライトブレイカー
+Card No.: N1/WE06-27  Rarity: C
+Color: Red   Side: Weiss  Climax
+Level: 0   Cost: 0   Power: 0   Soul: 0
+Trait 1: None      Trait 2: None
+Triggers: Salvage 
+Flavor: Take this... this is my full power!!
+TEXT: [C] All your Characters gain +1000 Power and +1 Soul.
+
+================================================================================
+
