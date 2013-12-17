@@ -34,6 +34,15 @@
         android:onClick="findCard"
         android:text="Get Card Info" />
 
+    <Button
+        android:id="@+id/randomCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/findCard"
+        android:layout_marginTop="75dp"
+        android:onClick="randomCard"
+        android:text="Random Card" />
+    
 </RelativeLayout>
 
 </ScrollView>

@@ -21,9 +21,14 @@ import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.View.OnClickListener;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.Button;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
+import android.widget.TableLayout.LayoutParams;
 import android.widget.TextView;
 
 public class MainActivity extends Activity
@@ -287,6 +292,84 @@ public class MainActivity extends Activity
 		else
 		{
 			cardInfo.setText("Card information not found.");
+		}
+	}
+	
+	// Function used to clear the form after sign in
+	public void randomCard(View view)
+	{
+		// Hide keyboard after submitting sign in
+		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		setContentView(R.layout.cardinfo);
+		TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+
+		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
+		if (cursor.moveToFirst())
+		{
+			String cardSummary = "";
+			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
+			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
+			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
+			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
+			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
+			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
+			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
+			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
+			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
+			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
+			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
+			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
+			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
+			cardSummary += "<b>Text: </b>" + cursor.getString(13);
+			cardInfo.setText(Html.fromHtml(cardSummary));
+			
+			LinearLayout linearLayout = (LinearLayout)findViewById(R.id.linlayout1);
+		    Button btn = new Button(this);
+		    btn.setText("Another Random Card");
+		    
+		    LinearLayout.LayoutParams buttonParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+		    btn.setLayoutParams(buttonParams);
+
+		    btn.setOnClickListener(new OnClickListener()
+		    {
+		        public void onClick(View v)
+		        {
+		        	TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+
+		    		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
+		    		if (cursor.moveToFirst())
+		    		{
+		    			String cardSummary = "";
+		    			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
+		    			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
+		    			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
+		    			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
+		    			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
+		    			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
+		    			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
+		    			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
+		    			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
+		    			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
+		    			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
+		    			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
+		    			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
+		    			cardSummary += "<b>Text: </b>" + cursor.getString(13);
+		    			cardInfo.setText(Html.fromHtml(cardSummary));
+		    		}
+		    		else
+		    		{
+		    			cardInfo.setText("Random card functionality failed.");
+		    		}
+		        } 
+		    });
+		    linearLayout.addView(btn); 
+		}
+		else
+		{
+			cardInfo.setText("Random card functionality failed.");
 		}
 	}
 
