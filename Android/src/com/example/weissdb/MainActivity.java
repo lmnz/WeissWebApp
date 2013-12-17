@@ -17,7 +17,12 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.res.AssetManager;
 import android.database.Cursor;
+import android.text.Html;
 import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.inputmethod.InputMethodManager;
+import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -63,7 +68,6 @@ public class MainActivity extends Activity
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-		datasource.deleteAll();
 
 		final AssetManager assetManager = getAssets();
 		final InputStream cardFile;
@@ -96,7 +100,6 @@ public class MainActivity extends Activity
 		int layoutId=0;
 		if(getFileSize() != dbSize)
 		{
-		    System.out.println("HELLO!");
 			layoutId = R.layout.progress;
 		}
 		else
@@ -234,6 +237,58 @@ public class MainActivity extends Activity
 			new Thread(myThread).start();
 		}
 	}
+	
+	// Function used to clear the form after sign in
+	public void findCard(View view)
+	{
+		// Hide keyboard after submitting sign in
+		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+		
+		EditText editID = (EditText) findViewById(R.id.cardID);
+		String cardID = editID.getText().toString();
+		
+		// If entered string is empty string or entirely white space, complain
+		if (cardID.trim().length() == 0)
+		{
+			showDialog("Please enter a card number.", context);
+			return;
+		}
+		
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		setContentView(R.layout.cardinfo);
+		TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+		
+		String whereClause = "cardNo = ? COLLATE NOCASE";
+		String[] whereArgs = new String[]
+		{
+		    cardID
+		};
+		Cursor cursor = datasource.execQuery(null, whereClause, whereArgs, null, null, null);
+		if (cursor.moveToFirst())
+		{
+			String cardSummary = "Card successfully found! Here is its information:<br><br>";
+			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
+			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
+			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
+			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
+			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
+			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
+			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
+			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
+			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
+			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
+			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
+			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
+			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
+			cardSummary += "<b>Text: </b>" + cursor.getString(13) + "<br>";
+			cardInfo.setText(Html.fromHtml(cardSummary));
+		}
+		else
+		{
+			cardInfo.setText("Card information not found.");
+		}
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu)
@@ -241,5 +296,20 @@ public class MainActivity extends Activity
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
+	}
+	
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item)
+	{
+		switch (item.getItemId())
+		{
+			case android.R.id.home:
+				setContentView(R.layout.activity_main);
+				getActionBar().setDisplayHomeAsUpEnabled(false);
+				break;
+			default:
+				break;
+		}
+		return super.onOptionsItemSelected(item);
 	}
 }

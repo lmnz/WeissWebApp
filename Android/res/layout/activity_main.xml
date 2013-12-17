@@ -12,7 +12,9 @@
 
 <RelativeLayout
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center" >
 
     <EditText
         android:id="@+id/cardID"
@@ -24,12 +26,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
-
     <Button
         android:id="@+id/findCard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/signin"
         android:layout_below="@+id/cardID"
         android:onClick="findCard"
         android:text="Get Card Info" />
