@@ -6,3 +6,4 @@
 - Changed the card number search page to simply load the card information underneath it dynamically. I took a leaf from CS144's book and realized that the option to do another search should come bundled with the output
 - Created basic advanced search page
 - Cleaned up keyboard behavior
+- Added a "Home" button to the action bar on the right so the user can always return home, no matter how deep into the app he/she gets
