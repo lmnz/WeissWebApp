@@ -10,4 +10,4 @@ echo The number of cards extracted from the files was: `wc -l < translations/car
 mysql < drop.sql
 mysql < create.sql
 mysql < load.sql
-rm translations/cards.csv
+# rm translations/cards.csv

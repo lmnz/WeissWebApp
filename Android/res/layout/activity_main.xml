@@ -1,48 +1,43 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/ScrollView01"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:shrinkColumns="1"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".MainActivity">
-
-<RelativeLayout
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_gravity="center"
+    android:layout_margin="5dp"
     android:gravity="center" >
-
-    <EditText
-        android:id="@+id/cardID"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Card Number" />
-
+    
     <requestFocus
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/claptrapgoingham" />
+    
     <Button
-        android:id="@+id/findCard"
+        android:id="@+id/numbersearch"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/imageView1"
+        android:layout_height="wrap_content"
+        android:onClick="goToNumSearch"
+        android:text="Card Number Search" />
+    
+    <Button
+        android:id="@+id/advancedSearch"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/cardID"
-        android:onClick="findCard"
-        android:text="Get Card Info" />
+        android:layout_below="@+id/numbersearch"
+        android:onClick="goToAdvancedSearch"
+        android:text="Advanced Search" />
 
     <Button
         android:id="@+id/randomCard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/findCard"
-        android:layout_marginTop="75dp"
+        android:layout_below="@+id/advancedSearch"
         android:onClick="randomCard"
         android:text="Random Card" />
     
 </RelativeLayout>
-
-</ScrollView>

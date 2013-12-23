@@ -38,6 +38,7 @@ public class MainActivity extends Activity
 	private int prg = 0;
 	private TextView tv;
 	private ProgressBar pb;
+	private String returnTarget = "";
 	
 	private int fileSize = 0;
 	
@@ -261,8 +262,7 @@ public class MainActivity extends Activity
 		}
 		
 		getActionBar().setDisplayHomeAsUpEnabled(true);
-		setContentView(R.layout.cardinfo);
-		TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+		TextView cardInfo = (TextView) findViewById(R.id.cardSummary);
 		
 		String whereClause = "cardNo = ? COLLATE NOCASE";
 		String[] whereArgs = new String[]
@@ -291,20 +291,24 @@ public class MainActivity extends Activity
 		}
 		else
 		{
-			cardInfo.setText("Card information not found.");
+			cardInfo.setText("No card was found for the given card number.");
 		}
+		editID.setText("");
 	}
 	
-	// Function used to clear the form after sign in
 	public void randomCard(View view)
 	{
-		// Hide keyboard after submitting sign in
-		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.cardinfo);
-		TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+		
+		LinearLayout linearLayout = (LinearLayout)findViewById(R.id.linlayout1);
+		TextView cardInfo = new TextView(context);
+		cardInfo.setId(9001);
+		cardInfo.setLayoutParams(new LayoutParams
+		(
+				LayoutParams.MATCH_PARENT,
+				LayoutParams.WRAP_CONTENT
+		));
 
 		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		if (cursor.moveToFirst())
@@ -326,7 +330,10 @@ public class MainActivity extends Activity
 			cardSummary += "<b>Text: </b>" + cursor.getString(13);
 			cardInfo.setText(Html.fromHtml(cardSummary));
 			
-			LinearLayout linearLayout = (LinearLayout)findViewById(R.id.linlayout1);
+			LinearLayout.LayoutParams llp = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
+		    llp.setMargins(6, 0, 6, 0); // llp.setMargins(left, top, right, bottom);
+		    cardInfo.setLayoutParams(llp);
+			
 		    Button btn = new Button(this);
 		    btn.setText("Another Random Card");
 		    
@@ -337,7 +344,7 @@ public class MainActivity extends Activity
 		    {
 		        public void onClick(View v)
 		        {
-		        	TextView cardInfo = (TextView) findViewById(R.id.cardInfo);
+		        	TextView cardInfo = (TextView) findViewById(9001);
 
 		    		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		    		if (cursor.moveToFirst())
@@ -365,12 +372,19 @@ public class MainActivity extends Activity
 		    		}
 		        } 
 		    });
-		    linearLayout.addView(btn); 
+		    linearLayout.addView(btn);
+		    linearLayout.addView(cardInfo);
 		}
 		else
 		{
 			cardInfo.setText("Random card functionality failed.");
 		}
+	}
+	
+	public void goToNumSearch(View view)
+	{
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		setContentView(R.layout.numbersearch);
 	}
 
 	@Override

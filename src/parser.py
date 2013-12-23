@@ -57,6 +57,11 @@ def parseTrait(trait):
     else:
         return trait
         
+def convertEmpties(string):
+    if string == "":
+        return "None"
+    else:
+        return string
 
 # Return a filled in card bean to add to list
 def parseCard(card):
@@ -64,44 +69,45 @@ def parseCard(card):
     card = card.strip()
     
     pieces = card.split("Card No.:")
-    name = (pieces[0].split("\n"))[0].strip()
+    name = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("Rarity:")
-    cardNo = (pieces[0].replace("\n", " ")).strip()
+    cardNo = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Color:")
-    rarity = (pieces[0].replace("\n", " ")).strip()
+    rarity = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Side:")
-    color = (pieces[0].replace("\n", " ")).strip()
+    color = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Level:")
-    side = (pieces[0].replace("\n", " ")).strip()
+    side = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Cost:")
-    level = (pieces[0].replace("\n", " ")).strip()
+    level = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Power:")
-    cost = (pieces[0].replace("\n", " ")).strip()
+    cost = convertEmpties((pieces[0].split("\n"))[0].strip())
 
     pieces = pieces[1].split("Soul:")
-    power = (pieces[0].replace("\n", " ")).strip()
+    power = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("Trait 1:")
-    soul = (pieces[0].replace("\n", " ")).strip()
+    soul = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("Trait 2:")
-    trait1 = parseTrait((pieces[0].replace("\n", " ")).strip())
+    trait1 = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("Triggers:")
-    trait2 = parseTrait((pieces[0].replace("\n", " ")).strip())
+    trait2 = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("Flavor:")
-    triggers = (pieces[0].replace("\n", " ")).strip()
+    triggers = convertEmpties((pieces[0].split("\n"))[0].strip())
     
     pieces = pieces[1].split("TEXT:")
-    flavor = (pieces[0].replace("\n", " ")).strip()
-    text = (pieces[1].replace("\n", " ")).strip()
+    flavor = convertEmpties((pieces[0].replace("\n", " ")).strip())
+    text = pieces[1].replace("\n", " ")
+    text = convertEmpties(text.replace("\r", " " ).strip())
     
     # (name, cardNo, rarity, color, sideType, level, cost, power, soul, trait1, trait2, triggers, flavor, text):
     return cardBean(name, cardNo, rarity, color, side, level, cost, power, soul, trait1, trait2, triggers, flavor, text)
