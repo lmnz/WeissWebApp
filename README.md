@@ -11,5 +11,7 @@ Weiss Mobile App
 
 <b>TO DO:</b>
 1) Speed up import process. 2 ways to do this:
+
   1) Bulk SQL insert
+  
   2) Doing some sort of diff to only import new cards instead of deleting everything and importing everything again no      matter what
