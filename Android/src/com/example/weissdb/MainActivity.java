@@ -23,6 +23,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.View.OnClickListener;
+import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
@@ -39,6 +40,7 @@ public class MainActivity extends Activity
 	private TextView tv;
 	private ProgressBar pb;
 	private String returnTarget = "";
+	private boolean killKeyboard = false;
 	
 	private int fileSize = 0;
 	
@@ -74,7 +76,10 @@ public class MainActivity extends Activity
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-
+		
+		// Use below line to force a database update. Comment out if it's unnecessary
+		// datasource.deleteAll();
+		
 		final AssetManager assetManager = getAssets();
 		final InputStream cardFile;
 		try
@@ -246,7 +251,7 @@ public class MainActivity extends Activity
 	
 	// Function used to clear the form after sign in
 	public void findCard(View view)
-	{
+	{	
 		// Hide keyboard after submitting sign in
 		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
 		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
@@ -385,6 +390,16 @@ public class MainActivity extends Activity
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.numbersearch);
+		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+		killKeyboard = true;
+	}
+	
+	public void goToAdvancedSearch(View view)
+	{
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		setContentView(R.layout.advancedsearch);
+		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+		killKeyboard = true;
 	}
 
 	@Override
@@ -401,6 +416,26 @@ public class MainActivity extends Activity
 		switch (item.getItemId())
 		{
 			case android.R.id.home:
+				// Hide keyboard
+				if (killKeyboard)
+				{
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					killKeyboard = false;
+				}
+				
+				setContentView(R.layout.activity_main);
+				getActionBar().setDisplayHomeAsUpEnabled(false);
+				break;
+			case R.id.return_home:
+				// Hide keyboard
+				if (killKeyboard)
+				{
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					killKeyboard = false;
+				}
+				
 				setContentView(R.layout.activity_main);
 				getActionBar().setDisplayHomeAsUpEnabled(false);
 				break;

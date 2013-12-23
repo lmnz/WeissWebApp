@@ -82,6 +82,7 @@ def parseCard(card):
 
     pieces = pieces[1].split("Level:")
     side = convertEmpties((pieces[0].split("\n"))[0].strip())
+    side = side.replace("  ", " ")
 
     pieces = pieces[1].split("Cost:")
     level = convertEmpties((pieces[0].split("\n"))[0].strip())

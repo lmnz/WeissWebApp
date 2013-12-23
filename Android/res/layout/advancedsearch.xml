@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+  	android:layout_height="wrap_content">
+  	
+	 <RelativeLayout
+	     android:id="@+id/RelativeLayout1"
+	     android:layout_width="match_parent"
+	     android:layout_height="wrap_content"
+	     android:gravity="top"
+	     android:orientation="horizontal"
+	     android:padding="10dp" >
+	     
+			<TextView
+			    android:id="@+id/cardName"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentLeft="true"
+			    android:layout_marginTop="10dp"
+			    android:text="@string/name_field"
+			    android:textSize="@dimen/guessing" />
+
+			<EditText
+			    android:id="@+id/edit_name"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/cardName"
+			    android:layout_alignParentRight="true"
+			    android:layout_toRightOf="@+id/cardName">
+	    	</EditText>
+	    	
+	    	<requestFocus
+       			android:layout_width="match_parent"
+        		android:layout_height="match_parent" />
+	    	
+			<Spinner
+			    android:id="@+id/rarity_spinner"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/rarity"
+			    android:layout_below="@+id/edit_name"
+			    android:entries="@array/rarity_array" />
+
+			<TextView
+			    android:id="@+id/rarity"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/cardName"
+			    android:layout_marginTop="3dp"
+			    android:text="Rarity:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/color_spinner"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/color"
+			    android:layout_below="@+id/rarity_spinner"
+			    android:entries="@array/color_array" />
+
+			<TextView
+			    android:id="@+id/color"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/rarity"
+			    android:layout_marginTop="3dp"
+			    android:text="Color:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/side_spinner"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/side"
+			    android:layout_below="@+id/color_spinner"
+			    android:entries="@array/sides_array" />
+
+			<TextView
+			    android:id="@+id/side"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/color"
+			    android:layout_marginTop="3dp"
+			    android:text="Side:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/level_comparison"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/level"
+			    android:layout_below="@+id/side_spinner"
+			    android:entries="@array/comparisons_array" />
+			
+			<EditText
+			    android:id="@+id/edit_level"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/level"
+			    android:layout_below="@+id/side_spinner"
+			    android:layout_toRightOf="@+id/level_comparison"
+			    android:inputType="number" >
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/level"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/side"
+			    android:layout_marginTop="3dp"
+			    android:text="Level:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/cost_comparison"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/cost"
+			    android:layout_below="@+id/level_comparison"
+			    android:entries="@array/comparisons_array" />
+			
+			<EditText
+			    android:id="@+id/edit_cost"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/cost"
+			    android:layout_below="@+id/edit_level"
+			    android:layout_toRightOf="@+id/cost_comparison"
+			    android:inputType="number" >
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/cost"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/level"
+			    android:layout_marginTop="3dp"
+			    android:text="Cost:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/power_comparison"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/power"
+			    android:layout_below="@+id/cost_comparison"
+			    android:entries="@array/comparisons_array" />
+			
+			<EditText
+			    android:id="@+id/edit_power"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/power"
+			    android:layout_below="@+id/edit_cost"
+			    android:layout_toRightOf="@+id/power_comparison"
+			    android:inputType="number" >
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/power"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/cost"
+			    android:layout_marginTop="3dp"
+			    android:text="Power:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/soul_comparison"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/soul"
+			    android:layout_below="@+id/power_comparison"
+			    android:entries="@array/comparisons_array" />
+			
+			<EditText
+			    android:id="@+id/edit_soul"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/soul"
+			    android:layout_below="@+id/edit_power"
+			    android:layout_toRightOf="@+id/soul_comparison"
+			    android:inputType="number" >
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/soul"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/power"
+			    android:layout_marginTop="3dp"
+			    android:text="Soul:"
+			    android:textSize="@dimen/guessing" />
+			
+			<EditText
+			    android:id="@+id/edit_trait1"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/trait1"
+			    android:layout_below="@+id/soul_comparison"
+			    android:layout_toRightOf="@+id/trait1">
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/trait1"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/soul"
+			    android:layout_marginTop="3dp"
+			    android:text="Trait 1:"
+			    android:textSize="@dimen/guessing" />
+			
+			<EditText
+			    android:id="@+id/edit_trait2"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/trait2"
+			    android:layout_below="@+id/edit_trait1"
+			    android:layout_toRightOf="@+id/trait2">
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/trait2"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/trait1"
+			    android:layout_marginTop="3dp"
+			    android:text="Trait 2:"
+			    android:textSize="@dimen/guessing" />
+			
+			<Spinner
+			    android:id="@+id/triggers_spinner"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_toRightOf="@+id/triggers"
+			    android:layout_below="@+id/edit_trait2"
+			    android:entries="@array/triggers_array" />
+
+			<TextView
+			    android:id="@+id/triggers"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/trait2"
+			    android:layout_marginTop="3dp"
+			    android:text="Triggers:"
+			    android:textSize="@dimen/guessing" />
+			
+			<EditText
+			    android:id="@+id/edit_flavor"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/flavor"
+			    android:layout_below="@+id/triggers_spinner"
+			    android:layout_toRightOf="@+id/flavor">
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/flavor"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/triggers"
+			    android:layout_marginTop="3dp"
+			    android:text="Flavor:"
+			    android:textSize="@dimen/guessing" />
+			
+			<EditText
+			    android:id="@+id/edit_text"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/text"
+			    android:layout_below="@+id/edit_flavor"
+			    android:layout_toRightOf="@+id/text">
+
+	    	</EditText>
+
+			<TextView
+			    android:id="@+id/text"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignRight="@+id/cardName"
+			    android:layout_below="@+id/flavor"
+			    android:layout_marginTop="3dp"
+			    android:text="Text:"
+			    android:textSize="@dimen/guessing" />
+
+</RelativeLayout>
+</ScrollView>

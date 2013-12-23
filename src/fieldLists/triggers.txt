@@ -1,0 +1,9 @@
+<item>2 Soul</item>
+<item>Draw</item>
+<item>None</item>
+<item>Salvage</item>
+<item>Soul</item>
+<item>Soul Bounce</item>
+<item>Soul Shot</item>
+<item>Stock</item>
+<item>Treasure</item>

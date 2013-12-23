@@ -1,0 +1,27 @@
+cd fieldLists
+rm *.txt
+cd ..
+
+mysql < sqlFields/rarity.sql > fieldLists/raw_rarities.txt
+sed -e '1d' fieldLists/raw_rarities.txt > fieldLists/rarities.txt
+sed 's:^:<item>:' fieldLists/rarities.txt > fieldLists/raw_rarities.txt
+sed 's:$:</item>:' fieldLists/raw_rarities.txt > fieldLists/rarities.txt
+
+mysql < sqlFields/color.sql > fieldLists/raw_colors.txt
+sed -e '1d' fieldLists/raw_colors.txt > fieldLists/colors.txt
+sed 's:^:<item>:' fieldLists/colors.txt > fieldLists/raw_colors.txt
+sed 's:$:</item>:' fieldLists/raw_colors.txt > fieldLists/colors.txt
+
+mysql < sqlFields/side.sql > fieldLists/raw_sides.txt
+sed -e '1d' fieldLists/raw_sides.txt >fieldLists/sides.txt
+sed 's:^:<item>:' fieldLists/sides.txt > fieldLists/raw_sides.txt
+sed 's:$:</item>:' fieldLists/raw_sides.txt > fieldLists/sides.txt
+
+mysql < sqlFields/triggers.sql > fieldLists/raw_triggers.txt
+sed -e '1d' fieldLists/raw_triggers.txt > fieldLists/triggers.txt
+sed 's:^:<item>:' fieldLists/triggers.txt > fieldLists/raw_triggers.txt
+sed 's:$:</item>:' fieldLists/raw_triggers.txt > fieldLists/triggers.txt
+
+cd fieldLists
+rm raw*
+

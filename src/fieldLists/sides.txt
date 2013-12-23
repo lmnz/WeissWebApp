@@ -1,0 +1,6 @@
+<item>Schwarz  Character</item>
+<item>Schwarz  Climax</item>
+<item>Schwarz  Event</item>
+<item>Weiss  Character</item>
+<item>Weiss  Climax</item>
+<item>Weiss  Event</item>
