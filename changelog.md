@@ -1,4 +1,13 @@
-12/23/2013:
+12/24/2013:
+
+<b>ALEX</b>
+- Started implementing a settings page
+- Implemented advanced search
+- Implemented batch insertion upon initialization of the Weiss DB, cutting down import time by 75%
+- Fixed the weird rarities issue by running sed on the cards.csv file a few times after the parser spits it out
+- Added random image of the happy as hell fox to the initialization page
+
+12/22/2013:
 
 <b>ALEX</b>
 - Created a main page with a logo at the top (as of now, it's Claptrap as a placeholder) and buttons beneath it

@@ -924,8 +924,8 @@ containing a value of this type.
         public static final int valuefox=0x7f020073;
     }
     public static final class id {
-        public static final int RelativeLayout1=0x7f040036;
-        public static final int ScrollView01=0x7f040055;
+        public static final int RelativeLayout1=0x7f040039;
+        public static final int ScrollView01=0x7f040059;
         public static final int abs__action_bar=0x7f040020;
         public static final int abs__action_bar_container=0x7f04001f;
         public static final int abs__action_bar_subtitle=0x7f040011;
@@ -965,58 +965,64 @@ containing a value of this type.
         public static final int abs__textButton=0x7f040013;
         public static final int abs__title=0x7f04001b;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f04005d;
+        public static final int action_settings=0x7f040063;
         public static final int advancedSearch=0x7f040034;
-        public static final int cardID=0x7f040057;
-        public static final int cardName=0x7f040037;
-        public static final int cardSummary=0x7f040059;
-        public static final int color=0x7f04003c;
-        public static final int color_spinner=0x7f04003b;
-        public static final int cost=0x7f040043;
-        public static final int cost_comparison=0x7f040042;
+        public static final int advancedSearchResults=0x7f040038;
+        public static final int button1=0x7f040058;
+        public static final int cardID=0x7f04005b;
+        public static final int cardName=0x7f04003a;
+        public static final int cardSummary=0x7f04005d;
+        public static final int checkBox1=0x7f040062;
+        public static final int color=0x7f04003f;
+        public static final int color_spinner=0x7f04003e;
+        public static final int cost=0x7f040046;
+        public static final int cost_comparison=0x7f040045;
         public static final int disableHome=0x7f040009;
-        public static final int edit_cost=0x7f040044;
-        public static final int edit_flavor=0x7f040051;
-        public static final int edit_level=0x7f040041;
-        public static final int edit_name=0x7f040038;
-        public static final int edit_power=0x7f040047;
+        public static final int edit_cost=0x7f040047;
+        public static final int edit_flavor=0x7f040054;
+        public static final int edit_level=0x7f040044;
+        public static final int edit_name=0x7f04003b;
+        public static final int edit_power=0x7f04004a;
         public static final int edit_query=0x7f040026;
-        public static final int edit_soul=0x7f04004a;
-        public static final int edit_text=0x7f040053;
-        public static final int edit_trait1=0x7f04004b;
-        public static final int edit_trait2=0x7f04004d;
-        public static final int findCard=0x7f040058;
-        public static final int flavor=0x7f040052;
+        public static final int edit_soul=0x7f04004d;
+        public static final int edit_text=0x7f040056;
+        public static final int edit_trait1=0x7f04004e;
+        public static final int edit_trait2=0x7f040050;
+        public static final int findCard=0x7f04005c;
+        public static final int flavor=0x7f040055;
+        public static final int goToSettings=0x7f040036;
         public static final int homeAsUp=0x7f040006;
         public static final int imageView1=0x7f040032;
-        public static final int intro=0x7f04005a;
-        public static final int level=0x7f040040;
-        public static final int level_comparison=0x7f04003f;
-        public static final int linlayout1=0x7f040056;
+        public static final int intro=0x7f04005e;
+        public static final int level=0x7f040043;
+        public static final int level_comparison=0x7f040042;
+        public static final int linlayout1=0x7f04005a;
         public static final int listMode=0x7f040002;
+        public static final int message=0x7f040037;
         public static final int normal=0x7f040001;
         public static final int numbersearch=0x7f040033;
-        public static final int pbId=0x7f04005b;
-        public static final int power=0x7f040046;
-        public static final int power_comparison=0x7f040045;
+        public static final int pbId=0x7f04005f;
+        public static final int power=0x7f040049;
+        public static final int power_comparison=0x7f040048;
         public static final int randomCard=0x7f040035;
-        public static final int rarity=0x7f04003a;
-        public static final int rarity_spinner=0x7f040039;
-        public static final int return_home=0x7f04005e;
+        public static final int rarity=0x7f04003d;
+        public static final int rarity_spinner=0x7f04003c;
+        public static final int return_home=0x7f040064;
+        public static final int setting_title=0x7f040061;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
         public static final int showTitle=0x7f040007;
-        public static final int side=0x7f04003e;
-        public static final int side_spinner=0x7f04003d;
-        public static final int soul=0x7f040049;
-        public static final int soul_comparison=0x7f040048;
+        public static final int side=0x7f040041;
+        public static final int side_spinner=0x7f040040;
+        public static final int soul=0x7f04004c;
+        public static final int soul_comparison=0x7f04004b;
         public static final int tabMode=0x7f040003;
-        public static final int text=0x7f040054;
-        public static final int trait1=0x7f04004c;
-        public static final int trait2=0x7f04004e;
-        public static final int triggers=0x7f040050;
-        public static final int triggers_spinner=0x7f04004f;
-        public static final int tvId=0x7f04005c;
+        public static final int text=0x7f040057;
+        public static final int trait1=0x7f04004f;
+        public static final int trait2=0x7f040051;
+        public static final int triggers=0x7f040053;
+        public static final int triggers_spinner=0x7f040052;
+        public static final int tvId=0x7f040060;
         public static final int useLogo=0x7f040004;
         public static final int wrap_content=0x7f040000;
     }
@@ -1046,17 +1052,20 @@ containing a value of this type.
         public static final int abs__search_view=0x7f030013;
         public static final int abs__simple_dropdown_hint=0x7f030014;
         public static final int activity_main=0x7f030015;
-        public static final int advancedsearch=0x7f030016;
-        public static final int cardinfo=0x7f030017;
-        public static final int numbersearch=0x7f030018;
-        public static final int progress=0x7f030019;
-        public static final int sherlock_spinner_dropdown_item=0x7f03001a;
-        public static final int sherlock_spinner_item=0x7f03001b;
+        public static final int advanced_search_results=0x7f030016;
+        public static final int advancedsearch=0x7f030017;
+        public static final int cardinfo=0x7f030018;
+        public static final int numbersearch=0x7f030019;
+        public static final int progress=0x7f03001a;
+        public static final int settings=0x7f03001b;
+        public static final int sherlock_spinner_dropdown_item=0x7f03001c;
+        public static final int sherlock_spinner_item=0x7f03001d;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
     }
     public static final class string {
+        public static final int CLAPPAY=0x7f090017;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
          */
         public static final int abs__action_bar_home_description=0x7f090000;
@@ -1097,10 +1106,17 @@ containing a value of this type.
          */
         public static final int abs__shareactionprovider_share_with_application=0x7f090007;
         public static final int action_settings=0x7f09000e;
+        public static final int advanced_search=0x7f090015;
         public static final int app_name=0x7f09000d;
+        public static final int card_number_search=0x7f090014;
+        public static final int clear_forms=0x7f090012;
         public static final int hello_world=0x7f09000f;
         public static final int intro=0x7f090010;
         public static final int name_field=0x7f090011;
+        public static final int random_card=0x7f090016;
+        /**  Main page material 
+         */
+        public static final int settings_title=0x7f090013;
     }
     public static final class style {
         /** 

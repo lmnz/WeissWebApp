@@ -10,6 +10,7 @@
     
     <ImageView
         android:id="@+id/imageView1"
+        android:contentDescription="@string/CLAPPAY"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -22,7 +23,7 @@
         android:layout_below="@+id/imageView1"
         android:layout_height="wrap_content"
         android:onClick="goToNumSearch"
-        android:text="Card Number Search" />
+        android:text="@string/card_number_search" />
     
     <Button
         android:id="@+id/advancedSearch"
@@ -30,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/numbersearch"
         android:onClick="goToAdvancedSearch"
-        android:text="Advanced Search" />
+        android:text="@string/advanced_search" />
 
     <Button
         android:id="@+id/randomCard"
@@ -38,6 +39,13 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/advancedSearch"
         android:onClick="randomCard"
-        android:text="Random Card" />
+        android:text="@string/random_card" />
     
+    <Button
+        android:id="@+id/goToSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/randomCard"
+        android:onClick="goToSettings"
+        android:text="@string/settings_title" />
 </RelativeLayout>

@@ -18,7 +18,6 @@
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignParentLeft="true"
-			    android:layout_marginTop="10dp"
 			    android:text="@string/name_field"
 			    android:textSize="@dimen/guessing" />
 
@@ -302,6 +301,15 @@
 			    android:layout_marginTop="3dp"
 			    android:text="Text:"
 			    android:textSize="@dimen/guessing" />
+
+			<Button
+			    android:id="@+id/button1"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@+id/edit_text"
+			    android:layout_centerHorizontal="true"
+			    android:onClick="advancedSearch"
+			    android:text="       Search       " />
 
 </RelativeLayout>
 </ScrollView>

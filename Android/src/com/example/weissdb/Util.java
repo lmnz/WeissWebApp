@@ -3,6 +3,9 @@ package com.example.weissdb;
 import java.io.IOException;
 import java.io.InputStream;
 
+import android.widget.EditText;
+import android.widget.Spinner;
+
 public class Util
 {
 	public static int count(InputStream filename) throws IOException
@@ -30,5 +33,12 @@ public class Util
 		{
 			filename.close();
 		}
+	}
+	
+	public static String parseCardNumber(String cardBlurb)
+	{
+		String[] tokens = cardBlurb.split("Card No.: ");
+		String cardNo = (tokens[1].split("[\n]"))[0];
+		return cardNo;
 	}
 }

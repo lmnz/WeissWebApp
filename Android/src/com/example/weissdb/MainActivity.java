@@ -1,11 +1,11 @@
 package com.example.weissdb;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -18,17 +18,21 @@ import android.content.DialogInterface;
 import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.text.Html;
+import android.text.Spanned;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
+import android.widget.ListView;
 import android.widget.ProgressBar;
+import android.widget.Spinner;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.TableLayout.LayoutParams;
 import android.widget.TextView;
 
@@ -39,17 +43,17 @@ public class MainActivity extends Activity
 	private int prg = 0;
 	private TextView tv;
 	private ProgressBar pb;
-	private String returnTarget = "";
 	private boolean killKeyboard = false;
-	
+	private String returnDestination = "";
 	private int fileSize = 0;
+	CardAdapter adapter;
 	
 	public void showDialog(String message, Context context)
 	{
 		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(context);
 
 		// set dialog message
-		alertDialogBuilder.setMessage(message).setCancelable(false)
+		alertDialogBuilder.setMessage(Html.fromHtml(message)).setCancelable(false)
 				.setPositiveButton("Ok", new DialogInterface.OnClickListener()
 				{
 					public void onClick(DialogInterface dialog, int id)
@@ -70,6 +74,26 @@ public class MainActivity extends Activity
 	final public int getFileSize()
 	{
 		return fileSize;
+	}
+	
+	public String createCardSummary (Cursor cursor)
+	{
+		String cardSummary = "";
+		cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
+		cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
+		cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
+		cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
+		cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
+		cardSummary += "<b>Level: </b>" + cursor.getInt(5) + "<br>";
+		cardSummary += "<b>Cost: </b>" + cursor.getInt(6) + "<br>";
+		cardSummary += "<b>Power: </b>" + cursor.getInt(7) + "<br>";
+		cardSummary += "<b>Soul: </b>" + cursor.getInt(8) + "<br>";
+		cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
+		cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
+		cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
+		cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
+		cardSummary += "<b>Text: </b>" + cursor.getString(13);
+		return cardSummary;
 	}
 	
 	@Override
@@ -109,8 +133,10 @@ public class MainActivity extends Activity
 		}
 		
 		int layoutId=0;
-		if(getFileSize() != dbSize)
+		// This means that we have to do an update
+		if (getFileSize() != dbSize)
 		{
+			getActionBar().hide();
 			layoutId = R.layout.progress;
 		}
 		else
@@ -138,7 +164,6 @@ public class MainActivity extends Activity
 					{
 						prg = 0;
 					}
-					// This loop changes all of the contacts
 					
 					InputStream cardFile;
 					try
@@ -167,6 +192,8 @@ public class MainActivity extends Activity
 			        String reader = "";
 					try
 					{
+						datasource.open();
+						datasource.beginTransaction();
 						while ((reader = in.readLine()) != null)
 						{
 							WeissCard tempCard = new WeissCard();
@@ -194,11 +221,12 @@ public class MainActivity extends Activity
 								tempCard.setFlavor(RowData[12]);
 								tempCard.setText(RowData[13]);
 							}
-							
+
 							datasource.insertCard(tempCard);
-							
 							hnd.sendMessage(hnd.obtainMessage());
 						}
+						datasource.performTransaction();
+						datasource.close();
 						if (malformedCard)
 						{
 							System.out.println("One of the cards is malformed.");
@@ -227,6 +255,7 @@ public class MainActivity extends Activity
 							tv.setText("All cards successfully imported.");
 							showDialog("All cards successfully imported.", context);
 							setContentView(R.layout.activity_main);
+							getActionBar().show();
 						};
 					});
 				}
@@ -249,12 +278,13 @@ public class MainActivity extends Activity
 		}
 	}
 	
-	// Function used to clear the form after sign in
+	// Card Number Search
 	public void findCard(View view)
 	{	
 		// Hide keyboard after submitting sign in
 		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
 		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+		killKeyboard = false;
 		
 		EditText editID = (EditText) findViewById(R.id.cardID);
 		String cardID = editID.getText().toString();
@@ -278,20 +308,7 @@ public class MainActivity extends Activity
 		if (cursor.moveToFirst())
 		{
 			String cardSummary = "Card successfully found! Here is its information:<br><br>";
-			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
-			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
-			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
-			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
-			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
-			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
-			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
-			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
-			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
-			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
-			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
-			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
-			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
-			cardSummary += "<b>Text: </b>" + cursor.getString(13) + "<br>";
+			cardSummary += createCardSummary(cursor);
 			cardInfo.setText(Html.fromHtml(cardSummary));
 		}
 		else
@@ -301,6 +318,117 @@ public class MainActivity extends Activity
 		editID.setText("");
 	}
 	
+	// Advanced search (obv)
+	/* (String name, String rarity, String color, String side, String levelComparator, String level,
+		String costComparator, String cost, String powerComparator, String power, String soulComparator,
+		String soul, String trait1, String trait2, String triggers, String flavor, String text) */
+	public void advancedSearch(View view)
+	{	
+		// Hide keyboard
+		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+		killKeyboard = false;
+		
+		String cardName = ((EditText) findViewById(R.id.edit_name)).getText().toString();
+		String rarity = ((Spinner) findViewById(R.id.rarity_spinner)).getSelectedItem().toString();
+		String color = ((Spinner) findViewById(R.id.color_spinner)).getSelectedItem().toString();
+		String side = ((Spinner) findViewById(R.id.side_spinner)).getSelectedItem().toString();
+		
+		String levelComparator = ((Spinner) findViewById(R.id.level_comparison)).getSelectedItem().toString();
+		String level = ((EditText) findViewById(R.id.edit_level)).getText().toString();
+		
+		String costComparator = ((Spinner) findViewById(R.id.cost_comparison)).getSelectedItem().toString();
+		String cost = ((EditText) findViewById(R.id.edit_cost)).getText().toString();
+		
+		String powerComparator = ((Spinner) findViewById(R.id.power_comparison)).getSelectedItem().toString();
+		String power = ((EditText) findViewById(R.id.edit_power)).getText().toString();
+		
+		String soulComparator = ((Spinner) findViewById(R.id.soul_comparison)).getSelectedItem().toString();
+		String soul = ((EditText) findViewById(R.id.edit_soul)).getText().toString();
+		
+		String trait1 = ((EditText) findViewById(R.id.edit_trait1)).getText().toString();
+		String trait2 = ((EditText) findViewById(R.id.edit_trait2)).getText().toString();
+		String triggers = ((Spinner) findViewById(R.id.triggers_spinner)).getSelectedItem().toString();
+		String flavor = ((EditText) findViewById(R.id.edit_flavor)).getText().toString();
+		String text = ((EditText) findViewById(R.id.edit_text)).getText().toString();
+		
+		AdvancedQuery newQuery = new AdvancedQuery (cardName, rarity, color, side, levelComparator, level, costComparator, cost, powerComparator,
+													power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
+		
+		WhereInfo statementInfo = newQuery.createSelection();
+		
+		setContentView(R.layout.advanced_search_results);
+		returnDestination = "Advanced Search";
+		
+		// Dump out contents of struct for testing purposes
+		/* System.out.println(statementInfo.getSelection());
+		for (int i = 0; i < statementInfo.getSelectionArgs().length; i++)
+		{
+			System.out.println(statementInfo.getSelectionArgs()[i]);
+		} */
+		
+		// Get all names and card numbers of cards matching criteria
+		String tableColumns[] = new String[] {MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO};
+		String whereClause = statementInfo.getSelection();
+		String[] whereArgs = statementInfo.getSelectionArgs();
+		
+		Cursor cursor = datasource.execQuery(tableColumns, whereClause, whereArgs, null, null, null);
+		int numCards = 0;
+		if (cursor.moveToFirst())
+		{
+			final ArrayList<Spanned> cardList = new ArrayList<Spanned>();
+			final ListView listview = (ListView) findViewById(R.id.advancedSearchResults);
+			
+			// clear previous results in the LV
+			listview.setAdapter(null);
+
+			cardList.add(Html.fromHtml(""));
+			while (!cursor.isAfterLast())
+			{
+				numCards++;
+
+				String insert = "<br><b>Name: </b>" + cursor.getString(0) + "<br>";
+				insert += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
+				cardList.add(Html.fromHtml(insert));
+				cursor.moveToNext();
+			}
+			
+			CardAdapter lvAdapter = new CardAdapter(context, cardList);
+			listview.setAdapter(lvAdapter);
+
+			listview.setOnItemClickListener(new OnItemClickListener()
+			{
+				@Override
+				public void onItemClick(AdapterView<?> parent, final View view, int position, long id)
+				{
+					final String item = ((Spanned) parent.getItemAtPosition(position)).toString();
+					String whereClause = "cardNo = ? COLLATE NOCASE";
+					String[] whereArgs = new String[]
+					{
+					    Util.parseCardNumber(item)
+					};
+					Cursor certainCard = datasource.execQuery(null, whereClause, whereArgs, null, null, null);
+					if (certainCard.moveToFirst())
+					{
+						showDialog(createCardSummary(certainCard), context);
+					}
+					else
+					{
+						showDialog("Whoops! We were unable to retrieve this card's information.", context);
+					}
+				}
+			});
+			TextView search_message = (TextView) findViewById(R.id.message);
+			search_message.setText("Your search returned " + numCards + " cards. Simply click on a card for its detailed card summary.");
+		}
+		else
+		{
+			TextView search_message = (TextView) findViewById(R.id.message);
+			search_message.setText("No cards were found for the given parameters.");
+		}
+	}
+	
+	// Random card (obv)
 	public void randomCard(View view)
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -318,21 +446,7 @@ public class MainActivity extends Activity
 		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		if (cursor.moveToFirst())
 		{
-			String cardSummary = "";
-			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
-			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
-			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
-			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
-			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
-			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
-			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
-			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
-			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
-			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
-			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
-			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
-			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
-			cardSummary += "<b>Text: </b>" + cursor.getString(13);
+			String cardSummary = createCardSummary(cursor);
 			cardInfo.setText(Html.fromHtml(cardSummary));
 			
 			LinearLayout.LayoutParams llp = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
@@ -354,21 +468,7 @@ public class MainActivity extends Activity
 		    		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		    		if (cursor.moveToFirst())
 		    		{
-		    			String cardSummary = "";
-		    			cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
-		    			cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
-		    			cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
-		    			cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
-		    			cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
-		    			cardSummary += "<b>Level: </b>" + cursor.getString(5) + "<br>";
-		    			cardSummary += "<b>Cost: </b>" + cursor.getString(6) + "<br>";
-		    			cardSummary += "<b>Power: </b>" + cursor.getString(7) + "<br>";
-		    			cardSummary += "<b>Soul: </b>" + cursor.getString(8) + "<br>";
-		    			cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
-		    			cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
-		    			cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
-		    			cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
-		    			cardSummary += "<b>Text: </b>" + cursor.getString(13);
+		    			String cardSummary = createCardSummary(cursor);
 		    			cardInfo.setText(Html.fromHtml(cardSummary));
 		    		}
 		    		else
@@ -386,6 +486,8 @@ public class MainActivity extends Activity
 		}
 	}
 	
+	// SIMPLE MOVING AROUND FUNCTIONS
+	
 	public void goToNumSearch(View view)
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -401,6 +503,15 @@ public class MainActivity extends Activity
 		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 		killKeyboard = true;
 	}
+	
+	public void goToSettings(View view)
+	{
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		setContentView(R.layout.settings);
+		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+	}
+	
+	// ACTION BAR FUNCTIONS
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu)
@@ -413,31 +524,32 @@ public class MainActivity extends Activity
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item)
 	{
+		// Hide keyboard
+		if (killKeyboard)
+		{
+			InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+			inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+			killKeyboard = false;
+		}
 		switch (item.getItemId())
 		{
+			// I use the home button as a derpy back button
 			case android.R.id.home:
-				// Hide keyboard
-				if (killKeyboard)
+				if (returnDestination.equals("Advanced Search"))
 				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-					killKeyboard = false;
+					setContentView(R.layout.advancedsearch);
+					returnDestination = "";
 				}
-				
-				setContentView(R.layout.activity_main);
-				getActionBar().setDisplayHomeAsUpEnabled(false);
+				else
+				{
+					setContentView(R.layout.activity_main);
+					getActionBar().setDisplayHomeAsUpEnabled(false);
+				}
 				break;
 			case R.id.return_home:
-				// Hide keyboard
-				if (killKeyboard)
-				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-					killKeyboard = false;
-				}
-				
 				setContentView(R.layout.activity_main);
 				getActionBar().setDisplayHomeAsUpEnabled(false);
+				returnDestination = "";
 				break;
 			default:
 				break;

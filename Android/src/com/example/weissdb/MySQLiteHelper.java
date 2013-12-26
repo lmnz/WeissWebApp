@@ -34,9 +34,9 @@ public class MySQLiteHelper extends SQLiteOpenHelper
 	static final String DATABASE_CREATE = "CREATE TABLE " + TABLE_NAME + "(" + COLUMN_NAME
 			+ " TEXT, " + COLUMN_CARDNO + " TEXT, " 
 			+ COLUMN_RARITY + " TEXT, " + COLUMN_COLOR  + " TEXT, " + COLUMN_SIDE 
-			+ " TEXT, " + COLUMN_LEVEL + " TEXT, " + COLUMN_COST
-			+ " TEXT, " + COLUMN_POWER + " TEXT, " + COLUMN_SOUL
-			+ " TEXT, " + COLUMN_TRAIT1 + " TEXT, " + COLUMN_TRAIT2
+			+ " TEXT, " + COLUMN_LEVEL + " INT, " + COLUMN_COST
+			+ " INT, " + COLUMN_POWER + " INT, " + COLUMN_SOUL
+			+ " INT, " + COLUMN_TRAIT1 + " TEXT, " + COLUMN_TRAIT2
 			+ " TEXT, " + COLUMN_TRIGGERS + " TEXT, " + COLUMN_FLAVOR
 			+ " TEXT, " + COLUMN_TEXT + " TEXT);";
 	
