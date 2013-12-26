@@ -7,4 +7,4 @@ Weiss Mobile App
 
 <b>UPDATE:</b> I (Alex) have also created a very rough draft of the Weiss mobile app. Simply check it out and run it to see what it does.
 
-<b>FUTURE</b>: Since this was Justin's idea, I have no idea what he wants to the interface to look like, so the front end's future is completely up in the air. However, we need to figure out where to host the database along with the webapp itself and its corresponding architecture.
+<b>FUTURE</b>: Since this was Justin's idea, I have no idea what he wants to the interface to look like, so the front end's future is completely up in the air.
