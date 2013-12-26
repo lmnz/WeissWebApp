@@ -487,7 +487,6 @@ public class MainActivity extends Activity
 	}
 	
 	// SIMPLE MOVING AROUND FUNCTIONS
-	
 	public void goToNumSearch(View view)
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -512,7 +511,6 @@ public class MainActivity extends Activity
 	}
 	
 	// ACTION BAR FUNCTIONS
-
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu)
 	{

@@ -1,8 +1,7 @@
 <b>EASY:</b>
 - Implement SQLite indexing upon database initialization
-- Change main page to have a bunch of image view buttons instead of boring buttons
 - Complete app settings page (easy because I don't envision very many settings for it atm)
-- Make the current images more fitting and not ugly
+- Make the current images more fitting (Claptrap) and not ugly (home button)
 
 <b>MEDIUM:</b>
 - Basic rules functionality (segment rulebook into text views and makes it browse-able)

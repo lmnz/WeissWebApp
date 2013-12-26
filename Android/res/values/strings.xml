@@ -9,10 +9,11 @@
         fox that has had way too many drugs (or do something else on your phone).</string>
 	<string name="name_field">Card Name: </string>
 	<string name="clear_forms">Clear search forms after submit</string>
+	<color name="white">#FFFFFF</color>
 	
 	<!-- Main page material -->
 	<string name="settings_title">Settings</string>
-	<string name="card_number_search">Card Number Search</string>
+	<string name="card_number_search">Card No. Search</string>
 	<string name="advanced_search">Advanced Search</string>
 	<string name="random_card">Random Card</string>
 	<string name="CLAPPAY">Claptrap goin\' HAM.</string>

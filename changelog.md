@@ -1,3 +1,7 @@
+12/25/2013:
+<b>ALEX</b>
+- Replaced the derpy buttons with image buttons
+
 12/24/2013:
 
 <b>ALEX</b>

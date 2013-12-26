@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@style/AppTheme"
+    android:gravity="center" >
+    
+    <requestFocus
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:contentDescription="@string/CLAPPAY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/claptrapgoingham" />
+
+    <Button
+        android:id="@+id/numberSearch"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/advancedSearch"
+        android:layout_alignBottom="@+id/advancedSearch"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:drawableTop="@drawable/pound"
+        android:onClick="goToNumSearch"
+        android:text="@string/card_number_search"
+        android:textSize="@dimen/abs__action_bar_subtitle_text_size" />
+
+    <Button
+        android:id="@+id/advancedSearch"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginLeft="40dp"
+        android:layout_toRightOf="@+id/numberSearch"
+        android:drawableTop="@drawable/mag_glass"
+        android:onClick="goToAdvancedSearch"
+        android:text="@string/advanced_search"
+        android:textSize="@dimen/abs__action_bar_subtitle_text_size" />
+
+    <Button
+        android:id="@+id/settings"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/advancedSearch"
+        android:layout_marginRight="14dp"
+        android:drawableTop="@drawable/gear"
+        android:onClick="randomCard"
+        android:text="@string/settings_title"
+        android:textSize="@dimen/abs__action_bar_subtitle_text_size" />
+
+    <Button
+        android:id="@+id/randomCard"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:drawableTop="@drawable/dice"
+        android:layout_marginLeft="30dp"
+        android:onClick="randomCard"
+        android:text="@string/random_card"
+        android:textSize="@dimen/abs__action_bar_subtitle_text_size" />
+
+</RelativeLayout>
