@@ -541,8 +541,7 @@ public class MainActivity extends Activity
 	{
 		MenuItem item = menu.findItem(R.id.erase);
 		if (currentPage.equals("Advanced Search") || currentPage.equals("Number Search"))
-		{
-			System.out.println("FJNDSFKSFKS");                  
+		{                
 			item.setVisible(true);
 		}
 		else
@@ -611,7 +610,7 @@ public class MainActivity extends Activity
 					EditText editID = (EditText) findViewById(R.id.cardID);
 					editID.setText("");
 				}
-				break;                                                                        
+				break;                                                                   
 			case R.id.return_home:
 				// Hide keyboard
 				if (killKeyboard)
