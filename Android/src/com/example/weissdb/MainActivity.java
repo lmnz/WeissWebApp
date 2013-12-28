@@ -10,11 +10,12 @@ import java.util.ArrayList;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.preference.PreferenceManager;
 import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.app.AlertDialog;
 import android.content.Context;
-import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.text.Html;
@@ -44,56 +45,97 @@ public class MainActivity extends Activity
 	private TextView tv;
 	private ProgressBar pb;
 	private boolean killKeyboard = false;
-	private String returnDestination = "";
+	private String currentPage = "";
 	private int fileSize = 0;
 	CardAdapter adapter;
+	AdvancedQuery LastQuery;
 	
-	public void showDialog(String message, Context context)
+	public boolean retainNumSearch()
 	{
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(context);
-
-		// set dialog message
-		alertDialogBuilder.setMessage(Html.fromHtml(message)).setCancelable(false)
-				.setPositiveButton("Ok", new DialogInterface.OnClickListener()
-				{
-					public void onClick(DialogInterface dialog, int id)
-					{
-						// if this button is clicked, close
-						// current activity
-						dialog.cancel();
-					}
-				});
-
-		// create alert dialog
-		AlertDialog alertDialog = alertDialogBuilder.create();
-
-		// show it
-		alertDialog.show();
+		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+		return mySharedPreferences.getBoolean("number_search_retain", false);
+	}
+	public boolean retainAdvSearch()
+	{
+		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+		return mySharedPreferences.getBoolean("advanced_search_retain", false);
+	}
+	public boolean getAdvSearchMutable()
+	{
+		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+		return mySharedPreferences.getBoolean("advanced_search_mutable", false);
 	}
 	
+	/* m_name, m_rarity, m_color, m_side, m_levelComparator, m_level, m_costComparator,
+	   m_cost, m_powerComparator, m_power, m_soulComparator, m_soul, m_trait1, m_trait2, 
+	   m_triggers, m_flavor, m_text */
+	public void restoreAdvancedSearch()
+	{
+		if (LastQuery != null)
+		{
+			String[] queryParams = LastQuery.getParams();
+			((EditText) findViewById(R.id.edit_name)).setText(queryParams[0]);
+			((Spinner) findViewById(R.id.rarity_spinner)).setSelection(Util.rarityToIndex(queryParams[1]));
+			((Spinner) findViewById(R.id.color_spinner)).setSelection(Util.colorToIndex(queryParams[2]));
+			((Spinner) findViewById(R.id.side_spinner)).setSelection(Util.sideToIndex(queryParams[3]));
+			((Spinner) findViewById(R.id.level_comparison)).setSelection(Util.comparatorToIndex(queryParams[4]));
+			((EditText) findViewById(R.id.edit_level)).setText(queryParams[5]);
+			((Spinner) findViewById(R.id.cost_comparison)).setSelection(Util.comparatorToIndex(queryParams[6]));
+			((EditText) findViewById(R.id.edit_cost)).setText(queryParams[7]);
+			((Spinner) findViewById(R.id.power_comparison)).setSelection(Util.comparatorToIndex(queryParams[8]));
+			((EditText) findViewById(R.id.edit_power)).setText(queryParams[9]);
+			((Spinner) findViewById(R.id.soul_comparison)).setSelection(Util.comparatorToIndex(queryParams[10]));
+			((EditText) findViewById(R.id.edit_soul)).setText(queryParams[11]);
+			((EditText) findViewById(R.id.edit_trait1)).setText(queryParams[12]);
+			((EditText) findViewById(R.id.edit_trait2)).setText(queryParams[13]);
+			((Spinner) findViewById(R.id.triggers_spinner)).setSelection(Util.triggerToIndex(queryParams[14]));
+			((EditText) findViewById(R.id.edit_flavor)).setText(queryParams[15]);
+			((EditText) findViewById(R.id.edit_text)).setText(queryParams[16]);
+		}
+	}
+	
+	public void setUpAdvancedSearch()
+	{
+		String cardName = ((EditText) findViewById(R.id.edit_name)).getText().toString();
+		String rarity = ((Spinner) findViewById(R.id.rarity_spinner)).getSelectedItem().toString();
+		String color = ((Spinner) findViewById(R.id.color_spinner)).getSelectedItem().toString();
+		String side = ((Spinner) findViewById(R.id.side_spinner)).getSelectedItem().toString();
+		
+		String levelComparator = ((Spinner) findViewById(R.id.level_comparison)).getSelectedItem().toString();
+		String level = ((EditText) findViewById(R.id.edit_level)).getText().toString();
+		
+		String costComparator = ((Spinner) findViewById(R.id.cost_comparison)).getSelectedItem().toString();
+		String cost = ((EditText) findViewById(R.id.edit_cost)).getText().toString();
+		
+		String powerComparator = ((Spinner) findViewById(R.id.power_comparison)).getSelectedItem().toString();
+		String power = ((EditText) findViewById(R.id.edit_power)).getText().toString();
+		
+		String soulComparator = ((Spinner) findViewById(R.id.soul_comparison)).getSelectedItem().toString();
+		String soul = ((EditText) findViewById(R.id.edit_soul)).getText().toString();
+		
+		String trait1 = ((EditText) findViewById(R.id.edit_trait1)).getText().toString();
+		String trait2 = ((EditText) findViewById(R.id.edit_trait2)).getText().toString();
+		String triggers = ((Spinner) findViewById(R.id.triggers_spinner)).getSelectedItem().toString();
+		String flavor = ((EditText) findViewById(R.id.edit_flavor)).getText().toString();
+		String text = ((EditText) findViewById(R.id.edit_text)).getText().toString();
+		
+		LastQuery = new AdvancedQuery (cardName, rarity, color, side, levelComparator, level, costComparator, cost, powerComparator,
+													power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
+	}
+	
+	public void setUpSearch (String type)
+	{
+		getActionBar().setDisplayHomeAsUpEnabled(true);
+		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+		killKeyboard = true;
+		currentPage = type;
+		invalidateOptionsMenu();
+	}
+	
+	// A derpy getter to bypass things needing to be final
 	final public int getFileSize()
 	{
 		return fileSize;
-	}
-	
-	public String createCardSummary (Cursor cursor)
-	{
-		String cardSummary = "";
-		cardSummary += "<b>Name: </b>" + cursor.getString(0) + "<br>";
-		cardSummary += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
-		cardSummary += "<b>Rarity: </b>" + cursor.getString(2) + "<br>";
-		cardSummary += "<b>Color: </b>" + cursor.getString(3) + "<br>";
-		cardSummary += "<b>Side: </b>" + cursor.getString(4) + "<br>";
-		cardSummary += "<b>Level: </b>" + cursor.getInt(5) + "<br>";
-		cardSummary += "<b>Cost: </b>" + cursor.getInt(6) + "<br>";
-		cardSummary += "<b>Power: </b>" + cursor.getInt(7) + "<br>";
-		cardSummary += "<b>Soul: </b>" + cursor.getInt(8) + "<br>";
-		cardSummary += "<b>Trait 1: </b>" + cursor.getString(9) + "<br>";
-		cardSummary += "<b>Trait 2: </b>" + cursor.getString(10) + "<br>";
-		cardSummary += "<b>Triggers: </b>" + cursor.getString(11) + "<br>";
-		cardSummary += "<b>Flavor: </b>" + cursor.getString(12) + "<br>";
-		cardSummary += "<b>Text: </b>" + cursor.getString(13);
-		return cardSummary;
 	}
 	
 	@Override
@@ -104,6 +146,7 @@ public class MainActivity extends Activity
 		// Use below line to force a database update. Comment out if it's unnecessary
 		// datasource.deleteAll();
 		
+		// Try to open the cards.csv file which should come packaged with the app
 		final AssetManager assetManager = getAssets();
 		final InputStream cardFile;
 		try
@@ -112,28 +155,30 @@ public class MainActivity extends Activity
 		}
 		catch (IOException e)
 		{
-			showDialog("Card import failed.", context);
-			e.printStackTrace();
+			Util.showDialog("Card import failed.", context);
 			return;
 		}
 		
+		// Run a SQL query on the number of rows in the user's card database
 		String[] columns = {"COUNT (*)"};
 		Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
 		cursor.moveToFirst();
 		int dbSize = cursor.getInt(0);
 
+		// Get number of cards represented in cards.csv file
 		try
 		{
 			fileSize = Util.count(cardFile);
 		}
 		catch (IOException e1)
 		{
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
+			Util.showDialog("Card import failed.", context);
+			return;
 		}
 		
 		int layoutId=0;
-		// This means that we have to do an update
+		// Compare cards.csv's # of cards with cards stored in user's database
+		// If they're different, switch to the initialization page and start importing cards
 		if (getFileSize() != dbSize)
 		{
 			getActionBar().hide();
@@ -172,8 +217,7 @@ public class MainActivity extends Activity
 					}
 					catch (IOException e2)
 					{
-						showDialog("Card import failed.", context);
-						e2.printStackTrace();
+						Util.showDialog("Card import failed.", context);
 						return;
 					}
 					
@@ -184,11 +228,10 @@ public class MainActivity extends Activity
 					}
 					catch (UnsupportedEncodingException e1)
 					{
-						showDialog("Card import failed.", context);
-						e1.printStackTrace();
+						Util.showDialog("Card import failed.", context);
+						return;
 					}
 					
-					boolean malformedCard = false;
 			        String reader = "";
 					try
 					{
@@ -201,8 +244,7 @@ public class MainActivity extends Activity
 							
 							if (RowData.length != 14)
 							{
-								System.out.println(RowData[1]);
-								malformedCard = true;
+								// System.out.println(RowData[1]);
 							}
 							else
 							{
@@ -221,21 +263,16 @@ public class MainActivity extends Activity
 								tempCard.setFlavor(RowData[12]);
 								tempCard.setText(RowData[13]);
 							}
-
 							datasource.insertCard(tempCard);
 							hnd.sendMessage(hnd.obtainMessage());
 						}
 						datasource.performTransaction();
 						datasource.close();
-						if (malformedCard)
-						{
-							System.out.println("One of the cards is malformed.");
-						}
 					}
 					catch (IOException e)
 					{
-						// TODO Auto-generated catch block
-						e.printStackTrace();
+						Util.showDialog("Card import failed.", context);
+						return;
 					}
 					
 					try
@@ -244,8 +281,8 @@ public class MainActivity extends Activity
 					}
 					catch (IOException e)
 					{
-						// TODO Auto-generated catch block
-						e.printStackTrace();
+						Util.showDialog("Card import failed.", context);
+						return;
 					}
 
 					runOnUiThread(new Runnable()
@@ -253,7 +290,7 @@ public class MainActivity extends Activity
 						public void run()
 						{
 							tv.setText("All cards successfully imported.");
-							showDialog("All cards successfully imported.", context);
+							Util.showDialog("All cards successfully imported.", context);
 							setContentView(R.layout.activity_main);
 							getActionBar().show();
 						};
@@ -292,11 +329,10 @@ public class MainActivity extends Activity
 		// If entered string is empty string or entirely white space, complain
 		if (cardID.trim().length() == 0)
 		{
-			showDialog("Please enter a card number.", context);
+			Util.showDialog("Please enter a card number.", context);
 			return;
 		}
 		
-		getActionBar().setDisplayHomeAsUpEnabled(true);
 		TextView cardInfo = (TextView) findViewById(R.id.cardSummary);
 		
 		String whereClause = "cardNo = ? COLLATE NOCASE";
@@ -308,14 +344,18 @@ public class MainActivity extends Activity
 		if (cursor.moveToFirst())
 		{
 			String cardSummary = "Card successfully found! Here is its information:<br><br>";
-			cardSummary += createCardSummary(cursor);
+			cardSummary += Util.createCardSummary(cursor);
 			cardInfo.setText(Html.fromHtml(cardSummary));
 		}
 		else
 		{
 			cardInfo.setText("No card was found for the given card number.");
 		}
-		editID.setText("");
+		
+		if (!retainNumSearch())
+		{
+			editID.setText("");
+		}
 	}
 	
 	// Advanced search (obv)
@@ -329,36 +369,13 @@ public class MainActivity extends Activity
 		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 		killKeyboard = false;
 		
-		String cardName = ((EditText) findViewById(R.id.edit_name)).getText().toString();
-		String rarity = ((Spinner) findViewById(R.id.rarity_spinner)).getSelectedItem().toString();
-		String color = ((Spinner) findViewById(R.id.color_spinner)).getSelectedItem().toString();
-		String side = ((Spinner) findViewById(R.id.side_spinner)).getSelectedItem().toString();
-		
-		String levelComparator = ((Spinner) findViewById(R.id.level_comparison)).getSelectedItem().toString();
-		String level = ((EditText) findViewById(R.id.edit_level)).getText().toString();
-		
-		String costComparator = ((Spinner) findViewById(R.id.cost_comparison)).getSelectedItem().toString();
-		String cost = ((EditText) findViewById(R.id.edit_cost)).getText().toString();
-		
-		String powerComparator = ((Spinner) findViewById(R.id.power_comparison)).getSelectedItem().toString();
-		String power = ((EditText) findViewById(R.id.edit_power)).getText().toString();
-		
-		String soulComparator = ((Spinner) findViewById(R.id.soul_comparison)).getSelectedItem().toString();
-		String soul = ((EditText) findViewById(R.id.edit_soul)).getText().toString();
-		
-		String trait1 = ((EditText) findViewById(R.id.edit_trait1)).getText().toString();
-		String trait2 = ((EditText) findViewById(R.id.edit_trait2)).getText().toString();
-		String triggers = ((Spinner) findViewById(R.id.triggers_spinner)).getSelectedItem().toString();
-		String flavor = ((EditText) findViewById(R.id.edit_flavor)).getText().toString();
-		String text = ((EditText) findViewById(R.id.edit_text)).getText().toString();
-		
-		AdvancedQuery newQuery = new AdvancedQuery (cardName, rarity, color, side, levelComparator, level, costComparator, cost, powerComparator,
-													power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
-		
-		WhereInfo statementInfo = newQuery.createSelection();
+		// Fill in LastQuery AdvancedSearch object with submitted information
+		setUpAdvancedSearch();
+		WhereInfo statementInfo = LastQuery.createSelection();
 		
 		setContentView(R.layout.advanced_search_results);
-		returnDestination = "Advanced Search";
+		currentPage = "Advanced Search Results";
+		invalidateOptionsMenu();
 		
 		// Dump out contents of struct for testing purposes
 		/* System.out.println(statementInfo.getSelection());
@@ -386,7 +403,7 @@ public class MainActivity extends Activity
 			while (!cursor.isAfterLast())
 			{
 				numCards++;
-
+				
 				String insert = "<br><b>Name: </b>" + cursor.getString(0) + "<br>";
 				insert += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
 				cardList.add(Html.fromHtml(insert));
@@ -410,16 +427,16 @@ public class MainActivity extends Activity
 					Cursor certainCard = datasource.execQuery(null, whereClause, whereArgs, null, null, null);
 					if (certainCard.moveToFirst())
 					{
-						showDialog(createCardSummary(certainCard), context);
+						Util.showDialog(Util.createCardSummary(certainCard), context);
 					}
 					else
 					{
-						showDialog("Whoops! We were unable to retrieve this card's information.", context);
+						Util.showDialog("Whoops! We were unable to retrieve this card's information.", context);
 					}
 				}
 			});
 			TextView search_message = (TextView) findViewById(R.id.message);
-			search_message.setText("Your search returned " + numCards + " cards. Simply click on a card for its detailed card summary.");
+			search_message.setText("Your search returned " + numCards + " card" + Util.addS(numCards) + ". Simply click on a card for its detailed card summary.");
 		}
 		else
 		{
@@ -446,7 +463,7 @@ public class MainActivity extends Activity
 		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		if (cursor.moveToFirst())
 		{
-			String cardSummary = createCardSummary(cursor);
+			String cardSummary = Util.createCardSummary(cursor);
 			cardInfo.setText(Html.fromHtml(cardSummary));
 			
 			LinearLayout.LayoutParams llp = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
@@ -468,7 +485,7 @@ public class MainActivity extends Activity
 		    		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		    		if (cursor.moveToFirst())
 		    		{
-		    			String cardSummary = createCardSummary(cursor);
+		    			String cardSummary = Util.createCardSummary(cursor);
 		    			cardInfo.setText(Html.fromHtml(cardSummary));
 		    		}
 		    		else
@@ -489,25 +506,25 @@ public class MainActivity extends Activity
 	// SIMPLE MOVING AROUND FUNCTIONS
 	public void goToNumSearch(View view)
 	{
-		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.numbersearch);
-		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-		killKeyboard = true;
+		setUpSearch("Number Search");
 	}
 	
 	public void goToAdvancedSearch(View view)
 	{
-		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.advancedsearch);
-		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-		killKeyboard = true;
+		if (retainAdvSearch())
+		{
+			restoreAdvancedSearch();
+		}
+		setUpSearch("Advanced Search");
 	}
-	
+
 	public void goToSettings(View view)
 	{
-		getActionBar().setDisplayHomeAsUpEnabled(true);
-		setContentView(R.layout.settings);
-		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+		Intent intent = new Intent();
+		intent.setClass(MainActivity.this, SetPreferenceActivity.class);
+		startActivityForResult(intent, 0);                                         
 	}
 	
 	// ACTION BAR FUNCTIONS
@@ -520,38 +537,97 @@ public class MainActivity extends Activity
 	}
 	
 	@Override
+	public boolean onPrepareOptionsMenu(Menu menu)
+	{
+		MenuItem item = menu.findItem(R.id.erase);
+		if (currentPage.equals("Advanced Search") || currentPage.equals("Number Search"))
+		{
+			System.out.println("FJNDSFKSFKS");                  
+			item.setVisible(true);
+		}
+		else
+		{
+			item.setVisible(false);
+		}
+		super.onPrepareOptionsMenu(menu);
+		return true;
+	}
+	
 	public boolean onOptionsItemSelected(MenuItem item)
 	{
-		// Hide keyboard
-		if (killKeyboard)
-		{
-			InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-			inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-			killKeyboard = false;
-		}
 		switch (item.getItemId())
 		{
 			// I use the home button as a derpy back button
 			case android.R.id.home:
-				if (returnDestination.equals("Advanced Search"))
+				// Hide keyboard
+				if (killKeyboard)
+				{
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					killKeyboard = false;
+				}
+				if (currentPage.equals("Advanced Search Results"))
 				{
 					setContentView(R.layout.advancedsearch);
-					returnDestination = "";
+					if (retainAdvSearch())
+					{
+						restoreAdvancedSearch();
+					}
+					currentPage = "Advanced Search";
 				}
 				else
 				{
 					setContentView(R.layout.activity_main);
+					currentPage = "";
 					getActionBar().setDisplayHomeAsUpEnabled(false);
 				}
 				break;
+
+			// Clears search forms through the erase button in action bar
+			case R.id.erase:
+				if (currentPage.equals("Advanced Search"))
+				{
+					((EditText) findViewById(R.id.edit_name)).setText("");
+					((Spinner) findViewById(R.id.rarity_spinner)).setSelection(0);
+					((Spinner) findViewById(R.id.color_spinner)).setSelection(0);
+					((Spinner) findViewById(R.id.side_spinner)).setSelection(0);
+					((Spinner) findViewById(R.id.level_comparison)).setSelection(0);
+					((EditText) findViewById(R.id.edit_level)).setText("");
+					((Spinner) findViewById(R.id.cost_comparison)).setSelection(0);
+					((EditText) findViewById(R.id.edit_cost)).setText("");
+					((Spinner) findViewById(R.id.power_comparison)).setSelection(0);
+					((EditText) findViewById(R.id.edit_power)).setText("");
+					((Spinner) findViewById(R.id.soul_comparison)).setSelection(0);
+					((EditText) findViewById(R.id.edit_soul)).setText("");
+					((EditText) findViewById(R.id.edit_trait1)).setText("");
+					((EditText) findViewById(R.id.edit_trait2)).setText("");
+					((Spinner) findViewById(R.id.triggers_spinner)).setSelection(0);
+					((EditText) findViewById(R.id.edit_flavor)).setText("");
+					((EditText) findViewById(R.id.edit_text)).setText("");
+					LastQuery = null;
+				}
+				if (currentPage.equals("Number Search"))
+				{
+					EditText editID = (EditText) findViewById(R.id.cardID);
+					editID.setText("");
+				}
+				break;                                                                        
 			case R.id.return_home:
+				// Hide keyboard
+				if (killKeyboard)
+				{
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					killKeyboard = false;
+				}
 				setContentView(R.layout.activity_main);
 				getActionBar().setDisplayHomeAsUpEnabled(false);
-				returnDestination = "";
+				currentPage = "";
 				break;
 			default:
 				break;
 		}
+		invalidateOptionsMenu();
 		return super.onOptionsItemSelected(item);
 	}
 }

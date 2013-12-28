@@ -1,0 +1,24 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="Search Settings">
+
+        <CheckBoxPreference
+                android:key="number_search_retain"
+                android:title="Number search retention"
+                android:summary="Remember card no. search form contents post-submit" />
+        
+        <CheckBoxPreference
+                android:key="advanced_search_retain"
+                android:title="Advanced search retention"
+                android:summary="Remember advanced search form contents post-submit" />
+        
+        <CheckBoxPreference
+                android:key="advanced_search_mutable"
+                android:title="Advanced search mutable list"
+                android:summary="Remove cards from advanced search results after viewing summary " />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

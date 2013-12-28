@@ -1,3 +1,12 @@
+12/27/2013:
+
+<b>ALEX</b>
+- Now says "1 card" instead of "1 cards"
+- Made the front page less derpily hardcoded so it adapt's to user's screen better. Also, added padded to the image buttons to make them more even
+- Created a settings page for the app (first 2 are search form retention, last will be implemented soon)
+- Implemented the search form retention functions
+- Created and implemented an erase button that only appears in the action toolbar when the user is on one of the search pages
+
 12/25/2013:
 
 <b>ALEX</b>

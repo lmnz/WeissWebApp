@@ -37,6 +37,8 @@
 	        <Button
 	            android:id="@+id/numberSearch"
 	            android:paddingTop="14sp"
+	            android:paddingRight="14sp"
+	            android:paddingLeft="14sp"
 	            style="?android:attr/borderlessButtonStyle"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
@@ -48,6 +50,8 @@
 	        <Button
 	            android:id="@+id/randomCard"
 	            android:paddingTop="14sp"
+	            android:paddingRight="14sp"
+	            android:paddingLeft="14sp"
 	            android:layout_marginTop="20dp"
 	            style="?android:attr/borderlessButtonStyle"
 	            android:layout_width="wrap_content"
@@ -69,6 +73,8 @@
 	        <Button
 	            android:id="@+id/advancedSearch"
 	            android:paddingTop="14sp"
+	            android:paddingRight="14sp"
+	            android:paddingLeft="14sp"
 	            style="?android:attr/borderlessButtonStyle"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
@@ -80,6 +86,8 @@
 	        <Button
 	            android:id="@+id/settings"
 	            android:paddingTop="14sp"
+	            android:paddingRight="14sp"
+	            android:paddingLeft="14sp"
 	            android:layout_marginTop="20dp"
 	            style="?android:attr/borderlessButtonStyle"
 	            android:layout_width="wrap_content"
