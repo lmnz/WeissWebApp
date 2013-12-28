@@ -1,6 +1,5 @@
 <b>EASY:</b>
 - Implement SQLite indexing upon database initialization
-- Complete app settings page (easy because I don't envision very many settings for it atm)
 - Make the current images more fitting (Claptrap) and not ugly (home button)
 
 <b>MEDIUM:</b>
