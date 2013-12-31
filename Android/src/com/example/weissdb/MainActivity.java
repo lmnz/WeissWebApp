@@ -20,6 +20,7 @@ import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.text.Html;
 import android.text.Spanned;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -36,6 +37,8 @@ import android.widget.Spinner;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.TableLayout.LayoutParams;
 import android.widget.TextView;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 
 public class MainActivity extends Activity
 {
@@ -49,6 +52,48 @@ public class MainActivity extends Activity
 	private int fileSize = 0;
 	CardAdapter adapter;
 	AdvancedQuery LastQuery;
+	
+	//confirm app close on back
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK){
+			if (currentPage.equals(""))
+			{
+		        new AlertDialog.Builder(this)
+		        .setIcon(android.R.drawable.ic_dialog_alert)
+		        .setMessage("Exit the app desu~? XD")
+		        .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+		        	
+		            @Override
+		            public void onClick(DialogInterface dialog, int which) {
+
+		                //Stop the activity
+		                MainActivity.this.finish();    
+		            }
+		            
+		        })
+		        .setNegativeButton("No", null)
+		        .show();
+
+		        return true;
+			}
+			else
+			{
+				if (currentPage.equals("Advanced Search Results")) {
+					setContentView(R.layout.advancedsearch);
+					currentPage = "Advanced Search";
+					return true;
+				}
+				setContentView(R.layout.activity_main);
+				currentPage = "";
+				getActionBar().setDisplayHomeAsUpEnabled(false);
+				return true;
+			}
+		}
+		//this in case another button was pressed, the super method shall be called
+		else
+			return super.onKeyDown(keyCode, event);
+	}
 	
 	public boolean retainNumSearch()
 	{
@@ -448,6 +493,7 @@ public class MainActivity extends Activity
 	// Random card (obv)
 	public void randomCard(View view)
 	{
+		currentPage = "Random Card";
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.cardinfo);
 		

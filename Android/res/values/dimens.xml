@@ -1,8 +1,9 @@
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="guessing">25dp</dimen>
+    <dimen name="abs__action_bar_subtitle_text_size">14dp</dimen>
 
 </resources>

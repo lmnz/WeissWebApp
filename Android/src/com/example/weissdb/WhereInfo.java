@@ -1,7 +1,5 @@
 package com.example.weissdb;
 
-import java.util.ArrayList;
-
 public class WhereInfo
 {
 	private String m_selection = null;
