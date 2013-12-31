@@ -6,6 +6,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -28,6 +30,8 @@ import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
@@ -52,34 +56,35 @@ public class MainActivity extends Activity
 	private int fileSize = 0;
 	CardAdapter adapter;
 	AdvancedQuery LastQuery;
-	
-	//confirm app close on back
+	String[] cardSnapshots = null;
+	String[] cardNames = null;
+
+	// confirm app close on back
 	@Override
-	public boolean onKeyDown(int keyCode, KeyEvent event) {
-		if (keyCode == KeyEvent.KEYCODE_BACK){
+	public boolean onKeyDown(int keyCode, KeyEvent event)
+	{
+		if (keyCode == KeyEvent.KEYCODE_BACK)
+		{
 			if (currentPage.equals(""))
 			{
-		        new AlertDialog.Builder(this)
-		        .setIcon(android.R.drawable.ic_dialog_alert)
-		        .setMessage("Exit the app desu~? XD")
-		        .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
-		        	
-		            @Override
-		            public void onClick(DialogInterface dialog, int which) {
+				new AlertDialog.Builder(this).setIcon(android.R.drawable.ic_dialog_alert)
+						.setMessage("Would you like to exit the app?").setPositiveButton("Yes", new DialogInterface.OnClickListener()
+						{
+							@Override
+							public void onClick(DialogInterface dialog, int which)
+							{
+								// Stop the activity
+								MainActivity.this.finish();
+							}
 
-		                //Stop the activity
-		                MainActivity.this.finish();    
-		            }
-		            
-		        })
-		        .setNegativeButton("No", null)
-		        .show();
+						}).setNegativeButton("No", null).show();
 
-		        return true;
+				return true;
 			}
 			else
 			{
-				if (currentPage.equals("Advanced Search Results")) {
+				if (currentPage.equals("Advanced Search Results"))
+				{
 					setContentView(R.layout.advancedsearch);
 					currentPage = "Advanced Search";
 					return true;
@@ -90,30 +95,35 @@ public class MainActivity extends Activity
 				return true;
 			}
 		}
-		//this in case another button was pressed, the super method shall be called
+		// this in case another button was pressed, the super method shall be
+		// called
 		else
 			return super.onKeyDown(keyCode, event);
 	}
-	
+
 	public boolean retainNumSearch()
 	{
 		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		return mySharedPreferences.getBoolean("number_search_retain", false);
 	}
+
 	public boolean retainAdvSearch()
 	{
 		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		return mySharedPreferences.getBoolean("advanced_search_retain", false);
 	}
+
 	public boolean getAdvSearchMutable()
 	{
 		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		return mySharedPreferences.getBoolean("advanced_search_mutable", false);
 	}
-	
-	/* m_name, m_rarity, m_color, m_side, m_levelComparator, m_level, m_costComparator,
-	   m_cost, m_powerComparator, m_power, m_soulComparator, m_soul, m_trait1, m_trait2, 
-	   m_triggers, m_flavor, m_text */
+
+	/*
+	 * m_name, m_rarity, m_color, m_side, m_levelComparator, m_level,
+	 * m_costComparator, m_cost, m_powerComparator, m_power, m_soulComparator,
+	 * m_soul, m_trait1, m_trait2, m_triggers, m_flavor, m_text
+	 */
 	public void restoreAdvancedSearch()
 	{
 		if (LastQuery != null)
@@ -138,37 +148,37 @@ public class MainActivity extends Activity
 			((EditText) findViewById(R.id.edit_text)).setText(queryParams[16]);
 		}
 	}
-	
+
 	public void setUpAdvancedSearch()
 	{
 		String cardName = ((EditText) findViewById(R.id.edit_name)).getText().toString();
 		String rarity = ((Spinner) findViewById(R.id.rarity_spinner)).getSelectedItem().toString();
 		String color = ((Spinner) findViewById(R.id.color_spinner)).getSelectedItem().toString();
 		String side = ((Spinner) findViewById(R.id.side_spinner)).getSelectedItem().toString();
-		
+
 		String levelComparator = ((Spinner) findViewById(R.id.level_comparison)).getSelectedItem().toString();
 		String level = ((EditText) findViewById(R.id.edit_level)).getText().toString();
-		
+
 		String costComparator = ((Spinner) findViewById(R.id.cost_comparison)).getSelectedItem().toString();
 		String cost = ((EditText) findViewById(R.id.edit_cost)).getText().toString();
-		
+
 		String powerComparator = ((Spinner) findViewById(R.id.power_comparison)).getSelectedItem().toString();
 		String power = ((EditText) findViewById(R.id.edit_power)).getText().toString();
-		
+
 		String soulComparator = ((Spinner) findViewById(R.id.soul_comparison)).getSelectedItem().toString();
 		String soul = ((EditText) findViewById(R.id.edit_soul)).getText().toString();
-		
+
 		String trait1 = ((EditText) findViewById(R.id.edit_trait1)).getText().toString();
 		String trait2 = ((EditText) findViewById(R.id.edit_trait2)).getText().toString();
 		String triggers = ((Spinner) findViewById(R.id.triggers_spinner)).getSelectedItem().toString();
 		String flavor = ((EditText) findViewById(R.id.edit_flavor)).getText().toString();
 		String text = ((EditText) findViewById(R.id.edit_text)).getText().toString();
-		
-		LastQuery = new AdvancedQuery (cardName, rarity, color, side, levelComparator, level, costComparator, cost, powerComparator,
-													power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
+
+		LastQuery = new AdvancedQuery(cardName, rarity, color, side, levelComparator, level, costComparator, cost,
+				powerComparator, power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
 	}
-	
-	public void setUpSearch (String type)
+
+	public void setUpSearch(String type)
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
@@ -176,22 +186,24 @@ public class MainActivity extends Activity
 		currentPage = type;
 		invalidateOptionsMenu();
 	}
-	
+
 	// A derpy getter to bypass things needing to be final
 	final public int getFileSize()
 	{
 		return fileSize;
 	}
-	
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-		
-		// Use below line to force a database update. Comment out if it's unnecessary
+
+		// Use below line to force a database update. Comment out if it's
+		// unnecessary
 		// datasource.deleteAll();
-		
-		// Try to open the cards.csv file which should come packaged with the app
+
+		// Try to open the cards.csv file which should come packaged with the
+		// app
 		final AssetManager assetManager = getAssets();
 		final InputStream cardFile;
 		try
@@ -203,9 +215,10 @@ public class MainActivity extends Activity
 			Util.showDialog("Card import failed.", context);
 			return;
 		}
-		
+
 		// Run a SQL query on the number of rows in the user's card database
-		String[] columns = {"COUNT (*)"};
+		String[] columns =
+		{ "COUNT (*)" };
 		Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
 		cursor.moveToFirst();
 		int dbSize = cursor.getInt(0);
@@ -220,10 +233,11 @@ public class MainActivity extends Activity
 			Util.showDialog("Card import failed.", context);
 			return;
 		}
-		
-		int layoutId=0;
+
+		int layoutId = 0;
 		// Compare cards.csv's # of cards with cards stored in user's database
-		// If they're different, switch to the initialization page and start importing cards
+		// If they're different, switch to the initialization page and start
+		// importing cards
 		if (getFileSize() != dbSize)
 		{
 			getActionBar().hide();
@@ -231,7 +245,7 @@ public class MainActivity extends Activity
 		}
 		else
 		{
-		    layoutId = R.layout.activity_main;
+			layoutId = R.layout.activity_main;
 		}
 		setContentView(layoutId);
 
@@ -242,7 +256,7 @@ public class MainActivity extends Activity
 			pb = (ProgressBar) findViewById(R.id.pbId);
 			pb.setMax(getFileSize());
 			tv = (TextView) findViewById(R.id.tvId);
-			
+
 			Runnable myThread = new Runnable()
 			{
 				@SuppressLint("InlinedApi")
@@ -254,7 +268,7 @@ public class MainActivity extends Activity
 					{
 						prg = 0;
 					}
-					
+
 					InputStream cardFile;
 					try
 					{
@@ -265,7 +279,7 @@ public class MainActivity extends Activity
 						Util.showDialog("Card import failed.", context);
 						return;
 					}
-					
+
 					BufferedReader in = null;
 					try
 					{
@@ -276,8 +290,8 @@ public class MainActivity extends Activity
 						Util.showDialog("Card import failed.", context);
 						return;
 					}
-					
-			        String reader = "";
+
+					String reader = "";
 					try
 					{
 						datasource.open();
@@ -286,7 +300,7 @@ public class MainActivity extends Activity
 						{
 							WeissCard tempCard = new WeissCard();
 							String[] RowData = reader.split("~~\\|\\}");
-							
+
 							if (RowData.length != 14)
 							{
 								// System.out.println(RowData[1]);
@@ -319,7 +333,7 @@ public class MainActivity extends Activity
 						Util.showDialog("Card import failed.", context);
 						return;
 					}
-					
+
 					try
 					{
 						in.close();
@@ -359,32 +373,30 @@ public class MainActivity extends Activity
 			new Thread(myThread).start();
 		}
 	}
-	
+
 	// Card Number Search
 	public void findCard(View view)
-	{	
+	{
 		// Hide keyboard after submitting sign in
 		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
 		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 		killKeyboard = false;
-		
+
 		EditText editID = (EditText) findViewById(R.id.cardID);
 		String cardID = editID.getText().toString();
-		
+
 		// If entered string is empty string or entirely white space, complain
 		if (cardID.trim().length() == 0)
 		{
 			Util.showDialog("Please enter a card number.", context);
 			return;
 		}
-		
+
 		TextView cardInfo = (TextView) findViewById(R.id.cardSummary);
-		
+
 		String whereClause = "cardNo = ? COLLATE NOCASE";
 		String[] whereArgs = new String[]
-		{
-		    cardID
-		};
+		{ cardID };
 		Cursor cursor = datasource.execQuery(null, whereClause, whereArgs, null, null, null);
 		if (cursor.moveToFirst())
 		{
@@ -396,51 +408,48 @@ public class MainActivity extends Activity
 		{
 			cardInfo.setText("No card was found for the given card number.");
 		}
-		
+
 		if (!retainNumSearch())
 		{
 			editID.setText("");
 		}
 	}
-	
-	// Advanced search (obv)
-	/* (String name, String rarity, String color, String side, String levelComparator, String level,
-		String costComparator, String cost, String powerComparator, String power, String soulComparator,
-		String soul, String trait1, String trait2, String triggers, String flavor, String text) */
+
 	public void advancedSearch(View view)
-	{	
+	{
 		// Hide keyboard
 		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
 		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 		killKeyboard = false;
-		
+
 		// Fill in LastQuery AdvancedSearch object with submitted information
 		setUpAdvancedSearch();
 		WhereInfo statementInfo = LastQuery.createSelection();
-		
+
 		setContentView(R.layout.advanced_search_results);
 		currentPage = "Advanced Search Results";
 		invalidateOptionsMenu();
-		
+
 		// Dump out contents of struct for testing purposes
-		/* System.out.println(statementInfo.getSelection());
-		for (int i = 0; i < statementInfo.getSelectionArgs().length; i++)
-		{
-			System.out.println(statementInfo.getSelectionArgs()[i]);
-		} */
-		
+		/*
+		 * System.out.println(statementInfo.getSelection()); for (int i = 0; i <
+		 * statementInfo.getSelectionArgs().length; i++) {
+		 * System.out.println(statementInfo.getSelectionArgs()[i]); }
+		 */
+
 		// Get all names and card numbers of cards matching criteria
-		String tableColumns[] = new String[] {MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO};
+		String tableColumns[] = new String[]
+		{ MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO };
 		String whereClause = statementInfo.getSelection();
 		String[] whereArgs = statementInfo.getSelectionArgs();
-		
+
 		Cursor cursor = datasource.execQuery(tableColumns, whereClause, whereArgs, null, null, null);
 		int numCards = 0;
 		if (cursor.moveToFirst())
 		{
 			final ArrayList<Spanned> cardList = new ArrayList<Spanned>();
 			final ListView listview = (ListView) findViewById(R.id.advancedSearchResults);
-			
+
 			// clear previous results in the LV
 			listview.setAdapter(null);
 
@@ -448,13 +457,13 @@ public class MainActivity extends Activity
 			while (!cursor.isAfterLast())
 			{
 				numCards++;
-				
+
 				String insert = "<br><b>Name: </b>" + cursor.getString(0) + "<br>";
 				insert += "<b>Card No.: </b>" + cursor.getString(1) + "<br>";
 				cardList.add(Html.fromHtml(insert));
 				cursor.moveToNext();
 			}
-			
+
 			CardAdapter lvAdapter = new CardAdapter(context, cardList);
 			listview.setAdapter(lvAdapter);
 
@@ -466,9 +475,7 @@ public class MainActivity extends Activity
 					final String item = ((Spanned) parent.getItemAtPosition(position)).toString();
 					String whereClause = "cardNo = ? COLLATE NOCASE";
 					String[] whereArgs = new String[]
-					{
-					    Util.parseCardNumber(item)
-					};
+					{ Util.parseCardNumber(item) };
 					Cursor certainCard = datasource.execQuery(null, whereClause, whereArgs, null, null, null);
 					if (certainCard.moveToFirst())
 					{
@@ -481,7 +488,8 @@ public class MainActivity extends Activity
 				}
 			});
 			TextView search_message = (TextView) findViewById(R.id.message);
-			search_message.setText("Your search returned " + numCards + " card" + Util.addS(numCards) + ". Simply click on a card for its detailed card summary.");
+			search_message.setText("Your search returned " + numCards + " card" + Util.addS(numCards)
+					+ ". Simply click on a card for its detailed card summary.");
 		}
 		else
 		{
@@ -489,73 +497,115 @@ public class MainActivity extends Activity
 			search_message.setText("No cards were found for the given parameters.");
 		}
 	}
-	
+
 	// Random card (obv)
 	public void randomCard(View view)
 	{
 		currentPage = "Random Card";
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.cardinfo);
-		
-		LinearLayout linearLayout = (LinearLayout)findViewById(R.id.linlayout1);
+
+		LinearLayout linearLayout = (LinearLayout) findViewById(R.id.linlayout1);
 		TextView cardInfo = new TextView(context);
 		cardInfo.setId(9001);
-		cardInfo.setLayoutParams(new LayoutParams
-		(
-				LayoutParams.MATCH_PARENT,
-				LayoutParams.WRAP_CONTENT
-		));
+		cardInfo.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT));
 
 		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
 		if (cursor.moveToFirst())
 		{
 			String cardSummary = Util.createCardSummary(cursor);
 			cardInfo.setText(Html.fromHtml(cardSummary));
-			
-			LinearLayout.LayoutParams llp = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
-		    llp.setMargins(6, 0, 6, 0); // llp.setMargins(left, top, right, bottom);
-		    cardInfo.setLayoutParams(llp);
-			
-		    Button btn = new Button(this);
-		    btn.setText("Another Random Card");
-		    
-		    LinearLayout.LayoutParams buttonParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-		    btn.setLayoutParams(buttonParams);
 
-		    btn.setOnClickListener(new OnClickListener()
-		    {
-		        public void onClick(View v)
-		        {
-		        	TextView cardInfo = (TextView) findViewById(9001);
+			LinearLayout.LayoutParams llp = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT,
+					LayoutParams.WRAP_CONTENT);
+			llp.setMargins(6, 0, 6, 0); // llp.setMargins(left, top, right,
+										// bottom);
+			cardInfo.setLayoutParams(llp);
 
-		    		Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
-		    		if (cursor.moveToFirst())
-		    		{
-		    			String cardSummary = Util.createCardSummary(cursor);
-		    			cardInfo.setText(Html.fromHtml(cardSummary));
-		    		}
-		    		else
-		    		{
-		    			cardInfo.setText("Random card functionality failed.");
-		    		}
-		        } 
-		    });
-		    linearLayout.addView(btn);
-		    linearLayout.addView(cardInfo);
+			Button btn = new Button(this);
+			btn.setText("Another Random Card");
+
+			LinearLayout.LayoutParams buttonParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
+					LinearLayout.LayoutParams.WRAP_CONTENT);
+			btn.setLayoutParams(buttonParams);
+
+			btn.setOnClickListener(new OnClickListener()
+			{
+				public void onClick(View v)
+				{
+					TextView cardInfo = (TextView) findViewById(9001);
+
+					Cursor cursor = datasource.execQuery(null, null, null, null, null, "RANDOM() LIMIT 1");
+					if (cursor.moveToFirst())
+					{
+						String cardSummary = Util.createCardSummary(cursor);
+						cardInfo.setText(Html.fromHtml(cardSummary));
+					}
+					else
+					{
+						cardInfo.setText("Random card functionality failed.");
+					}
+				}
+			});
+			linearLayout.addView(btn);
+			linearLayout.addView(cardInfo);
 		}
 		else
 		{
 			cardInfo.setText("Random card functionality failed.");
 		}
 	}
-	
+
 	// SIMPLE MOVING AROUND FUNCTIONS
 	public void goToNumSearch(View view)
 	{
 		setContentView(R.layout.numbersearch);
+		
+		// Set up auto-complete functionality
+		if (cardSnapshots == null)
+		{
+			ArrayList<String> cardSnippets = new ArrayList<String>();
+			String[] columns = new String[]
+			{MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO};
+			Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
+			if (cursor.moveToFirst())
+			{
+				while (cursor.moveToNext())
+				{
+					cardSnippets.add(cursor.getString(1) + " - " + cursor.getString(0));
+				}
+				cardSnapshots = cardSnippets.toArray(new String[cardSnippets.size()]);
+			}
+			else
+			{
+				Util.showDialog("An error occured while setting up Card No. search.", context);
+				setContentView(R.layout.activity_main);
+				return;
+			}
+		}
+		
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardSnapshots);
+		final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.cardID);
+		textView.setAdapter(adapter);
+		
+		textView.setOnItemClickListener(new OnItemClickListener()
+		{
+			@Override
+			public void onItemClick(AdapterView<?> parent, View arg1, int pos, long id)
+			{
+				// Get Card No. - Card Name string. Put it into search field after truncating the name
+				String item = (String) parent.getItemAtPosition(pos);
+				String[] pieces = item.split(" - ");
+				textView.setText(pieces[0]);
+				
+				// Put cursor at end of string
+				textView.setSelection(textView.getText().length());
+			}
+		});
+		
 		setUpSearch("Number Search");
 	}
-	
+
 	public void goToAdvancedSearch(View view)
 	{
 		setContentView(R.layout.advancedsearch);
@@ -563,6 +613,33 @@ public class MainActivity extends Activity
 		{
 			restoreAdvancedSearch();
 		}
+		
+		// Set up auto-complete functionality
+		if (cardNames == null)
+		{
+			Set<String> cardSnippets = new HashSet<String>();
+			String[] columns = new String[]
+			{ MySQLiteHelper.COLUMN_NAME};
+			Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
+			if (cursor.moveToFirst())
+			{
+				while (cursor.moveToNext())
+				{
+					cardSnippets.add(cursor.getString(0));
+				}
+				cardNames = cardSnippets.toArray(new String[cardSnippets.size()]);
+			}
+			else
+			{
+				Util.showDialog("An error occured while setting up advanced search.", context);
+				setContentView(R.layout.activity_main);
+				return;
+			}
+		}
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardNames);
+		final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.edit_name);
+		textView.setAdapter(adapter);
+				
 		setUpSearch("Advanced Search");
 	}
 
@@ -570,9 +647,9 @@ public class MainActivity extends Activity
 	{
 		Intent intent = new Intent();
 		intent.setClass(MainActivity.this, SetPreferenceActivity.class);
-		startActivityForResult(intent, 0);                                         
+		startActivityForResult(intent, 0);
 	}
-	
+
 	// ACTION BAR FUNCTIONS
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu)
@@ -581,13 +658,13 @@ public class MainActivity extends Activity
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	
+
 	@Override
 	public boolean onPrepareOptionsMenu(Menu menu)
 	{
 		MenuItem item = menu.findItem(R.id.erase);
 		if (currentPage.equals("Advanced Search") || currentPage.equals("Number Search"))
-		{                
+		{
 			item.setVisible(true);
 		}
 		else
@@ -597,18 +674,20 @@ public class MainActivity extends Activity
 		super.onPrepareOptionsMenu(menu);
 		return true;
 	}
-	
+
 	public boolean onOptionsItemSelected(MenuItem item)
 	{
 		switch (item.getItemId())
 		{
-			// I use the home button as a derpy back button
+		// I use the home button as a derpy back button
 			case android.R.id.home:
 				// Hide keyboard
 				if (killKeyboard)
 				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					InputMethodManager inputManager = (InputMethodManager) context
+							.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(),
+							InputMethodManager.HIDE_NOT_ALWAYS);
 					killKeyboard = false;
 				}
 				if (currentPage.equals("Advanced Search Results"))
@@ -656,13 +735,15 @@ public class MainActivity extends Activity
 					EditText editID = (EditText) findViewById(R.id.cardID);
 					editID.setText("");
 				}
-				break;                                                                   
+				break;
 			case R.id.return_home:
 				// Hide keyboard
 				if (killKeyboard)
 				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+					InputMethodManager inputManager = (InputMethodManager) context
+							.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(),
+							InputMethodManager.HIDE_NOT_ALWAYS);
 					killKeyboard = false;
 				}
 				setContentView(R.layout.activity_main);

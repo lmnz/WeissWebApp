@@ -21,14 +21,14 @@
 			    android:text="@string/name_field"
 			    android:textSize="@dimen/guessing" />
 
-			<EditText
+			<AutoCompleteTextView
 			    android:id="@+id/edit_name"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/cardName"
 			    android:layout_alignParentRight="true"
 			    android:layout_toRightOf="@+id/cardName">
-	    	</EditText>
+	    	</AutoCompleteTextView>
 	    	
 	    	<requestFocus
        			android:layout_width="match_parent"

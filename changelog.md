@@ -1,3 +1,8 @@
+12/31/2013:
+
+<b>ALEX</b>
+- Implemented auto-suggest for both Card No. search and the name field of Advanced Search
+
 12/27/2013:
 
 <b>ALEX</b>

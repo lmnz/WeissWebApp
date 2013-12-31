@@ -4,12 +4,13 @@
     android:layout_marginTop="10dp"
     android:layout_marginLeft="10dp"
     android:layout_marginRight="10dp">
-
-    <EditText
+    
+    <AutoCompleteTextView
         android:id="@+id/cardID"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Card Number" />
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:completionThreshold="1"
+		android:hint="Card Number" />
 
     <requestFocus
         android:layout_width="match_parent"
