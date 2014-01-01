@@ -184,6 +184,80 @@ public class MainActivity extends Activity
 		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 		killKeyboard = true;
 		currentPage = type;
+		
+		if (type.equals("Advanced Search"))
+		{
+			// Set up auto-complete functionality
+			if (cardNames == null)
+			{
+				Set<String> cardSnippets = new HashSet<String>();
+				String[] columns = new String[]
+				{ MySQLiteHelper.COLUMN_NAME};
+				Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
+				if (cursor.moveToFirst())
+				{
+					while (cursor.moveToNext())
+					{
+						cardSnippets.add(cursor.getString(0));
+					}
+					cardNames = cardSnippets.toArray(new String[cardSnippets.size()]);
+				}
+				else
+				{
+					Util.showDialog("An error occured while setting up advanced search.", context);
+					setContentView(R.layout.activity_main);
+					return;
+				}
+			}
+			ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardNames);
+			final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.edit_name);
+			textView.setAdapter(adapter);
+		}
+		
+		if (type.equals("Number Search"))
+		{
+			// Set up auto-complete functionality
+			if (cardSnapshots == null)
+			{
+				ArrayList<String> cardSnippets = new ArrayList<String>();
+				String[] columns = new String[]
+				{MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO};
+				Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
+				if (cursor.moveToFirst())
+				{
+					while (cursor.moveToNext())
+					{
+						cardSnippets.add(cursor.getString(1) + " - " + cursor.getString(0));
+					}
+					cardSnapshots = cardSnippets.toArray(new String[cardSnippets.size()]);
+				}
+				else
+				{
+					Util.showDialog("An error occured while setting up Card No. search.", context);
+					setContentView(R.layout.activity_main);
+					return;
+				}
+			}
+			
+			ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardSnapshots);
+			final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.cardID);
+			textView.setAdapter(adapter);
+			
+			textView.setOnItemClickListener(new OnItemClickListener()
+			{
+				@Override
+				public void onItemClick(AdapterView<?> parent, View arg1, int pos, long id)
+				{
+					// Get Card No. - Card Name string. Put it into search field after truncating the name
+					String item = (String) parent.getItemAtPosition(pos);
+					String[] pieces = item.split(" - ");
+					textView.setText(pieces[0]);
+					
+					// Put cursor at end of string
+					textView.setSelection(textView.getText().length());
+				}
+			});
+		}
 		invalidateOptionsMenu();
 	}
 
@@ -560,49 +634,6 @@ public class MainActivity extends Activity
 	public void goToNumSearch(View view)
 	{
 		setContentView(R.layout.numbersearch);
-		
-		// Set up auto-complete functionality
-		if (cardSnapshots == null)
-		{
-			ArrayList<String> cardSnippets = new ArrayList<String>();
-			String[] columns = new String[]
-			{MySQLiteHelper.COLUMN_NAME, MySQLiteHelper.COLUMN_CARDNO};
-			Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
-			if (cursor.moveToFirst())
-			{
-				while (cursor.moveToNext())
-				{
-					cardSnippets.add(cursor.getString(1) + " - " + cursor.getString(0));
-				}
-				cardSnapshots = cardSnippets.toArray(new String[cardSnippets.size()]);
-			}
-			else
-			{
-				Util.showDialog("An error occured while setting up Card No. search.", context);
-				setContentView(R.layout.activity_main);
-				return;
-			}
-		}
-		
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardSnapshots);
-		final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.cardID);
-		textView.setAdapter(adapter);
-		
-		textView.setOnItemClickListener(new OnItemClickListener()
-		{
-			@Override
-			public void onItemClick(AdapterView<?> parent, View arg1, int pos, long id)
-			{
-				// Get Card No. - Card Name string. Put it into search field after truncating the name
-				String item = (String) parent.getItemAtPosition(pos);
-				String[] pieces = item.split(" - ");
-				textView.setText(pieces[0]);
-				
-				// Put cursor at end of string
-				textView.setSelection(textView.getText().length());
-			}
-		});
-		
 		setUpSearch("Number Search");
 	}
 
@@ -613,33 +644,6 @@ public class MainActivity extends Activity
 		{
 			restoreAdvancedSearch();
 		}
-		
-		// Set up auto-complete functionality
-		if (cardNames == null)
-		{
-			Set<String> cardSnippets = new HashSet<String>();
-			String[] columns = new String[]
-			{ MySQLiteHelper.COLUMN_NAME};
-			Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
-			if (cursor.moveToFirst())
-			{
-				while (cursor.moveToNext())
-				{
-					cardSnippets.add(cursor.getString(0));
-				}
-				cardNames = cardSnippets.toArray(new String[cardSnippets.size()]);
-			}
-			else
-			{
-				Util.showDialog("An error occured while setting up advanced search.", context);
-				setContentView(R.layout.activity_main);
-				return;
-			}
-		}
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, cardNames);
-		final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.edit_name);
-		textView.setAdapter(adapter);
-				
 		setUpSearch("Advanced Search");
 	}
 
@@ -697,7 +701,7 @@ public class MainActivity extends Activity
 					{
 						restoreAdvancedSearch();
 					}
-					currentPage = "Advanced Search";
+					setUpSearch("Advanced Search");
 				}
 				else
 				{

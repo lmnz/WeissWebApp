@@ -39,7 +39,7 @@
 	<string name="triggers">Triggers:</string>
 	<string name="flavor">Flavor:</string>
 	<string name="text">Text:</string>
-	<string name="spaced_out_search">       Search       </string>
+	<string name="spaced_out_search">&#160;&#160;&#160;&#160;&#160;&#160;&#160;Search&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
 	
 	<string-array name="rarity_array">
 	    <item>Any Rarity</item>

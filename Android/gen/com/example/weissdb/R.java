@@ -60,7 +60,7 @@ public final class R {
         public static final int cost_comparison=0x7f0b0016;
         public static final int edit_cost=0x7f0b0018;
         public static final int edit_flavor=0x7f0b0025;
-        public static final int edit_level=0x7f0b0015;
+        public static final int edit_level=0x7f0b0014;
         public static final int edit_name=0x7f0b000c;
         public static final int edit_power=0x7f0b001b;
         public static final int edit_soul=0x7f0b001e;
@@ -73,7 +73,7 @@ public final class R {
         public static final int godLayout=0x7f0b0001;
         public static final int imageView1=0x7f0b0000;
         public static final int intro=0x7f0b002e;
-        public static final int level=0x7f0b0014;
+        public static final int level=0x7f0b0015;
         public static final int level_comparison=0x7f0b0013;
         public static final int linlayout1=0x7f0b0002;
         public static final int linlayout2=0x7f0b0005;

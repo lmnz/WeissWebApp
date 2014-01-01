@@ -11,12 +11,15 @@
 	     android:layout_height="wrap_content"
 	     android:gravity="top"
 	     android:orientation="horizontal"
-	     android:padding="10dp" >
+	     android:paddingTop="10dp"
+	     android:paddingLeft="10dp"
+	     android:paddingRight="10dp">
 	     
 			<TextView
 			    android:id="@+id/cardName"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/edit_name"
 			    android:layout_alignParentLeft="true"
 			    android:text="@string/name_field"
 			    android:textSize="@dimen/guessing" />
@@ -26,7 +29,6 @@
 			    android:singleLine="true"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/cardName"
 			    android:layout_alignParentRight="true"
 			    android:layout_toRightOf="@+id/cardName">
 	    	</AutoCompleteTextView>
@@ -45,11 +47,10 @@
 
 			<TextView
 			    android:id="@+id/rarity"
+			    android:layout_alignBottom="@+id/rarity_spinner"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/cardName"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/rarity"
 			    android:textSize="@dimen/guessing" />
 			
@@ -63,11 +64,10 @@
 
 			<TextView
 			    android:id="@+id/color"
+			    android:layout_alignBottom="@+id/color_spinner"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/rarity"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/color"
 			    android:textSize="@dimen/guessing" />
 			
@@ -81,16 +81,16 @@
 
 			<TextView
 			    android:id="@+id/side"
+			    android:layout_alignBottom="@+id/side_spinner"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/color"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/side"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
 			    android:id="@+id/level_comparison"
+			    android:layout_alignBottom="@+id/edit_level"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_toRightOf="@+id/level"
@@ -99,22 +99,20 @@
 			
 			<EditText
 			    android:id="@+id/edit_level"
+			    android:layout_below="@+id/side"
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/level"
-			    android:layout_below="@+id/side_spinner"
 			    android:layout_toRightOf="@+id/level_comparison"
 			    android:inputType="number" >
 	    	</EditText>
 
 			<TextView
 			    android:id="@+id/level"
+			    android:layout_alignBottom="@+id/edit_level"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/side"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/level"
 			    android:textSize="@dimen/guessing" />
 			
@@ -123,7 +121,7 @@
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_toRightOf="@+id/cost"
-			    android:layout_below="@+id/level_comparison"
+			    android:layout_alignBottom="@+id/edit_cost"
 			    android:entries="@array/comparisons_array" />
 			
 			<EditText
@@ -131,20 +129,17 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/cost"
 			    android:layout_below="@+id/edit_level"
 			    android:layout_toRightOf="@+id/cost_comparison"
 			    android:inputType="number" >
-
 	    	</EditText>
 
 			<TextView
 			    android:id="@+id/cost"
+			    android:layout_alignBottom="@+id/edit_cost"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/level"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/cost"
 			    android:textSize="@dimen/guessing" />
 			
@@ -153,7 +148,7 @@
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_toRightOf="@+id/power"
-			    android:layout_below="@+id/cost_comparison"
+			    android:layout_alignBottom="@+id/edit_power"
 			    android:entries="@array/comparisons_array" />
 			
 			<EditText
@@ -161,7 +156,6 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/power"
 			    android:layout_below="@+id/edit_cost"
 			    android:layout_toRightOf="@+id/power_comparison"
 			    android:inputType="number" >
@@ -170,11 +164,10 @@
 
 			<TextView
 			    android:id="@+id/power"
+			    android:layout_alignBottom="@+id/edit_power"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/cost"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/power"
 			    android:textSize="@dimen/guessing" />
 			
@@ -183,7 +176,7 @@
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_toRightOf="@+id/soul"
-			    android:layout_below="@+id/power_comparison"
+			    android:layout_alignBottom="@+id/edit_soul"
 			    android:entries="@array/comparisons_array" />
 			
 			<EditText
@@ -191,7 +184,6 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/soul"
 			    android:layout_below="@+id/edit_power"
 			    android:layout_toRightOf="@+id/soul_comparison"
 			    android:inputType="number" >
@@ -200,11 +192,10 @@
 
 			<TextView
 			    android:id="@+id/soul"
+			    android:layout_alignBottom="@+id/edit_soul"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/power"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/soul"
 			    android:textSize="@dimen/guessing" />
 			
@@ -213,18 +204,16 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/trait1"
-			    android:layout_below="@+id/soul_comparison"
+			    android:layout_below="@+id/edit_soul"
 			    android:layout_toRightOf="@+id/trait1">
 	    	</EditText>
 
 			<TextView
 			    android:id="@+id/trait1"
+			    android:layout_alignBottom="@+id/edit_trait1"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/soul"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/trait1"
 			    android:textSize="@dimen/guessing" />
 			
@@ -233,18 +222,16 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/trait2"
 			    android:layout_below="@+id/edit_trait1"
 			    android:layout_toRightOf="@+id/trait2">
 	    	</EditText>
 
 			<TextView
 			    android:id="@+id/trait2"
+			    android:layout_alignBottom="@+id/edit_trait2"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/trait1"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/trait2"
 			    android:textSize="@dimen/guessing" />
 			
@@ -260,9 +247,8 @@
 			    android:id="@+id/triggers"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
+			    android:layout_alignBottom="@+id/triggers_spinner"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/trait2"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/triggers"
 			    android:textSize="@dimen/guessing" />
 			
@@ -271,7 +257,6 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/flavor"
 			    android:layout_below="@+id/triggers_spinner"
 			    android:layout_toRightOf="@+id/flavor">
 
@@ -279,11 +264,10 @@
 
 			<TextView
 			    android:id="@+id/flavor"
+			    android:layout_alignBottom="@+id/edit_flavor"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/triggers"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/flavor"
 			    android:textSize="@dimen/guessing" />
 			
@@ -292,7 +276,6 @@
 			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
-			    android:layout_alignBottom="@+id/text"
 			    android:layout_below="@+id/edit_flavor"
 			    android:layout_toRightOf="@+id/text">
 
@@ -300,11 +283,10 @@
 
 			<TextView
 			    android:id="@+id/text"
+			    android:layout_alignBottom="@+id/edit_text"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignRight="@+id/cardName"
-			    android:layout_below="@+id/flavor"
-			    android:layout_marginTop="3dp"
 			    android:text="@string/text"
 			    android:textSize="@dimen/guessing" />
 
