@@ -10,7 +10,7 @@
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:completionThreshold="1"
-		android:hint="Card Number" />
+		android:hint="@string/card_number" />
 
     <requestFocus
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/cardID"
         android:onClick="findCard"
-        android:text="Get Card Info" />
+        android:text="@string/get_info" />
 
     <TextView
         android:id="@+id/cardSummary"

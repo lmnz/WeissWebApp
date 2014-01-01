@@ -2,6 +2,8 @@
 
 <b>ALEX</b>
 - Implemented auto-suggest for both Card No. search and the name field of Advanced Search
+- Made the Advanced Search text fields extend horizontally rather than vertically.
+- Used string resources wherever I could to get rid of warnings
 
 12/27/2013:
 

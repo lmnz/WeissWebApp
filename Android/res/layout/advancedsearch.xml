@@ -23,6 +23,7 @@
 
 			<AutoCompleteTextView
 			    android:id="@+id/edit_name"
+			    android:singleLine="true"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/cardName"
@@ -49,7 +50,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/cardName"
 			    android:layout_marginTop="3dp"
-			    android:text="Rarity:"
+			    android:text="@string/rarity"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -67,7 +68,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/rarity"
 			    android:layout_marginTop="3dp"
-			    android:text="Color:"
+			    android:text="@string/color"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -85,7 +86,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/color"
 			    android:layout_marginTop="3dp"
-			    android:text="Side:"
+			    android:text="@string/side"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -98,13 +99,13 @@
 			
 			<EditText
 			    android:id="@+id/edit_level"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/level"
 			    android:layout_below="@+id/side_spinner"
 			    android:layout_toRightOf="@+id/level_comparison"
 			    android:inputType="number" >
-
 	    	</EditText>
 
 			<TextView
@@ -114,7 +115,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/side"
 			    android:layout_marginTop="3dp"
-			    android:text="Level:"
+			    android:text="@string/level"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -127,6 +128,7 @@
 			
 			<EditText
 			    android:id="@+id/edit_cost"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/cost"
@@ -143,7 +145,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/level"
 			    android:layout_marginTop="3dp"
-			    android:text="Cost:"
+			    android:text="@string/cost"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -156,6 +158,7 @@
 			
 			<EditText
 			    android:id="@+id/edit_power"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/power"
@@ -172,7 +175,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/cost"
 			    android:layout_marginTop="3dp"
-			    android:text="Power:"
+			    android:text="@string/power"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -185,6 +188,7 @@
 			
 			<EditText
 			    android:id="@+id/edit_soul"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/soul"
@@ -201,17 +205,17 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/power"
 			    android:layout_marginTop="3dp"
-			    android:text="Soul:"
+			    android:text="@string/soul"
 			    android:textSize="@dimen/guessing" />
 			
 			<EditText
 			    android:id="@+id/edit_trait1"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/trait1"
 			    android:layout_below="@+id/soul_comparison"
 			    android:layout_toRightOf="@+id/trait1">
-
 	    	</EditText>
 
 			<TextView
@@ -221,17 +225,17 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/soul"
 			    android:layout_marginTop="3dp"
-			    android:text="Trait 1:"
+			    android:text="@string/trait1"
 			    android:textSize="@dimen/guessing" />
 			
 			<EditText
 			    android:id="@+id/edit_trait2"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/trait2"
 			    android:layout_below="@+id/edit_trait1"
 			    android:layout_toRightOf="@+id/trait2">
-
 	    	</EditText>
 
 			<TextView
@@ -241,7 +245,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/trait1"
 			    android:layout_marginTop="3dp"
-			    android:text="Trait 2:"
+			    android:text="@string/trait2"
 			    android:textSize="@dimen/guessing" />
 			
 			<Spinner
@@ -259,11 +263,12 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/trait2"
 			    android:layout_marginTop="3dp"
-			    android:text="Triggers:"
+			    android:text="@string/triggers"
 			    android:textSize="@dimen/guessing" />
 			
 			<EditText
 			    android:id="@+id/edit_flavor"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/flavor"
@@ -279,11 +284,12 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/triggers"
 			    android:layout_marginTop="3dp"
-			    android:text="Flavor:"
+			    android:text="@string/flavor"
 			    android:textSize="@dimen/guessing" />
 			
 			<EditText
 			    android:id="@+id/edit_text"
+			    android:singleLine="true"
 			    android:layout_width="match_parent"
 			    android:layout_height="wrap_content"
 			    android:layout_alignBottom="@+id/text"
@@ -299,7 +305,7 @@
 			    android:layout_alignRight="@+id/cardName"
 			    android:layout_below="@+id/flavor"
 			    android:layout_marginTop="3dp"
-			    android:text="Text:"
+			    android:text="@string/text"
 			    android:textSize="@dimen/guessing" />
 
 			<Button
@@ -309,7 +315,7 @@
 			    android:layout_below="@+id/edit_text"
 			    android:layout_centerHorizontal="true"
 			    android:onClick="advancedSearch"
-			    android:text="       Search       " />
+			    android:text="@string/spaced_out_search" />
 
 </RelativeLayout>
 </ScrollView>

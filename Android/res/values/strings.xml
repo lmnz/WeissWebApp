@@ -22,6 +22,25 @@
 	<string name="random_card">Random\nCard</string>
 	<string name="CLAPPAY">Claptrap goin\' HAM.</string>
 	
+	<!-- Number Search Material -->
+	<string name="get_info">Get Card Info</string>
+	<string name="card_number">Card Number</string>
+	
+	<!-- Advanced Search Material -->
+	<string name="rarity">Rarity:</string>
+	<string name="color">Color:</string>
+	<string name="side">Side:</string>
+	<string name="level">Level:</string>
+	<string name="cost">Cost:</string>
+	<string name="power">Power:</string>
+	<string name="soul">Soul:</string>
+	<string name="trait1">Trait 1:</string>
+	<string name="trait2">Trait 2:</string>
+	<string name="triggers">Triggers:</string>
+	<string name="flavor">Flavor:</string>
+	<string name="text">Text:</string>
+	<string name="spaced_out_search">       Search       </string>
+	
 	<string-array name="rarity_array">
 	    <item>Any Rarity</item>
         <item>C</item>

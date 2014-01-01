@@ -116,19 +116,38 @@ public final class R {
         public static final int action_settings=0x7f060001;
         public static final int advanced_search=0x7f06000a;
         public static final int app_name=0x7f060000;
+        public static final int card_number=0x7f06000e;
         public static final int card_number_search=0x7f060009;
         public static final int clear_forms=0x7f060005;
+        public static final int color=0x7f060010;
+        public static final int cost=0x7f060013;
         public static final int eraser=0x7f060007;
+        public static final int flavor=0x7f060019;
+        /**  Number Search Material 
+         */
+        public static final int get_info=0x7f06000d;
         public static final int hello_world=0x7f060002;
         public static final int intro=0x7f060003;
+        public static final int level=0x7f060012;
         public static final int name_field=0x7f060004;
+        public static final int power=0x7f060014;
         public static final int random_card=0x7f06000b;
+        /**  Advanced Search Material 
+         */
+        public static final int rarity=0x7f06000f;
         /**  Action Bar Material 
          */
         public static final int return_home=0x7f060006;
         /**  Main page material 
          */
         public static final int settings_title=0x7f060008;
+        public static final int side=0x7f060011;
+        public static final int soul=0x7f060015;
+        public static final int spaced_out_search=0x7f06001b;
+        public static final int text=0x7f06001a;
+        public static final int trait1=0x7f060016;
+        public static final int trait2=0x7f060017;
+        public static final int triggers=0x7f060018;
     }
     public static final class style {
         /** 
