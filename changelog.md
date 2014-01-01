@@ -2,9 +2,10 @@
 
 <b>ALEX</b>
 - Implemented auto-suggest for both Card No. search and the name field of Advanced Search
-- Made the Advanced Search text fields extend horizontally rather than vertically.
+- Implemented indexes upon database initialization 
+- Made the Advanced Search text fields extend purely horizontally rather than both
+- Made Advanced Search form data remembered when going back home as well
 - Used string resources wherever I could to get rid of warnings
-- Fixed the vertically scrolling EditText input
 
 12/27/2013:
 

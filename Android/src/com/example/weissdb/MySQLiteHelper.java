@@ -40,6 +40,21 @@ public class MySQLiteHelper extends SQLiteOpenHelper
 			+ " TEXT, " + COLUMN_TRIGGERS + " TEXT, " + COLUMN_FLAVOR
 			+ " TEXT, " + COLUMN_TEXT + " TEXT);";
 	
+	static final String[] indexes = {"CREATE INDEX name_index ON " + TABLE_NAME + " (" + COLUMN_NAME + ");",
+									 "CREATE INDEX number_index ON " + TABLE_NAME + " (" + COLUMN_CARDNO + ");",
+									 "CREATE INDEX rarity_index ON " + TABLE_NAME + " (" + COLUMN_RARITY + ");",	
+									 "CREATE INDEX color_index ON " + TABLE_NAME + " (" + COLUMN_COLOR + ");",
+									 "CREATE INDEX side_index ON " + TABLE_NAME + " (" + COLUMN_SIDE + ");",
+									 "CREATE INDEX level_index ON " + TABLE_NAME + " (" + COLUMN_LEVEL + ");",
+									 "CREATE INDEX cost_index ON " + TABLE_NAME + " (" + COLUMN_COST + ");",
+									 "CREATE INDEX power_index ON " + TABLE_NAME + " (" + COLUMN_POWER + ");",
+									 "CREATE INDEX soul_index ON " + TABLE_NAME + " (" + COLUMN_SOUL + ");",
+									 "CREATE INDEX trait1_index ON " + TABLE_NAME + " (" + COLUMN_TRAIT1 + ");",
+									 "CREATE INDEX trait2_index ON " + TABLE_NAME + " (" + COLUMN_TRAIT2 + ");",
+									 "CREATE INDEX triggers_index ON " + TABLE_NAME + " (" + COLUMN_TRIGGERS + ");",
+									 "CREATE INDEX flavor_index ON " + TABLE_NAME + " (" + COLUMN_FLAVOR + ");",
+									 "CREATE INDEX text_index ON " + TABLE_NAME + " (" + COLUMN_TEXT + ");"};
+	
 	static final String DATABASE_DROP = "DROP TABLE " + TABLE_NAME;
 	
 	public MySQLiteHelper(Context context)
@@ -51,6 +66,10 @@ public class MySQLiteHelper extends SQLiteOpenHelper
 	public void onCreate(SQLiteDatabase database)
 	{
 		database.execSQL(DATABASE_CREATE);
+		for (int i = 0; i < indexes.length; i++)
+		{
+			database.execSQL(indexes[i]);
+		}
 	}
 
 	@Override

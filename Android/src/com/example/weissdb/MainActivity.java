@@ -57,7 +57,7 @@ public class MainActivity extends Activity
 	CardAdapter adapter;
 	AdvancedQuery LastQuery;
 	String[] cardSnapshots = null;
-	String[] cardNames = null;
+	String[] cardNames = null; 
 
 	// confirm app close on back
 	@Override
@@ -126,10 +126,11 @@ public class MainActivity extends Activity
 	 */
 	public void restoreAdvancedSearch()
 	{
+		EditText edit_name = (EditText) findViewById(R.id.edit_name);
 		if (LastQuery != null)
 		{
 			String[] queryParams = LastQuery.getParams();
-			((EditText) findViewById(R.id.edit_name)).setText(queryParams[0]);
+			edit_name.setText(queryParams[0]);
 			((Spinner) findViewById(R.id.rarity_spinner)).setSelection(Util.rarityToIndex(queryParams[1]));
 			((Spinner) findViewById(R.id.color_spinner)).setSelection(Util.colorToIndex(queryParams[2]));
 			((Spinner) findViewById(R.id.side_spinner)).setSelection(Util.sideToIndex(queryParams[3]));
@@ -147,6 +148,8 @@ public class MainActivity extends Activity
 			((EditText) findViewById(R.id.edit_flavor)).setText(queryParams[15]);
 			((EditText) findViewById(R.id.edit_text)).setText(queryParams[16]);
 		}
+		// Put cursor at end of string
+		edit_name.setSelection(edit_name.getText().length());
 	}
 
 	public void setUpAdvancedSearch()
@@ -291,8 +294,7 @@ public class MainActivity extends Activity
 		}
 
 		// Run a SQL query on the number of rows in the user's card database
-		String[] columns =
-		{ "COUNT (*)" };
+		String[] columns = {"COUNT (*)"};
 		Cursor cursor = datasource.execQuery(columns, null, null, null, null, null);
 		cursor.moveToFirst();
 		int dbSize = cursor.getInt(0);
@@ -693,6 +695,13 @@ public class MainActivity extends Activity
 					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(),
 							InputMethodManager.HIDE_NOT_ALWAYS);
 					killKeyboard = false;
+				}
+				if (currentPage.equals("Advanced Search"))
+				{
+					setUpAdvancedSearch();
+					setContentView(R.layout.activity_main);
+					currentPage = "";
+					getActionBar().setDisplayHomeAsUpEnabled(false);
 				}
 				if (currentPage.equals("Advanced Search Results"))
 				{

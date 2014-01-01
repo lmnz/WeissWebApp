@@ -1,5 +1,4 @@
 <b>EASY:</b>
-- Implement SQLite indexing upon database initialization
 - Make the current images more fitting (Claptrap) and not ugly (home button)
 
 <b>MEDIUM:</b>
