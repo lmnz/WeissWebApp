@@ -120,6 +120,8 @@ public class Util
 		if (trigger.equals("Soul")){return 5;}
 		if (trigger.equals("Soul Bounce")){return 6;}
 		if (trigger.equals("Soul Shot")){return 7;}
+		if (trigger.equals("Stock")){return 8;}
+		if (trigger.equals("Treasure")){return 9;}
 		return 0;
 	}
 	
