@@ -11,7 +11,6 @@ public class SetPreferenceActivity extends Activity
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
-		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		getFragmentManager().beginTransaction().replace(android.R.id.content, new PrefsFragment()).commit();
 	}
@@ -32,23 +31,11 @@ public class SetPreferenceActivity extends Activity
 		{
 			default:
 				Intent intent = new Intent(this, MainActivity.class);
+				// Stop the settings activity
+				SetPreferenceActivity.this.finish();
 				startActivity(intent);
 				break;
 		}
 		return super.onOptionsItemSelected(item);
 	}
-	
-	/*
-	 * 	private void loadPref()
-	{
-		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
-
-		boolean my_checkbox_preference = mySharedPreferences.getBoolean("checkbox_preference", false);
-		prefCheckBox.setChecked(my_checkbox_preference);
-
-		String my_edittext_preference = mySharedPreferences.getString("edittext_preference", "");
-		prefEditText.setText(my_edittext_preference);
-
-	}
-	 */
 }

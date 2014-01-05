@@ -1,3 +1,8 @@
+1/4/2013
+
+<b>ALEX</b>
+- Fixed the stacking activities bug, which messed up the app exit functionality 
+
 12/31/2013:
 
 <b>ALEX</b>

@@ -76,7 +76,6 @@ public class MainActivity extends Activity
 								// Stop the activity
 								MainActivity.this.finish();
 							}
-
 						}).setNegativeButton("No", null).show();
 
 				return true;
@@ -653,6 +652,7 @@ public class MainActivity extends Activity
 	{
 		Intent intent = new Intent();
 		intent.setClass(MainActivity.this, SetPreferenceActivity.class);
+		MainActivity.this.finish();
 		startActivityForResult(intent, 0);
 	}
 
@@ -690,10 +690,8 @@ public class MainActivity extends Activity
 				// Hide keyboard
 				if (killKeyboard)
 				{
-					InputMethodManager inputManager = (InputMethodManager) context
-							.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(),
-							InputMethodManager.HIDE_NOT_ALWAYS);
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 					killKeyboard = false;
 				}
 				if (currentPage.equals("Advanced Search"))
@@ -753,10 +751,8 @@ public class MainActivity extends Activity
 				// Hide keyboard
 				if (killKeyboard)
 				{
-					InputMethodManager inputManager = (InputMethodManager) context
-							.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(),
-							InputMethodManager.HIDE_NOT_ALWAYS);
+					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 					killKeyboard = false;
 				}
 				setContentView(R.layout.activity_main);
