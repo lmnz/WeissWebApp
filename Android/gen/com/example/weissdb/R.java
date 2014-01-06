@@ -9,28 +9,29 @@ package com.example.weissdb;
 
 public final class R {
     public static final class array {
-        public static final int color_array=0x7f080001;
-        public static final int comparisons_array=0x7f080004;
-        public static final int rarity_array=0x7f080000;
-        public static final int sides_array=0x7f080002;
-        public static final int triggers_array=0x7f080003;
+        public static final int auto_complete_limit=0x7f050000;
+        public static final int color_array=0x7f050002;
+        public static final int comparisons_array=0x7f050005;
+        public static final int rarity_array=0x7f050001;
+        public static final int sides_array=0x7f050003;
+        public static final int triggers_array=0x7f050004;
     }
     public static final class attr {
     }
     public static final class color {
-        public static final int white=0x7f070000;
+        public static final int white=0x7f080000;
     }
     public static final class dimen {
-        public static final int abs__action_bar_subtitle_text_size=0x7f050003;
+        public static final int abs__action_bar_subtitle_text_size=0x7f060003;
         /**  Default screen margins, per the Android Design guidelines. 
 
          Customize dimensions originally defined in res/values/dimens.xml (such as
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f050000;
-        public static final int activity_vertical_margin=0x7f050001;
-        public static final int guessing=0x7f050002;
+        public static final int activity_horizontal_margin=0x7f060000;
+        public static final int activity_vertical_margin=0x7f060001;
+        public static final int guessing=0x7f060002;
     }
     public static final class drawable {
         public static final int claptrapgoingham=0x7f020000;
@@ -45,15 +46,15 @@ public final class R {
     }
     public static final class id {
         public static final int RelativeLayout1=0x7f0b000a;
-        public static final int ScrollView01=0x7f0b002a;
-        public static final int action_settings=0x7f0b0033;
+        public static final int ScrollView01=0x7f0b002b;
+        public static final int action_settings=0x7f0b0034;
         public static final int advancedSearch=0x7f0b0006;
         public static final int advancedSearchResults=0x7f0b0009;
         public static final int button1=0x7f0b0029;
-        public static final int cardID=0x7f0b002b;
+        public static final int cardID=0x7f0b002c;
         public static final int cardName=0x7f0b000b;
-        public static final int cardSummary=0x7f0b002d;
-        public static final int checkBox1=0x7f0b0032;
+        public static final int cardSummary=0x7f0b002e;
+        public static final int checkBox1=0x7f0b0033;
         public static final int color=0x7f0b0010;
         public static final int color_spinner=0x7f0b000f;
         public static final int cost=0x7f0b0017;
@@ -67,87 +68,89 @@ public final class R {
         public static final int edit_text=0x7f0b0027;
         public static final int edit_trait1=0x7f0b001f;
         public static final int edit_trait2=0x7f0b0021;
-        public static final int erase=0x7f0b0034;
-        public static final int findCard=0x7f0b002c;
+        public static final int erase=0x7f0b0035;
+        public static final int findCard=0x7f0b002d;
         public static final int flavor=0x7f0b0026;
         public static final int godLayout=0x7f0b0001;
         public static final int imageView1=0x7f0b0000;
-        public static final int intro=0x7f0b002e;
+        public static final int intro=0x7f0b002f;
         public static final int level=0x7f0b0015;
         public static final int level_comparison=0x7f0b0013;
         public static final int linlayout1=0x7f0b0002;
         public static final int linlayout2=0x7f0b0005;
         public static final int message=0x7f0b0008;
         public static final int numberSearch=0x7f0b0003;
-        public static final int pbId=0x7f0b002f;
+        public static final int pbId=0x7f0b0030;
         public static final int power=0x7f0b001a;
         public static final int power_comparison=0x7f0b0019;
         public static final int randomCard=0x7f0b0004;
         public static final int rarity=0x7f0b000e;
         public static final int rarity_spinner=0x7f0b000d;
-        public static final int return_home=0x7f0b0035;
-        public static final int setting_title=0x7f0b0031;
+        public static final int return_home=0x7f0b0036;
+        public static final int setting_title=0x7f0b0032;
         public static final int settings=0x7f0b0007;
         public static final int side=0x7f0b0012;
         public static final int side_spinner=0x7f0b0011;
         public static final int soul=0x7f0b001d;
         public static final int soul_comparison=0x7f0b001c;
+        public static final int suggestion=0x7f0b002a;
         public static final int text=0x7f0b0028;
         public static final int trait1=0x7f0b0020;
         public static final int trait2=0x7f0b0022;
         public static final int triggers=0x7f0b0024;
         public static final int triggers_spinner=0x7f0b0023;
-        public static final int tvId=0x7f0b0030;
+        public static final int tvId=0x7f0b0031;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int advanced_search_results=0x7f030001;
         public static final int advancedsearch=0x7f030002;
-        public static final int cardinfo=0x7f030003;
-        public static final int numbersearch=0x7f030004;
-        public static final int progress=0x7f030005;
-        public static final int settings=0x7f030006;
+        public static final int auto_complete_item=0x7f030003;
+        public static final int cardinfo=0x7f030004;
+        public static final int numbersearch=0x7f030005;
+        public static final int progress=0x7f030006;
+        public static final int settings=0x7f030007;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
     }
     public static final class string {
-        public static final int CLAPPAY=0x7f06000c;
-        public static final int action_settings=0x7f060001;
-        public static final int advanced_search=0x7f06000a;
-        public static final int app_name=0x7f060000;
-        public static final int card_number=0x7f06000e;
-        public static final int card_number_search=0x7f060009;
-        public static final int clear_forms=0x7f060005;
-        public static final int color=0x7f060010;
-        public static final int cost=0x7f060013;
-        public static final int eraser=0x7f060007;
-        public static final int flavor=0x7f060019;
+        public static final int CLAPPAY=0x7f07000c;
+        public static final int action_settings=0x7f070001;
+        public static final int advanced_search=0x7f07000a;
+        public static final int app_name=0x7f070000;
+        public static final int card_number=0x7f07000e;
+        public static final int card_number_search=0x7f070009;
+        public static final int clear_forms=0x7f070005;
+        public static final int color=0x7f070010;
+        public static final int cost=0x7f070013;
+        public static final int eraser=0x7f070007;
+        public static final int flavor=0x7f070019;
         /**  Number Search Material 
          */
-        public static final int get_info=0x7f06000d;
-        public static final int hello_world=0x7f060002;
-        public static final int intro=0x7f060003;
-        public static final int level=0x7f060012;
-        public static final int name_field=0x7f060004;
-        public static final int power=0x7f060014;
-        public static final int random_card=0x7f06000b;
+        public static final int get_info=0x7f07000d;
+        public static final int hello_world=0x7f070002;
+        public static final int intro=0x7f070003;
+        public static final int level=0x7f070012;
+        public static final int name_field=0x7f070004;
+        public static final int power=0x7f070014;
+        public static final int random_card=0x7f07000b;
         /**  Advanced Search Material 
          */
-        public static final int rarity=0x7f06000f;
+        public static final int rarity=0x7f07000f;
         /**  Action Bar Material 
          */
-        public static final int return_home=0x7f060006;
+        public static final int return_home=0x7f070006;
         /**  Main page material 
          */
-        public static final int settings_title=0x7f060008;
-        public static final int side=0x7f060011;
-        public static final int soul=0x7f060015;
-        public static final int spaced_out_search=0x7f06001b;
-        public static final int text=0x7f06001a;
-        public static final int trait1=0x7f060016;
-        public static final int trait2=0x7f060017;
-        public static final int triggers=0x7f060018;
+        public static final int settings_title=0x7f070008;
+        public static final int side=0x7f070011;
+        public static final int soul=0x7f070015;
+        public static final int spaced_out_search=0x7f07001b;
+        public static final int text=0x7f07001a;
+        public static final int trait1=0x7f070016;
+        public static final int trait2=0x7f070017;
+        public static final int triggers=0x7f070018;
     }
     public static final class style {
         /** 

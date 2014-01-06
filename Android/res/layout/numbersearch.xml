@@ -9,7 +9,7 @@
         android:id="@+id/cardID"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
-		android:completionThreshold="1"
+		android:completionThreshold="2"
 		android:hint="@string/card_number" />
 
     <requestFocus

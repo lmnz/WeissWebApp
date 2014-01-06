@@ -5,19 +5,21 @@
             android:title="Search Settings">
 
         <CheckBoxPreference
-                android:key="number_search_retain"
-                android:title="Number search retention"
-                android:summary="Remember card no. search form contents post-submit" />
+            android:key="number_search_retain"
+            android:title="Number search retention"
+            android:summary="Remember card no. search form contents post-submit" />
         
         <CheckBoxPreference
-                android:key="advanced_search_retain"
-                android:title="Advanced search retention"
-                android:summary="Remember advanced search form contents post-submit" />
+            android:key="advanced_search_retain"
+            android:title="Advanced search retention"
+            android:summary="Remember advanced search form contents post-submit" />
         
-        <CheckBoxPreference
-                android:key="advanced_search_mutable"
-                android:title="Advanced search mutable list"
-                android:summary="Remove cards from advanced search results after viewing summary " />
+        <ListPreference
+            android:key="auto_complete_limit"
+            android:title="Auto-complete suggestions cap"
+            android:summary="A lower number leads to better performance"
+            android:entries="@array/auto_complete_limit"
+            android:entryValues="@array/auto_complete_limit" />
 
     </PreferenceCategory>
 

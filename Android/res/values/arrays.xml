@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_complete_limit">
+        <item>I don\'t want auto-complete</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>No limit</item>
+    </string-array>  
+</resources>

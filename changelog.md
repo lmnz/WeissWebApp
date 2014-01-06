@@ -1,3 +1,10 @@
+1/5/2013
+
+<b>ALEX</b>
+- Changed the auto-complete list view to wrap row height to the height of the suggestion's content
+- Created functionality for users to cap the amount of suggestions auto-complete gives them
+- Made the auto-complete matching algorithm case insensitive
+
 1/4/2013
 
 <b>ALEX</b>
