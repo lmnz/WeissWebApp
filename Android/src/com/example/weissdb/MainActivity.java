@@ -20,6 +20,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.database.Cursor;
+import android.graphics.Rect;
 import android.text.Html;
 import android.text.Spanned;
 import android.view.KeyEvent;
@@ -50,13 +51,28 @@ public class MainActivity extends Activity
 	private int prg = 0;
 	private TextView tv;
 	private ProgressBar pb;
-	private boolean killKeyboard = false;
 	private String currentPage = "";
 	private int fileSize = 0;
 	CardAdapter adapter;
 	AdvancedQuery LastQuery;
 	ArrayList<String> cardSnapshots = null;
-	ArrayList<String> cardNames = null; 
+	ArrayList<String> cardNames = null;
+	
+	// Check to see if user has keyboard open. If so, close it
+	public boolean killKeyboard()
+	{
+		View view = this.getWindow().getDecorView().findViewById(android.R.id.content);
+		Rect r = new Rect();
+		view.getWindowVisibleDisplayFrame(r);
+
+		int heightDiff = view.getRootView().getHeight() - (r.bottom - r.top);
+		if (heightDiff > 100)
+		{
+			InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
+			inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+		}
+		return false;
+	}
 
 	// confirm app close on back button press
 	@Override
@@ -177,7 +193,6 @@ public class MainActivity extends Activity
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-		killKeyboard = true;
 		currentPage = type;
 		Set<String> cardSnippets = new HashSet<String>();
 		String limit = (getSetting("auto_complete_limit"));
@@ -444,10 +459,7 @@ public class MainActivity extends Activity
 	// Card Number Search
 	public void findCard(View view)
 	{
-		// Hide keyboard after submitting sign in
-		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-		killKeyboard = false;
+		killKeyboard();
 
 		EditText editID = (EditText) findViewById(R.id.cardID);
 		String cardID = editID.getText().toString();
@@ -483,10 +495,7 @@ public class MainActivity extends Activity
 
 	public void advancedSearch(View view)
 	{
-		// Hide keyboard
-		InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-		inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-		killKeyboard = false;
+		killKeyboard();
 
 		// Fill in LastQuery AdvancedSearch object with submitted information
 		setUpAdvancedSearch();
@@ -668,13 +677,7 @@ public class MainActivity extends Activity
 		{
 		// I use the home button as a derpy back button
 			case android.R.id.home:
-				// Hide keyboard
-				if (killKeyboard)
-				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-					killKeyboard = false;
-				}
+				killKeyboard();
 				if (currentPage.equals("Advanced Search"))
 				{
 					setUpAdvancedSearch();
@@ -729,13 +732,7 @@ public class MainActivity extends Activity
 				}
 				break;
 			case R.id.return_home:
-				// Hide keyboard
-				if (killKeyboard)
-				{
-					InputMethodManager inputManager = (InputMethodManager) context.getSystemService(Context.INPUT_METHOD_SERVICE);
-					inputManager.hideSoftInputFromWindow(this.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
-					killKeyboard = false;
-				}
+				killKeyboard();
 				setContentView(R.layout.activity_main);
 				getActionBar().setDisplayHomeAsUpEnabled(false);
 				currentPage = "";
