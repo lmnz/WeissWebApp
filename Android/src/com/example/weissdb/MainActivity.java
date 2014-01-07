@@ -103,7 +103,7 @@ public class MainActivity extends Activity
 		SharedPreferences mySharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		if (value.equals("auto_complete_limit"))
 		{
-			return mySharedPreferences.getString(value, "No limit");
+			return mySharedPreferences.getString(value, "10");
 		}
 		else
 		{
@@ -367,10 +367,10 @@ public class MainActivity extends Activity
 						{
 							WeissCard tempCard = new WeissCard();
 							String[] RowData = reader.split("~~\\|\\}");
-
+							// One of the rows in the .csv contains a malformed card
 							if (RowData.length != 14)
 							{
-								// System.out.println(RowData[1]);
+								// Should complain or something here
 							}
 							else
 							{
