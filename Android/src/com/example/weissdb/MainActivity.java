@@ -189,6 +189,7 @@ public class MainActivity extends Activity
 				powerComparator, power, soulComparator, soul, trait1, trait2, triggers, flavor, text);
 	}
 
+	@SuppressWarnings("unchecked")
 	public void setUpSearch(String type)
 	{
 		getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -223,7 +224,7 @@ public class MainActivity extends Activity
 					}
 				}
 				AutoCompleteAdapter adapter = new AutoCompleteAdapter(this, android.R.layout.simple_dropdown_item_1line,
-																		  cardNames, limit);
+																		  (ArrayList<String>) cardNames.clone(), limit);
 				final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.edit_name);
 				textView.setAdapter(adapter);
 			}
@@ -250,7 +251,7 @@ public class MainActivity extends Activity
 					}
 				}
 				AutoCompleteAdapter adapter = new AutoCompleteAdapter(this, android.R.layout.simple_dropdown_item_1line,
-						cardSnapshots, limit);
+						(ArrayList<String>) cardSnapshots.clone(), limit);
 				final AutoCompleteTextView textView = (AutoCompleteTextView) findViewById(R.id.cardID);
 				textView.setAdapter(adapter);
 

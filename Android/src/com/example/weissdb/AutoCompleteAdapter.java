@@ -14,7 +14,6 @@ public class AutoCompleteAdapter extends ArrayAdapter<String>
 {
 	private ArrayList<String> items;
 	private ArrayList<String> itemsAll;
-    private ArrayList<String> suggestions;
     private String limit;
     private Context context;
 
@@ -25,7 +24,6 @@ public class AutoCompleteAdapter extends ArrayAdapter<String>
     	this.context = context;
         this.items = items;
         this.itemsAll = (ArrayList<String>) items.clone();
-        this.suggestions = new ArrayList<String>();
         this.limit = limit;
     }
     
@@ -80,7 +78,7 @@ public class AutoCompleteAdapter extends ArrayAdapter<String>
         {
             if (constraint != null)
             {
-            	suggestions.clear();
+            	ArrayList<String> suggestions = new ArrayList<String>();
             	if (limit.equals("No limit"))
             	{
 	                for (String card : itemsAll)
