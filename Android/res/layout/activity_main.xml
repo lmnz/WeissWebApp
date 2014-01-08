@@ -15,7 +15,7 @@
         android:contentDescription="@string/CLAPPAY"
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
-        android:src="@drawable/claptrapgoingham" />
+        android:src="@drawable/weisslogo"/>
     
     <LinearLayout
         android:id="@+id/godLayout"
